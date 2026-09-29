@@ -1,0 +1,468 @@
+{
+  "orgao": "Tribunal de Contas do Estado do Piauí - TCE-PI",
+  "unidades_gestoras": [
+    {
+      "nome": "TCE - TRIBUNAL DE CONTAS DO ESTADO DO PIAUI",
+      "ug": "020101",
+      "sigla": "TCE"
+    },
+    {
+      "nome": "FUNDO DE MODERNIZAÇÃO DO TCE",
+      "ug": "020102",
+      "sigla": "FMTC"
+    }
+  ],
+  "total_procedimentos_mapeados": 4,
+  "procedimentos": [
+    {
+      "id_licitacao_web": 1174684,
+      "controle_tce": "LW-009970/26",
+      "orgao_nome": "TCE - TRIBUNAL DE CONTAS DO ESTADO DO PIAUI",
+      "id_unidade_gestora": "020101",
+      "esfera": "Estadual",
+      "numero_procedimento": "Pregão Nº 90015/2026",
+      "numero_processo_adm": "101775/2026",
+      "modalidade": null,
+      "objeto": "Registro de Preços para aquisição de aparelhos de ar-condicionado novos, de primeiro uso, incluindo instalação completa, fornecimento de todos os materiais acessórios necessários, testes de funcionamento, entrega técnica, garantia e assistência técnica autorizada, conforme condições, quantidades, exigências e especificações estabelecidas neste Edital.",
+      "valor_previsto": 0.0,
+      "tipo_objeto": "Aquisição de Bens (Material Permanente) Natureza: COMUM",
+      "regime_execucao": null,
+      "criterio_julgamento": "Menor preço",
+      "forma_realizacao": "Eletrônica",
+      "modo_disputa": "Aberto",
+      "regime_juridico": "Lei nº 14.133/21",
+      "registro_preco": false,
+      "status_licitacao": "DIVULGADA",
+      "data_divulgacao": null,
+      "data_abertura": "02/10/2026 09:00",
+      "periodo_propostas_inicio": null,
+      "periodo_propostas_fim": null,
+      "data_homologacao": null,
+      "link_mural": "https://sistemas.tce.pi.gov.br/muralic/detalhelicitacao.xhtml?id=1174684",
+      "artefatos": [],
+      "responsaveis": [],
+      "contratos": []
+    },
+    {
+      "id_licitacao_web": 1174309,
+      "controle_tce": "LW-009595/26",
+      "orgao_nome": "TCE - TRIBUNAL DE CONTAS DO ESTADO DO PIAUI",
+      "id_unidade_gestora": "020101",
+      "esfera": "Estadual",
+      "numero_procedimento": "Pregão Nº 90014/2026",
+      "numero_processo_adm": "102946/2026",
+      "modalidade": null,
+      "objeto": "Contratação de empresa para o fornecimento, transporte, montagem, instalação de mobiliários e equipamentos e testes de funcionamento quando aplicável, destinados à estruturação e operacionalização de uma Cozinha semi-industrial, do Restaurante Institucional e do Estúdio de Comunicação Institucional do Anexo III do Tribunal de Contas do Estado do Piauí, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+      "valor_previsto": 0.0,
+      "tipo_objeto": "Aquisição de Bens (Material Permanente) Natureza: COMUM",
+      "regime_execucao": null,
+      "criterio_julgamento": "Menor preço",
+      "forma_realizacao": "Eletrônica",
+      "modo_disputa": "Aberto",
+      "regime_juridico": "Lei nº 14.133/21",
+      "registro_preco": false,
+      "status_licitacao": "NÃO FINALIZADA",
+      "data_divulgacao": null,
+      "data_abertura": "18/09/2026 09:00",
+      "periodo_propostas_inicio": null,
+      "periodo_propostas_fim": null,
+      "data_homologacao": null,
+      "link_mural": "https://sistemas.tce.pi.gov.br/muralic/detalhelicitacao.xhtml?id=1174309",
+      "artefatos": [
+        {
+          "id_licitacao_web": 1174309,
+          "numero_ordem": 1,
+          "tipo": "Outro anexo",
+          "descricao": "Anexo 05 do Edital nº 90014/2026 - TCE/PI _ MEMORIAIS DESCRITIVOS da COZINHA, RESTAURANTE e ESTÚDIO",
+          "nome_arquivo": "Anexo 05 do Edital n. 90014-2026 - MEMORIAIS DESCRITIVOS da COZINHA, RESTAURANTE e ESTÚDIO.pdf",
+          "data_cadastro": "03/09/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:0:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1174309,
+          "numero_ordem": 2,
+          "tipo": "Edital",
+          "descricao": "Edital PE nº 90014/2026 - TCE-PI - Compras.GoV nº 68/2026",
+          "nome_arquivo": "Edital PE n. 90014-2026 - TCE-PI - Compras.GoV n. 68-2026.pdf",
+          "data_cadastro": "03/09/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:1:botaoBaixarArquivo"
+        }
+      ],
+      "responsaveis": [],
+      "contratos": []
+    },
+    {
+      "id_licitacao_web": 1163704,
+      "controle_tce": "LW-008966/26",
+      "orgao_nome": "TCE - TRIBUNAL DE CONTAS DO ESTADO DO PIAUI",
+      "id_unidade_gestora": "020101",
+      "esfera": "Estadual",
+      "numero_procedimento": "Pregão Nº 90011/2026",
+      "numero_processo_adm": "102304/2026",
+      "modalidade": null,
+      "objeto": "Registro de Preços para futura e eventual aquisição de materiais de consumo e equipamentos odontológicos e fisioterapêuticos.",
+      "valor_previsto": 0.0,
+      "tipo_objeto": "Aquisição de Bens (Material de Consumo) Natureza: COMUM",
+      "regime_execucao": null,
+      "criterio_julgamento": "Menor preço",
+      "forma_realizacao": "Eletrônica",
+      "modo_disputa": "Aberto",
+      "regime_juridico": "Lei nº 14.133/21",
+      "registro_preco": false,
+      "status_licitacao": "NÃO FINALIZADA",
+      "data_divulgacao": null,
+      "data_abertura": "31/08/2026 09:00",
+      "periodo_propostas_inicio": null,
+      "periodo_propostas_fim": null,
+      "data_homologacao": null,
+      "link_mural": "https://sistemas.tce.pi.gov.br/muralic/detalhelicitacao.xhtml?id=1163704",
+      "artefatos": [],
+      "responsaveis": [],
+      "contratos": []
+    },
+    {
+      "id_licitacao_web": 1163092,
+      "controle_tce": "LW-008354/26",
+      "orgao_nome": "TCE - TRIBUNAL DE CONTAS DO ESTADO DO PIAUI",
+      "id_unidade_gestora": "020101",
+      "esfera": "Estadual",
+      "numero_procedimento": "Pregão Nº 90013/2026",
+      "numero_processo_adm": "102946/2026",
+      "modalidade": null,
+      "objeto": "Contratação de empresa para o fornecimento, transporte, montagem, instalação de mobiliários e equipamentos e testes de funcionamento quando aplicável, destinados à estruturação e operacionalização de uma Cozinha semi-industrial, do Restaurante Institucional e do Estúdio de Comunicação Institucional do Anexo III do Tribunal de Contas do Estado do Piauí, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência e seus anexos.",
+      "valor_previsto": 0.0,
+      "tipo_objeto": "Aquisição de Bens (Material Permanente) Natureza: COMUM",
+      "regime_execucao": null,
+      "criterio_julgamento": "Menor preço",
+      "forma_realizacao": "Eletrônica",
+      "modo_disputa": "Aberto",
+      "regime_juridico": "Lei nº 14.133/21",
+      "registro_preco": false,
+      "status_licitacao": "CANCELADA",
+      "data_divulgacao": null,
+      "data_abertura": "31/08/2026 09:00",
+      "periodo_propostas_inicio": null,
+      "periodo_propostas_fim": null,
+      "data_homologacao": null,
+      "link_mural": "https://sistemas.tce.pi.gov.br/muralic/detalhelicitacao.xhtml?id=1163092",
+      "artefatos": [
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 1,
+          "tipo": "Outro anexo",
+          "descricao": "Comprovantes de aviso de republicação do Pregão",
+          "nome_arquivo": "Comprovantes de aviso.pdf",
+          "data_cadastro": "18/08/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:0:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 2,
+          "tipo": "Edital",
+          "descricao": "PE Nº 90013/2026- Republicação",
+          "nome_arquivo": "SEI_0394778_Edital_PE_N__90013_2026 - Republicação.pdf",
+          "data_cadastro": "18/08/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:1:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 3,
+          "tipo": "Outro anexo",
+          "descricao": "PEDIDO E RESPOSTA DE IMPUGNAÇÃO - EMPRESA: REVITEC",
+          "nome_arquivo": "JUNTADA PEDIDO E RESPOSTA DE IMPUGNAÇÃO - REVITEC - LICITAÇÕES WEB.pdf",
+          "data_cadastro": "07/08/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:2:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 4,
+          "tipo": "Outro anexo",
+          "descricao": "Comprovantes de publicações dos Avisos da Licitação nº 90013/2026",
+          "nome_arquivo": "Comprovantes de divulgação da licitação n. 90013-2026.pdf",
+          "data_cadastro": "28/07/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:3:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 5,
+          "tipo": "Outro anexo",
+          "descricao": "ANEXO 05 DO EDITAL 90013/2026 - MEMORIAIS DESCRITIVOS COZINHA - RESTAURANTE - ESTUDIO",
+          "nome_arquivo": "ANEXO 05 DO EDITAL - MEMORIAIS DESCRITIVOS COZINHA - RESTAURANTE - ESTUDIO.pdf",
+          "data_cadastro": "28/07/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:4:botaoBaixarArquivo"
+        },
+        {
+          "id_licitacao_web": 1163092,
+          "numero_ordem": 6,
+          "tipo": "Edital",
+          "descricao": "PE Nº 90013/2026 - TCE/PI",
+          "nome_arquivo": "SEI_0389822_Edital_PE_N__90013_2026.pdf",
+          "data_cadastro": "28/07/2026",
+          "tamanho_bytes": null,
+          "caminho_local": null,
+          "botao_download_id": "j_idt162:j_idt304:arquivosLicitacao:5:botaoBaixarArquivo"
+        }
+      ],
+      "responsaveis": [],
+      "contratos": []
+    }
+  ],
+  "dados_financeiros_fornecedores": {
+    "020101": {
+      "sigla": "TCE",
+      "credores": [
+        {
+          "documento": "44854551000198",
+          "tipo": "Pessoa Jurídica",
+          "nome": "A ECONOMICA COMERCIO LTDA",
+          "empenhado": 1185,
+          "liquidado": 1185,
+          "pago": 1185
+        },
+        {
+          "documento": "26650484000108",
+          "tipo": "Pessoa Jurídica",
+          "nome": "A M SOLUCOES TECNOLOGICAS LTDA",
+          "empenhado": 799,
+          "liquidado": 799,
+          "pago": 799
+        },
+        {
+          "documento": "*496215*",
+          "tipo": "Pessoa Física",
+          "nome": "ABELARDO PIO VILANOVA E SILVA",
+          "empenhado": 13060.43,
+          "liquidado": 13060.43,
+          "pago": 13060.43
+        },
+        {
+          "documento": "04724924000191",
+          "tipo": "Pessoa Jurídica",
+          "nome": "ACTIVEWB TECNOLOGIES INFORMÁTICA LTDA",
+          "empenhado": 3726,
+          "liquidado": 3726,
+          "pago": 3726
+        },
+        {
+          "documento": "*229653*",
+          "tipo": "Pessoa Física",
+          "nome": "ADELINO BARBOSA RIBEIRO",
+          "empenhado": 12047.65,
+          "liquidado": 12047.65,
+          "pago": 12047.65
+        },
+        {
+          "documento": "*334133*",
+          "tipo": "Pessoa Física",
+          "nome": "ADILIO TORRES NASCIMENTO",
+          "empenhado": 1158.43,
+          "liquidado": 1158.43,
+          "pago": 1158.43
+        },
+        {
+          "documento": "*404063*",
+          "tipo": "Pessoa Física",
+          "nome": "ADONIAS DE MOURA JUNIOR",
+          "empenhado": 48190.6,
+          "liquidado": 48190.6,
+          "pago": 48190.6
+        },
+        {
+          "documento": "*923163*",
+          "tipo": "Pessoa Física",
+          "nome": "ADRIANA RODRIGUES GOMES",
+          "empenhado": 7413.94,
+          "liquidado": 7413.94,
+          "pago": 7413.94
+        },
+        {
+          "documento": "07079129000186",
+          "tipo": "Pessoa Jurídica",
+          "nome": "AEROVIP VIAGENS E TURISMO LTDA",
+          "empenhado": 300000,
+          "liquidado": 61664.29,
+          "pago": 61664.29
+        },
+        {
+          "documento": "27157474000106",
+          "tipo": "Pessoa Jurídica",
+          "nome": "ÁGUAS DE TERESINA SANEAMENTO S.P.E. S/A",
+          "empenhado": 50000,
+          "liquidado": 32762.52,
+          "pago": 32762.52
+        }
+      ],
+      "despesas_por_elemento": [
+        {
+          "elemento": "Diárias - Civil",
+          "paga": 1600800.15
+        },
+        {
+          "elemento": "Outros Serviços de Terceiros – Pessoa Jurídica",
+          "paga": 1860382.02
+        },
+        {
+          "elemento": "Locoção de Mão-de-Obra",
+          "paga": 2568004.47
+        },
+        {
+          "elemento": "Outros Beneficios Assistenciais do Servidor e do Militar",
+          "paga": 8741368.01
+        },
+        {
+          "elemento": "Auxílio-Alimentação",
+          "paga": 10247340.41
+        },
+        {
+          "elemento": "Indenizações e Restituições",
+          "paga": 10883796.53
+        },
+        {
+          "elemento": "Despesas de Exercícios Anteriores",
+          "paga": 11187105.94
+        },
+        {
+          "elemento": "Obrigações Patronais",
+          "paga": 26050017.52
+        },
+        {
+          "elemento": "Vencimentos e Vantagens Fixas - Pessoal Civil",
+          "paga": 103347382.54
+        }
+      ]
+    },
+    "020102": {
+      "sigla": "FMTC",
+      "credores": [
+        {
+          "documento": "*496215*",
+          "tipo": "Pessoa Física",
+          "nome": "ABELARDO PIO VILANOVA E SILVA",
+          "empenhado": 46417.8,
+          "liquidado": 46417.8,
+          "pago": 46417.8
+        },
+        {
+          "documento": "27790405000127",
+          "tipo": "Pessoa Jurídica",
+          "nome": "ADEQUA MOVEIS LTDA",
+          "empenhado": 48670,
+          "liquidado": 48670,
+          "pago": 48670
+        },
+        {
+          "documento": "18675494000170",
+          "tipo": "Pessoa Jurídica",
+          "nome": "ALIANÇA BRASIL COMUNICAÇÃO",
+          "empenhado": 5200,
+          "liquidado": 5200,
+          "pago": 5200
+        },
+        {
+          "documento": "*889313*",
+          "tipo": "Pessoa Física",
+          "nome": "Alisson de Moura Macedo",
+          "empenhado": 9231.9,
+          "liquidado": 9231.9,
+          "pago": 9231.9
+        },
+        {
+          "documento": "*885184*",
+          "tipo": "Pessoa Física",
+          "nome": "ALISSON FELIPE DE ARAUJO",
+          "empenhado": 10159.65,
+          "liquidado": 10159.65,
+          "pago": 10159.65
+        },
+        {
+          "documento": "*174804*",
+          "tipo": "Pessoa Física",
+          "nome": "ALLAN FELIPE DA SILVA LIMA",
+          "empenhado": 2548.54,
+          "liquidado": 2548.54,
+          "pago": 2548.54
+        },
+        {
+          "documento": "06290671000110",
+          "tipo": "Pessoa Jurídica",
+          "nome": "AMBIENTE LIVRE ASSESSORIA EM SISTEMAS DE INFORMATICA LTDA",
+          "empenhado": 16392,
+          "liquidado": 16392,
+          "pago": 16392
+        },
+        {
+          "documento": "EX9020101",
+          "tipo": "Especial",
+          "nome": "AMBRA UNIVERSITY CONFERENCE 2024",
+          "empenhado": 7551.04,
+          "liquidado": 7551.04,
+          "pago": 7551.04
+        },
+        {
+          "documento": "*781633*",
+          "tipo": "Pessoa Física",
+          "nome": "ANA MARCIA LEAL DA COSTA SOUSA",
+          "empenhado": 5097.13,
+          "liquidado": 5097.13,
+          "pago": 5097.13
+        },
+        {
+          "documento": "*200083*",
+          "tipo": "Pessoa Física",
+          "nome": "ANDREA DE OLIVEIRA PAIVA",
+          "empenhado": 6677.39,
+          "liquidado": 6677.39,
+          "pago": 6677.39
+        }
+      ],
+      "despesas_por_elemento": [
+        {
+          "elemento": "Outros Serviços de Terceiros – Pessoa Física",
+          "paga": 0
+        },
+        {
+          "elemento": "Diárias - Militar",
+          "paga": 5560.46
+        },
+        {
+          "elemento": "Material de Consumo",
+          "paga": 36901.9
+        },
+        {
+          "elemento": "Obras e Instalações",
+          "paga": 70306.73
+        },
+        {
+          "elemento": "Indenizações e Restituições",
+          "paga": 154786.33
+        },
+        {
+          "elemento": "Equipamentos e Material Permanente",
+          "paga": 244557.56
+        },
+        {
+          "elemento": "Outros Serviços de Terceiros – Pessoa Jurídica",
+          "paga": 556421.96
+        },
+        {
+          "elemento": "Diárias - Civil",
+          "paga": 591519.51
+        }
+      ]
+    }
+  }
+}

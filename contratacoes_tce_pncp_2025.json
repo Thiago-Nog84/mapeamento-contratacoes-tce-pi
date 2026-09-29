@@ -1,0 +1,3334 @@
+[
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90001",
+    "ano": 2025,
+    "sequencial_pncp": 19,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para aquisição de materiais elétricos, hidráulicos e de construção, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital.",
+    "valor_estimado": 466050.98,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900012025001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/19/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\19\\2_92546605900012025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90002",
+    "ano": 2025,
+    "sequencial_pncp": 25,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para aquisição de mobiliário, de acordo com as especificações, quantidades e exigências estabelecidas no Edital.",
+    "valor_estimado": 42158.83,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900022025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/25/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\25\\1_92546605900022025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90003",
+    "ano": 2025,
+    "sequencial_pncp": 31,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de materiais diversos, incluindo materiais de expediente, de limpeza, entre outros, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900032025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/31/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\31\\1_92546605900032025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90004",
+    "ano": 2025,
+    "sequencial_pncp": 32,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para contratação de serviços de confecção de materiais gráficos com intuito de manter o setor de Comunicação Social do TCE-PI abastecido, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital.",
+    "valor_estimado": 392656.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900042025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/32/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\32\\1_92546605900042025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90005",
+    "ano": 2025,
+    "sequencial_pncp": 38,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para aquisição equipamentos de proteção individual, instrumentos odontológicos e insumos para fisioterapia, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 21026.04,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900052025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/38/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\38\\1_92546605900052025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90006",
+    "ano": 2025,
+    "sequencial_pncp": 40,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para contratação do serviço de cobertura fotográfica, produção de after movies, vídeos para stories em redes sociais, vídeos institucionais com foco nos eventos institucionais do Tribunal de Contas do Estado do Piauí, com acréscimo do serviço de acessibilidade (intérprete de Língua Brasileira de Sinais (LIBRAS) e audiodescrição) nos itens relacionados a vídeos de acordo com as especificações técnicas, quantidades e condições estabelecidas no Edital.",
+    "valor_estimado": 97032.9,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900062025001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/40/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\40\\2_92546605900062025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90007",
+    "ano": 2025,
+    "sequencial_pncp": 45,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada em fornecimento contínuo de água mineral natural, potável e não gasosa, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 135897.68,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900072025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/45/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\45\\1_92546605900072025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90008",
+    "ano": 2025,
+    "sequencial_pncp": 51,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de materiais diversos, incluindo materiais de expediente, de limpeza, entre outros, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas no Edital e seus anexos.     ",
+    "valor_estimado": 411009.25,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900082025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/51/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\51\\1_92546605900082025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90009",
+    "ano": 2025,
+    "sequencial_pncp": 78,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de subscrição de softwares de backup Veeam, conforme detalhamento, especificações, quantitativos estimados e exigências previstas neste instrumento e seus anexos.",
+    "valor_estimado": 835835.02,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900092025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/78/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\78\\1_92546605900092025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90010",
+    "ano": 2025,
+    "sequencial_pncp": 81,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação do serviço de seguro para bens patrimoniais, para frota de veículos do TCE/PI, com as devidas coberturas, conforme condições e exigências estabelecidas no Edital.     ",
+    "valor_estimado": 41735.01,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900102025001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/81/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\81\\2_92546605900102025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90011",
+    "ano": 2025,
+    "sequencial_pncp": 85,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de fornecimento e prestação de serviço de instalação de divisórias de ambiente, em vidro temperado, conforme condições e exigências estabelecidas neste instrumento.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900112025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/85/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\85\\1_92546605900112025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90012",
+    "ano": 2025,
+    "sequencial_pncp": 92,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para contratação de empresa especializada na locação de grupos geradores, por diária, conforme condições e exigências estabelecidas neste instrumento e seus anexos.  ",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900122025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/92/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\92\\1_92546605900122025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90013",
+    "ano": 2025,
+    "sequencial_pncp": 114,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de materiais e equipamentos destinados à estruturação, manutenção e expansão da rede lógica e da infraestrutura de conectividade do Tribunal de Contas do Estado do Piauí (TCE-PI), conforme especificações, quantidades e condições estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 115551.48,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900132025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/114/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\114\\1_92546605900132025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90014",
+    "ano": 2025,
+    "sequencial_pncp": 121,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de kits de teclado e mouse sem fio para uso nos computadores dos servidores do Tribunal de Contas do Estado do Piauí (TCE/PI). Estes periféricos são essenciais para assegurar a eficiência e a produtividade no ambiente de trabalho, conforme as condições e exigências estabelecidas no Edital.",
+    "valor_estimado": 94130.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900142025000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/121/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Pregão Eletrônico\\121\\1_92546605900142025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3",
+    "ano": 2025,
+    "sequencial_pncp": 2,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de atração cultural do Estado do Piauí para apresentação no dia 13/01/2025, a fim de recepcionar os participantes do evento \"Seminários para Novos Gestores 2025/2028\", conforme dispensa de licitação nº 01/2025/TCE-PI.",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0236623 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/2/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\2\\1_SEI_TCE-PI - 0236623 - Estudo Tecnico Preliminar - ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0237183 - Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/2/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\2\\2_SEI_TCE-PI - 0237183 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0236643 - Termo de Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/2/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\2\\3_SEI_TCE-PI - 0236643 - Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "107",
+    "ano": 2025,
+    "sequencial_pncp": 135,
+    "numero_controle_pncp": null,
+    "objeto": "Dispensa de licitação para contratação de empresa especializada em serviços contínuos de gestão de resíduos Sólidos Hospitalares, incluindo transporte, transbordo, tratamento e destinação final, a fim de atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 2592.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "8",
+    "ano": 2025,
+    "sequencial_pncp": 5,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de maquina cafeteira automática a fim de atender às necessidades desta Corte de Contas, conforme Dispensa de Licitação nº 41/2024/TCE-PI.",
+    "valor_estimado": 5890.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0241799 - Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/5/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\5\\1_SEI_TCE-PI - 0241799 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0226866 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/5/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\5\\2_SEI_TCE-PI - 0226866 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0240845 - Tabela de Preco Medio.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/5/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\5\\3_SEI_TCE-PI - 0240845 - Tabela de Preco Medio.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "6",
+    "ano": 2025,
+    "sequencial_pncp": 6,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de desmobilização, reposição de placas de forro, fornecimento e instalação de 17 (dezessete) luminárias de embutir completas com LED e driver, equipadas com LEDS SMD de alto desempenho, visando realizar a troca do sistema de iluminação do Plenário do TCE-PI",
+    "valor_estimado": 27600.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_38_2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/6/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\6\\1_Aviso_de_dispensa_38_2024.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0218132_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/6/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\6\\2_SEI_0218132_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0242968_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/6/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\6\\3_SEI_0242968_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "9",
+    "ano": 2025,
+    "sequencial_pncp": 7,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de pessoa jurídica fornecedora de insumo destinado à dissolução de ligantes, que será utilizado na realização de ensaios em amostras de asfalto, visando atender às necessidades do TCE/PI, conforme Dispensa de Licitação nº 02/2025.",
+    "valor_estimado": 8450.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "Estudo_Tecnico_Preliminar___Tricloro1.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/7/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\7\\1_Estudo_Tecnico_Preliminar___Tricloro1.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0214301 - DFD.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/7/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\7\\2_SEI_TCE-PI - 0214301 - DFD.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0244240 - Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/7/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\7\\3_SEI_TCE-PI - 0244240 - Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "14",
+    "ano": 2025,
+    "sequencial_pncp": 12,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de Smartphones, para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 22760.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0251432 - Despacho da Presidencia-Autorizacao-Aquisicao de smartphone-A. B. DE ARAUJO.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/12/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\12\\1_SEI_TCE-PI - 0251432 - Despacho da Presidencia-Autorizacao-Aquisicao de smartphone-A. B. DE ARAUJO.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0253101 - Termo de Referencia-AJUSTADO.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/12/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\12\\2_SEI_TCE-PI - 0253101 - Termo de Referencia-AJUSTADO.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "AVISO DE DISPENSA-CONT. N 13-25-SMARTPHONE.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/12/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\12\\3_AVISO DE DISPENSA-CONT. N 13-25-SMARTPHONE.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0258741 - Nota de Empenho-Contrato n 13-25-SMARTPHONE.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/12/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\12\\4_SEI_TCE-PI - 0258741 - Nota de Empenho-Contrato n 13-25-SMARTPHONE.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0259611 - Contrato n 13-25-SMARTPHONE.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/12/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\12\\5_SEI_TCE-PI - 0259611 - Contrato n 13-25-SMARTPHONE.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "16",
+    "ano": 2025,
+    "sequencial_pncp": 13,
+    "numero_controle_pncp": null,
+    "objeto": "Prestação de serviços estratégicos de solução de tecnologia da informação (TI) pela DATAPREV à CONTRATANTE, que compreende a distribuição de informações de cadastro com tecnologia Blockchain e inclui o fornecimento de acesso e infraestrutura tecnológica de alto desempenho, capacidade e disponibilidade voltada para o compartilhamento e atualização de dados da base cadastral, em meio seguro, utilizando a tecnologia Blockchain.",
+    "valor_estimado": 27300.49,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0165866 - MEMO-DFD-1-DATAPREV.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/13/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\13\\1_SEI_TCE-PI - 0165866 - MEMO-DFD-1-DATAPREV.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia - 2-DATAPREV.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/13/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\13\\2_Termo de Referencia - 2-DATAPREV.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0257628 - CONTRATO-4-DATAPREV.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/13/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\13\\3_SEI_TCE-PI - 0257628 - CONTRATO-4-DATAPREV.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0244926 - Justificativa Tecnica-3-DATSPREV.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/13/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\13\\4_SEI_TCE-PI - 0244926 - Justificativa Tecnica-3-DATSPREV.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. Disp. n 23-24-Contrato n 1-25-DATAPREV.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/13/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\13\\5_Ext. Pub. Disp. n 23-24-Contrato n 1-25-DATAPREV.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "21",
+    "ano": 2025,
+    "sequencial_pncp": 18,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 30 (trinta) fontes de alimentação para notebooks Lenovo, destinadas à manutenção corretiva e preventiva dos equipamentos de informática.",
+    "valor_estimado": 6150.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0259550 - DFD (DFD)-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/18/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\18\\1_SEI_TCE-PI - 0259550 - DFD (DFD)-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0259576 - Termo de Referencia-NE00472-Disp. n 4-25-CONNET COMPUTADORES E SIST..pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/18/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\18\\2_SEI_TCE-PI - 0259576 - Termo de Referencia-NE00472-Disp. n 4-25-CONNET COMPUTADORES E SIST..pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0264467 - Justificativa de Dispensa-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/18/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\18\\3_SEI_TCE-PI - 0264467 - Justificativa de Dispensa-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0265510 - Nota de Empenho-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/18/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\18\\4_SEI_TCE-PI - 0265510 - Nota de Empenho-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub.-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/18/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\18\\5_Ext. Pub.-NEOO472-Disp. n 4-25-CONNECT COMPUTADORES E SIST..pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "11",
+    "ano": 2025,
+    "sequencial_pncp": 30,
+    "numero_controle_pncp": null,
+    "objeto": "PERSONALIZAÇÃO DE ESTANDE PARA PROJETO TCE-PI NO SALIPI 2025",
+    "valor_estimado": 5580.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0276008_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/30/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\30\\1_SEI_0276008_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0276029_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/30/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\30\\2_SEI_0276029_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "18",
+    "ano": 2025,
+    "sequencial_pncp": 33,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para a locação de estande institucional com montagem no Salão do Livro do Piauí (SALIPI), para atender às necessidades deste Tribunal, de acordo com as condições estabelecidas no Projeto TCE-PI no SALIPI 2025",
+    "valor_estimado": 13200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Projeto Básico",
+        "titulo": "Projeto-FUNDACAO QUIXOTE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/33/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\33\\1_Projeto-FUNDACAO QUIXOTE.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD-FUNDACAO QUIXOTE.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/33/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\33\\2_DFD-FUNDACAO QUIXOTE.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0276240 - Nota de Empenho-FUNDACAO QUIXOTE.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/33/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\33\\3_SEI_TCE-PI - 0276240 - Nota de Empenho-FUNDACAO QUIXOTE.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0276033 - Justificativa de Dispensa-FUNDACAO QUIXOTE.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/33/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\33\\4_SEI_TCE-PI - 0276033 - Justificativa de Dispensa-FUNDACAO QUIXOTE.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB. DOE-FUNDACAO QUIXOTE.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/33/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\33\\5_EXT. PUB. DOE-FUNDACAO QUIXOTE.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "35",
+    "ano": 2025,
+    "sequencial_pncp": 39,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 1 (um) compressor rotativo highly 4TR para ar-condicionado",
+    "valor_estimado": 3400.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "aviso de dispensa.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/39/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\39\\1_aviso de dispensa.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0271475_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/39/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\39\\2_SEI_0271475_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0280879_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/39/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\39\\3_SEI_0280879_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "37",
+    "ano": 2025,
+    "sequencial_pncp": 41,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de material quadros/murais de avisos e placas de acrílico- ITEM 02 para divulgação da missão, visão e valores do TCE-PI.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0273635 - DFD-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/41/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\41\\1_SEI_TCE-PI - 0273635 - DFD-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0273650 - T. de Referencia-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/41/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\41\\2_SEI_TCE-PI - 0273650 - T. de Referencia-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0278937 - Justificativa de Dispensa-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/41/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\41\\3_SEI_TCE-PI - 0278937 - Justificativa de Dispensa-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0281183 - NE00786-2.000-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/41/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\41\\4_SEI_TCE-PI - 0281183 - NE00786-2.000-I. H. M. SILVEIRA.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "36",
+    "ano": 2025,
+    "sequencial_pncp": 42,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de material quadros/murais de avisos e placas de acrílico- ITEM 01 para divulgação da missão, visão e valores do TCE-PI.",
+    "valor_estimado": 238560.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0273635 - DFD-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/42/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\42\\1_SEI_TCE-PI - 0273635 - DFD-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0273650 - T. de Referencia-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/42/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\42\\2_SEI_TCE-PI - 0273650 - T. de Referencia-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0278937 - Justificativa de Dispensa-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/42/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\42\\3_SEI_TCE-PI - 0278937 - Justificativa de Dispensa-I. H. M. SILVEIRA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0281179 - NE00132-19.880-I. H. M. SILVEIRA.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/42/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\42\\4_SEI_TCE-PI - 0281179 - NE00132-19.880-I. H. M. SILVEIRA.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "38",
+    "ano": 2025,
+    "sequencial_pncp": 43,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de Kits contendo “Squeeze” e Cadernos Personalizados.",
+    "valor_estimado": 6140.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0265438 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/43/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\43\\1_SEI_TCE-PI - 0265438 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0276152 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/43/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\43\\2_SEI_TCE-PI - 0276152 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Comprovante_de_publicacao_no_DOE de Dispensa de Licitacao n 10-2025.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/43/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\43\\3_Comprovante_de_publicacao_no_DOE de Dispensa de Licitacao n 10-2025.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0281043 - Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/43/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\43\\4_SEI_TCE-PI - 0281043 - Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "39",
+    "ano": 2025,
+    "sequencial_pncp": 44,
+    "numero_controle_pncp": null,
+    "objeto": " Aquisição de 50 (cinquenta) brindes artesanais, tipo baú em palha de carnaúba, com fecho em semente de mucunã, tamanho M, com logomarca do TCE, para atender às necessidades do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 1900.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0277521_Memorando_sem_numeracao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/44/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\44\\1_SEI_0277521_Memorando_sem_numeracao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0282327_Justificativa_de_Dispensa.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/44/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\44\\2_SEI_0282327_Justificativa_de_Dispensa.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0283358_Nota_de_Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/44/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\44\\3_SEI_0283358_Nota_de_Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext._Pub._2025NE00845___Emanuele_de_S._Batista___E_DE_S._BATISTA___Disp._de_Lic._n_11_25.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/44/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\44\\4_Ext._Pub._2025NE00845___Emanuele_de_S._Batista___E_DE_S._BATISTA___Disp._de_Lic._n_11_25.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "47",
+    "ano": 2025,
+    "sequencial_pncp": 52,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de castanha de caju, assada, selecionada e tipo exportação, e doce artesanal de caju, produtos estes que vão compor os brindes/souvenir agraciados por esta Corte de Contas aos palestrantes e autoridades no evento das comemorações alusivas ao 126º aniversário deste TCE-PI, cuja programação inicial é a III Conferência Diálogos com o Futuro,",
+    "valor_estimado": 2725.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0277972_Memorando_sem_numeracao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/52/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\52\\1_SEI_0277972_Memorando_sem_numeracao.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0282196_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/52/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\52\\2_SEI_0282196_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "463999 (1).pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/52/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\52\\3_463999 (1).pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "463991.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/52/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\52\\4_463991.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0285927_Justificativa_de_Dispensa.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/52/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\52\\5_SEI_0285927_Justificativa_de_Dispensa.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "40",
+    "ano": 2025,
+    "sequencial_pncp": 53,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de hospedagens de palestrantes para o evento “III Conferência Diálogos com o Futuro”, considerando a comemoração dos 126 anos do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 14688.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0287665_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/53/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\53\\1_SEI_0287665_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "46",
+    "ano": 2025,
+    "sequencial_pncp": 54,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de confecção de materiais gráficos para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 16500.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0285443_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/54/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\54\\1_SEI_0285443_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0285461_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/54/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\54\\2_SEI_0285461_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0287922_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/54/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\54\\3_SEI_0287922_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "49",
+    "ano": 2025,
+    "sequencial_pncp": 55,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de fardamento, incluindo camisa social, camisa polo com bordado personalizado e calça para os motoristas desta Corte de Contas.",
+    "valor_estimado": 4592.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0283170 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/55/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\55\\1_SEI_TCE-PI - 0283170 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0283915 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/55/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\55\\2_SEI_TCE-PI - 0283915 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0288005 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/55/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\55\\3_SEI_TCE-PI - 0288005 - Autorizacao de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Comprovante de Publicacao no DOE de Dispensa de LIcitacao n 14-2025.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/55/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\55\\4_Comprovante de Publicacao no DOE de Dispensa de LIcitacao n 14-2025.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "48",
+    "ano": 2025,
+    "sequencial_pncp": 57,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviço de aluguel de grupo gerador de energia de pelo menos 180 KVA, incluindo os materiais, a infraestrutura elétrica do local do equipamento até o ponto a ser suprido, bem como a mão de obra de operação do circuito, no Prédio Sede do Tribunal de Contas do Estado do Piauí",
+    "valor_estimado": 6000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0282676_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/57/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\57\\1_SEI_0282676_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Comprovante_de_publicacao_dispensa_n_12_2025.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/57/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\57\\2_Comprovante_de_publicacao_dispensa_n_12_2025.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0290068_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/57/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\57\\3_SEI_0290068_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "53",
+    "ano": 2025,
+    "sequencial_pncp": 60,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoço em restaurante à base de culinária piauiense para 50 (cinquenta) pessoas: autoridades, membros e convidados especiais que participarão da \"III Conferência Diálogo com o Futuro\" - a ser servido dia 28/07/2025",
+    "valor_estimado": 9845.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0290545_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/60/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\60\\1_SEI_0290545_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "54",
+    "ano": 2025,
+    "sequencial_pncp": 61,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoço em restaurante como atividade de encerramento do evento \"III Conferência Diálogo com o Futuro\" para 50 (cinquenta) pessoas: autoridades, membros e convidados especiais que participarão do evento - a ser servido dia 29/07/2025, considerando a comemoração dos 126 anos do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 11963.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0290551 - Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/61/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\61\\1_SEI_TCE-PI - 0290551 - Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "56",
+    "ano": 2025,
+    "sequencial_pncp": 62,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de jantar em restaurante para 60 (sessenta) pessoas .",
+    "valor_estimado": 13085.1,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0291608_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/62/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\62\\1_SEI_0291608_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "55",
+    "ano": 2025,
+    "sequencial_pncp": 64,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de brindes regionais para agraciar autoridades e convidados especiais que participarão do evento \"III Conferência Diálogo com o Futuro\" considerando a comemoração dos 126 anos do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 5930.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0293583_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/64/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\64\\1_SEI_0293583_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "60",
+    "ano": 2025,
+    "sequencial_pncp": 68,
+    "numero_controle_pncp": null,
+    "objeto": "Fornecimento de solução de redundância de acesso dedicado à Internet, por meio infraestrutura de fibra óptica, com proteção em anel, incluindo um link de trânsito IPv4 e IPv6 com roteamento do protocolo BGP, com taxa de transmissão de 1Gbps.",
+    "valor_estimado": 84000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0287637_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/68/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\68\\1_SEI_0287637_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0288032_Termo_de_Referencia (1).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/68/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\68\\2_SEI_0288032_Termo_de_Referencia (1).pdf.pdf"
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0287984_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/68/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\68\\3_SEI_0287984_Estudo_Tecnico_Preliminar___ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0295171_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/68/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\68\\4_SEI_0295171_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "61",
+    "ano": 2025,
+    "sequencial_pncp": 69,
+    "numero_controle_pncp": null,
+    "objeto": " Contratação dos serviços de personalização de estande institucional para projeto TCE-PI no Congresso das Cidades do Piauí 2025.",
+    "valor_estimado": 5580.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0295052_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/69/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\69\\1_SEI_0295052_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0296326_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/69/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\69\\2_SEI_0296326_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "64",
+    "ano": 2025,
+    "sequencial_pncp": 72,
+    "numero_controle_pncp": null,
+    "objeto": "AQUISIÇÃO DE 03 (TRÊS) TAPETES, TIPO CAPACHO, PERSONALIZADOS, FABRICADOS EM VINIL, COM PROPRIEDADE ANTIDERRAPANTE.",
+    "valor_estimado": 3300.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "aviso de dispensa tapetes.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/72/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\72\\1_aviso de dispensa tapetes.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0290254_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/72/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\72\\2_SEI_0290254_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0297599_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/72/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\72\\3_SEI_0297599_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "65",
+    "ano": 2025,
+    "sequencial_pncp": 73,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de locação de 02 grupos geradores de energia com potência mínima de 80 KVA, incluindo: Cabos, conexões e demais materiais necessários para a instalação, infraestrutura elétrica do local do equipamento até o ponto de fornecimento e mão de obra para operação do circuito. E a instalação será feita no Plenário, Prédio Anexo II, do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 5600.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0299744 - Nota de Empenho - 2025NE01050.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/73/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\73\\1_SEI_TCE-PI - 0299744 - Nota de Empenho - 2025NE01050.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0297440 - Termo de Referencia (DPL).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/73/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\73\\2_SEI_TCE-PI - 0297440 - Termo de Referencia (DPL).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "67",
+    "ano": 2025,
+    "sequencial_pncp": 75,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de hospedagem para  palestrante  do evento \"Comemoração dos 126 anos do Tribunal de Contas do Estado do Piauí com a  outorga  do Colar do Mérito TCE.PI \"Cons. Jesualdo Cavalcanti\" e Palestra Motivacional do Auditor do TCE.RJ Leonardo Nunez de Miranda Reis , o Gigante Léo,  no di 28 de agosto do corrente ano.",
+    "valor_estimado": 748.1,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0301508_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/75/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\75\\1_SEI_0301508_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "69",
+    "ano": 2025,
+    "sequencial_pncp": 77,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de uma atração cultural piauiense para interpretar o Hino do Estado do Piauí durante a abertura oficial da solenidade das comemorações alusivas ao 126º aniversário do Tribunal de Contas do Estado do Piauí (TCE-PI).",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0301721_Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/77/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\77\\1_SEI_0301721_Autorizacao de Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "70",
+    "ano": 2025,
+    "sequencial_pncp": 79,
+    "numero_controle_pncp": null,
+    "objeto": "CONTRATAÇÃO DE ALMOÇO EM RESTAURANTE EM RAZÃO DA PALESTRA \"DEPRESSÃO E SUICÍDIO: O QUE PRECISAMOS SABER E COMO PODEMOS AJUDAR\"",
+    "valor_estimado": 1345.62,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0303808_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/79/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\79\\1_SEI_0303808_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "72",
+    "ano": 2025,
+    "sequencial_pncp": 80,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada na confecção e fornecimento de 75 (setenta e cinco) camisetas em tecido Dryfit confort, com impressão digital personalizada do Programa Mais Viver – Vida Plena no Pós-Carreira, conforme layout definido pela área requisitante. Ademais as camisetas serão destinadas à identificação, padronização e integração dos participantes e da equipe organizadora da 4ª edição do Programa Mais Viver.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0301106 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/80/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\80\\1_SEI_TCE-PI - 0301106 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0304732_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/80/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\80\\2_SEI_0304732_Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0302548 - Termo de Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/80/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\80\\3_SEI_TCE-PI - 0302548 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Aviso de Publicacao de Dispensa de Licitacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/80/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\80\\4_Aviso de Publicacao de Dispensa de Licitacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "80",
+    "ano": 2025,
+    "sequencial_pncp": 91,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de fardamento (camisa social, camisa polo personalizada e calça) para servidores desta Corte de Contas. ACRÉSCIMO DE 4 CAMISAS POLO BORDADAS NO VALOR INICIALMENTE CONTRATADO, REFERENTE AOS 25% DO QUANTITATIVO INICIAL CONTRATADO.",
+    "valor_estimado": 188.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0310078 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/91/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\91\\1_SEI_TCE-PI - 0310078 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0313128 - Justificativa Tecnica.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/91/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\91\\2_SEI_TCE-PI - 0313128 - Justificativa Tecnica.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0314544 - Nota de Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/91/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\91\\3_SEI_TCE-PI - 0314544 - Nota de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0313851 - Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/91/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\91\\4_SEI_TCE-PI - 0313851 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE01383 - Unifardas Sport Ltda - Disp. de Lic. 14-25.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/91/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\91\\5_Ext. Pub. 2025NE01383 - Unifardas Sport Ltda - Disp. de Lic. 14-25.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "85",
+    "ano": 2025,
+    "sequencial_pncp": 97,
+    "numero_controle_pncp": null,
+    "objeto": " Contratação de empresa seguradora para a prestação de serviço de seguro contra acidentes pessoais em favor dos estagiários vinculados a esta Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 1045.2,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0316077_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/97/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\97\\1_SEI_0316077_Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Comprovante_de_publicacao_dispensa_n_30_2025.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/97/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\97\\2_Comprovante_de_publicacao_dispensa_n_30_2025.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "86",
+    "ano": 2025,
+    "sequencial_pncp": 98,
+    "numero_controle_pncp": null,
+    "objeto": " Prestação de serviços técnicos especializados de planejamento, organização e realização de processo seletivo para provimento de 130 (cento e trinta) vagas de estagiários de nível superior, para o Tribunal de Contas do Estado do Piauí, consoante às condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 183761.29,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0304517 - Termo de Referencia-5- AJUSTADO.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\1_SEI_TCE-PI - 0304517 - Termo de Referencia-5- AJUSTADO.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0209039 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\2_SEI_TCE-PI - 0209039 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0308908 - Despacho da Presidencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\3_SEI_TCE-PI - 0308908 - Despacho da Presidencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0305209 - Justificativa de Dispensa.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\4_SEI_TCE-PI - 0305209 - Justificativa de Dispensa.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0313237 - Nota de Empenho.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\5_SEI_TCE-PI - 0313237 - Nota de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB. CONT. N 23-25-FUND. DE AMPARO...INST. FED..pdf",
+        "sequencial_documento": 6,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/98/arquivos/6",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\98\\6_EXT. PUB. CONT. N 23-25-FUND. DE AMPARO...INST. FED..pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "87",
+    "ano": 2025,
+    "sequencial_pncp": 99,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviço de Cloud Service Brokerage (CSB) com a finalidade de prover ao Tribunal de Contas do Estado do Piauí (TCE/PI) corretagem e gerenciamento centralizado de recursos de computação em ambiente multicloud.",
+    "valor_estimado": 87353.11,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0316360_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/99/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\99\\1_SEI_0316360_Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0309466_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/99/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\99\\2_SEI_0309466_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0309498_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/99/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\99\\3_SEI_0309498_Estudo_Tecnico_Preliminar___ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0309501_Termo_de_Referencia.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/99/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\99\\4_SEI_0309501_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "98",
+    "ano": 2025,
+    "sequencial_pncp": 110,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação direta da Empresa Brasileira de Correios e Telégrafos - ECT - para compra de produtos e utilização de serviços executados em regime de exclusividade, disponibilizados por meio de Pacote de Serviços, mediante adesão ao Termo de Condições Comerciais.",
+    "valor_estimado": 140000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0320730 - Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/110/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\110\\1_SEI_TCE-PI - 0320730 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0314154 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/110/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\110\\2_SEI_TCE-PI - 0314154 - Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "104",
+    "ano": 2025,
+    "sequencial_pncp": 117,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviço de fotocabine para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 3200.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0329020_Autorizacao_8.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/117/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\117\\1_SEI_0329020_Autorizacao_8.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "108",
+    "ano": 2025,
+    "sequencial_pncp": 123,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de jantar em restaurante para confraternização natalina dos membros desta Corte para 40 (quarenta) participantes, incluindo os membros e seus cônjuges conforme condições, quantidade e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 8978.2,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0335176_Autorizacao_103.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\3_SEI_0335176_Autorizacao_103.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0332922 - Termo de Referencia.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\4_SEI_TCE-PI - 0332922 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0333755 - Justificativa.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\5_SEI_TCE-PI - 0333755 - Justificativa.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0335166 - 2025NE01869-SIASG N 108-25 - 123-25 - Disp. n 35-25-REST. 5 SENTIDOS.pdf",
+        "sequencial_documento": 6,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/6",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\6_SEI_TCE-PI - 0335166 - 2025NE01869-SIASG N 108-25 - 123-25 - Disp. n 35-25-REST. 5 SENTIDOS.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0331602 - Comunicacao Interna.pdf",
+        "sequencial_documento": 7,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/7",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\7_SEI_TCE-PI - 0331602 - Comunicacao Interna.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0335399 - 2025NE01870-SIASG N 108-25 - 123-25 - Disp. n 35-25-REST. 5 SENTIDOS.pdf",
+        "sequencial_documento": 8,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/123/arquivos/8",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\123\\8_SEI_TCE-PI - 0335399 - 2025NE01870-SIASG N 108-25 - 123-25 - Disp. n 35-25-REST. 5 SENTIDOS.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "109",
+    "ano": 2025,
+    "sequencial_pncp": 124,
+    "numero_controle_pncp": null,
+    "objeto": "Prestação de serviços contínuos de coleta, transporte e disposição final de resíduos sólidos gerados pelo Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 2184.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0330232_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/124/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\124\\1_SEI_0330232_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0335487_Autorizacao de Empenho - TCE-PI.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/124/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Dispensa de Licitação\\124\\2_SEI_0335487_Autorizacao de Empenho - TCE-PI.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "2",
+    "ano": 2025,
+    "sequencial_pncp": 1,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada na prestação de serviço de desenvolvimento organizacional por meio de palestra motivacional \"Faça Acontecer na sua Gestão\". conforme justificativa de inexigibilidade nº 01/2025/TCE-PI.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0233726 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/1/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\1\\1_SEI_TCE-PI - 0233726 - Estudo Tecnico Preliminar - ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0236830 - Autorizacao de emissao de NE.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/1/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\1\\2_SEI_TCE-PI - 0236830 - Autorizacao de emissao de NE.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0233729 - Termo de Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/1/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\1\\3_SEI_TCE-PI - 0233729 - Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4",
+    "ano": 2025,
+    "sequencial_pncp": 3,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores no curso “DIRF Digital – Migração para o eSocial e EFD Reinf”, que será promovido pelo META CURSOS E TREINAMENTOS LTDA, nos dias 03 a 05 de fevereiro do corrente ano, na modalidade on-line ao vivo.",
+    "valor_estimado": 1510.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Autorizacao 100053-25.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/3/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\3\\1_Autorizacao 100053-25.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "5",
+    "ano": 2025,
+    "sequencial_pncp": 4,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor para participação no VI Congresso Internacional de Controle Público e Luta contra a Corrupção, realizado em Salamanca, Espanha, no período de 24 a 28 de março de 2025.",
+    "valor_estimado": 5895.94,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0240766_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/4/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\4\\1_SEI_0240766_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "7",
+    "ano": 2025,
+    "sequencial_pncp": 8,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de Conselheiro no curso \"A arte e a ciência da oratória jurídica\", modalidade presencial, nos dias 07,08,14 e 15 de março de 2025, conforme inexigibilidade de licitação nº 06/2025 e parecer da assessoria jurídica nº 29/2025.",
+    "valor_estimado": 16154.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0246353_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/8/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\8\\1_SEI_0246353_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "12",
+    "ano": 2025,
+    "sequencial_pncp": 9,
+    "numero_controle_pncp": null,
+    "objeto": "Atender inscrições de servidores desta Corte de Contas no curso Masterclass Gestão Por Competência, modalidade presencial.",
+    "valor_estimado": 7400.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Autorizacao do Presidente.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/9/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\9\\1_Autorizacao do Presidente.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "13",
+    "ano": 2025,
+    "sequencial_pncp": 10,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrições de servidora e membro desta Corte de Contas no 17º Seminário Nacional Ouvidores e Ouvidoria, modalidade presencial;",
+    "valor_estimado": 5780000000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0252386 - Autorizacao de Empenho-Inexig. n 8-25-Inst. Brasil. Pro Cidadania.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/10/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\10\\1_SEI_TCE-PI - 0252386 - Autorizacao de Empenho-Inexig. n 8-25-Inst. Brasil. Pro Cidadania.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "10",
+    "ano": 2025,
+    "sequencial_pncp": 11,
+    "numero_controle_pncp": null,
+    "objeto": "contratação de serviço de suporte técnico e atualização de versões do sistema DRS Plenário, com recursos de áudio e vídeo, para 6 (seis) licenças de uso, implantação contemplando configuração e treinamento, com captura apenas de áudio.",
+    "valor_estimado": 56755.39,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0254258_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/11/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\11\\1_SEI_0254258_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0254882_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/11/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\11\\2_SEI_0254882_Estudo_Tecnico_Preliminar___ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0258006_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/11/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\11\\3_SEI_0258006_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "15",
+    "ano": 2025,
+    "sequencial_pncp": 14,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Procurador em evento de capacitação denominado \"4º Congresso Nacional de Controle da Administração Pública\", que será promovido pela empresa UNICURSOS CAPACITACAO E TREINAMENTOS LTDA em parceria com o INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA - IDGP.",
+    "valor_estimado": 2790.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "PDF-CURSO CAPACITACAO-DFD-1-IDGP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/14/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\14\\1_PDF-CURSO CAPACITACAO-DFD-1-IDGP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0258159-PDF-CURSO CAPACITACAO-JUSTIF.-2-IDGP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/14/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\14\\2_SEI_TCE-PI - 0258159-PDF-CURSO CAPACITACAO-JUSTIF.-2-IDGP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0262811 - Nota de Empenho-PDF-CURSO CAPACITACAO-3-IDGP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/14/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\14\\3_SEI_TCE-PI - 0262811 - Nota de Empenho-PDF-CURSO CAPACITACAO-3-IDGP.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE00085 - IDGP - INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/14/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\14\\4_Ext. Pub. 2025NE00085 - IDGP - INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "17",
+    "ano": 2025,
+    "sequencial_pncp": 15,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidora em evento de capacitação denominado \"4º Congresso Nacional de Controle da Administração Pública - CNC\", que será promovido pela empresa UNICURSOS CAPACITACAO E TREINAMENTOS LTDA em parceria com o INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA - IDGP",
+    "valor_estimado": 2.79,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0261947 -DFD-NADJA-1.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/15/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\15\\1_SEI_TCE-PI - 0261947 -DFD-NADJA-1.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE00085 - IDGP - INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/15/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\15\\2_Ext. Pub. 2025NE00085 - IDGP - INSTITUTO DE DESENVOLVIMENTO EM GESTAO PUBLICA LTDA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0262045 - Justificativa de Inexigibilidade-NADJA-2.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/15/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\15\\3_SEI_TCE-PI - 0262045 - Justificativa de Inexigibilidade-NADJA-2.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0262623 - Nota de Empenho-NADJA-3.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/15/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\15\\4_SEI_TCE-PI - 0262623 - Nota de Empenho-NADJA-3.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "20",
+    "ano": 2025,
+    "sequencial_pncp": 16,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de curso de capacitação voltado à aplicação da Lei nº 14.133/2021, na modalidade presencial;",
+    "valor_estimado": 55000.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0262612 - Justificativa de Inexigibilidade-A B XAVIER TREINAMENTOS.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/16/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\16\\1_SEI_TCE-PI - 0262612 - Justificativa de Inexigibilidade-A B XAVIER TREINAMENTOS.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO DE REFERENCIA-A B XAVIER TREINAMENTOS.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/16/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\16\\2_TERMO DE REFERENCIA-A B XAVIER TREINAMENTOS.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0258860 - Memorando sem numeracao-a b xavier treinnamentos-dfd.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/16/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\16\\3_SEI_TCE-PI - 0258860 - Memorando sem numeracao-a b xavier treinnamentos-dfd.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0264895 - Nota de Empenho-A B XAVIER TREINAMENTOS.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/16/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\16\\4_SEI_TCE-PI - 0264895 - Nota de Empenho-A B XAVIER TREINAMENTOS.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "EXT. PUB. DOE-A B XAVIER TREINAMENTOS.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/16/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\16\\5_EXT. PUB. DOE-A B XAVIER TREINAMENTOS.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "19",
+    "ano": 2025,
+    "sequencial_pncp": 17,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidora desta Corte de Contas no 4° Congresso Nacional de Controle de Administração Pública - CNC, modalidade presencial.",
+    "valor_estimado": 2790.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0262057 - Formulario - Participacao Evento e Diarias-RUFINO.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/17/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\17\\1_SEI_TCE-PI - 0262057 - Formulario - Participacao Evento e Diarias-RUFINO.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0262784 - Justificativa de Inexigibilidade-RUFINO.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/17/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\17\\2_SEI_TCE-PI - 0262784 - Justificativa de Inexigibilidade-RUFINO.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0264892 - Nota de Empenho-RUFINO.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/17/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\17\\3_SEI_TCE-PI - 0264892 - Nota de Empenho-RUFINO.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB. NE-DOE-RUFINO.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/17/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\17\\4_EXT. PUB. NE-DOE-RUFINO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "22",
+    "ano": 2025,
+    "sequencial_pncp": 20,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro desta Corte de Contas para participação no Curso \"A arte e a ciência da Oratória jurídica\".",
+    "valor_estimado": 260951716000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0263587 - DFD-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/20/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\20\\1_SEI_TCE-PI - 0263587 - DFD-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Justificativa Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/20/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\20\\2_Justificativa Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB. - Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/20/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\20\\3_EXT. PUB. - Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0266536 - Nota de Empenho-NE00099-Inexig. n 13-25-Instituto Iter.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/20/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\20\\5_SEI_TCE-PI - 0266536 - Nota de Empenho-NE00099-Inexig. n 13-25-Instituto Iter.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "23",
+    "ano": 2025,
+    "sequencial_pncp": 21,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro desta Corte de Contas para participação no Curso \"A arte e a ciência da Oratória jurídica\";",
+    "valor_estimado": 260951716000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Justificativa Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/21/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\21\\1_Justificativa Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0266536 - Nota de Empenho-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/21/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\21\\2_SEI_TCE-PI - 0266536 - Nota de Empenho-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0263587 - DFD-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/21/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\21\\3_SEI_TCE-PI - 0263587 - DFD-Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB. - Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/21/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\21\\4_EXT. PUB. - Inexig. n 13-25-NE00101-Instituto Iter-MEMBR.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "24",
+    "ano": 2025,
+    "sequencial_pncp": 22,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de capacitação pessoal para servidores da SECEX - do tipo assinatura anual por licença corporativa de acesso a plataforma ALURA, ou simplesmente como definido no TR: contratação de 5 (cinco) licenças de acesso a plataforma de treinamento Alura,",
+    "valor_estimado": 7500.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0266181 - Justificativa de Inexigibilidade-n 15-25-ALLURA.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/22/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\22\\1_SEI_TCE-PI - 0266181 - Justificativa de Inexigibilidade-n 15-25-ALLURA.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0254439 - Memorando sem numeracao-Inexig. n 15-25-ALLURA.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/22/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\22\\2_SEI_TCE-PI - 0254439 - Memorando sem numeracao-Inexig. n 15-25-ALLURA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0265351 - T. de Referencia-Inexig. n 16-25-ALLURA.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/22/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\22\\3_SEI_TCE-PI - 0265351 - T. de Referencia-Inexig. n 16-25-ALLURA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. DOE-Inexig. n 16-25-ALLURA.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/22/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\22\\4_Ext. Pub. DOE-Inexig. n 16-25-ALLURA.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0266998 - Nota de Empenho-Inexig. n 16-25-ALLURA.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/22/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\22\\5_SEI_TCE-PI - 0266998 - Nota de Empenho-Inexig. n 16-25-ALLURA.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "25",
+    "ano": 2025,
+    "sequencial_pncp": 23,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidora desta Corte de Contas no 4º Congresso Nacional de Controle de Administração Pública - CNC, modalidade presencial.",
+    "valor_estimado": 2790.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0265653 - DFD-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/23/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\23\\1_SEI_TCE-PI - 0265653 - DFD-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0266208 - Justificativa-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/23/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\23\\2_SEI_TCE-PI - 0266208 - Justificativa-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0267235 - Nota de Empenho-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/23/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\23\\3_SEI_TCE-PI - 0267235 - Nota de Empenho-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub.-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/23/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\23\\4_Ext. Pub.-NE00105-Inexig. n 17-25-IDGP-LIANA LAGES.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "26",
+    "ano": 2025,
+    "sequencial_pncp": 24,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheiro Substituto em evento tele presencial (Auditoria Financeira para Auditores Internos) que será promovido pelo Instituto dos Auditores Internos do Brasil, no período de 09 a 10.06.2025, online, no horário de 09h00 às 18h00.",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0262840 - DFD-Formulario - Participacao Evento-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/24/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\24\\1_SEI_TCE-PI - 0262840 - DFD-Formulario - Participacao Evento-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0265176 - Justificativa de Inexigibilidade-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/24/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\24\\2_SEI_TCE-PI - 0265176 - Justificativa de Inexigibilidade-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "PDF 102025_2025-NOTA DE EMPENHO-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/24/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\24\\3_PDF 102025_2025-NOTA DE EMPENHO-NE00110-Inexig. n 15-25-Inst. de Auditores Int. BR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE00110 - INST. DOS AUDITORES INTERNOS DO BRASIL.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/24/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\24\\4_Ext. Pub. 2025NE00110 - INST. DOS AUDITORES INTERNOS DO BRASIL.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "28",
+    "ano": 2025,
+    "sequencial_pncp": 26,
+    "numero_controle_pncp": null,
+    "objeto": "Participação como conselheiro do TCE/PI no FÓRUM INTERNACIONAL DE JUSTIÇA DIGITAL",
+    "valor_estimado": 6900.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0273285_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/26/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\26\\1_SEI_0273285_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "29",
+    "ano": 2025,
+    "sequencial_pncp": 27,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Membro no Foro Internacional de Segurança Digital.",
+    "valor_estimado": 6900.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0273292_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/27/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\27\\1_SEI_0273292_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "30",
+    "ano": 2025,
+    "sequencial_pncp": 28,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de licenças dos módulos Rest PKI e Web PKI pelo período de 24 (vinte e quatro) meses.",
+    "valor_estimado": 16540.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0268486_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/28/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\28\\1_SEI_0268486_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0268488_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/28/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\28\\2_SEI_0268488_Estudo_Tecnico_Preliminar___ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0268544_Termo_de_Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/28/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\28\\3_SEI_0268544_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0273659_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/28/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\28\\4_SEI_0273659_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "31",
+    "ano": 2025,
+    "sequencial_pncp": 29,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação do sistema WEB GESTÃO TRIBUTÁRIA - GT-Fácil (Plano OURO).",
+    "valor_estimado": 70358544000.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0263488 - Formulario - Solicitacao de Material_Servico-DFD-OPEN.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/29/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\29\\1_SEI_TCE-PI - 0263488 - Formulario - Solicitacao de Material_Servico-DFD-OPEN.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0263720 - Termo de Referencia-OPEN.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/29/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\29\\2_SEI_TCE-PI - 0263720 - Termo de Referencia-OPEN.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0271266 - Justificativa de Inexigibilidade-OPEN.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/29/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\29\\3_SEI_TCE-PI - 0271266 - Justificativa de Inexigibilidade-OPEN.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0273194 - Nota de Empenho-OPEN.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/29/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\29\\4_SEI_TCE-PI - 0273194 - Nota de Empenho-OPEN.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB.DOE-TCE-PI-OPEN.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/29/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\29\\5_EXT. PUB.DOE-TCE-PI-OPEN.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "32",
+    "ano": 2025,
+    "sequencial_pncp": 34,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de profissional para elaboração dos projetos complementares do sistema elétrico de alimentação do Quadro Geral de Baixa Tensão (QGBT) do Anexo III desta Corte",
+    "valor_estimado": 17538.94,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0270096_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/34/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\34\\1_SEI_0270096_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0270104_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/34/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\34\\2_SEI_0270104_Estudo_Tecnico_Preliminar___ETP.pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0270133_Termo_de_Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/34/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\34\\3_SEI_0270133_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0279194_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/34/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\34\\4_SEI_0279194_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "33",
+    "ano": 2025,
+    "sequencial_pncp": 35,
+    "numero_controle_pncp": null,
+    "objeto": "Curso \"Supendividamento: Desafios e Soluções\", no âmbito do Programa de Preparação para o Pós-Carreira, Programa Mais Viver.",
+    "valor_estimado": 18300.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0269853 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/35/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\35\\1_SEI_TCE-PI - 0269853 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0270942 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/35/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\35\\2_SEI_TCE-PI - 0270942 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0278049 - Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/35/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\35\\3_SEI_TCE-PI - 0278049 - Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "34",
+    "ano": 2025,
+    "sequencial_pncp": 36,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada para realização do curso \"Fronteiras e Tendências do Controle Externo no Brasil\".",
+    "valor_estimado": 92950.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0279312 - NE00128-INEXIG. N 22-25-INST. PROTEGE ESCOLA BRASIL.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/36/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\36\\1_SEI_TCE-PI - 0279312 - NE00128-INEXIG. N 22-25-INST. PROTEGE ESCOLA BRASIL.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0271794 - Memo-DFD-INST. PROTEGE ESCOLA BRASIL-NE00128-INEXIG. N22-25.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/36/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\36\\2_SEI_TCE-PI - 0271794 - Memo-DFD-INST. PROTEGE ESCOLA BRASIL-NE00128-INEXIG. N22-25.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0273147 - Justif. Inexig. n 22-25-INST. PROTEGE ESCOLA BRASIL.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/36/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\36\\3_SEI_TCE-PI - 0273147 - Justif. Inexig. n 22-25-INST. PROTEGE ESCOLA BRASIL.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB.-NE00128-INST. PROTEGE ESCOLA BRASIL.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/36/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\36\\4_EXT. PUB.-NE00128-INST. PROTEGE ESCOLA BRASIL.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "27",
+    "ano": 2025,
+    "sequencial_pncp": 37,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro no \"XX Fórum Brasileiro de Contratação & Gestão Pública\", que será promovido pela EDITORA FORUM LTDA, nos dias 20 a 22 de agosto do corrente ano, em Brasília - DF. \n\n ",
+    "valor_estimado": 6290.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0277498 - Justificativa de Inexigibilidade-NE00673-INEXIG. N 25-25-EDITORA FORUM.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/37/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\37\\2_SEI_TCE-PI - 0277498 - Justificativa de Inexigibilidade-NE00673-INEXIG. N 25-25-EDITORA FORUM.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0279716 - NE00673-INEXIG. N 25-25-ED. FORUM.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/37/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\37\\3_SEI_TCE-PI - 0279716 - NE00673-INEXIG. N 25-25-ED. FORUM.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0279460_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/37/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\37\\4_SEI_0279460_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "41",
+    "ano": 2025,
+    "sequencial_pncp": 46,
+    "numero_controle_pncp": null,
+    "objeto": "Renovação de um software para ser utilizado nos atendimentos de nutrição clínica, direcionada aos servidores desta Corte de Contas, além de suporte técnico por 12 meses;",
+    "valor_estimado": 1219.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0279738_Memorando_com_numeracao_por_unidade_3.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/46/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\46\\1_SEI_0279738_Memorando_com_numeracao_por_unidade_3.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0282083_Justificativa_de_Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/46/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\46\\2_SEI_0282083_Justificativa_de_Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0284430_Nota_de_Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/46/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\46\\3_SEI_0284430_Nota_de_Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXTRATO.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/46/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\46\\4_EXTRATO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "42",
+    "ano": 2025,
+    "sequencial_pncp": 47,
+    "numero_controle_pncp": null,
+    "objeto": "Participação do servidor: Matheus Pinto de Carvalho Lino, no curso “Gestão Tributária de Contratos e Convênios”, ofertado pela empresa Open Soluções Tributárias no período de 21 a 25 de julho deste ano, com carga horária de 24 horas, na modalidade de curso Online e 100% ao vivo.",
+    "valor_estimado": 3490.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0284755 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/47/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\47\\1_SEI_TCE-PI - 0284755 - Autorizacao de Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "43",
+    "ano": 2025,
+    "sequencial_pncp": 48,
+    "numero_controle_pncp": null,
+    "objeto": "PARTICIPAÇÃO NO XVI CONGRESSO NACIONAL DO MINISTÉRIO PÚBLICO DE CONTAS 2025. ",
+    "valor_estimado": 1650.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "OFICIO_066_2025___AMPCON___Convite_XVI_Congresso_Ampcon_rev_LL_090425.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/48/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\48\\1_OFICIO_066_2025___AMPCON___Convite_XVI_Congresso_Ampcon_rev_LL_090425.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0281166_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/48/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\48\\2_SEI_0281166_Formulario___Participacao_Evento_e_Diarias.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0284292_Justificativa_de_Inexigibilidade.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/48/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\48\\3_SEI_0284292_Justificativa_de_Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0285283_Nota_de_Empenho.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/48/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\48\\4_SEI_0285283_Nota_de_Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "44",
+    "ano": 2025,
+    "sequencial_pncp": 49,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no Curso: Gestão Tributária de Contratos e Convênios, na modalidade online",
+    "valor_estimado": 3490.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0280819_Formulario___Participacao_em_Evento.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/49/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\49\\1_SEI_0280819_Formulario___Participacao_em_Evento.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0283341_Justificativa_de_Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/49/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\49\\2_SEI_0283341_Justificativa_de_Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0285247_Nota_de_Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/49/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\49\\3_SEI_0285247_Nota_de_Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "45",
+    "ano": 2025,
+    "sequencial_pncp": 50,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no XVI Congresso do Ministério Público de Contas 2025, na modalidade presencial, na cidade de Belo Horizonte - MG",
+    "valor_estimado": 1650.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0283106_Formulario___Participacao_Evento_e_Diarias_Membros.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/50/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\50\\1_SEI_0283106_Formulario___Participacao_Evento_e_Diarias_Membros.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0284295_Justificativa_de_Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/50/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\50\\2_SEI_0284295_Justificativa_de_Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0285944_Nota_de_Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/50/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\50\\3_SEI_0285944_Nota_de_Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "51",
+    "ano": 2025,
+    "sequencial_pncp": 56,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de em evento de capacitação denominado \"Audi 1 – EOP – Fundamentos em Auditoria Interna \", que será promovido pelo INSTITUTO DOS AUDITORES INTERNOS DO BRASIL, nos dias 6 a 8 de agosto do corrente ano, na modalidade on-line.",
+    "valor_estimado": 2775.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0285203_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/56/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\56\\1_SEI_0285203_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "50",
+    "ano": 2025,
+    "sequencial_pncp": 58,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de inexigibilidade de licitação visando à contratação de atração cultural \"Vagner Ribeiro e Grupo Valor de Piauí\", por meio da Associação Amigos da Dona Gal.",
+    "valor_estimado": 7000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0290378_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/58/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\58\\1_SEI_0290378_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "52",
+    "ano": 2025,
+    "sequencial_pncp": 59,
+    "numero_controle_pncp": null,
+    "objeto": "Trata-se de procedimento de inexigibilidade de licitação visando à participação de servidor em evento de capacitação denominado \"3º Seminário Nacional de Governança em Gestão de Pessoas para Administração Pública\", que será promovido pela empresa Infoco RH, no período de 19 a 21 de agosto em Foz do Iguaçu-PR.",
+    "valor_estimado": 4890.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0290249_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/59/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\59\\1_SEI_0290249_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "57",
+    "ano": 2025,
+    "sequencial_pncp": 63,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidores no 8º Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil (CONACON), modalidade presencial.",
+    "valor_estimado": 3240000000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0292118 - Formulario - Participacao Evento e Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/63/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\63\\1_SEI_TCE-PI - 0292118 - Formulario - Participacao Evento e Diarias.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE00171 - Assoc. Nac. dos Auditores de Controle Ext. dos Tribunais de Contas do Brasil.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/63/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\63\\2_Ext. Pub. 2025NE00171 - Assoc. Nac. dos Auditores de Controle Ext. dos Tribunais de Contas do Brasil.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0284295 -  2025NE008869 - Justificativa de Inexigibilidade - ASSOC. NAC. MP DE CONTAS.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/63/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\63\\3_SEI_TCE-PI - 0284295 -  2025NE008869 - Justificativa de Inexigibilidade - ASSOC. NAC. MP DE CONTAS.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0293675 - 2025NE00171 - Assoc. Nac. dos Aud. de Controle Ext. dos Tribunais de Contas do Brasil - Inexig. de Licitacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/63/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\63\\4_SEI_TCE-PI - 0293675 - 2025NE00171 - Assoc. Nac. dos Aud. de Controle Ext. dos Tribunais de Contas do Brasil - Inexig. de Licitacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "58",
+    "ano": 2025,
+    "sequencial_pncp": 65,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidores no 8º Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil (CONACON), modalidade presencial.",
+    "valor_estimado": 3600.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0293675 - 2025NE00171 - Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas-BR.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/65/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\65\\1_SEI_TCE-PI - 0293675 - 2025NE00171 - Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas-BR.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0292118-DFD-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/65/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\65\\2_SEI_TCE-PI - 0292118-DFD-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0292779 - Just. de Inexig.-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/65/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\65\\3_SEI_TCE-PI - 0292779 - Just. de Inexig.-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB.-NE00171-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/65/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\65\\4_EXT. PUB.-NE00171-Assoc. Nac. dos Aud. de Cont. Ext. dos TCs de Contas BR.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "59",
+    "ano": 2025,
+    "sequencial_pncp": 66,
+    "numero_controle_pncp": null,
+    "objeto": "Participação dos auditores de controle externo Carlos André da Silva Batista de Souza, Jonilson Araújo Luz e Raimundo da Costa Machado Neto, na XXI SINAOP - Semana Nacional de Obras Públicas - \"Infraestrutura para um Brasil Sustentável e Integrado\", que será promovido pelo INSTITUTO BRASILEIRO DE AUDITORIA DE OBRAS PUBLICAS - IBRAOP, nos dias 18 a 22 de agosto do corrente ano, em Manaus - AM.",
+    "valor_estimado": 9750.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0290278 - DFD-NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/66/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\66\\1_SEI_TCE-PI - 0290278 - DFD-NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0292063 - Justificativa-NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/66/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\66\\2_SEI_TCE-PI - 0292063 - Justificativa-NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0295042 - NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/66/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\66\\3_SEI_TCE-PI - 0295042 - NE00188-INEXIG. N 34-25-ASSOC. AUDITORES.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE00188 - Inst. Bras. de Auditoria de Obras Publicas.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/66/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\66\\4_Ext. Pub. 2025NE00188 - Inst. Bras. de Auditoria de Obras Publicas.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "62",
+    "ano": 2025,
+    "sequencial_pncp": 70,
+    "numero_controle_pncp": null,
+    "objeto": "Locação de estande para o Projeto TCE-PI no Congresso das Cidades do Piauí, 2025",
+    "valor_estimado": 22000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0297502_Nota_de_Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/70/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\70\\1_SEI_0297502_Nota_de_Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "63",
+    "ano": 2025,
+    "sequencial_pncp": 71,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de 14 (quatorze) assinaturas para acesso à plataforma de treinamento Alura para capacitação de servidores da Secretaria de Tecnologia da Informação.",
+    "valor_estimado": 21000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0289773_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/71/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\71\\1_SEI_0289773_Documento_de_Formalizacao_de_Demanda__DFD_.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0297398_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/71/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\71\\2_SEI_0297398_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "66",
+    "ano": 2025,
+    "sequencial_pncp": 74,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de palestrante para realização de palestra com o tema “Reflexões sobre saúde mental: cuidar da mente, valorizar a vida”, destinada a secretários municipais de saúde, servidores do Governo do Estado, representantes de universidades, servidores e colaboradores do TCE-PI.",
+    "valor_estimado": 8000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0300499_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/74/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\74\\1_SEI_0300499_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "68",
+    "ano": 2025,
+    "sequencial_pncp": 76,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de palestrante para realização de palestra motivacional em razão da comemoração aos 126 anos do Tribunal de Contas do Estado do Piauí, a ser realizada pelo palestrante e humorista Leonardo Reis (o Gigante Leo).",
+    "valor_estimado": 11000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0300927_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/76/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\76\\1_SEI_0300927_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "71",
+    "ano": 2025,
+    "sequencial_pncp": 82,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada para elaboração de projeto executivo completo do sistema de videomonitoramento (CFTV) do Tribunal de Contas do Estado do Piauí, utilizando metodologia BIM (Building Information Modeling) com nível de detalhamento LOD-350, abrangendo os Edifícios Sede, Anexos I, II, III e áreas externas.",
+    "valor_estimado": 67650.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0294957_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/82/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\82\\1_SEI_0294957_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0304638_Autorizacao (1).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/82/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\82\\2_SEI_0304638_Autorizacao (1).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "73",
+    "ano": 2025,
+    "sequencial_pncp": 83,
+    "numero_controle_pncp": null,
+    "objeto": "Revisão de veículo MARCA CHEVROLET, MODELO TRAIBLAZER LT, DIESEL, ANO 2024, cor preta, necessárias à manutenção",
+    "valor_estimado": 1301.26,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0305473_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/83/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\83\\1_SEI_0305473_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "74",
+    "ano": 2025,
+    "sequencial_pncp": 84,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidores para participar do XXIX CONCEP - CONGRESSO NACIONAL DE CERIMONIAL E PROTOCOLO, na modalidade presencial, na cidade de Maceió - AL.",
+    "valor_estimado": 5040.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0302704 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/84/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\84\\1_SEI_TCE-PI - 0302704 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0302015 - Formulario - Participacao Evento e Diarias.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/84/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\84\\2_SEI_TCE-PI - 0302015 - Formulario - Participacao Evento e Diarias.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0306654 - Nota de Empenho.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/84/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\84\\3_SEI_TCE-PI - 0306654 - Nota de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "EXT. PUB.-COMITE NAC. DO CERIMONIAL PUB.-NE01206.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/84/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\84\\4_EXT. PUB.-COMITE NAC. DO CERIMONIAL PUB.-NE01206.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0303853 - Autorizacao.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/84/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\84\\5_SEI_TCE-PI - 0303853 - Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "75",
+    "ano": 2025,
+    "sequencial_pncp": 86,
+    "numero_controle_pncp": null,
+    "objeto": "Participação do procurador de contas José Araújo Pinheiro Júnior, no \"IV Congresso Internacional dos Tribunais de Contas - CITC\", que será promovido pela ASSOCIACAO DOS MEMBROS DOS TRIBUNAIS DE CONTAS DO BRASIL - ATRICON, nos dias 02 a 05 de dezembro do corrente ano, em Florianópolis - SC.",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0304003 - Formulario - Participacao Evento e Diarias Membros.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/86/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\86\\1_SEI_TCE-PI - 0304003 - Formulario - Participacao Evento e Diarias Membros.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0309558 - Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/86/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\86\\2_SEI_TCE-PI - 0309558 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0308958 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/86/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\86\\3_SEI_TCE-PI - 0308958 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. NE01304-INEXIG. N 46-25-ATRICON.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/86/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\86\\4_Ext. Pub. NE01304-INEXIG. N 46-25-ATRICON.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0310836 - Nota de Empenho.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/86/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\86\\5_SEI_TCE-PI - 0310836 - Nota de Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "76",
+    "ano": 2025,
+    "sequencial_pncp": 87,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de Membro no IV CONGRESSO INTERNACIONAL DOS TRIBUNAIS DE CONTAS - CITC, na modalidade presencial, nos dias 02/12 a 05/12/2025, em Florianópolis - SC, conforme inexigibilidade de licitação nº 45/2025 e parecer da assessoria jurídica nº 249/2025.",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0309541 - Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/87/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\87\\1_SEI_TCE-PI - 0309541 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0305319 - Formulario - Participacao Evento e Diarias Membros.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/87/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\87\\2_SEI_TCE-PI - 0305319 - Formulario - Participacao Evento e Diarias Membros.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0308851 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/87/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\87\\3_SEI_TCE-PI - 0308851 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0312199 - Nota de Empenho.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/87/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\87\\4_SEI_TCE-PI - 0312199 - Nota de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE01321-INEXIG. N 45-25-ATRICON-DELANO.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/87/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\87\\5_Ext. Pub. 2025NE01321-INEXIG. N 45-25-ATRICON-DELANO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "77",
+    "ano": 2025,
+    "sequencial_pncp": 88,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de servidores para participar do Curso \"Elaboração da nova Planilha de Custos, Formação de Preços e Terceirização - Completo e Totalmente Prático\", nos dias 14 a 17/10/2025 no município de Fortaleza-CE.",
+    "valor_estimado": 9980.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0311914_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/88/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\88\\1_SEI_0311914_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "78",
+    "ano": 2025,
+    "sequencial_pncp": 89,
+    "numero_controle_pncp": null,
+    "objeto": "Participação dos servidores no Congresso Licita Hard, ofertado pelo Instituto Consulte – Soluções em Educação Ltda no período de 06 a 07 de outubro deste ano, com carga horária de 20 horas, a ser realizado na cidade de Teresina - PI.",
+    "valor_estimado": 15990.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0313429_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/89/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\89\\1_SEI_0313429_Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "79",
+    "ano": 2025,
+    "sequencial_pncp": 90,
+    "numero_controle_pncp": null,
+    "objeto": "Participação da conselheira Rejane Ribeiro Sousa Dias, no \"IV Congresso Internacional dos Tribunais de Contas - CITC\", que será promovido pela ASSOCIACAO DOS MEMBROS DOS TRIBUNAIS DE CONTAS DO BRASIL - ATRICON, nos dias 02 a 05 de dezembro do corrente ano, em Florianópolis - SC.",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0308332 - Formulario - Participacao Evento e Diarias Membros.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/90/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\90\\1_SEI_TCE-PI - 0308332 - Formulario - Participacao Evento e Diarias Membros.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0311674 - Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/90/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\90\\2_SEI_TCE-PI - 0311674 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0310789 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/90/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\90\\3_SEI_TCE-PI - 0310789 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0312883 - Nota de Empenho.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/90/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\90\\4_SEI_TCE-PI - 0312883 - Nota de Empenho.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. NE01333-ATRICON-Inexig. n 47-25.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/90/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\90\\5_Ext. Pub. NE01333-ATRICON-Inexig. n 47-25.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "82",
+    "ano": 2025,
+    "sequencial_pncp": 93,
+    "numero_controle_pncp": null,
+    "objeto": "CONTRATAÇÃO DE COOPERATIVA PARA A REALIZAÇÃO DA OFICINA \"IDENTIFICAÇÃO DE RESÍDUOS PARA IMPLEMENTAÇÃO DA COLETA SELETIVA\"",
+    "valor_estimado": 5100.0,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_0315259_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\1_SEI_0315259_Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Ext. Pub. 2025NE01400 - Cooperativa de Trabalho em Economia Solidaria - Inexig. de Lic. 53-25.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\2_Ext. Pub. 2025NE01400 - Cooperativa de Trabalho em Economia Solidaria - Inexig. de Lic. 53-25.pdf.pdf"
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0312988 - Documento de Formalizacao de Demanda (DFD).pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\3_SEI_TCE-PI - 0312988 - Documento de Formalizacao de Demanda (DFD).pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0314237 - Termo de Referencia-AJUSTADO.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\4_SEI_TCE-PI - 0314237 - Termo de Referencia-AJUSTADO.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0314574 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\5_SEI_TCE-PI - 0314574 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0315743 - Nota de Empenho.pdf",
+        "sequencial_documento": 6,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/93/arquivos/6",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\93\\6_SEI_TCE-PI - 0315743 - Nota de Empenho.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "81",
+    "ano": 2025,
+    "sequencial_pncp": 94,
+    "numero_controle_pncp": null,
+    "objeto": "Atender  a inscrição de membro para participar do IV Congresso Internacional dos Tribunais de Contas do Brasil.",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0313728 - Formulario - Participacao Evento e Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/94/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\94\\1_SEI_TCE-PI - 0313728 - Formulario - Participacao Evento e Diarias.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0314214 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/94/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\94\\2_SEI_TCE-PI - 0314214 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "PUB. EXT. NE01393-ATRICON.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/94/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\94\\3_PUB. EXT. NE01393-ATRICON.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0314766 - Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/94/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\94\\4_SEI_TCE-PI - 0314766 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0315320 - NE01393.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/94/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\94\\5_SEI_TCE-PI - 0315320 - NE01393.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "83",
+    "ano": 2025,
+    "sequencial_pncp": 95,
+    "numero_controle_pncp": null,
+    "objeto": " Atender a inscrição de procurador no IV Congresso Internacional dos Tribunais de Contas do Brasil",
+    "valor_estimado": 2200.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_TCE-PI - 0313728 - Formulario - Participacao Evento e Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/95/arquivos/1",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\95\\1_SEI_TCE-PI - 0313728 - Formulario - Participacao Evento e Diarias.pdf.pdf"
+      },
+      {
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0314766 - Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/95/arquivos/2",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\95\\2_SEI_TCE-PI - 0314766 - Autorizacao.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0314214 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/95/arquivos/3",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\95\\3_SEI_TCE-PI - 0314214 - Justificativa de Inexigibilidade.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0315320 - NE01393.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/95/arquivos/4",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\95\\4_SEI_TCE-PI - 0315320 - NE01393.pdf.pdf"
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "PUB. EXT. NE01393-ATRICON.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2025/95/arquivos/5",
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\PNCP\\2025_Inexigibilidade de Licitação\\95\\5_PUB. EXT. NE01393-ATRICON.pdf.pdf"
+      }
+    ]
+  }
+]

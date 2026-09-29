@@ -1,0 +1,45 @@
+﻿# ─── Dados grandes (nao versionar — usar Git LFS ou ignorar) ───
+downloads/
+dados_tce.db
+
+# ─── Corpus IA — apenas o indice e dataset, nao os 842 .md ───
+corpus_ia/etp/
+corpus_ia/tr/
+corpus_ia/dfd/
+corpus_ia/pesquisa_precos/
+corpus_ia/mapa_riscos/
+corpus_ia/edital/
+corpus_ia/parecer/
+corpus_ia/contrato/
+corpus_ia/ratificacao/
+corpus_ia/outros/
+corpus_ia/erros_extracao.json
+
+# ─── Arquivos temporarios de analise ───
+check_missing.py
+gen_dataset.py
+rebuild_index.py
+debug_*.py
+test_*.py
+inspect_*.py
+scratch/
+
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# ─── Sistema ───
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# ─── IDEs ───
+.vscode/
+.idea/
+*.swp

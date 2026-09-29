@@ -1,0 +1,48 @@
+[
+  {
+    "id_licitacao_web": 1174594,
+    "controle_tce": "LW-009880/26",
+    "orgao_nome": "P. M. DE ACAUA",
+    "id_unidade_gestora": null,
+    "esfera": "Municipal",
+    "numero_procedimento": "Concorrência Nº 006/2026",
+    "numero_processo_adm": "037/2026",
+    "modalidade": null,
+    "objeto": "Contratação de empresa especializada para execução da Reforma e Ampliação da Creche Vovó Lina.",
+    "valor_previsto": 0.0,
+    "tipo_objeto": "Obras e Serviços de Engenharia Natureza: COMUM Tipo da obra: Escolas Natureza da obra: Reforma Regime de execução: Empreitada preço global",
+    "regime_execucao": null,
+    "criterio_julgamento": "Menor preço",
+    "forma_realizacao": "Eletrônica",
+    "modo_disputa": "Aberto",
+    "regime_juridico": "Lei nº 14.133/21",
+    "status_licitacao": "DIVULGADA",
+    "data_abertura": "29/09/2026 09:01",
+    "link_mural": "https://sistemas.tce.pi.gov.br/muralic/detalhelicitacao.xhtml?id=1174594",
+    "atualizado_em": "2026-09-28 17:33:15",
+    "artefatos": [
+      {
+        "id": 1,
+        "id_licitacao_web": 1174594,
+        "numero_ordem": 1,
+        "tipo": "Projeto básico",
+        "descricao": "Projeto",
+        "nome_arquivo": "Projeto Completo.pdf",
+        "data_cadastro": "15/09/2026",
+        "tamanho_bytes": 55150522,
+        "caminho_local": "C:\\Users\\thiagonogueira\\OneDrive - mppi.mp.br\\CLC\\Mapeamento TCE\\downloads\\1174594\\Projeto Completo.pdf"
+      },
+      {
+        "id": 2,
+        "id_licitacao_web": 1174594,
+        "numero_ordem": 2,
+        "tipo": "Edital",
+        "descricao": "Edital - CONCORRÊNCIA ELETRÔNICA 006.2026",
+        "nome_arquivo": "Edital - CONCORRÊNCIA ELETRÔNICA 006.2026.pdf",
+        "data_cadastro": "15/09/2026",
+        "tamanho_bytes": null,
+        "caminho_local": null
+      }
+    ]
+  }
+]
