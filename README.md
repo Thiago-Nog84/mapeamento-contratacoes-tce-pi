@@ -175,6 +175,7 @@ python rebuild_index.py
 - [x] Mapeamento do arcabouco normativo
 - [x] Geracao do corpus IA com indice JSONL
 - [x] Validacao de integridade do corpus (29/09/2026) -- Resultado: BOM | Relatorio: corpus_ia/relatorio_qualidade.md
+- [x] Repositorio criado no GitHub (29/09/2026) -- https://github.com/Thiago-Nog84/mapeamento-contratacoes-tce-pi
 
 ### 1. Extracao das Contratacoes Internas do MPPI
 > Fazer o mesmo mapeamento realizado para o TCE-PI aplicado as contratacoes do proprio **Ministerio Publico do Estado do Piaui**, gerando corpus equivalente para comparacao.
@@ -224,4 +225,5 @@ python rebuild_index.py
 **Instituicao produtora:** Ministerio Publico do Estado do Piaui (MPPI)
 **Setor responsavel:** CLC -- Coordenadoria de Licitacoes e Contratos
 **Base normativa:** Lei 14.133/2021 | IN TCE-PI 02/2026 | Portaria CNMP-SG 151/2023
+
 
