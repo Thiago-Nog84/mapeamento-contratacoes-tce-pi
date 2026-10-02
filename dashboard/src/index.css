@@ -1,45 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+﻿/* ==========================================================================
+   PROJETO Lic.IA • DESIGN SYSTEM OFICIAL DO MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ
+   Em conformidade estrita com o MANUAL DE IDENTIDADE VISUAL DO MPPI
+   Cores Oficiais:
+     - Vermelho MPPI: #a60225 (R:166 G:2 B:37 | C:27 M:100 Y:93 K:1)
+     - Preto Institucional: #000000 / #0a0e17
+     - Cinza Institucional: #5a5a5a (R:90 G:90 B:90 | C:73 M:66 Y:61 K:13)
+     - Prata / Onda Prateada: #e2e8f0 / #f8fafc (Silver Wave)
+   Tipografia Oficial: Calibri (Regular, Bold, Light)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
-  --bg-deep: #080b11;
-  --bg-dark: #0d121d;
-  --bg-card: rgba(18, 24, 38, 0.75);
-  --bg-card-hover: rgba(24, 32, 50, 0.95);
-  --bg-card-active: rgba(30, 41, 64, 1);
+  /* Fundo e Superfícies (Nobreza Institucional MPPI) */
+  --bg-deep: #0a0e17;
+  --bg-dark: #0f1523;
+  --bg-card: rgba(18, 26, 42, 0.82);
+  --bg-card-hover: rgba(26, 36, 58, 0.95);
+  --bg-card-active: rgba(33, 46, 74, 1);
+  --bg-card-white: rgba(255, 255, 255, 0.05);
+
+  /* Paleta Oficial do Manual de Identidade Visual do MPPI */
+  --mppi-red: #a60225;
+  --mppi-red-light: #c90c34;
+  --mppi-red-dark: #7d011c;
+  --mppi-red-glow: rgba(166, 2, 37, 0.38);
   
-  --mppi-primary: #9b111e;
-  --mppi-primary-light: #c21827;
-  --mppi-primary-glow: rgba(155, 17, 30, 0.35);
+  --mppi-black: #000000;
+  --mppi-gray: #5a5a5a;
+  --mppi-gray-light: #8c8c8c;
+  --mppi-gray-dark: #333333;
   
-  --mppi-gold: #c5a059;
-  --mppi-gold-light: #e6c883;
-  --mppi-gold-glow: rgba(197, 160, 89, 0.3);
-  
+  --mppi-silver: #e2e8f0;
+  --mppi-silver-light: #f8fafc;
+  --mppi-silver-glow: rgba(226, 232, 240, 0.18);
+
+  /* Acentos Funcionais */
+  --accent-emerald: #10b981;
   --accent-blue: #3b82f6;
   --accent-cyan: #06b6d4;
-  --accent-emerald: #10b981;
-  --accent-purple: #8b5cf6;
   --accent-amber: #f59e0b;
   --accent-rose: #f43f5e;
-  
+
+  /* Tipografia & Textos */
   --text-main: #f8fafc;
+  --text-silver: #e2e8f0;
   --text-muted: #94a3b8;
   --text-dim: #64748b;
-  
-  --border-subtle: rgba(255, 255, 255, 0.07);
-  --border-gold: rgba(197, 160, 89, 0.25);
-  --border-focus: rgba(197, 160, 89, 0.6);
-  
-  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.45);
-  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
-  --shadow-gold: 0 0 25px rgba(197, 160, 89, 0.15);
-  
-  --radius-sm: 8px;
-  --radius-md: 14px;
-  --radius-lg: 20px;
+
+  /* Bordas Institucionais */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-mppi: rgba(166, 2, 37, 0.35);
+  --border-silver: rgba(226, 232, 240, 0.22);
+  --border-focus: rgba(166, 2, 37, 0.7);
+
+  /* Sombras & Profundidade */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.65);
+  --shadow-mppi: 0 0 25px rgba(166, 2, 37, 0.2);
+
+  /* Geometria */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
   --radius-full: 9999px;
-  
+
   --glass-backdrop: blur(18px);
 }
 
@@ -50,20 +76,23 @@
 }
 
 body {
-  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  /* Tipografia Primária Estrita: Calibri */
+  font-family: Calibri, 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
   background-color: var(--bg-deep);
+  /* Efeito Onda Prateada (Silver Wave) + Halo Vermelho Oficial MPPI */
   background-image: 
-    radial-gradient(circle at 15% 15%, rgba(155, 17, 30, 0.14) 0%, transparent 45%),
-    radial-gradient(circle at 85% 20%, rgba(197, 160, 89, 0.12) 0%, transparent 40%),
-    radial-gradient(circle at 50% 85%, rgba(59, 130, 246, 0.08) 0%, transparent 50%);
+    radial-gradient(circle at 10% 12%, rgba(166, 2, 37, 0.16) 0%, transparent 45%),
+    radial-gradient(circle at 88% 18%, rgba(226, 232, 240, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 50% 85%, rgba(166, 2, 37, 0.1) 0%, transparent 55%),
+    linear-gradient(180deg, rgba(10, 14, 23, 0.94) 0%, rgba(15, 21, 35, 0.98) 100%);
   background-attachment: fixed;
   color: var(--text-main);
   min-height: 100vh;
-  line-height: 1.6;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
 }
 
-/* Scrollbar Modern */
+/* Scrollbar com o Vermelho Institucional MPPI */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -76,22 +105,22 @@ body {
   border-radius: var(--radius-full);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--mppi-gold);
+  background: var(--mppi-red);
 }
 
 /* Layout Estrutural */
 .layout {
   display: grid;
-  grid-template-columns: 290px 1fr;
+  grid-template-columns: 300px 1fr;
   min-height: 100vh;
 }
 
-/* Top Live Notification Bar */
+/* Barra Superior com Tarja Vermelha do Manual */
 .live-bar {
-  background: linear-gradient(90deg, #111827, #1f1d1d, #111827);
-  border-bottom: 1px solid var(--border-gold);
-  padding: 8px 24px;
-  font-size: 0.8rem;
+  background: #090c13;
+  border-bottom: 2px solid var(--mppi-red);
+  padding: 8px 28px;
+  font-size: 0.82rem;
   color: var(--text-muted);
   display: flex;
   justify-content: space-between;
@@ -99,35 +128,38 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
 }
 
 .live-badge {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  color: var(--accent-emerald);
-  font-weight: 600;
+  color: #34d399;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 .live-dot {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--accent-emerald);
-  box-shadow: 0 0 10px var(--accent-emerald);
+  background-color: #10b981;
+  box-shadow: 0 0 10px #10b981;
   animation: pulseDot 2s infinite ease-in-out;
 }
 
 @keyframes pulseDot {
   0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.4; transform: scale(1.3); }
+  50% { opacity: 0.35; transform: scale(1.3); }
 }
 
-/* Sidebar Estilo Portal */
+/* Sidebar Institucional MPPI */
 .sidebar {
-  background: rgba(13, 18, 29, 0.85);
+  background: rgba(12, 17, 28, 0.92);
   backdrop-filter: var(--glass-backdrop);
   border-right: 1px solid var(--border-subtle);
-  padding: 24px 18px;
+  border-left: 4px solid var(--mppi-red); /* Tarja lateral do Gabinete PGJ */
+  padding: 24px 20px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -137,42 +169,51 @@ body {
   overflow-y: auto;
 }
 
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  padding-bottom: 20px;
+.brand-wrapper {
+  padding-bottom: 22px;
   border-bottom: 1px solid var(--border-subtle);
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 
-.brand-icon {
-  width: 48px;
-  height: 48px;
-  background: linear-gradient(135deg, var(--mppi-primary), #52080f);
-  border: 1px solid var(--border-gold);
-  border-radius: var(--radius-md);
+.brand-mppi-header {
   display: flex;
   align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 16px var(--mppi-primary-glow);
-  flex-shrink: 0;
+  gap: 12px;
+  margin-bottom: 12px;
 }
 
-.brand-title {
-  font-size: 1.02rem;
+.mppi-logo-img {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
+}
+
+.brand-title-licia {
+  font-size: 1.35rem;
   font-weight: 800;
-  letter-spacing: 0.02em;
-  color: #fff;
-  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+  line-height: 1.1;
+}
+
+.brand-title-licia span {
+  color: var(--mppi-red-light);
 }
 
 .brand-sub {
-  font-size: 0.74rem;
-  color: var(--mppi-gold);
+  font-size: 0.76rem;
+  color: var(--mppi-silver);
   font-weight: 600;
-  margin-top: 3px;
-  letter-spacing: 0.01em;
+  margin-top: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.brand-unit {
+  font-size: 0.72rem;
+  color: var(--mppi-gray-light);
+  margin-top: 2px;
 }
 
 /* Menu de Navegação */
@@ -192,44 +233,57 @@ body {
   color: var(--text-muted);
   background: transparent;
   border: 1px solid transparent;
-  font-size: 0.87rem;
-  font-weight: 500;
+  font-size: 0.88rem;
+  font-weight: 600;
   cursor: pointer;
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.22s cubic-bezier(0.4, 0, 0.2, 1);
   text-align: left;
   width: 100%;
 }
 
 .nav-item:hover {
   background: rgba(255, 255, 255, 0.04);
-  color: #fff;
-  border-color: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+  border-color: rgba(226, 232, 240, 0.12);
   transform: translateX(3px);
 }
 
 .nav-item.active {
-  background: linear-gradient(90deg, rgba(197, 160, 89, 0.15), rgba(155, 17, 30, 0.08));
-  color: #fff;
-  border: 1px solid var(--border-gold);
-  font-weight: 600;
-  box-shadow: var(--shadow-gold);
+  background: linear-gradient(90deg, rgba(166, 2, 37, 0.25) 0%, rgba(226, 232, 240, 0.05) 100%);
+  color: #ffffff;
+  border: 1px solid var(--mppi-red);
+  font-weight: 700;
+  box-shadow: 0 4px 18px rgba(166, 2, 37, 0.2);
+  position: relative;
+}
+
+.nav-item.active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 15%;
+  height: 70%;
+  width: 3px;
+  background-color: var(--mppi-red-light);
+  border-radius: 0 4px 4px 0;
 }
 
 .nav-item.active svg {
-  color: var(--mppi-gold);
+  color: var(--mppi-red-light);
 }
 
 .sidebar-footer {
   margin-top: 20px;
   padding: 16px;
-  background: rgba(18, 24, 38, 0.6);
+  background: rgba(18, 24, 38, 0.7);
   border: 1px solid var(--border-subtle);
+  border-top: 2px solid var(--mppi-red);
   border-radius: var(--radius-md);
 }
 
 /* Conteúdo Principal */
 .main-content {
-  padding: 32px 40px;
+  padding: 34px 42px;
   overflow-y: auto;
   max-width: 1600px;
 }
@@ -242,57 +296,82 @@ body {
   margin-bottom: 28px;
   padding-bottom: 20px;
   border-bottom: 1px solid var(--border-subtle);
+  position: relative;
+}
+
+.topbar::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 120px;
+  height: 2px;
+  background: var(--mppi-red);
 }
 
 .topbar-title {
-  font-size: 1.85rem;
+  font-size: 1.95rem;
   font-weight: 800;
   letter-spacing: -0.02em;
-  color: #fff;
-  line-height: 1.25;
+  color: #ffffff;
+  line-height: 1.2;
 }
 
 .topbar-desc {
-  font-size: 0.95rem;
+  font-size: 0.96rem;
   color: var(--text-muted);
   margin-top: 6px;
 }
 
-/* Cards & Glassmorphism */
+/* Cards & Padrão MPPI */
 .card {
   background: var(--bg-card);
   backdrop-filter: var(--glass-backdrop);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
-  padding: 24px;
+  padding: 26px;
   box-shadow: var(--shadow-md);
-  transition: all 0.3s ease;
+  transition: all 0.28s ease;
   position: relative;
   overflow: hidden;
 }
 
 .card:hover {
   background: var(--bg-card-hover);
-  border-color: rgba(197, 160, 89, 0.3);
+  border-color: rgba(166, 2, 37, 0.4);
   transform: translateY(-2px);
-  box-shadow: var(--shadow-lg);
+  box-shadow: var(--shadow-lg), var(--shadow-mppi);
 }
 
 .card-title {
-  font-size: 1.15rem;
+  font-size: 1.18rem;
   font-weight: 700;
-  color: #fff;
+  color: #ffffff;
   margin-bottom: 6px;
   display: flex;
   align-items: center;
   gap: 10px;
 }
 
+.card-title svg {
+  color: var(--mppi-red-light);
+}
+
 .card-desc {
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   color: var(--text-muted);
-  margin-bottom: 16px;
+  margin-bottom: 18px;
   line-height: 1.5;
+}
+
+/* Tarja Vermelha no topo do card */
+.card-tarja {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--mppi-red), transparent);
 }
 
 /* Grid de Estatísticas */
@@ -306,29 +385,31 @@ body {
   background: var(--bg-card);
   backdrop-filter: var(--glass-backdrop);
   border: 1px solid var(--border-subtle);
+  border-top: 3px solid var(--mppi-red); /* Tarja de distinção */
   border-radius: var(--radius-md);
-  padding: 20px;
-  transition: all 0.3s ease;
+  padding: 22px;
+  transition: all 0.25s ease;
 }
 
 .stat-card:hover {
   background: var(--bg-card-hover);
+  border-color: var(--mppi-red);
   transform: translateY(-2px);
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-md), 0 0 20px rgba(166, 2, 37, 0.15);
 }
 
 .stat-label {
   font-size: 0.78rem;
-  font-weight: 600;
-  color: var(--text-muted);
+  font-weight: 700;
+  color: var(--mppi-silver);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em;
 }
 
 .stat-val {
-  font-size: 2.1rem;
+  font-size: 2.2rem;
   font-weight: 800;
-  color: #fff;
+  color: #ffffff;
   letter-spacing: -0.02em;
   margin: 6px 0;
   line-height: 1.1;
@@ -339,7 +420,7 @@ body {
   color: var(--text-dim);
 }
 
-/* Badges e Tags */
+/* Badges e Tags Oficiais */
 .tag {
   display: inline-flex;
   align-items: center;
@@ -347,11 +428,23 @@ body {
   padding: 4px 10px;
   border-radius: var(--radius-full);
   font-size: 0.74rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.02em;
 }
 
-/* Botões */
+.tag-mppi {
+  background: rgba(166, 2, 37, 0.18);
+  color: #ff4d6d;
+  border: 1px solid rgba(166, 2, 37, 0.4);
+}
+
+.tag-silver {
+  background: rgba(226, 232, 240, 0.12);
+  color: var(--mppi-silver);
+  border: 1px solid rgba(226, 232, 240, 0.2);
+}
+
+/* Botões com Vermelho Institucional MPPI */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -360,78 +453,69 @@ body {
   padding: 10px 18px;
   border-radius: var(--radius-md);
   font-size: 0.88rem;
-  font-weight: 600;
+  font-weight: 700;
   cursor: pointer;
-  transition: all 0.25s ease;
+  transition: all 0.22s ease;
   border: none;
   font-family: inherit;
 }
 
-.btn-primary {
-  background: linear-gradient(135deg, var(--mppi-gold), #9e7f41);
-  color: #0b0f19;
-  box-shadow: 0 4px 14px rgba(197, 160, 89, 0.3);
+.btn-primary, .btn-vinho {
+  background: linear-gradient(135deg, var(--mppi-red), #680117);
+  color: #ffffff;
+  box-shadow: 0 4px 16px var(--mppi-red-glow);
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
-.btn-primary:hover {
-  background: linear-gradient(135deg, var(--mppi-gold-light), var(--mppi-gold));
+.btn-primary:hover, .btn-vinho:hover {
+  background: linear-gradient(135deg, var(--mppi-red-light), var(--mppi-red));
   transform: translateY(-1px);
-  box-shadow: 0 6px 20px rgba(197, 160, 89, 0.45);
-}
-
-.btn-vinho {
-  background: linear-gradient(135deg, var(--mppi-primary), #6d0b14);
-  color: #fff;
-  box-shadow: 0 4px 14px var(--mppi-primary-glow);
-}
-
-.btn-vinho:hover {
-  background: linear-gradient(135deg, var(--mppi-primary-light), var(--mppi-primary));
-  transform: translateY(-1px);
-  box-shadow: 0 6px 20px rgba(155, 17, 30, 0.5);
+  box-shadow: 0 6px 22px rgba(166, 2, 37, 0.55);
 }
 
 .btn-outline {
-  background: rgba(255, 255, 255, 0.03);
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.15);
   color: var(--text-main);
 }
 
 .btn-outline:hover {
-  background: rgba(255, 255, 255, 0.08);
-  border-color: var(--mppi-gold);
-  color: var(--mppi-gold);
+  background: rgba(166, 2, 37, 0.15);
+  border-color: var(--mppi-red);
+  color: #ffffff;
 }
 
-/* Hero Section */
+/* Hero Section com a Onda Prateada e Vermelho Institucional */
 .hero-portal {
-  background: linear-gradient(135deg, rgba(155, 17, 30, 0.18) 0%, rgba(18, 24, 38, 0.85) 60%, rgba(197, 160, 89, 0.12) 100%);
-  border: 1px solid var(--border-gold);
+  background: linear-gradient(135deg, rgba(166, 2, 37, 0.22) 0%, rgba(18, 26, 42, 0.88) 55%, rgba(226, 232, 240, 0.06) 100%);
+  border: 1px solid var(--border-mppi);
+  border-left: 6px solid var(--mppi-red);
   border-radius: var(--radius-lg);
-  padding: 32px;
+  padding: 34px;
   margin-bottom: 28px;
   position: relative;
   overflow: hidden;
+  box-shadow: var(--shadow-lg), 0 0 35px rgba(166, 2, 37, 0.15);
 }
 
 .hero-portal::after {
   content: '';
   position: absolute;
-  top: -50px;
-  right: -50px;
-  width: 250px;
-  height: 250px;
-  background: radial-gradient(circle, rgba(197, 160, 89, 0.15) 0%, transparent 70%);
+  top: -60px;
+  right: -60px;
+  width: 280px;
+  height: 280px;
+  background: radial-gradient(circle, rgba(166, 2, 37, 0.2) 0%, transparent 70%);
   pointer-events: none;
 }
 
 /* Responsive */
 @media (max-width: 1200px) {
-  .layout { grid-template-columns: 250px 1fr; }
+  .layout { grid-template-columns: 260px 1fr; }
   .main-content { padding: 24px; }
 }
 
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
-  .sidebar { height: auto; position: static; }
+  .sidebar { height: auto; position: static; border-left: none; border-top: 4px solid var(--mppi-red); }
 }

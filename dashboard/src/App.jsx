@@ -9,16 +9,17 @@ import {
   ChevronRight, Building, Sparkles, Filter, Database, Check, Clock, UserCheck
 } from 'lucide-react';
 import corpusData from './data/corpus_resumo.json';
+import jurisData from './data/jurisprudencia_resumo.json';
 import './index.css';
 
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
     return (
-      <div style={{ background: 'rgba(15, 23, 42, 0.95)', border: '1px solid rgba(197,160,89,0.4)', padding: '14px', borderRadius: '10px', boxShadow: '0 8px 30px rgba(0,0,0,0.5)', zIndex: 100 }}>
+      <div style={{ background: 'rgba(15, 23, 42, 0.95)', border: '1px solid rgba(166,2,37,0.5)', padding: '14px', borderRadius: '10px', boxShadow: '0 8px 30px rgba(0,0,0,0.5)', zIndex: 100 }}>
         <p style={{ color: '#fff', marginBottom: '8px', fontWeight: 700, fontSize: '0.95rem' }}>{label}</p>
         {payload.map((entry, index) => (
-          <p key={index} style={{ color: entry.color || '#c5a059', fontSize: '0.88rem', margin: '4px 0', display: 'flex', alignItems: 'center', gap: '6px' }}>
-            <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: entry.color || '#c5a059', display: 'inline-block' }}></span>
+          <p key={index} style={{ color: entry.color || '#a60225', fontSize: '0.88rem', margin: '4px 0', display: 'flex', alignItems: 'center', gap: '6px' }}>
+            <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: entry.color || '#a60225', display: 'inline-block' }}></span>
             {entry.name}: <strong>{entry.value.toLocaleString()}</strong> {entry.unit || 'docs/processos'}
           </p>
         ))}
@@ -33,6 +34,8 @@ export default function App() {
   const [search, setSearch] = useState('');
   const [selectedOrgao, setSelectedOrgao] = useState('TODOS');
   const [selectedCat, setSelectedCat] = useState('TODOS');
+  const [jurisSearch, setJurisSearch] = useState('');
+  const [selectedJurisClasse, setSelectedJurisClasse] = useState('TODOS');
   const [copiedId, setCopiedId] = useState(null);
   
   // Controle Sub-tabs
@@ -111,7 +114,7 @@ export default function App() {
           </span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-          <span style={{ color: '#c5a059', fontWeight: 600, fontSize: '0.78rem' }}>
+          <span style={{ color: '#a60225', fontWeight: 600, fontSize: '0.78rem' }}>
             Lei Federal nº 14.133/2021 & Acórdão nº 300/2025 TCE-PI
           </span>
           <button 
@@ -128,13 +131,14 @@ export default function App() {
         {/* SIDEBAR NAVIGATION */}
         <aside className="sidebar">
           <div>
-            <div className="brand">
-              <div className="brand-icon">
-                <Shield size={26} color="#c5a059" />
+                        <div className="brand-wrapper">
+              <div className="brand-mppi-header">
+                <img src="/logo_mppi.png" alt="Ministério Público do Estado do Piauí" className="mppi-logo-img" />
               </div>
               <div>
-                <div className="brand-title">PROJETO Lic.IA</div>
-                <div className="brand-sub">Governança & Compras Públicas • MPPI</div>
+                <div className="brand-title-licia">PROJETO <span>Lic.IA</span></div>
+                <div className="brand-sub">Observatório de Governança & Compras</div>
+                <div className="brand-unit">CLC • Ministério Público do Piauí</div>
               </div>
             </div>
 
@@ -151,6 +155,13 @@ export default function App() {
                 onClick={() => setActiveTab('economicidade')}
               >
                 <TrendingDown size={18} /> Economicidade & Simulador
+              </button>
+
+                            <button 
+                className={`nav-item ${activeTab === 'jurisprudencia' ? 'active' : ''}`}
+                onClick={() => setActiveTab('jurisprudencia')}
+              >
+                <Scale size={18} /> Jurisprudência TCE-PI (1.766 Julgados)
               </button>
 
               <button 
@@ -188,7 +199,7 @@ export default function App() {
               <span style={{ fontSize: '0.78rem', color: '#94a3b8' }}>Repositório Unificado:</span>
               <span className="tag" style={{ background: 'rgba(16, 185, 129, 0.15)', color: '#34d399', fontSize: '0.68rem' }}>100% NE</span>
             </div>
-            <div style={{ fontSize: '1.25rem', fontWeight: 800, color: '#c5a059', letterSpacing: '-0.02em' }}>
+            <div style={{ fontSize: '1.25rem', fontWeight: 800, color: '#a60225', letterSpacing: '-0.02em' }}>
               {corpusData.total_docs.toLocaleString()} docs
             </div>
             <div style={{ fontSize: '0.72rem', color: '#64748b', marginTop: '4px', lineHeight: '1.3' }}>
@@ -215,7 +226,7 @@ export default function App() {
               </p>
             </div>
             <div style={{ display: 'flex', gap: '10px' }}>
-              <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059', border: '1px solid rgba(197, 160, 89, 0.3)' }}>
+              <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225', border: '1px solid rgba(166, 2, 37, 0.3)' }}>
                 12 Instituições Integradas
               </span>
               <span className="tag" style={{ background: 'rgba(16, 185, 129, 0.15)', color: '#34d399', border: '1px solid rgba(16, 185, 129, 0.3)' }}>
@@ -234,7 +245,7 @@ export default function App() {
                     <span className="tag" style={{ background: 'rgba(155, 17, 30, 0.3)', color: '#ff6b7a', border: '1px solid rgba(155, 17, 30, 0.6)' }}>
                       Ecossistema de IA do MPPI • Atividade-Meio & Governança de Contratações
                     </span>
-                    <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.2)', color: '#e6c883' }}>
+                    <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.2)', color: '#e6c883' }}>
                       Prêmio CNMP 2026 • Governança e Gestão
                     </span>
                   </div>
@@ -301,7 +312,7 @@ export default function App() {
                   <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '12px' }}>
                     <div style={{ display: 'flex', justifyContent: 'space-between', padding: '9px 14px', background: 'rgba(255,255,255,0.02)', borderRadius: '6px' }}>
                       <span style={{ fontSize: '0.86rem', color: '#cbd5e1' }}>Termos de Referência (TR/PB)</span>
-                      <strong style={{ color: '#c5a059' }}>{corpusData.by_cat['tr'] || 1250}</strong>
+                      <strong style={{ color: '#a60225' }}>{corpusData.by_cat['tr'] || 1250}</strong>
                     </div>
                     <div style={{ display: 'flex', justifyContent: 'space-between', padding: '9px 14px', background: 'rgba(255,255,255,0.02)', borderRadius: '6px' }}>
                       <span style={{ fontSize: '0.86rem', color: '#cbd5e1' }}>Editais & Avisos Convocatórios</span>
@@ -337,8 +348,8 @@ export default function App() {
                     { nome: 'MPRN', estado: 'Rio Grande do Norte', docs: 2743, cnpj: '08.539.467/0001-63', cor: '#3b82f6', destaque: 'Maior acervo de TRs e atas do NE' },
                     { nome: 'TJ-PI', estado: 'Piauí (Judiciário)', docs: 2178, cnpj: '04.054.499/0001-72', cor: '#8b5cf6', destaque: 'Provimento 13/2025 e Sede/FERMOJUPI' },
                     { nome: 'MPSE', estado: 'Sergipe', docs: 1144, cnpj: '13.168.687/0001-10', cor: '#10b981', destaque: '541 certames e rito sumário de valor' },
-                    { nome: 'TCE-PI', estado: 'Piauí (Controle Externo)', docs: 1120, cnpj: '05.818.935/0001-30', cor: '#c5a059', destaque: 'Acórdão 300/2025 e precedentes vinculantes' },
-                    { nome: 'MPPI', estado: 'Piauí (Órgão Piloto)', docs: 561, cnpj: '04.145.419/0001-44', cor: '#9b111e', destaque: '153 certames e peças descompactadas SEI' },
+                    { nome: 'TCE-PI', estado: 'Piauí (Controle Externo)', docs: 1120, cnpj: '05.818.935/0001-30', cor: '#a60225', destaque: 'Acórdão 300/2025 e precedentes vinculantes' },
+                    { nome: 'MPPI', estado: 'Piauí (Órgão Piloto)', docs: 561, cnpj: '04.145.419/0001-44', cor: '#a60225', destaque: '153 certames e peças descompactadas SEI' },
                     { nome: 'MPAL', estado: 'Alagoas', docs: 538, cnpj: '12.472.734/0001-52', cor: '#f59e0b', destaque: 'Líder em matrizes de risco (60 peças)' },
                     { nome: 'MPBA', estado: 'Bahia', docs: 472, cnpj: '04.142.491/0001-66', cor: '#ec4899', destaque: 'Maior volume orçamentário terceirizado' },
                     { nome: 'MPDFT', estado: 'Distrito Federal (MPU)', docs: 435, cnpj: '26.989.715/0002-93', cor: '#06b6d4', destaque: 'Referência em TIC, SLAs e IMR ministerial' },
@@ -390,7 +401,7 @@ export default function App() {
                 </div>
                 <div className="stat-card" style={{ borderLeft: '4px solid #c5a059' }}>
                   <div className="stat-label">Deságio Médio Global</div>
-                  <div className="stat-val" style={{ color: '#c5a059' }}>20,18%</div>
+                  <div className="stat-val" style={{ color: '#a60225' }}>20,18%</div>
                   <div className="stat-sub">Faixa saudável de competitividade</div>
                 </div>
               </div>
@@ -398,7 +409,7 @@ export default function App() {
               {/* SIMULADOR INTERATIVO DE DESÁGIO E RISCO */}
               <div className="simulador-box" style={{ marginBottom: '24px' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '16px' }}>
-                  <Calculator size={22} color="#c5a059" />
+                  <Calculator size={22} color="#a60225" />
                   <h3 style={{ fontSize: '1.25rem', fontWeight: 700, color: '#fff' }}>
                     Simulador Interativo de Deságio e Risco Lic.IA (CLC/MPPI)
                   </h3>
@@ -414,7 +425,7 @@ export default function App() {
                         Valor Estimado Orçado no ETP / TR:
                       </label>
                       <div style={{ display: 'flex', alignItems: 'center', background: '#0f172a', border: '1px solid #334155', borderRadius: '8px', padding: '10px 14px' }}>
-                        <span style={{ color: '#c5a059', fontWeight: 700, marginRight: '8px' }}>R$</span>
+                        <span style={{ color: '#a60225', fontWeight: 700, marginRight: '8px' }}>R$</span>
                         <input 
                           type="number" 
                           value={simValor} 
@@ -443,7 +454,7 @@ export default function App() {
                   </div>
 
                   {/* RESULTADO DO SIMULADOR */}
-                  <div style={{ background: 'rgba(15, 23, 42, 0.7)', border: '1px solid rgba(197, 160, 89, 0.3)', borderRadius: '12px', padding: '20px' }}>
+                  <div style={{ background: 'rgba(15, 23, 42, 0.7)', border: '1px solid rgba(166, 2, 37, 0.3)', borderRadius: '12px', padding: '20px' }}>
                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '14px', marginBottom: '14px' }}>
                       <div style={{ padding: '10px', background: 'rgba(255,255,255,0.02)', borderRadius: '8px', borderLeft: '3px solid #10b981' }}>
                         <div style={{ fontSize: '0.75rem', color: '#94a3b8' }}>Economia Projetada</div>
@@ -471,7 +482,7 @@ export default function App() {
                     </div>
 
                     <div style={{ fontSize: '0.8rem', color: '#cbd5e1', lineHeight: '1.4' }}>
-                      <strong style={{ color: '#c5a059' }}>Parâmetro de Governança para o MPPI:</strong> Propostas que apresentem desconto superior a {simuladorResultado.riscoLimite}% para {simuladorResultado.categoriaNome} devem acionar diligência formal de exequibilidade (Art. 59, § 2º da Lei 14.133/21).
+                      <strong style={{ color: '#a60225' }}>Parâmetro de Governança para o MPPI:</strong> Propostas que apresentem desconto superior a {simuladorResultado.riscoLimite}% para {simuladorResultado.categoriaNome} devem acionar diligência formal de exequibilidade (Art. 59, § 2º da Lei 14.133/21).
                     </div>
                   </div>
                 </div>
@@ -512,7 +523,7 @@ export default function App() {
                       </p>
                     </div>
 
-                    <div style={{ padding: '12px', background: 'rgba(197, 160, 89, 0.1)', borderLeft: '4px solid #c5a059', borderRadius: '4px' }}>
+                    <div style={{ padding: '12px', background: 'rgba(166, 2, 37, 0.1)', borderLeft: '4px solid #c5a059', borderRadius: '4px' }}>
                       <strong style={{ color: '#e6c883', fontSize: '0.85rem' }}>Obras e Reformas Prediais (Deságio Médio: 10,58%)</strong>
                       <p style={{ color: '#cbd5e1', fontSize: '0.8rem', marginTop: '4px' }}>
                         Margem estreita regulada pelo SINAPI. Descontos elevados costumam acarretar paralisação e pedidos intempestivos de aditivos.
@@ -613,7 +624,7 @@ export default function App() {
                         <div>
                           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '8px' }}>
                             <span style={{ fontWeight: 700, color: '#f1f5f9', fontSize: '0.95rem' }}>{res.categoria}</span>
-                            <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059', fontSize: '0.72rem' }}>
+                            <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225', fontSize: '0.72rem' }}>
                               {res.frequencia}
                             </span>
                           </div>
@@ -621,7 +632,7 @@ export default function App() {
                             {res.descricao}
                           </p>
                           <div style={{ background: 'rgba(15, 23, 42, 0.6)', padding: '10px', borderRadius: '6px', border: '1px dashed #334155', fontSize: '0.8rem', color: '#94a3b8', fontStyle: 'italic', marginBottom: '12px' }}>
-                            <strong style={{ color: '#c5a059', fontStyle: 'normal' }}>Cláusula Padrão:</strong> "{res.recomendacao_tipo}"
+                            <strong style={{ color: '#a60225', fontStyle: 'normal' }}>Cláusula Padrão:</strong> "{res.recomendacao_tipo}"
                           </div>
                         </div>
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderTop: '1px solid #1e293b', paddingTop: '8px' }}>
@@ -712,7 +723,7 @@ export default function App() {
                         {(corpusData.controle_interno_juridico?.matrizes_por_orgao || []).map((org, idx) => (
                           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '8px 12px', background: 'rgba(255,255,255,0.02)', borderRadius: '4px' }}>
                             <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
-                              <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059', minWidth: '55px', textAlign: 'center' }}>
+                              <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225', minWidth: '55px', textAlign: 'center' }}>
                                 {org.orgao}
                               </span>
                               <span style={{ fontSize: '0.82rem', color: '#cbd5e1' }}>{org.categoria_principal}</span>
@@ -806,7 +817,7 @@ export default function App() {
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '18px' }}>
                     {(corpusData.controle_interno_juridico?.master_checklist_instrucao || []).map((secao, sIdx) => (
                       <div key={sIdx} className="card">
-                        <h4 style={{ color: '#c5a059', fontSize: '0.98rem', fontWeight: 600, marginBottom: '12px', borderBottom: '1px solid #1e293b', paddingBottom: '6px' }}>
+                        <h4 style={{ color: '#a60225', fontSize: '0.98rem', fontWeight: 600, marginBottom: '12px', borderBottom: '1px solid #1e293b', paddingBottom: '6px' }}>
                           {secao.etapa}
                         </h4>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
@@ -901,7 +912,7 @@ export default function App() {
               {selectedMinuta === 'minuta1' && (
                 <div className="card" style={{ borderLeft: '4px solid #c5a059' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
-                    <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059' }}>
+                    <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225' }}>
                       Minuta de Ato da Procuradoria-Geral de Justiça
                     </span>
                     <button 
@@ -919,7 +930,7 @@ export default function App() {
                     Institui o rito sumário eletrônico com aviso de contratação de 3 dias úteis, estabelece a facultatividade de elaboração de ETP e matriz de riscos para bens comuns de pronta entrega, e formaliza o Parecer Jurídico Referencial da Assessoria Jurídica, respaldado pelo Art. 46 do Provimento nº 13/2025 do TJ-PI.
                   </p>
                   <div style={{ background: 'rgba(15, 23, 42, 0.5)', padding: '14px', borderRadius: '8px', border: '1px solid #1e293b', fontSize: '0.85rem', color: '#cbd5e1' }}>
-                    <strong style={{ color: '#c5a059' }}>Principais Dispositivos:</strong>
+                    <strong style={{ color: '#a60225' }}>Principais Dispositivos:</strong>
                     <ul style={{ marginTop: '8px', paddingLeft: '20px', display: 'flex', flexDirection: 'column', gap: '6px' }}>
                       <li>Art. 3º: Rito sumário com instrução simplificada via DFD e mapa de preços IN 65/2021.</li>
                       <li>Art. 7º: Dispensa fundamentada de ETP e Matriz de Riscos em compras de entrega imediata.</li>
@@ -997,11 +1008,11 @@ export default function App() {
           {activeTab === 'boas-praticas' && (
             <div className="tab-pane">
               {/* HERO DO PROJETO */}
-              <div className="hero-portal" style={{ borderColor: '#c5a059' }}>
+              <div className="hero-portal" style={{ borderColor: '#a60225' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
                   <div style={{ maxWidth: '80%' }}>
                     <div style={{ display: 'flex', gap: '10px', alignItems: 'center', marginBottom: '10px' }}>
-                      <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.2)', color: '#e6c883', border: '1px solid rgba(197, 160, 89, 0.5)' }}>
+                      <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.2)', color: '#e6c883', border: '1px solid rgba(166, 2, 37, 0.5)' }}>
                         🏆 Candidatura Oficial • Prêmio CNMP 2026
                       </span>
                       <span className="tag" style={{ background: 'rgba(155, 17, 30, 0.25)', color: '#ff6b7a' }}>
@@ -1021,7 +1032,7 @@ export default function App() {
                   </div>
                   <div style={{ textAlign: 'right' }}>
                     <div style={{ fontSize: '0.78rem', color: '#94a3b8', textTransform: 'uppercase' }}>Categoria CNMP:</div>
-                    <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#c5a059', marginTop: '2px' }}>
+                    <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#a60225', marginTop: '2px' }}>
                       Governança e Gestão
                     </div>
                     <div style={{ fontSize: '0.75rem', color: '#34d399', marginTop: '4px' }}>
@@ -1059,7 +1070,7 @@ export default function App() {
                           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                               <span style={{ fontSize: '1.1rem', fontWeight: 800, color: '#fff' }}>{crit.criterio}</span>
-                              <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059' }}>
+                              <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225' }}>
                                 Peso {crit.peso}
                               </span>
                             </div>
@@ -1094,7 +1105,7 @@ export default function App() {
                         </p>
                       </div>
                       <div style={{ background: 'rgba(15, 23, 42, 0.6)', padding: '14px', borderRadius: '8px', border: '1px solid #1e293b' }}>
-                        <strong style={{ color: '#c5a059', fontSize: '0.85rem' }}>PEN-MP (Conselho Nacional do MP)</strong>
+                        <strong style={{ color: '#a60225', fontSize: '0.85rem' }}>PEN-MP (Conselho Nacional do MP)</strong>
                         <p style={{ color: '#cbd5e1', fontSize: '0.8rem', marginTop: '6px' }}>
                           {corpusData.premio_boas_praticas?.alinhamento_estrategico.pen_mp}
                         </p>
@@ -1140,13 +1151,13 @@ export default function App() {
                       </div>
 
                       <div>
-                        <strong style={{ color: '#c5a059', fontSize: '0.9rem', display: 'block', marginBottom: '8px' }}>
+                        <strong style={{ color: '#a60225', fontSize: '0.9rem', display: 'block', marginBottom: '8px' }}>
                           3. Os 5 Produtos Estratégicos Entregues:
                         </strong>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '10px' }}>
                           {(corpusData.premio_boas_praticas?.tap_oficial.produtos_entregues || []).map((p, idx) => (
                             <div key={idx} style={{ background: 'rgba(255,255,255,0.02)', padding: '10px', borderRadius: '6px', border: '1px solid #1e293b' }}>
-                              <div style={{ color: '#c5a059', fontWeight: 800, fontSize: '0.85rem' }}>Produto {p.num}</div>
+                              <div style={{ color: '#a60225', fontWeight: 800, fontSize: '0.85rem' }}>Produto {p.num}</div>
                               <div style={{ fontWeight: 600, color: '#fff', fontSize: '0.82rem', marginTop: '2px' }}>{p.nome}</div>
                               <div style={{ color: '#94a3b8', fontSize: '0.74rem', marginTop: '4px' }}>{p.desc}</div>
                             </div>
@@ -1169,7 +1180,7 @@ export default function App() {
                 
                 <div style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: '14px', marginTop: '16px' }}>
                   <div style={{ position: 'relative' }}>
-                    <Search size={18} style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: '#c5a059' }} />
+                    <Search size={18} style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: '#a60225' }} />
                     <input 
                       type="text" 
                       placeholder="Pesquisar por objeto, termo, tecnologia ou número..." 
@@ -1225,7 +1236,7 @@ export default function App() {
                   <div key={idx} style={{ padding: '16px', background: 'rgba(18, 24, 38, 0.65)', border: '1px solid #1e293b', borderRadius: '8px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                     <div style={{ maxWidth: '85%' }}>
                       <div style={{ display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '6px' }}>
-                        <span className="tag" style={{ background: 'rgba(197, 160, 89, 0.15)', color: '#c5a059', fontSize: '0.74rem' }}>
+                        <span className="tag" style={{ background: 'rgba(166, 2, 37, 0.15)', color: '#a60225', fontSize: '0.74rem' }}>
                           {doc.orgao}
                         </span>
                         <span className="tag" style={{ background: 'rgba(59, 130, 246, 0.15)', color: '#60a5fa', fontSize: '0.74rem' }}>
@@ -1248,6 +1259,153 @@ export default function App() {
               </div>
             </div>
           )}
+
+          {/* TAB 7: JURISPRUDÊNCIA TCE-PI (1.766 JULGADOS) */}
+          {activeTab === 'jurisprudencia' && (
+            <div>
+              {/* BANNER INSTITUCIONAL DE JURISPRUDÊNCIA */}
+              <div className="hero-portal" style={{ marginBottom: '28px' }}>
+                <div className="card-tarja"></div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '20px' }}>
+                  <div style={{ maxWidth: '800px' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '8px' }}>
+                      <span className="tag tag-mppi">
+                        <Scale size={13} /> AUDITORIA JURISPRUDENCIAL PREVENTIVA
+                      </span>
+                      <span className="tag tag-silver">
+                        118 INFORMATIVOS PROCESSADOS
+                      </span>
+                    </div>
+                    <h2 style={{ fontSize: '1.75rem', fontWeight: 800, color: '#ffffff', lineHeight: '1.25' }}>
+                      Jurisprudência Consolidada do TCE-PI: 1.766 Julgados Estruturados
+                    </h2>
+                    <p style={{ color: '#cbd5e1', fontSize: '0.94rem', marginTop: '8px', lineHeight: '1.5' }}>
+                      Módulo semântico da <strong>Lic.IA</strong> que cruza minutas, termos de referência e editais do MPPI com as teses fixadas pelo Plenário e pelas Câmaras do Tribunal de Contas, prevenindo apontamentos, sobrepreço e anulação de certames.
+                    </p>
+                  </div>
+                  <div style={{ textAlign: 'right', background: 'rgba(10,14,23,0.85)', padding: '18px 24px', borderRadius: '12px', border: '1px solid rgba(166,2,37,0.3)' }}>
+                    <div style={{ fontSize: '0.78rem', color: '#94a3b8', textTransform: 'uppercase', letterSpacing: '0.05em' }}>Precedentes de Licitações</div>
+                    <div style={{ fontSize: '2.4rem', fontWeight: 800, color: '#ffffff' }}>224</div>
+                    <div style={{ fontSize: '0.76rem', color: '#ff4d6d' }}>Compras & Contratos</div>
+                  </div>
+                </div>
+              </div>
+
+              {/* STATS DE JURISPRUDÊNCIA */}
+              <div className="stats-grid" style={{ gridTemplateColumns: 'repeat(4, 1fr)', marginBottom: '28px' }}>
+                <div className="stat-card">
+                  <div className="stat-label">Informativos Baixados</div>
+                  <div className="stat-val">{jurisData.total_informativos}</div>
+                  <div className="stat-sub">Pleno e Câmaras (PDFs íntegros)</div>
+                </div>
+                <div className="stat-card">
+                  <div className="stat-label">Total de Julgados</div>
+                  <div className="stat-val">{jurisData.total_julgados.toLocaleString()}</div>
+                  <div className="stat-sub">Decisões, acórdãos e votos</div>
+                </div>
+                <div className="stat-card">
+                  <div className="stat-label">Denúncias & Fraudes</div>
+                  <div className="stat-val">278</div>
+                  <div className="stat-sub">Apurações de irregularidades</div>
+                </div>
+                <div className="stat-card">
+                  <div className="stat-label">Tomadas de Contas</div>
+                  <div className="stat-val">210</div>
+                  <div className="stat-sub">Dano ao erário e sobrepreço</div>
+                </div>
+              </div>
+
+              {/* FILTROS & BUSCA EM TEMPO REAL */}
+              <div className="card" style={{ marginBottom: '24px' }}>
+                <div className="card-tarja"></div>
+                <div style={{ display: 'flex', gap: '14px', flexWrap: 'wrap', alignItems: 'center' }}>
+                  <div style={{ flex: 1, minWidth: '280px', position: 'relative' }}>
+                    <Search size={18} style={{ position: 'absolute', left: '14px', top: '13px', color: '#94a3b8' }} />
+                    <input 
+                      type="text" 
+                      placeholder="Pesquisar por processo, relator, município ou tema (ex: pregão, sobrepreço, resíduos)..."
+                      value={jurisSearch}
+                      onChange={e => setJurisSearch(e.target.value)}
+                      style={{
+                        width: '100%',
+                        padding: '11px 16px 11px 42px',
+                        background: 'rgba(10, 14, 23, 0.8)',
+                        border: '1px solid rgba(226, 232, 240, 0.2)',
+                        borderRadius: '8px',
+                        color: '#fff',
+                        fontSize: '0.88rem'
+                      }}
+                    />
+                  </div>
+                  <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                    {['TODOS', 'TOMADA DE CONTAS', 'DENÚNCIA', 'REPRESENTAÇÃO', 'RECURSO'].map(cls => (
+                      <button 
+                        key={cls}
+                        className={`btn ${selectedJurisClasse === cls ? 'btn-vinho' : 'btn-outline'}`}
+                        style={{ padding: '8px 14px', fontSize: '0.78rem' }}
+                        onClick={() => setSelectedJurisClasse(cls)}
+                      >
+                        {cls}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+              {/* LISTAGEM DOS CASOS */}
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+                {(jurisData.casos_destaque || [])
+                  .filter(c => {
+                    const matchSearch = jurisSearch === '' || 
+                      (c.numero_processo && c.numero_processo.toLowerCase().includes(jurisSearch.toLowerCase())) ||
+                      (c.objeto && c.objeto.toLowerCase().includes(jurisSearch.toLowerCase())) ||
+                      (c.unidade_gestora && c.unidade_gestora.toLowerCase().includes(jurisSearch.toLowerCase())) ||
+                      (c.resumo_julgamento && c.resumo_julgamento.toLowerCase().includes(jurisSearch.toLowerCase()));
+                    const matchClasse = selectedJurisClasse === 'TODOS' || c.tipo_processo === selectedJurisClasse;
+                    return matchSearch && matchClasse;
+                  })
+                  .slice(0, 25)
+                  .map((item, idx) => (
+                    <div key={item.id || idx} className="card" style={{ padding: '20px 24px' }}>
+                      <div className="card-tarja"></div>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px', flexWrap: 'wrap', gap: '10px' }}>
+                        <div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+                            <span className="tag tag-mppi">{item.tipo_processo}</span>
+                            <span style={{ fontSize: '0.88rem', fontWeight: 800, color: '#ffffff' }}>
+                              Processo {item.numero_processo}
+                            </span>
+                            <span style={{ color: '#64748b' }}>•</span>
+                            <span style={{ fontSize: '0.8rem', color: '#cbd5e1' }}>{item.colegiado}</span>
+                          </div>
+                          <div style={{ fontSize: '0.78rem', color: '#94a3b8' }}>
+                            Sessão: <strong>{item.data_sessao}</strong> | Relator: <strong>{item.relator}</strong> | UG: <strong style={{ color: '#f8fafc' }}>{item.unidade_gestora}</strong>
+                          </div>
+                        </div>
+                        <button 
+                          className="btn btn-outline" 
+                          style={{ padding: '4px 10px', fontSize: '0.74rem' }}
+                          onClick={() => handleCopy(item.resumo_julgamento, item.id)}
+                        >
+                          {copiedId === item.id ? <Check size={12} color="#10b981" /> : <Copy size={12} />} Copiar
+                        </button>
+                      </div>
+
+                      {item.objeto && (
+                        <div style={{ fontSize: '0.84rem', color: '#e2e8f0', marginBottom: '8px', lineHeight: '1.45', background: 'rgba(255,255,255,0.03)', padding: '8px 12px', borderRadius: '6px' }}>
+                          <strong>Objeto:</strong> {item.objeto}
+                        </div>
+                      )}
+
+                      <div style={{ fontSize: '0.82rem', color: '#cbd5e1', lineHeight: '1.45', borderLeft: '3px solid #a60225', paddingLeft: '12px' }}>
+                        <strong>Decisão / Síntese:</strong> {item.resumo_julgamento}
+                      </div>
+                    </div>
+                  ))}
+              </div>
+            </div>
+          )}
+
         </main>
       </div>
     </div>

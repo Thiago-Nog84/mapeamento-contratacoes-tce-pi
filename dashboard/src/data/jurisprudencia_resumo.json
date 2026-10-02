@@ -1,0 +1,713 @@
+{
+  "total_julgados": 1766,
+  "total_informativos": 118,
+  "total_licitacoes": 224,
+  "classes": [
+    {
+      "nome": "Outros",
+      "qtd": 685
+    },
+    {
+      "nome": "DENÚNCIA",
+      "qtd": 278
+    },
+    {
+      "nome": "RECURSO",
+      "qtd": 270
+    },
+    {
+      "nome": "TOMADA DE CONTAS",
+      "qtd": 210
+    },
+    {
+      "nome": "REPRESENTAÇÃO",
+      "qtd": 176
+    },
+    {
+      "nome": "PRESTAÇÃO DE CONTAS",
+      "qtd": 61
+    },
+    {
+      "nome": "EMBARGOS",
+      "qtd": 31
+    },
+    {
+      "nome": "AGRAVO",
+      "qtd": 26
+    },
+    {
+      "nome": "AUDITORIA",
+      "qtd": 24
+    },
+    {
+      "nome": "CONSULTA",
+      "qtd": 3
+    },
+    {
+      "nome": "MEDIDA CAUTELAR",
+      "qtd": 2
+    }
+  ],
+  "casos_destaque": [
+    {
+      "id": 1518,
+      "numero_processo": "TC/001224/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de outubro de 2025",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "CAMARA DE CAMPO ALEGRE",
+      "objeto": "Versam os autos sobre inspeção realizada na C. M",
+      "resumo_julgamento": "PROCEDÊNCIA, MULTA, NÃO ENVIO COMUNICAÇÃO,  NÃO INABILITAÇÃO E ALERTA"
+    },
+    {
+      "id": 1506,
+      "numero_processo": "TC/008914/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de outubro de 2025",
+      "relator": "ABELARDO VILANOV A\nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "TC/008914/2023 | TOMADA DE CONTAS ESPECIAL NA P. M. DE BAIXA GRANDE DO RIBEIRO. (EXERCÍCIO DE 2023) | Interessado(s): José Luis Sousa (Prefeito) e outros. Unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO INTERESSADO: JÚLIO CÉSAR"
+    },
+    {
+      "id": 1503,
+      "numero_processo": "TC/008914/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "05 de novembro de 2025",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "IRREGULARIDADE, APLICAÇÃO DE MULTA, IMPUTAÇÃO DE DÉBITO, INABILITAÇÃO PARA EXER -"
+    },
+    {
+      "id": 1501,
+      "numero_processo": "TC/003540/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "26 de novembro de 2025",
+      "relator": "SUBST",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA"
+    },
+    {
+      "id": 1494,
+      "numero_processo": "TC/009328/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Versam os presentes autos sobre inspeção efetuada pela DFCONTRATOS I no âmbito da P. M",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO POR SOLICITAÇÃO DO ADVOGADO LUÍS VITOR SOUSA SAN -"
+    },
+    {
+      "id": 1493,
+      "numero_processo": "TC/009322/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Versam os autos sobre Inspeção realizada na P.M",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO. COMPORÁ A PAUTA DE JULGAMENTO DO DIA 11/02/2026"
+    },
+    {
+      "id": 1492,
+      "numero_processo": "TC/006920/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "Noticia possíveis irregularidades",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO. COMPORÁ A PAUTA DE JULGAMENTO DO DIA 11/02/2026"
+    },
+    {
+      "id": 1486,
+      "numero_processo": "TC/019723/2021",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO. COMPORÁ A PAUTA DE JULGAMENTO DO DIA 11/02/2026"
+    },
+    {
+      "id": 1484,
+      "numero_processo": "TC/009966/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "REGULARIDADE"
+    },
+    {
+      "id": 1483,
+      "numero_processo": "TC/004311/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "Não informada",
+      "objeto": "",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 2 SESSÕES POR SOLICITAÇÃO DO ADVOGADO LUIS FELLIPE MARTINS"
+    },
+    {
+      "id": 1482,
+      "numero_processo": "TC/012624/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "Não informada",
+      "objeto": "",
+      "resumo_julgamento": "TC/012624/2023), que examinou a contratação | de empresa para execução de serviços vinculados ao fornecimento de materiais médico hospitalares pela P.M. de Valença do Piauí.  Dados | complementares: Responsável: Marcelo Costa e Silva (Prefeito). Proc"
+    },
+    {
+      "id": 1481,
+      "numero_processo": "TC/012624/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção para acompanhar o cumprimento da decisão proferida no Acórdão nº 60/ 2025 (",
+      "resumo_julgamento": "TC/012624/2023 | INSPEÇÃO NA P. M. DE V ALENCA DO PIAUI - EXERCÍCIO FINANCEIRO DE 2023. | Interessado(s): Diretoria de Fiscalização de Licitações e Contratações (DFCONTRATOS 1). Unidade Gestora: P. M. DE V ALENCA DO PIAUI."
+    },
+    {
+      "id": 1478,
+      "numero_processo": "TC/005149/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "28 de janeiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Trata-se de monitoramento em processo de inspeção instaurado no âmbito do Plano Anual de Controle Externo (Tema 8 – transporte escolar), tendo",
+      "resumo_julgamento": "APLICAÇÃO DE MULTA"
+    },
+    {
+      "id": 1474,
+      "numero_processo": "TC/007350/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Versam os presentes autos sobre inspeção realizada pela Diretoria de Fiscalização. de Licitações e Contratações -",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, ABERTURA DE TOMADA DE CONTAS ESPECIAL, EXPEDI -"
+    },
+    {
+      "id": 1472,
+      "numero_processo": "TC/002024/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades apuradas no Pregão Eletrônico nº 004/2022, que  teve por objeto a contratação de empresa",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, INSTAURAÇÃO DE TOMADA DE CONTAS ESPECIAL, EX -"
+    },
+    {
+      "id": 1469,
+      "numero_processo": "TC/009328/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Versam os presentes autos sobre inspeção efetuada pela DFCONTRATOS I no âmbito da P. M",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, EXPEDIÇÃO DE ALERTAS E RECOMENDAÇÕES"
+    },
+    {
+      "id": 1468,
+      "numero_processo": "TC/009322/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Versam os autos sobre Inspeção realizada na P.M",
+      "resumo_julgamento": "PROCEDÊNCIA"
+    },
+    {
+      "id": 1467,
+      "numero_processo": "TC/006920/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "Noticia possíveis irregularidades",
+      "resumo_julgamento": "PROCEDÊNCIA PARCIAL, APLICAÇÃO DE MULTA, DETERMINAÇÃO."
+    },
+    {
+      "id": 1466,
+      "numero_processo": "TC/019723/2021",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas",
+      "resumo_julgamento": "IRREGULARIDADE, IMPUTAÇÃO DE DÉBITO, APLICAÇÃO DE MULTA, ENVIO DE CÓPIA AO MINIS -"
+    },
+    {
+      "id": 1464,
+      "numero_processo": "TC/004753/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção para analisar licitações relacionadas à aquisição de combustíveis nos  exercícios de 2023 e 2024, visando o cumprimento",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, EXPEDIÇÃO DE ALERTAS, RECOMENDAÇÃO"
+    },
+    {
+      "id": 1463,
+      "numero_processo": "TC/007800/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "11 de fevereiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades na condução do Pregão nº 04/2024, cujo objeto se refere a “Contratação de empresa para a urbanização de espaço",
+      "resumo_julgamento": "ARQUIV AMENTO, INSTAURAÇÃO DE PROCESSO DE MONITORAMENTO"
+    },
+    {
+      "id": 1454,
+      "numero_processo": "TC/007019/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "25 de fevereiro de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção objetivando acompanhar a adoção de medidas para aplicação da Lei  nacional nº 14.133/21, tendo em vista que a partir de",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, DETERMINAÇÕES, RECOMENDAÇÕES E ALERTAS"
+    },
+    {
+      "id": 1450,
+      "numero_processo": "TC/012624/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "25 de fevereiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "Não informada",
+      "objeto": "",
+      "resumo_julgamento": "TC/012624/2023), que examinou a contratação | de empresa para execução de serviços vinculados ao fornecimento de materiais médico hospitalares pela P.M. de Valença do Piauí.  Dados | complementares: Responsável: Marcelo Costa e Silva (Prefeito). Proc"
+    },
+    {
+      "id": 1449,
+      "numero_processo": "TC/012624/2023",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "25 de fevereiro de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção para acompanhar o cumprimento da decisão proferida no Acórdão nº 60/2025 (",
+      "resumo_julgamento": "TC/012624/2023 | INSPEÇÃO NA P. M. DE V ALENCA DO PIAUI - EXERCÍCIO FINANCEIRO DE 2023. | Interessado(s): Diretoria de Fiscalização de Licitações e Contratações (DFCONTRATOS 1). Unidade Gestora: P. M. DE V ALENCA DO PIAUI."
+    },
+    {
+      "id": 1447,
+      "numero_processo": "TC/013027/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "25 de março de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "COORDENADORIA DE",
+      "objeto": "Trata-se de Inspeção para acompanhamento concomitante de contratações  realizadas pela",
+      "resumo_julgamento": "PROCEDÊNCIA PARCIAL, APLICAÇÃO DE MULTA, NÃO INSTAURAÇÃO DE TOMADA DE CONTAS"
+    },
+    {
+      "id": 1438,
+      "numero_processo": "TC/011563/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "8 de abril de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia suposta irregularidade",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR UMA SESSÃO. COMPORÁ A PAUTA DO DIA 29/04/2026"
+    },
+    {
+      "id": 1434,
+      "numero_processo": "TC/009786/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "8 de abril de 2026",
+      "relator": "Não identificado",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas",
+      "resumo_julgamento": "IMPROCEDÊNCIA"
+    },
+    {
+      "id": 1431,
+      "numero_processo": "TC/003917/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "29 de abril de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, DETERMINAÇÃO"
+    },
+    {
+      "id": 1424,
+      "numero_processo": "TC/011563/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "29 de abril de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia suposta irregularidade na formulação,",
+      "resumo_julgamento": "TC/011563/2025 | REPRESENTAÇÃO C/C MEDIDA CAUTELAR CONTRA A P. M. DE RIO GRANDE DO PIAUI - | EXERCÍCIO FINANCEIRO DE 2017"
+    },
+    {
+      "id": 1423,
+      "numero_processo": "TC/004399/2026",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "29 de abril de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Tratam os autos sobre Acompanhamento de",
+      "resumo_julgamento": "VISTAS AO CONS. SUBST"
+    },
+    {
+      "id": 1420,
+      "numero_processo": "TC/010687/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "13 de maio de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção realizada na Prefeitura Municipal de Floriano, com o escopo de analisar processos licitatórios realizados pelo mencionado ente,",
+      "resumo_julgamento": "EXCLUSÃO DO PÓLO PASSIVO, PROCEDÊNCIA PARCIAL, APLICAÇÃO DE MULTA, ALERTAS"
+    },
+    {
+      "id": 1419,
+      "numero_processo": "TC/004993/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "13 de maio de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "CONSORCIO DOS MUNICIPIOS DO MEDIO PARNAIBA",
+      "objeto": "Noticia possíveis irregularidades no julgamento do Pregão Eletrônico nº 001/2025 – SRP, realizado pelo Consórcio dos",
+      "resumo_julgamento": "PROCEDÊNCIA PARCIA L, APLICAÇÃO DE MULTA, REVOGAÇÃO DA MEDIDA CAUTELAR, DETER -"
+    },
+    {
+      "id": 1415,
+      "numero_processo": "TC/011563/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "13 de maio de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia suposta irregularidade",
+      "resumo_julgamento": "TC/011563/2025 | REPRESENTAÇÃO C/C MEDIDA CAUTELAR CONTRA A P. M. DE RIO GRANDE DO PIAUI - EXERCÍCIO FINANCEIRO DE 2017. | Interessado(s): Ministério Público do Estado do Piauí. Unidade Gestora: P. M. DE RIO GRANDE DO PIAUI. Objeto: Noticia suposta i"
+    },
+    {
+      "id": 1411,
+      "numero_processo": "TC/009865/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "13 de maio de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "PRESTAÇÃO DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "ARQUIV AMENTO"
+    },
+    {
+      "id": 1402,
+      "numero_processo": "TC/015862/2022",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "IDEPI - INSTITUTO DE DESENVOLVIMENTO DO PIAUI",
+      "objeto": "",
+      "resumo_julgamento": "DILIGÊNCIA."
+    },
+    {
+      "id": 1399,
+      "numero_processo": "TC/002850/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades no procedimento licitatório da Tomada de Preços 001/2021 abrangendo o processo de contratação, a",
+      "resumo_julgamento": "ARQUIV AMENTO"
+    },
+    {
+      "id": 1397,
+      "numero_processo": "TC/007996/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO: COMPORÁ A PAUTA DO DIA 10/06/2026"
+    },
+    {
+      "id": 1396,
+      "numero_processo": "TC/004399/2026",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Tratam os autos sobre Acompanhamento de",
+      "resumo_julgamento": "ARQUIV AMENTO, NÃO INSTAURAÇÃO DE TOMADA DE CONTAS ESPECIAL."
+    },
+    {
+      "id": 1395,
+      "numero_processo": "TC/009218/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Versam os autos sobre Inspeção realizada na P. M",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, RECOMENDAÇÕES, ALERTAS"
+    },
+    {
+      "id": 1392,
+      "numero_processo": "TC/009325/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção autuada em razão de fiscalização in loco realizada na P.M de Itainópolis/ PI, para analisar o Pregão Eletrônico nº 001/2024, cujo objeto",
+      "resumo_julgamento": "RETIRADO DE PAUTA POR 1 SESSÃO: COMPORÁ A PAUTA DO DIA 10/06/2026"
+    },
+    {
+      "id": 1391,
+      "numero_processo": "TC/000312/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "27 de maio de 2026",
+      "relator": "Não identificado",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades identificadas nos Pregões Eletrônicos nº 17/2023 e  nº 10/2023, e nos contratos deles decorrentes.",
+      "resumo_julgamento": "ARQUIV AMENTO, ENCAMINHAMENTO"
+    },
+    {
+      "id": 1382,
+      "numero_processo": "TC/007996/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "10 de junho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "IMPUTAÇÃO DE DÉBITO SOLIDÁRIO, DECLARAÇÃO DE INIDONEIDADE, INABILITAÇÃO, APLICAÇÃO"
+    },
+    {
+      "id": 1381,
+      "numero_processo": "TC/013578/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "10 de junho de 2026",
+      "relator": "Não identificado",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Objetiva acompanhar a adoção de medidas para aplicação da Lei nacional nº 14.133/21, tendo em vista que a partir de 01",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, RECOMENDAÇÃO, ALERTA, NÃO INSTAURAÇÃO DE TOMADA"
+    },
+    {
+      "id": 1378,
+      "numero_processo": "TC/009325/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "10 de junho de 2026",
+      "relator": "Não identificado",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção",
+      "resumo_julgamento": "PROCEDÊNCIA, NÃO APLICAÇÃO DE MULTA, INSTAURARAÇÃO DE TOMADA DE CONTAS ESPECIAL,"
+    },
+    {
+      "id": 1366,
+      "numero_processo": "TC/015364/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "24 de junho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Trata -se de inspeção realizada pela I Diretoria de Fiscalização de Licitações e  Contratações (DFCONTRATOS I), no âmbito da",
+      "resumo_julgamento": "PROCEDÊNCIA, MULTA, INSTAURAÇÃO DE TCE, ALERTA, RECOMENDAÇÃO."
+    },
+    {
+      "id": 1364,
+      "numero_processo": "TC/009280/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "24 de junho de 2026",
+      "relator": "ABELARDO VILANOVA",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "Noticia",
+      "resumo_julgamento": "ACOLHIMENTO DA PRELIMINAR, PROCEDÊNCIA PARCIAL, MULTA, DETERMINAÇÃO, RECOMENDAÇÃO."
+    },
+    {
+      "id": 1363,
+      "numero_processo": "TC/007962/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "24 de junho de 2026",
+      "relator": "ABELARDO VILANOVA",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "PEDIDO DE VISTAS."
+    },
+    {
+      "id": 1360,
+      "numero_processo": "TC/007477/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "24 de junho de 2026",
+      "relator": "ABELARDO VILANOVA",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Noticia supostas irregularidades",
+      "resumo_julgamento": "TC/007477/2024 | TOMADA DE CONTAS ESPECIAL NA P. M. DE DOM INOCENCIO. (EXERCÍCIO DE 2024) | Interessado(s): Maria das Virgens Dias (Prefeita) e outros. Unidade Gestora: P. M. DE DOM INOCENCIO . Objeto: Noticia supostas irregularidades"
+    },
+    {
+      "id": 1346,
+      "numero_processo": "TC/003878/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "08 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "IRREGULARIDADE, MULTA, IMPUTAÇÃO DE DÉBITO, ENVIO/COMUNICAÇÃO"
+    },
+    {
+      "id": 1330,
+      "numero_processo": "TC/007962/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "08 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "PRESTAÇÃO DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "TC/007962/2025 - Embargos de declaração - embargante: FSC FASA Soluções Em Cobrança Corporativa Ltda – GRUPO FASA - Advogado: | Uanderson Ferreira da Silva (OAB/PI nº 5.456) (procuração - peça 02) - julgado.  Obs: foi citado e apresentou manifstação "
+    },
+    {
+      "id": 1328,
+      "numero_processo": "TC/007477/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "08 de julho de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "noticia supostas irregularidades",
+      "resumo_julgamento": "TC/007477/2024 | TOMADA DE CONTAS ESPECIAL NA P. M. DE DOM INOCENCIO. (EXERCÍCIO DE 2024) | Interessado(s): maria das virgens dias (prefeita) e outros. Unidade Gestora: P. M. DE DOM INOCENCIO. Objeto: noticia supostas irregularidades"
+    },
+    {
+      "id": 1327,
+      "numero_processo": "TC/012070/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "08 de julho de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "Outros",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção realizada na P.M",
+      "resumo_julgamento": "TC/012070/2025 | INSPEÇÃO NA P. M. DE PRATA DO PIAUI - EXERCÍCIO FINANCEIRO DE 2025. | Interessado(s): Diretoria de Fiscalização de Licitações e Contratações (DFCONTRATOS 1). Unidade Gestora: P. M. DE PRATA DO PIAUI"
+    },
+    {
+      "id": 1319,
+      "numero_processo": "TC/007328/2024",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "IRREGULARIDADE, MULTA, IMPUTAÇÃO DE DÉBITO, DESCONSIDERAÇÃO DA PERSONALIDADE"
+    },
+    {
+      "id": 1318,
+      "numero_processo": "TC/013106/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "TOMADA DE CONTAS",
+      "unidade_gestora": "P",
+      "objeto": "Objetiva a averiguar a regularidade nas contratações realizadas pelo município durante o exercício financeiro de 2025. Dados complementares:",
+      "resumo_julgamento": "RETIRADO DE PAUTA"
+    },
+    {
+      "id": 1316,
+      "numero_processo": "TC/002073/2026",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Representação em razão de comunicação de irregularidade protocolada na Ouvidoria deste Tribunal acerca de supostas irregularidades na",
+      "resumo_julgamento": "RETIRADO DE PAUTA"
+    },
+    {
+      "id": 1315,
+      "numero_processo": "TC/014749/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "22 de julho de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Denúncia noticiando supostas irregularidades nos Pregões",
+      "resumo_julgamento": "RETIRADO DE PAUTA"
+    },
+    {
+      "id": 1303,
+      "numero_processo": "TC/001096/2026",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "05 de agosto de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "RECURSO",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção com a finalidade examinar a regularidade do processo de contratação decorrente do Pregão Eletrônico SRP nº 038/2024, realizado",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, DETERMINAÇÃO, ALERTA"
+    },
+    {
+      "id": 1302,
+      "numero_processo": "TC/001937/2026",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "05 de agosto de 2026",
+      "relator": "SUBST",
+      "tipo_processo": "DENÚNCIA",
+      "unidade_gestora": "P",
+      "objeto": "Denúncia em razão de possíveis irregularidades no Pregão Eletrônico nº 09/2026, referente ao exercício",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, DETERMINAÇÃO, ALERTA"
+    },
+    {
+      "id": 1297,
+      "numero_processo": "TC/012070/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "05 de agosto de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "REPRESENTAÇÃO",
+      "unidade_gestora": "P",
+      "objeto": "Inspeção realizada na P.M",
+      "resumo_julgamento": "PROCEDÊNCIA, APLICAÇÃO DE MULTA, DETERMINAÇÃO, ALERTA"
+    },
+    {
+      "id": 1296,
+      "numero_processo": "TC/007962/2025",
+      "colegiado": "Segunda Câmara Presencial",
+      "data_sessao": "05 de agosto de 2026",
+      "relator": "ABELARDO VILANOV A \nQTDE",
+      "tipo_processo": "EMBARGOS",
+      "unidade_gestora": "P",
+      "objeto": "",
+      "resumo_julgamento": "SUSPENSO"
+    }
+  ]
+}
