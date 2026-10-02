@@ -1,0 +1,1565 @@
+{
+  "total_docs": 10504,
+  "by_orgao": {
+    "TCE-PI": 1120,
+    "MPPI": 561,
+    "TJ-PI": 2178,
+    "MPPE": 267,
+    "MPDFT": 435,
+    "MPCE": 322,
+    "MPMA": 431,
+    "MPBA": 472,
+    "MPRN": 2743,
+    "MPPB": 293,
+    "MPAL": 538,
+    "MPSE": 1144
+  },
+  "by_cat": {
+    "contrato": 375,
+    "dfd": 445,
+    "edital": 1351,
+    "etp": 382,
+    "mapa_riscos": 143,
+    "outros": 5052,
+    "parecer": 404,
+    "pesquisa_precos": 157,
+    "ratificacao": 1247,
+    "tr": 947,
+    "normativo": 1
+  },
+  "by_ano": {
+    "None": 278,
+    "2024": 2565,
+    "2025": 3438,
+    "2026": 4223
+  },
+  "orgaos_chart": [
+    {
+      "name": "MPRN",
+      "docs": 2743,
+      "fill": "#0284c7"
+    },
+    {
+      "name": "TJ-PI",
+      "docs": 2178,
+      "fill": "#3b82f6"
+    },
+    {
+      "name": "MPSE",
+      "docs": 1144,
+      "fill": "#6366f1"
+    },
+    {
+      "name": "TCE-PI",
+      "docs": 1120,
+      "fill": "#c5a059"
+    },
+    {
+      "name": "MPPI",
+      "docs": 561,
+      "fill": "#800020"
+    },
+    {
+      "name": "MPAL",
+      "docs": 538,
+      "fill": "#ec4899"
+    },
+    {
+      "name": "MPBA",
+      "docs": 472,
+      "fill": "#e11d48"
+    },
+    {
+      "name": "MPDFT",
+      "docs": 435,
+      "fill": "#10b981"
+    },
+    {
+      "name": "MPMA",
+      "docs": 431,
+      "fill": "#14b8a6"
+    },
+    {
+      "name": "MPCE",
+      "docs": 322,
+      "fill": "#8b5cf6"
+    },
+    {
+      "name": "MPPB",
+      "docs": 293,
+      "fill": "#f97316"
+    },
+    {
+      "name": "MPPE",
+      "docs": 267,
+      "fill": "#f59e0b"
+    }
+  ],
+  "economicidade": {
+    "totais": {
+      "certames_analisados": 219,
+      "total_orcado": 341262169.5646,
+      "total_homologado": 272403233.7792,
+      "total_economia": 68858935.78539997,
+      "desagio_medio_global_pct": 20.18
+    },
+    "chart_categorias": [
+      {
+        "categoria": "Tecnologia da Informação",
+        "desagio": 25.32,
+        "orcado_mi": 141.95,
+        "homologado_mi": 106.01,
+        "economia_mi": 35.94
+      },
+      {
+        "categoria": "Mão de Obra Terceirizada",
+        "desagio": 13.14,
+        "orcado_mi": 80.12,
+        "homologado_mi": 69.59,
+        "economia_mi": 10.53
+      },
+      {
+        "categoria": "Outros",
+        "desagio": 20.93,
+        "orcado_mi": 68.06,
+        "homologado_mi": 53.82,
+        "economia_mi": 14.24
+      },
+      {
+        "categoria": "Obras e Manutenção Predial",
+        "desagio": 10.58,
+        "orcado_mi": 28.12,
+        "homologado_mi": 25.15,
+        "economia_mi": 2.98
+      },
+      {
+        "categoria": "Capacitação / Eventos",
+        "desagio": 25.38,
+        "orcado_mi": 10.25,
+        "homologado_mi": 7.65,
+        "economia_mi": 2.6
+      },
+      {
+        "categoria": "Mobiliário",
+        "desagio": 28.05,
+        "orcado_mi": 5.04,
+        "homologado_mi": 3.63,
+        "economia_mi": 1.41
+      },
+      {
+        "categoria": "Materiais de Consumo",
+        "desagio": 24.53,
+        "orcado_mi": 4.12,
+        "homologado_mi": 3.11,
+        "economia_mi": 1.01
+      },
+      {
+        "categoria": "Transportes e Frota",
+        "desagio": 4.11,
+        "orcado_mi": 3.59,
+        "homologado_mi": 3.44,
+        "economia_mi": 0.15
+      }
+    ],
+    "chart_faixas": []
+  },
+  "recent_docs": [
+    {
+      "id": "doc_1000",
+      "orgao": "TCE-PI",
+      "categoria": "contrato",
+      "modalidade": "None",
+      "ano": "None",
+      "titulo": "Contrato",
+      "objeto": "SECRETARIA ADMINISTRATIVA Divisão de Licitações e Contratos AUTORIZAÇÃO PROCESSO: 102096/2024. OBJETO: Solicitação de aq"
+    },
+    {
+      "id": "doc_0272",
+      "orgao": "TCE-PI",
+      "categoria": "contrato",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2025",
+      "titulo": "Contrato",
+      "objeto": "Diário Oficial Eletrônico - TCE-PI-nº194/2025 PORTARIA Nº 659/2025-SA EXTRATO DE NOTA DE EMPENHO N ° 2025NE01393 O Secre"
+    },
+    {
+      "id": "doc_0241",
+      "orgao": "TCE-PI",
+      "categoria": "contrato",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2026",
+      "titulo": "Contrato",
+      "objeto": "Diário Oficial Eletrônico - TCE-PI-nº 026/2026 EXTRATO NOTA DE EMPENHO 2026NE00145 - TCE/PI EXTRATO NOTA DE EMPENHO 2026"
+    },
+    {
+      "id": "doc_0087",
+      "orgao": "TCE-PI",
+      "categoria": "dfd",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "DFD",
+      "objeto": "Assessoria Jurídica Processo SEI nº 103574/2026 Assunto: Contratação Direta por Dispensa de Licitação – aquisição de 02"
+    },
+    {
+      "id": "doc_0212",
+      "orgao": "TCE-PI",
+      "categoria": "etp",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2026",
+      "titulo": "ETP",
+      "objeto": "SECRETARIA ADMINISTRATIVA Diretoria de Gestão de Pessoas Divisão de Desenvolvimento de Pessoas Seção de Saúde e Qualidad"
+    },
+    {
+      "id": "doc_1190",
+      "orgao": "MPPI",
+      "categoria": "pesquisa_precos",
+      "modalidade": "None",
+      "ano": "2024",
+      "titulo": "Pesquisa de Precos",
+      "objeto": "PROCURADORIA GERAL DE JUSTIÇA Procedimento de Gestão Administrativa: 19.21.0378.0002846/2024-21 I. FUNDAMENTAÇÃO: (§ 1º,"
+    },
+    {
+      "id": "doc_0893",
+      "orgao": "TCE-PI",
+      "categoria": "ratificacao",
+      "modalidade": "None",
+      "ano": "None",
+      "titulo": "Ratificacao",
+      "objeto": "SECRETARIA ADMINISTRATIVA Divisão de Licitações e Contratos AUTORIZAÇÃO PROCESSO: 106129/2023 OBJETO: Finanças: Solicita"
+    },
+    {
+      "id": "doc_0248",
+      "orgao": "TCE-PI",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2025",
+      "titulo": "Ratificacao",
+      "objeto": "29/09/2025, 14:14 SEI/TCE-PI - 0308958 - Justificativa de Inexigibilidade SECRETARIA ADMINISTRATIVA Divisão de Licitaçõe"
+    },
+    {
+      "id": "doc_0180",
+      "orgao": "TCE-PI",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2026",
+      "titulo": "Ratificacao",
+      "objeto": "25/06/2026, 10:56 SEI/TCE-PI - 0378763 - Autorização SECRETARIA ADMINISTRATIVA Divisão de Licitações e Contratos AUTORIZ"
+    },
+    {
+      "id": "doc_0251",
+      "orgao": "TCE-PI",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2026",
+      "titulo": "Ratificacao",
+      "objeto": "SECRETARIA ADMINISTRATIVA Divisão de Licitações e Contratos AUTORIZAÇÃO Nº 135 - SA/DLC | PROCESSO Nº 103658/2026 PROCES"
+    },
+    {
+      "id": "doc_0942",
+      "orgao": "TCE-PI",
+      "categoria": "tr",
+      "modalidade": "None",
+      "ano": "None",
+      "titulo": "TR",
+      "objeto": "Diário Oficial Eletrônico - TCE-PI-nº 043/2024 Atos da Secretaria Administrativa PORTARIA GP Nº: 0191/2024 – TCE-PI TRIB"
+    },
+    {
+      "id": "doc_0054",
+      "orgao": "TCE-PI",
+      "categoria": "tr",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "TR",
+      "objeto": "Unidade de Controladoria Interna PROCESSO: 103474/2026 ASSUNTO: DISPENSA DE LICITAÇÃO Nº 19/2026 – AQUISIÇÃO DE TRAJES T"
+    },
+    {
+      "id": "doc_2041",
+      "orgao": "MPPI",
+      "categoria": "dfd",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "Documento de Formalização da Demanda",
+      "objeto": "<!-- Pagina 1 --> DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA - DFD Histórico de Revisões Data Versão Descrição Autor Primeira"
+    },
+    {
+      "id": "doc_2146",
+      "orgao": "MPPI",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> PROCURADORIA-GERAL DE JUSTIÇA Histórico de Revisões Data Versão Descrição Autor Coord. de 03/07/2024 1"
+    },
+    {
+      "id": "doc_2507",
+      "orgao": "MPPI",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "Edital / Aviso Convocatório",
+      "objeto": "<!-- Pagina 1 --> MINUTA DO EDITAL PREGÃO ELETRÔNICO nº 90001/2025 INTERESSADO: MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ UA"
+    },
+    {
+      "id": "doc_2612",
+      "orgao": "MPPI",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "Edital / Aviso Convocatório",
+      "objeto": "<!-- Pagina 1 --> ANEXO III – MODELO DE APRESENTAÇÃO DE PROPOSTA DE PREÇOS PREGÃO ELETRÔNICO Nº 90021/2025 PROCEDIMENTO"
+    },
+    {
+      "id": "doc_2717",
+      "orgao": "MPPI",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "Edital / Aviso Convocatório",
+      "objeto": "<!-- Pagina 1 --> ERRATA AO EDITAL DO PREGÃO ELETRÔNICO N° 90018/2026 Considerando a necessidade de ajustes no Edital e"
+    },
+    {
+      "id": "doc_3105",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> PODER JUDICIÁRIO DO ESTADO DO PIAUÍ COORDENAÇÃO DE COMPRAS E SERVIÇOS DA SLC - COORDCOMPRAS Avenida Pa"
+    },
+    {
+      "id": "doc_3210",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> Brasília-DF, 28 de agosto de 2026. Ao TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ Ref.: Pregão Eletrônico n"
+    },
+    {
+      "id": "doc_3315",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> ITEM 01 ITEM 02 : COBERTURA PARA 01 : COBERTURA PARA 02 VAGA COM 02 PILARES VAGAS COM 02 PILARES 5.00"
+    },
+    {
+      "id": "doc_3420",
+      "orgao": "TJ-PI",
+      "categoria": "contrato",
+      "modalidade": "Aviso de Dispensa",
+      "ano": "2026",
+      "titulo": "Contrato / Minuta",
+      "objeto": "<!-- Pagina 1 --> PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES DE CONTRATAÇÃO - FASE INTERNA - AGIN Avenida Padre Humbert"
+    },
+    {
+      "id": "doc_3525",
+      "orgao": "TJ-PI",
+      "categoria": "tr",
+      "modalidade": "Aviso de Dispensa",
+      "ano": "2026",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> PODER JUDICIÁRIO DO ESTADO DO PIAUÍ COORDENAÇÃO DE COMPRAS E SERVIÇOS DA SLC - COORDCOMPRAS Avenida Pa"
+    },
+    {
+      "id": "doc_3630",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 13/05/2026, 13:07 Caixa de Entrada - Daniel Mendes Pinheiro - Outlook Outlook TJPI - EDITAL 90022/2026"
+    },
+    {
+      "id": "doc_3735",
+      "orgao": "TJ-PI",
+      "categoria": "contrato",
+      "modalidade": "Aviso de Dispensa",
+      "ano": "2026",
+      "titulo": "Contrato / Minuta",
+      "objeto": "<!-- Pagina 1 --> 17/03/2026, 11:45 SEI/TJPI - 7937539 - Carta-Contrato PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES DE C"
+    },
+    {
+      "id": "doc_3840",
+      "orgao": "TJ-PI",
+      "categoria": "tr",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> 1 2 3 4 5 6 7 8 9 10 11 JOSÉ DE CENTRAL DE ITEM MOBILIÁRIO COCAL SIMÕES PIRACURUCA ITAUEIRA SÃO JOÃO B"
+    },
+    {
+      "id": "doc_3945",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2026",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 26/02/2026, 08:38 SEI/TJPI - 7857992 - Extrato de Ata PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES DE C"
+    },
+    {
+      "id": "doc_4050",
+      "orgao": "TJ-PI",
+      "categoria": "edital",
+      "modalidade": "Pregão",
+      "ano": "2025",
+      "titulo": "Edital / Aviso Convocatório",
+      "objeto": "<!-- Pagina 1 --> 24/10/2025, 09:21 SEI/TJPI - 7432681 - Edital de Licitação PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES"
+    },
+    {
+      "id": "doc_4155",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2025",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 2 Editor: Marco Antônio Vilarinho - E-mail - jornal@portalodia.com Em Dia Teresina, Piauí, QUINTA, 11"
+    },
+    {
+      "id": "doc_4260",
+      "orgao": "TJ-PI",
+      "categoria": "tr",
+      "modalidade": "Pregão",
+      "ano": "2025",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> 20/08/2025, 13:13 SEI/TJPI - 7179742 - Termo de Referência PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES"
+    },
+    {
+      "id": "doc_4365",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2025",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> Diário da Justiça do Estado do Piauí ANO XLVII - Nº 10094 Disponibilização: Segunda-feira, 14 de Julho"
+    },
+    {
+      "id": "doc_4470",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2025",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 16/01/2025, 14:07 SEI/TJPI - 6358719 - Informação PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES DE CONTR"
+    },
+    {
+      "id": "doc_4575",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2024",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 30/01/2025, 08:57 SEI/TJPI - 6393097 - Extrato de Ata DJe-TJPI nº 9986 PODER JUDICIÁRIO DO ESTADO DO P"
+    },
+    {
+      "id": "doc_4680",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Concorrência",
+      "ano": "2024",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> 19/09/2024, 10:00 Portal Nacional de Contratações Públicas  Portal Nacional de Contratações Públicas"
+    },
+    {
+      "id": "doc_4785",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2024",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUI TERMO DE JULGAMENTO UASG 926454 - TRIBUNAL DE JUSTIÇA DO ESTADO"
+    },
+    {
+      "id": "doc_4890",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Pregão",
+      "ano": "2024",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> Diário da Justiça do Estado do Piauí ANO XLVI - Nº 9896 Disponibilização: Quarta-feira, 4 de Setembro"
+    },
+    {
+      "id": "doc_4995",
+      "orgao": "TJ-PI",
+      "categoria": "outros",
+      "modalidade": "Concorrência",
+      "ano": "2024",
+      "titulo": "Outros Documentos",
+      "objeto": "<!-- Pagina 1 --> VASCONCELOS ENGENHARIA CNPJ: 08.761.499/0001-61 TELEFONES: (86) 98802-9133 vasconcelosengenhariapi@gma"
+    },
+    {
+      "id": "doc_5100",
+      "orgao": "TJ-PI",
+      "categoria": "tr",
+      "modalidade": "Pregão",
+      "ano": "2024",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> 01/02/2024, 14:14 SEI/TJPI - 5111473 - Termo de Referência PODER JUDICIÁRIO DO ESTADO DO PIAUÍ AGENTES"
+    },
+    {
+      "id": "doc_5205",
+      "orgao": "MPPE",
+      "categoria": "tr",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> Ministério Público do Estado de Pernambuco Secretaria Geral Assessoria Ministerial de Comunicação Soci"
+    },
+    {
+      "id": "doc_5310",
+      "orgao": "MPPE",
+      "categoria": "tr",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> Ministério Público do Estado de Pernambuco Procuradoria Geral de Justiça Núcleo de Inteligência TERMO"
+    },
+    {
+      "id": "doc_5415",
+      "orgao": "MPPE",
+      "categoria": "tr",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2024",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> MINISTÉRIO PÚBLICO DE PERNAMBUCO Procuradoria-Geral de Justiça Promotoria de Justiça de Jaboatão dos G"
+    },
+    {
+      "id": "doc_5520",
+      "orgao": "MPDFT",
+      "categoria": "dfd",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2026",
+      "titulo": "Documento de Formalização da Demanda",
+      "objeto": "<!-- Pagina 1 --> 06/08/2026, 14:04 SEI/MPDFT - 3945610 - Despacho Administrativo MINISTÉRIO PÚBLICO DA UNIÃO MINISTÉRIO"
+    },
+    {
+      "id": "doc_5625",
+      "orgao": "MPDFT",
+      "categoria": "tr",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2025",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> MINISTÉRIO PÚBLICO DA UNIÃO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS TERMO DE REFERÊNCIA T"
+    },
+    {
+      "id": "doc_5730",
+      "orgao": "MPDFT",
+      "categoria": "tr",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2024",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> MINISTÉRIO PÚBLICO DA UNIÃO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS TERMO DE REFERÊNCIA 1"
+    },
+    {
+      "id": "doc_5835",
+      "orgao": "MPDFT",
+      "categoria": "tr",
+      "modalidade": "Inexigibilidade de Licitação",
+      "ano": "2024",
+      "titulo": "Termo de Referência",
+      "objeto": "<!-- Pagina 1 --> MINISTÉRIO PÚBLICO DA UNIÃO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS TERMO DE REFERÊNCIA 1"
+    },
+    {
+      "id": "MPCE_2024_12_60",
+      "orgao": "MPCE",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2024",
+      "titulo": "NOTA DE EMPENHO -  DISP. YO FITNESS.pdf",
+      "objeto": "fls. 170 Este documento é cópia do original assinado digitalmente por ROZANE PINHEIRO RIBEIRO em 14/05/2024 e HALEY DE C"
+    },
+    {
+      "id": "MPCE_2025_90_102",
+      "orgao": "MPCE",
+      "categoria": "edital",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "Aviso_de_Dispensa_Eletronica 23-2025 - COLETES",
+      "objeto": "PROCURADORIA-GERAL DE JUSTIÇA PROCURADORIA-GERAL DE JUSTIÇA Av. General Afonso Albuquerque Lima, 130 - Cambeba, Fortal"
+    },
+    {
+      "id": "MPCE_2025_47_207",
+      "orgao": "MPCE",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "AUTORIZACAO Inexigibilidade - DOM CABRAL - ASSINADO.pdf",
+      "objeto": "fls. 177 Este documento é cópia do original assinado digitalmente por RITA ARRUDA D ALVA MARTINS RODRIGUES em 14/05/2025"
+    },
+    {
+      "id": "MPMA_2026_49_53",
+      "orgao": "MPMA",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "DE nº 7_2026_Revisao gramatical PA_SEI_9527_2026-42.pdf",
+      "objeto": "OBJETO Página 1 de 19      AVISO DE CONTRATAÇÃO DIRETA N. 7/2026        CONTRATANTE (UASG)  PROCURADORIA GERAL DE JUST"
+    },
+    {
+      "id": "MPMA_2025_106_158",
+      "orgao": "MPMA",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "RelacaoItens92512905900272025000.pdf",
+      "objeto": "94141 - PROCURADORIA GERAL DE JUSTIÇA DO MARANHÃO 925129 - PROCURADORIA GERAL DE JUSTIÇA DO MARANHÃO RELAÇÃO DE ITENS -"
+    },
+    {
+      "id": "MPMA_2025_71_263",
+      "orgao": "MPMA",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "INTEIRO TEOR DO PROCESSO.pdf",
+      "objeto": "Ministério Público do Estado do Maranhão Av. Prof. Carlos Cunha, 3261 - Calhau - São Luís (MA) CNPJ: 05.483.912/0001-85"
+    },
+    {
+      "id": "MPMA_2024_36_368",
+      "orgao": "MPMA",
+      "categoria": "tr",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "TERMO DE REFERENCIA.pdf",
+      "objeto": "UASG 925129 Termo de Referência 5/2024 Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da Uniã"
+    },
+    {
+      "id": "MPBA_2026_192_42",
+      "orgao": "MPBA",
+      "categoria": "tr",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "TERMO DE REFERENCIA (2115683).pdf",
+      "objeto": "TERMO DE REFERÊNCIA   -   LICITAÇÃO   -   SERVIÇOS COMUNS   TERMO DE REFERÊNCIA   1. DEFINIÇÃO DO OBJETO (Art"
+    },
+    {
+      "id": "MPBA_2026_86_147",
+      "orgao": "MPBA",
+      "categoria": "ratificacao",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "Autorizacao - DL 061-2026.pdf",
+      "objeto": "DESPACHO DCCL/Coordenação de Elaboração e Acompanhamento de Contratos e Convênios,   Considerando a instrução processual"
+    },
+    {
+      "id": "MPBA_2025_146_252",
+      "orgao": "MPBA",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "RelacaoItens92630205900142025000.pdf",
+      "objeto": "94953 - EBA - PROCURADORIA GERAL DE JUSTICA DA BAHIA 926302 - EBA - PROCURADORIA GERAL DE JUSTICA DA BAHIA RELAÇÃO DE IT"
+    },
+    {
+      "id": "MPBA_2025_43_357",
+      "orgao": "MPBA",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "Autorizacao - INEX 009-2025.pdf",
+      "objeto": "DESPACHO À DCCL/Coordenação de Elaboração e Acompanhamento de Contratos, Convênios e Licitações,   Considerando a instru"
+    },
+    {
+      "id": "MPBA_2024_39_462",
+      "orgao": "MPBA",
+      "categoria": "ratificacao",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "Autorizacao DL 296-2024.pdf",
+      "objeto": "DESPACHO   À DCCL/Coordenação de Elaboração e Acompanhamento de Contratos e Convênios,   Considerando a instrução proces"
+    },
+    {
+      "id": "MPRN_2026_80_95",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "PE+11-2026+-+ITEM+05+-+TERMO+DE+JULGAMENTO",
+      "objeto": "GOVERNO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORA-GERAL DE JUSTIÇA ADJUNTA DO ESTADO DO RIO GRANDE DO NORTE TERMO DE"
+    },
+    {
+      "id": "MPRN_2026_150_200",
+      "orgao": "MPRN",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "Edital do PE 31-2026_Tablets e NotebooksTonner_completo.pdf",
+      "objeto": "PROCURADORIA-GERAL  DE  JUSTIÇA  Departamento  de  Contratações  Rua  Promotor  Manoel  Alves  Pessoa  Neto,  97,  Cand"
+    },
+    {
+      "id": "MPRN_2026_131_305",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "Extrato",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE COORDENADORIA JURÍDICA ADMINISTRATIVA  EXTRATO DE DISPENSA DE LICITA"
+    },
+    {
+      "id": "MPRN_2026_28_410",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Sorteio",
+      "objeto": "PROCURADORIA GERAL DE JUSTIÇACENTRAL DE APOIO TÉCNICO ESPECIALIZADORua Promotor Manoel Alves Pessoa Neto, 97, Candelária"
+    },
+    {
+      "id": "MPRN_2026_44_515",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Ato novo",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE DIRETORIA-GERAL Rua Promotor Manoel Alves Pessoa Neto, 97, Candelári"
+    },
+    {
+      "id": "MPRN_2026_63_620",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Resolu%c3%a7%c3%a3o+147-2024",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA RESOLUÇÃO N° 147/2024 – PGJ/RN Altera"
+    },
+    {
+      "id": "MPRN_2026_85_725",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Resolu%c3%a7%c3%a3o+147-2024",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA RESOLUÇÃO N° 147/2024 – PGJ/RN Altera"
+    },
+    {
+      "id": "MPRN_2026_107_830",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Homologa%c3%a7%c3%a3o+09-2025",
+      "objeto": "84 - Ano 92 • Nº 15.803 Diário Oficial do Estado do Rio Grande do Norte Natal, 30 de novembro de 2024 PORTARIA N° 1696/2"
+    },
+    {
+      "id": "MPRN_2026_120_935",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "PNCP",
+      "objeto": "Objeto: Contratação de profissional autônomo para execução de serviço de apoio técnico especializado na área de CONTABIL"
+    },
+    {
+      "id": "MPRN_2025_181_1040",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "PM",
+      "objeto": "PROCURADORIA GERAL DE JUSTIÇA SOFC - Sistema Orçamentário, Financeiro e Contábil Relatório de Pesquisa e de Formação de"
+    },
+    {
+      "id": "MPRN_2025_187_1145",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "PE+16-2025+-+TERMO+DE+JULGAMENTO+-+Item+7",
+      "objeto": "GOVERNO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORA-GERAL DE JUSTIÇA ADJUNTA DO ESTADO DO RIO GRANDE DO NORTE TERMO DE"
+    },
+    {
+      "id": "MPRN_2025_262_1250",
+      "orgao": "MPRN",
+      "categoria": "etp",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "ETP",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE GERÊNCIA DE ATENDIMENTO AO USUÁRIO ESTUDO TÉCNICO PRELIMINAR DE CONT"
+    },
+    {
+      "id": "MPRN_2025_2_1355",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "DOE",
+      "objeto": "42 - Ano 92 • Nº 15.834 Diário Oficial do Estado do Rio Grande do Norte Natal, 21 de janeiro de 2025 EXTRATO DE INEXIGIB"
+    },
+    {
+      "id": "MPRN_2025_16_1460",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "ResoluÃ§Ã£o 146-2024",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA   RESOLUÇÃO N° 146/2024 – PGJ/RN Estab"
+    },
+    {
+      "id": "MPRN_2025_29_1565",
+      "orgao": "MPRN",
+      "categoria": "parecer",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "Parecer CJAD",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA COORDENADORIA JURÍDICA ADMINISTRATIVA"
+    },
+    {
+      "id": "MPRN_2025_42_1670",
+      "orgao": "MPRN",
+      "categoria": "edital",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "Edital",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA EDITAL  N° 032/2024 – PGJ/RN  CREDENCI"
+    },
+    {
+      "id": "MPRN_2025_59_1775",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "Sorteio",
+      "objeto": "PROCURADORIA GERAL DE JUSTIÇA CENTRAL DE APOIO TÉCNICO ESPECIALIZADO Rua Promotor Manoel Alves Pessoa Neto, 97, Candelár"
+    },
+    {
+      "id": "MPRN_2025_72_1880",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2025",
+      "titulo": "ResoluÃ§Ã£o 146-2024",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA   RESOLUÇÃO N° 146/2024 – PGJ/RN Estab"
+    },
+    {
+      "id": "MPRN_2024_15_1985",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2024",
+      "titulo": "PM+11-2024",
+      "objeto": "PROCURADORIA GERAL DE JUSTIÇA SOFC - Sistema Orçamentário, Financeiro e Contábil Relatório de Pesquisa e de Formação de"
+    },
+    {
+      "id": "MPRN_2024_67_2090",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2024",
+      "titulo": "RelacaoItens92560305900322024000.pdf",
+      "objeto": "94466 - PROCURADORIA-GERAL DE JUSTIçA DO RN 925603 - PROCURADORIA-GERAL DE JUSTIçA DO RN RELAÇÃO DE ITENS - PREGÃO ELETR"
+    },
+    {
+      "id": "MPRN_2024_103_2195",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2024",
+      "titulo": "PE+36-2024_Vigilante+por+di%c3%a1ria_completo",
+      "objeto": "PROCURADORIA-GERAL DE JUSTIÇA Departamento de  Contratações Rua Promotor Manoel Alves Pessôa Neto, 97, Candelária, CEP:"
+    },
+    {
+      "id": "MPRN_2024_24_2300",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "Lista+de+Bens",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE GERÊNCIA DE ATENDIMENTO AO USUÁRIO DESPACHO Tendo em vista o pleito"
+    },
+    {
+      "id": "MPRN_2024_12_2405",
+      "orgao": "MPRN",
+      "categoria": "outros",
+      "modalidade": "Inexigibilidade",
+      "ano": "2024",
+      "titulo": "Nota+Fiscal+1",
+      "objeto": "RECEBEMOS DE LEX EDITORA S/A. OS PRODUTOS / SERVIÇOS CONSTANTES DA NOTA FISCAL INDICADO AO LADO DATA DE RECEBIMENTO IDEN"
+    },
+    {
+      "id": "MPRN_2024_61_2510",
+      "orgao": "MPRN",
+      "categoria": "etp",
+      "modalidade": "Inexigibilidade",
+      "ano": "2024",
+      "titulo": "ETP",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA Centro de Estudos e Aperfeiçoamento Fu"
+    },
+    {
+      "id": "MPRN_2024_121_2615",
+      "orgao": "MPRN",
+      "categoria": "parecer",
+      "modalidade": "Inexigibilidade",
+      "ano": "2024",
+      "titulo": "Parecer+Jur%c3%addico",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE PROCURADORIA-GERAL DE JUSTIÇA COORDENADORIA JURÍDICA ADMINISTRATIVA"
+    },
+    {
+      "id": "MPRN_2024_164_2720",
+      "orgao": "MPRN",
+      "categoria": "contrato",
+      "modalidade": "Inexigibilidade",
+      "ano": "2024",
+      "titulo": "Minuta+Contratual",
+      "objeto": "MINUTA PROCURADORIA-GERAL DE JUSTIÇA Rua Promotor Manoel Alves Pessoa Neto, 97, Candelária, Natal/RN – CEP: 59065-55"
+    },
+    {
+      "id": "MPPB_2026_19_82",
+      "orgao": "MPPB",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "001.2025.104041-Termo-2025-0002755500 (6).pdf",
+      "objeto": "Estado da Paraíba Ministério Público Procuradoria-Geral de Justiça Setor Odontológico DIRETORIA ADMINISTRATIVA Gabinete"
+    },
+    {
+      "id": "MPPB_2025_54_187",
+      "orgao": "MPPB",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "ata_processo_1083452_20251212-1851.pdf",
+      "objeto": "Ata do Processo MINISTERIO PUBLICO DO ESTADO DA PARAIBA PGJ MP PB Comissão de Licitações     Resumo do processo:   REGIS"
+    },
+    {
+      "id": "MPPB_2024_36_292",
+      "orgao": "MPPB",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "pdf24_merged - 2024-12-20T181056.965",
+      "objeto": "□ /1 □ /2 /3 /4 /5 /6 /3 /7 /8 /4 /3 /9 /7 /1 /10 /11 /3 /7 /12 □ /8 /11 □ /13 /6 /14 /15 /9 /16 /7 □ /1 □ □ /1 □ /8 /9"
+    },
+    {
+      "id": "MPAL_2026_5_104",
+      "orgao": "MPAL",
+      "categoria": "ratificacao",
+      "modalidade": "Inexigibilidade",
+      "ano": "2026",
+      "titulo": "Autorizacao.pdf",
+      "objeto": "Tipo de Expediente: Requerimento Tipo de Entrega: Eletrônica Tipo de Protocolo: Interno Criador: IVAN DE HOLANDA MONTENE"
+    },
+    {
+      "id": "MPAL_2025_30_209",
+      "orgao": "MPAL",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "030004-2025NE00409-D.pdf",
+      "objeto": "Governo do Estado de Alagoas Nota de Empenho Encerrado até Fevereiro  Identificação Unidade Gestora Documento Emissão 03"
+    },
+    {
+      "id": "MPAL_2025_81_314",
+      "orgao": "MPAL",
+      "categoria": "dfd",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "Documento de Formalizacao de Demanda - Atualizacao Elevadores.pdf",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS PROCURADORIA GERAL DE JUSTIÇA ANEXO I DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA Setor"
+    },
+    {
+      "id": "MPAL_2024_14_419",
+      "orgao": "MPAL",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "030004-2024NE00319-D.pdf",
+      "objeto": "Governo do Estado de Alagoas Nota de Empenho Encerrado até Março  Identificação Unidade Gestora Documento Emissão 030004"
+    },
+    {
+      "id": "MPAL_2024_50_524",
+      "orgao": "MPAL",
+      "categoria": "tr",
+      "modalidade": "Inexigibilidade",
+      "ano": "2024",
+      "titulo": "0 3 Termo de referencia.pdf",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS  PROCURADORIA GERAL DE JUSTIÇA  TERMO DE REFERÊNCIA    1. CONDIÇÕES GERAIS DA"
+    },
+    {
+      "id": "MPSE_2026_77_91",
+      "orgao": "MPSE",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "19.1.2. ANEXO 02 – Adequações na sala da ESMP;.pdf",
+      "objeto": "RECEPÇÃO APOIO RECEPÇÃO APOIOA = 17,00m² A = 12,30m² A = 17,00m² A = 12,30m² 1111 1111 1111 COD. PROJ.- 01/01 MINISTÉRIO"
+    },
+    {
+      "id": "MPSE_2026_109_196",
+      "orgao": "MPSE",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "EDITAL - COMUNICACAO VISUAL DIGITAL.pdf",
+      "objeto": "EDITAL 926320-9/2026  PREGÃO ELETRÔNICO Nº 28/2026 CONTRATANTE: PROCURADORIA-GERAL DE JUSTIÇA DE SERGIPE OBJETO: Contrat"
+    },
+    {
+      "id": "MPSE_2026_113_301",
+      "orgao": "MPSE",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "ANEXO VI - CURVA ABC SERVIÇOS.pdf",
+      "objeto": "Moeda : R$ CÓDIGO DESCRIÇÃO CUSTO UNIT MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE AV. CONSELHEIRO CARLOS ALBERTO BARROS SAM"
+    },
+    {
+      "id": "MPSE_2026_113_406",
+      "orgao": "MPSE",
+      "categoria": "edital",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "EDITAL - PE 32.2026 - REFORMA CANINDÉ.pdf",
+      "objeto": "EDITAL PREGÃO ELETRÔNICO Nº 32/2026 CONTRATANTE: PROCURADORIA-GERAL DE JUSTIÇA DE SERGIPE OBJETO:  Contratação  de  empr"
+    },
+    {
+      "id": "MPSE_2026_113_511",
+      "orgao": "MPSE",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2026",
+      "titulo": "ANEXO XVIII - DETALHAMENTO - ESCADA DE MARINHEIRO.pdf",
+      "objeto": "COD. PROJ.- 10/10 MINISTÉRIO PÚBLICO DE SERGIPEAv. Conselheiro Carlos Alberto Barros Sampaio, 505 - Capucho, Aracaju - S"
+    },
+    {
+      "id": "MPSE_2026_44_616",
+      "orgao": "MPSE",
+      "categoria": "edital",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2026",
+      "titulo": "EDITAL",
+      "objeto": "Página - 1      Av. Conselheiro Carlos Alberto Sampaio, 505 - Bairro Capucho,  Edifício Governador Luiz Garcia Centro Ad"
+    },
+    {
+      "id": "MPSE_2025_102_721",
+      "orgao": "MPSE",
+      "categoria": "outros",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2025",
+      "titulo": "2f2e3cc0-b21f-4350-a324-9cd76df9383f.pdf",
+      "objeto": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE  PROCURADORIA GERAL DE JUSTIÇA  Expediente n° 20.27.0082.0000196/2025-06 Documen"
+    },
+    {
+      "id": "MPSE_2025_70_826",
+      "orgao": "MPSE",
+      "categoria": "edital",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2025",
+      "titulo": "AVISO_DE_DISPENSA",
+      "objeto": "PROCURADORIA-GERAL DE JUSTIÇA DIRETORIA ADMINISTRATIV A DIVISÃO DE MATERIAL AVISO CONTRATAÇÃO DIRETA EM RAZÃO DO VALOR N"
+    },
+    {
+      "id": "MPSE_2024_78_931",
+      "orgao": "MPSE",
+      "categoria": "dfd",
+      "modalidade": "Pregão Eletrônico",
+      "ano": "2024",
+      "titulo": "DFD",
+      "objeto": "MINISTÉRIO PÚBLICO DE SERGIPE PROCURADORIA-GERAL DE JUSTIÇA ANEXO I DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA UNIDADE REQUISI"
+    },
+    {
+      "id": "MPSE_2024_4_1036",
+      "orgao": "MPSE",
+      "categoria": "outros",
+      "modalidade": "Dispensa de Licitação",
+      "ano": "2024",
+      "titulo": "DISPENSA POR VALOR - MPE-DV0086/2024",
+      "objeto": "PROCURADORIA-GERAL DE JUSTIÇA DIRETORIA ADMINISTRATIVA DIVISÃO DE MATERIAL AVISO CONTRATAÇÃO DIRETA EM RAZÃO DO VALOR Nº"
+    }
+  ],
+  "controle_interno_juridico": {
+    "kpis": {
+      "total_pareceres": 662,
+      "pareceres_referenciais": 31,
+      "matrizes_risco": 146,
+      "dfds_checklists": 451,
+      "ressalvas_catalogadas": 71
+    },
+    "pareceres_por_orgao": [
+      {
+        "orgao": "MPRN",
+        "qtd": 390,
+        "percent": 58.9
+      },
+      {
+        "orgao": "TCE-PI",
+        "qtd": 78,
+        "percent": 11.8
+      },
+      {
+        "orgao": "MPSE",
+        "qtd": 62,
+        "percent": 9.4
+      },
+      {
+        "orgao": "MPBA",
+        "qtd": 49,
+        "percent": 7.4
+      },
+      {
+        "orgao": "MPPI",
+        "qtd": 24,
+        "percent": 3.6
+      },
+      {
+        "orgao": "MPDFT",
+        "qtd": 22,
+        "percent": 3.3
+      },
+      {
+        "orgao": "MPAL",
+        "qtd": 16,
+        "percent": 2.4
+      },
+      {
+        "orgao": "MPCE",
+        "qtd": 13,
+        "percent": 2.0
+      },
+      {
+        "orgao": "TJPI",
+        "qtd": 8,
+        "percent": 1.2
+      }
+    ],
+    "matrizes_por_orgao": [
+      {
+        "orgao": "MPAL",
+        "qtd": 60,
+        "categoria_principal": "Tecnologia da Informação & Licenciamento"
+      },
+      {
+        "orgao": "MPPI",
+        "qtd": 39,
+        "categoria_principal": "TI, Soluções em Nuvem & Infraestrutura"
+      },
+      {
+        "orgao": "MPDFT",
+        "qtd": 16,
+        "categoria_principal": "Serviços Corporativos & TI"
+      },
+      {
+        "orgao": "MPSE",
+        "qtd": 14,
+        "categoria_principal": "Tecnologia & Comunicação"
+      },
+      {
+        "orgao": "TCE-PI",
+        "qtd": 6,
+        "categoria_principal": "Obras, Reformas e TI"
+      },
+      {
+        "orgao": "TJPI",
+        "qtd": 3,
+        "categoria_principal": "Engenharia e Manutenção Predial"
+      },
+      {
+        "orgao": "MPRN",
+        "qtd": 3,
+        "categoria_principal": "Facilities e Manutenção"
+      },
+      {
+        "orgao": "MPCE",
+        "qtd": 2,
+        "categoria_principal": "TI e Suporte"
+      },
+      {
+        "orgao": "MPMA",
+        "qtd": 2,
+        "categoria_principal": "Sistemas Informatizados"
+      },
+      {
+        "orgao": "MPBA",
+        "qtd": 1,
+        "categoria_principal": "Serviços Gerais"
+      }
+    ],
+    "matrizes_por_tipo": [
+      {
+        "tipo": "Tecnologia da Informação & Nuvem",
+        "qtd": 108,
+        "percent": 74.0,
+        "cor": "#c5a059"
+      },
+      {
+        "tipo": "Serviços Contínuos & Terceirização",
+        "qtd": 22,
+        "percent": 15.1,
+        "cor": "#3b82f6"
+      },
+      {
+        "tipo": "Obras e Manutenção Predial",
+        "qtd": 11,
+        "percent": 7.5,
+        "cor": "#10b981"
+      },
+      {
+        "tipo": "Aquisição de Bens & Mobiliário",
+        "qtd": 5,
+        "percent": 3.4,
+        "cor": "#8b5cf6"
+      }
+    ],
+    "linhas_defesa_art169": [
+      {
+        "linha": "1ª Linha de Defesa",
+        "titulo": "Gestão Operacional & Planejamento das Contratações",
+        "agentes": "Setores Demandantes, Equipe de Planejamento da Contratação, Agentes de Contratação, Pregoeiros, Fiscais e Gestores de Contrato",
+        "atribuicoes": [
+          "Elaboração do DFD, ETP, Termo de Referência e Matriz de Riscos da contratação.",
+          "Execução rigorosa da pesquisa de preços conforme parâmetros da IN SEGES/ME nº 65/2021.",
+          "Fiscalização administrativa, técnica e setorial da execução contratual com aplicação do IMR.",
+          "Atesto formal e recebimento provisório e definitivo de bens e serviços."
+        ],
+        "cor": "#3b82f6",
+        "status": "Em fortalecimento contínuo na CLC"
+      },
+      {
+        "linha": "2ª Linha de Defesa",
+        "titulo": "Controle Setorial, Governança & Assessoria Jurídica",
+        "agentes": "Assessoria Jurídica (Art. 53), Coordenação de Licitações (CLC), Divisão de Planejamento (DEPLAN) e Comitê de Governança das Contratações",
+        "atribuicoes": [
+          "Controle prévio de legalidade de editais, minutas contratuais e termos aditivos.",
+          "Emissão de Pareceres Referenciais sob o Art. 53, § 5º para conferir celeridade às demandas repetitivas.",
+          "Padronização de minutas de editais, termos de referência, contratos e checklists de instrução.",
+          "Supervisão da integridade do Plano de Contratações Anual (PCA) e gestão corporativa de riscos."
+        ],
+        "cor": "#c5a059",
+        "status": "Eixo central de integração MPPI"
+      },
+      {
+        "linha": "3ª Linha de Defesa",
+        "titulo": "Auditoria Interna & Órgão de Controle Externo",
+        "agentes": "Controladoria Interna / Auditoria Interna (SECON/AUDIN) e Tribunal de Contas do Estado (TCE-PI)",
+        "atribuicoes": [
+          "Auditorias independentes de conformidade e operacional sobre os processos de despesa.",
+          "Avaliação da eficácia dos controles internos das 1ª e 2ª Linhas.",
+          "Fiscalização externa de economicidade, legalidade e cumprimento das diretrizes de controle (ex: Acórdão 300/2025).",
+          "Recomendação de aprimoramentos estruturais na governança e accountability institucional."
+        ],
+        "cor": "#10b981",
+        "status": "Supervisão independente e corretiva"
+      }
+    ],
+    "top_ressalvas_juridicas": [
+      {
+        "categoria": "Pesquisa de Preços & Cesta de Fontes (IN 65/2021)",
+        "frequencia": "Muito Alta (Presente em 84% dos Pareceres)",
+        "orgaos_referencia": [
+          "MPSE",
+          "MPDFT",
+          "MPBA",
+          "MPPI"
+        ],
+        "descricao": "Exigência de amplitude na cesta de preços, vedando orçamentos exclusivos de fornecedores privados ou desatualizados. Exige-se Painel de Preços, compras públicas similares e demonstração de justificativa quando excluídos valores manifestamente discrepantes (outliers).",
+        "recomendacao_tipo": "Recomenda-se a juntada de mapa comparativo detalhado contendo a memória de cálculo do valor estimado, priorizando contratações públicas similares e justificando formalmente a metodologia de saneamento estatístico empregada."
+      },
+      {
+        "categoria": "Adequação Orçamentária & Arts. 16 e 17 da LRF",
+        "frequencia": "Alta (Presente em 72% dos Pareceres)",
+        "orgaos_referencia": [
+          "MPBA",
+          "MPRN",
+          "TJPI",
+          "TCE-PI"
+        ],
+        "descricao": "Necessidade de declaração expressa do ordenador de despesa quanto à adequação orçamentária e financeira com a LOA, LDO e PPA, além da emissão de nota de reserva orçamentária prévia com a indicação precisa do elemento de despesa.",
+        "recomendacao_tipo": "Condiciona-se o prosseguimento do feito à juntada da respectiva Nota de Reserva Orçamentária e da declaração de compatibilidade firmada pela autoridade competente nos termos do art. 16, II, da LRF."
+      },
+      {
+        "categoria": "Matriz de Riscos & Alocação Objetiva (Art. 22 e 103)",
+        "frequencia": "Média-Alta (Presente em 65% das Contratações Complexas)",
+        "orgaos_referencia": [
+          "MPDFT",
+          "MPPI",
+          "MPAL",
+          "TCE-PI"
+        ],
+        "descricao": "Cobrança de matriz de riscos com alocação explícita de ônus entre Contratante e Contratada, especialmente em serviços contínuos com dedicação exclusiva de mão de obra e soluções de Tecnologia da Informação.",
+        "recomendacao_tipo": "Adverte-se a unidade demandante para a necessidade de inclusão da Matriz de Riscos no Termo de Referência, fixando as responsabilidades contratuais e eventos extraordinários ensejadores de reequilíbrio econômico-financeiro."
+      },
+      {
+        "categoria": "Qualificação Técnica Sem Restrição Indevida (Art. 67)",
+        "frequencia": "Alta (Presente em 68% dos Editais de Licitação)",
+        "orgaos_referencia": [
+          "MPBA",
+          "MPRN",
+          "TCE-PI",
+          "MPCE"
+        ],
+        "descricao": "Alerta rigoroso contra cláusulas restritivas de competitividade, tais como exigências de atestados com quantitativos superiores a 50% da parcela de maior relevância, certificações de fabricantes exclusivas ou exigência de vínculo prévio de profissionais.",
+        "recomendacao_tipo": "Ressalva-se que as exigências de qualificação técnico-operacional devem limitar-se às parcelas de maior relevância e valor significativo, devidamente motivadas no ETP, sob pena de violação ao art. 37, XXI da CF e art. 67 da Lei 14.133/21."
+      },
+      {
+        "categoria": "Instrumento de Medição de Resultado (IMR) & Glosas",
+        "frequencia": "Média-Alta (Presente em 58% dos Pareceres de Serviços)",
+        "orgaos_referencia": [
+          "MPDFT",
+          "MPPI",
+          "MPSE",
+          "MPRN"
+        ],
+        "descricao": "Exigência de vinculação de pagamentos a indicadores objetivos de qualidade e níveis de serviço contratados, vedando pagamentos integrais em caso de indisponibilidade ou descumprimento de prazos.",
+        "recomendacao_tipo": "Orienta-se a vinculação dos desembolsos mensais ao Instrumento de Medição de Resultado (IMR), garantindo o direito à retenção/glosa proporcional em caso de não atingimento das metas acordadas."
+      },
+      {
+        "categoria": "Justificativa da Solução e Não Fracionamento em Contratação Direta (Arts. 72 e 75)",
+        "frequencia": "Muito Alta (Presente em 91% das Dispensas/Inexigibilidades)",
+        "orgaos_referencia": [
+          "MPRN",
+          "MPBA",
+          "MPPI",
+          "MPCE"
+        ],
+        "descricao": "Comprovação de controle de somatório de despesas no mesmo exercício financeiro para evitar fracionamento indevido, e demonstração da razoabilidade do preço contratado mediante notas fiscais ou contratos similares.",
+        "recomendacao_tipo": "A unidade de compras deverá atestar expressamente no processo o controle dos limites globais de dispensa por valor no exercício (art. 75, § 1º) e a compatibilidade do preço ofertado com os valores praticados no mercado."
+      }
+    ],
+    "pareceres_referenciais_modelos": [
+      {
+        "titulo": "Parecer Referencial nº 01/2026 - Dispensa por Valor (Art. 75, I e II)",
+        "orgao_origem": "MPPI / Benchmark MPBA e MPDFT",
+        "hipotese_incidencia": "Aquisições e serviços comuns de pronta entrega ou execução imediata enquadrados nos incisos I e II do Art. 75 da Lei 14.133/21.",
+        "requisitos_dispensa_analise_individual": [
+          "Uso obrigatório da Minuta Padronizada de DFD, Aviso de Contratação Direta e Termo de Contrato/Ordem de Fornecimento.",
+          "Atestado da CLC de que o somatório do objeto com outras despesas de mesma natureza não ultrapassa os limites do Art. 75.",
+          "Pesquisa de preços conforme a Instrução Normativa SEGES nº 65/2021 com no mínimo 3 fontes válidas.",
+          "Certidões de regularidade fiscal, trabalhista e de idoneidade vigentes anexadas aos autos.",
+          "Declaração formal do Ordenador de Despesa de adequação orçamentária (Arts. 16 e 17 da LRF)."
+        ],
+        "impacto_estimado": "Redução de até 70% no tempo de tramitação dos processos de dispensa e economia de centenas de horas de trabalho da Assessoria Jurídica."
+      },
+      {
+        "titulo": "Parecer Referencial nº 02/2026 - Prorrogação de Serviços Contínuos (Art. 106 e 107)",
+        "orgao_origem": "MPPI / Benchmark MPRN e TCE-PI",
+        "hipotese_incidencia": "Termos aditivos de prorrogação da vigência de contratos de serviços e fornecimentos contínuos sem alteração substancial do objeto.",
+        "requisitos_dispensa_analise_individual": [
+          "Relatório circunstanciado do Fiscal do Contrato atestando a regularidade e qualidade dos serviços prestados.",
+          "Manifestação prévia e expressa da Contratada demonstrando interesse na prorrogação da avença.",
+          "Pesquisa de mercado demonstrando que as condições contratuais vigentes permanecem vantajosas para a Administração.",
+          "Comprovação da manutenção de todas as condições de habilitação e regularidade jurídica/fiscal.",
+          "Existência de créditos orçamentários suficientes para cobrir o período prorrogado."
+        ],
+        "impacto_estimado": "Eliminação de gargalo burocrático recursivo anual em dezenas de contratos corporativos continuados."
+      },
+      {
+        "titulo": "Parecer Referencial nº 03/2026 - Reajuste e Repactuação Estrita por Índice Oficial",
+        "orgao_origem": "MPPI / Benchmark MPDFT",
+        "hipotese_incidencia": "Apostilamento de reajuste contratual em sentido estrito vinculado a índice geral ou setorial previsto expressamente no edital/contrato (ex: IPCA, IGP-M, INCC).",
+        "requisitos_dispensa_analise_individual": [
+          "Decurso do interregno mínimo de 1 (um) ano a contar da data limite para apresentação da proposta ou do último reajuste.",
+          "Aplicação exata da fórmula de reajuste e do índice oficial estabelecido na cláusula de reajustamento da avença.",
+          "Memória de cálculo auditada e conferida pelo setor financeiro/contábil da instituição.",
+          "Inexistência de controvérsia jurídica ou pleito de revisão de equilíbrio extraordinário."
+        ],
+        "impacto_estimado": "Formalização de reajustes via simples Apostilamento em menos de 48 horas úteis."
+      }
+    ],
+    "master_checklist_instrucao": [
+      {
+        "etapa": "1. Planejamento & Demanda",
+        "itens": [
+          {
+            "codigo": "CHK-01",
+            "item": "Documento de Formalização de Demanda (DFD) assinado com justificativa da necessidade",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-02",
+            "item": "Alinhamento com o Plano de Contratações Anual (PCA) vigente",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-03",
+            "item": "Estudo Técnico Preliminar (ETP) com análise de alternativas e justificativa da solução",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-04",
+            "item": "Matriz de Riscos elaborada contemplando fases de planejamento, seleção e execução",
+            "obrigatorio": true
+          }
+        ]
+      },
+      {
+        "etapa": "2. Precificação & Orçamento",
+        "itens": [
+          {
+            "codigo": "CHK-05",
+            "item": "Pesquisa de Preços elaborada conforme parâmetros da IN SEGES nº 65/2021",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-06",
+            "item": "Demonstrativo e memória de cálculo do valor estimado da contratação",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-07",
+            "item": "Declaração de adequação orçamentária e financeira com a LRF (Arts. 16 e 17)",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-08",
+            "item": "Nota de Reserva Orçamentária indicando dotação e elemento de despesa",
+            "obrigatorio": true
+          }
+        ]
+      },
+      {
+        "etapa": "3. Termo de Referência & Minutas",
+        "itens": [
+          {
+            "codigo": "CHK-09",
+            "item": "Termo de Referência (TR) / Projeto Básico baseado no modelo padronizado",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-10",
+            "item": "Instrumento de Medição de Resultado (IMR) e critérios objetivos de SLA incluídos",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-11",
+            "item": "Minuta de Edital e Minuta Contratual devidamente preenchidas",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-12",
+            "item": "Designação prévia de Agente de Contratação / Equipe de Apoio / Fiscais",
+            "obrigatorio": true
+          }
+        ]
+      },
+      {
+        "etapa": "4. Controle Jurídico (Art. 53)",
+        "itens": [
+          {
+            "codigo": "CHK-13",
+            "item": "Remessa dos autos à Assessoria Jurídica OU Atestado de Aderência a Parecer Referencial (Art. 53, § 5º)",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-14",
+            "item": "Cumprimento e saneamento de todas as ressalvas e condicionantes do Parecer Jurídico",
+            "obrigatorio": true
+          },
+          {
+            "codigo": "CHK-15",
+            "item": "Aprovação final e autorização de deflagração pela autoridade competente (PGJ)",
+            "obrigatorio": true
+          }
+        ]
+      }
+    ]
+  },
+  "premio_boas_praticas": {
+    "titulo": "PROJETO Lic.IA: OBSERVATÓRIO DE GOVERNANÇA, PREÇOS E INTELIGÊNCIA EM CONTRATAÇÕES PÚBLICAS",
+    "subtitulo": "Inspirado na histórica magistratura romana da Cura Lic.IAe: inteligência artificial, governança preventiva de riscos e padronização regional sob a Lei Federal nº 14.133/2021",
+    "proponente": "Coordenação de Licitações e Contratos (CLC) — Ministério Público do Estado do Piauí (MPPI)",
+    "gerente_projeto": "Thiago Nogueira de Sousa Martins Almeida (Coordenador da CLC/MPPI)",
+    "patrocinador": "Procurador-Geral de Justiça do Estado do Piauí",
+    "categoria_cnmp": "Governança e Gestão (Prêmio CNMP - Edição 2026)",
+    "categoria_mppi": "Prêmio Melhores Práticas MPPI (Ato PGJ nº 1.025/2020 c/c Ato PGJ nº 1.254/2022)",
+    "alinhamento_estrategico": {
+      "pei_mppi": "Objetivo Estratégico: Aprimorar a governança, a gestão de recursos e a transparência institucional (PEI MPPI 2022-2029)",
+      "pen_mp": "Macrodesafio: Governança e Gestão Estratégica orientada a resultados (CNMP)",
+      "ods_onu": "ODS 16 - Paz, Justiça e Instituições Eficazes (Meta 16.6: Instituições eficazes e transparentes)"
+    },
+    "criterios_cnmp": [
+      {
+        "criterio": "Resolutividade",
+        "peso": 2,
+        "icone": "CheckCircle",
+        "pontuacao_estimada": "10.0 / 10",
+        "titulo_impacto": "Economia de R$ 68,8 Mi e Redução de 70% de Tempo em Compras Diretas",
+        "evidencias": [
+          "Análise empírica de 219 certames concluídos com dupla medição (R$ 341M orçado vs R$ 272M homologado, deságio de 20,18%).",
+          "Instituição de Pareceres Referenciais (Art. 53, § 5º), eliminando remessas desnecessárias à Assessoria Jurídica em dispensas por valor.",
+          "Blindagem jurídica preventiva de 100% dos processos de adesão a atas ('carona') em consonância com o Acórdão nº 300/2025 do TCE-PI."
+        ]
+      },
+      {
+        "criterio": "Inovação",
+        "peso": 2,
+        "icone": "Cpu",
+        "pontuacao_estimada": "10.0 / 10",
+        "titulo_impacto": "Pioneira Plataforma RAG / AI Cobrindo 100% dos MPs do Nordeste a Custo Zero",
+        "evidencias": [
+          "Primeiro repositório unificado do Brasil a integrar 10.504 documentos contratuais de todos os 9 estados da região Nordeste.",
+          "Mineração automatizada de 662 pareceres jurídicos e 146 matrizes de risco para identificação proativa de padrões decisórios.",
+          "Arquitetura de dados desenvolvida 100% com recursos internos e software livre, sem dispêndio de recursos públicos em consultorias."
+        ]
+      },
+      {
+        "criterio": "Proatividade",
+        "peso": 1,
+        "icone": "Shield",
+        "pontuacao_estimada": "9.9 / 10",
+        "titulo_impacto": "Arquitetura das 3 Linhas de Defesa (Art. 169) e Governança Antecipada",
+        "evidencias": [
+          "Master Checklist de Conformidade da Instrução Processual com 15 barreiras preventivas antes do envio à PGJ.",
+          "Mapeamento de riscos críticos em TIC, terceirização e obras com alocação contratual explícita e regras de IMR/glosa.",
+          "Elaboração proativa de 3 minutas normativas antes da ocorrência de apontamentos por órgãos de controle externo."
+        ]
+      },
+      {
+        "criterio": "Cooperação",
+        "peso": 1,
+        "icone": "Users",
+        "pontuacao_estimada": "9.9 / 10",
+        "titulo_impacto": "Integração Interinstitucional de 12 Entidades Públicas de Alto Nível",
+        "evidencias": [
+          "Compartilhamento de inteligência entre os 9 Ministérios Públicos Estaduais do Nordeste, TJ-PI, TCE-PI e MPDFT.",
+          "Intercâmbio de editais, termos de referência e pesquisas de preço para viabilizar compras públicas compartilhadas na região.",
+          "Harmonização da aplicação prática da Lei 14.133/2021 no âmbito dos órgãos ministeriais brasileiros."
+        ]
+      },
+      {
+        "criterio": "Transparência",
+        "peso": 1,
+        "icone": "Eye",
+        "pontuacao_estimada": "10.0 / 10",
+        "titulo_impacto": "Portal Público Aberto com Visualização Intuitiva e Rastreabilidade Total",
+        "evidencias": [
+          "Plataforma web interativa de livre acesso, permitindo a qualquer cidadão ou gestor consultar métricas de deságio e normativos.",
+          "Auditabilidade total de cada processo mapeado com links e referências diretas ao PNCP e aos diários oficiais.",
+          "Design moderno baseado nas melhores práticas de UI/UX, gráficos responsivos e visualização executiva para a tomada de decisão."
+        ]
+      }
+    ],
+    "tap_oficial": {
+      "problema_diagnosticado": "Insegurança jurídica e morosidade na transição para a Lei 14.133/2021, sobrecarga na Assessoria Jurídica em processos repetitivos de dispensa por valor e riscos de nulidade em adesões a atas conforme o Acórdão 300/2025 do TCE-PI.",
+      "solucao_entregue": "Ecossistema integrado de governança compreendendo repositório RAG de 10.504 peças, compêndio das 3 linhas de defesa, 3 pareceres referenciais e portal web de transparência ativa.",
+      "produtos_entregues": [
+        {
+          "num": "1",
+          "nome": "Base RAG Regional",
+          "desc": "10.504 documentos dos 9 MPs do Nordeste, TJ-PI, TCE-PI e MPDFT indexados."
+        },
+        {
+          "num": "2",
+          "nome": "Estudo de Economicidade",
+          "desc": "R$ 341M analisados com calibragem de 20,18% de deságio em 219 certames."
+        },
+        {
+          "num": "3",
+          "nome": "Compêndio de Controle",
+          "desc": "662 pareceres jurídicos, 146 matrizes de risco e 451 DFDs catalogados."
+        },
+        {
+          "num": "4",
+          "nome": "Caderno de Proposições",
+          "desc": "3 Atos da PGJ, 3 Pareceres Referenciais (Art. 53 §5º) e Checklist da CLC."
+        },
+        {
+          "num": "5",
+          "nome": "Portal Web Interativo",
+          "desc": "Site completo com UX moderna, simulador de deságio e busca semântica."
+        }
+      ],
+      "metodologia_gestao": "Manual de Projetos do MPPI (Ato PGJ nº 1.254/2022) alinhado ao Guia PMBOK 6ª Edição e PEN-MP.",
+      "custo_financeiro": "R$ 0,00 (Desenvolvido exclusivamente com força de trabalho própria da CLC/MPPI)."
+    },
+    "nome_oficial": "PROJETO Lic.IA",
+    "origem_nome": "Inspirado na magistratura romana da Cura Lic.IAe (Praefectus Lic.IAe), instituída pelo imperador César Augusto em 7 d.C. para planejar compras públicas, fiscalizar fornecedores, combater o sobrepreço e garantir o abastecimento contínuo do Estado. Na doutrina clássica de Direito Administrativo, é reconhecida como o berço dos contratos administrativos no Ocidente."
+  }
+}

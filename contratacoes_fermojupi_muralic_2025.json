@@ -1,0 +1,2167 @@
+[
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1123858",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "53/2025",
+    "processo_administrativo": "25.0.000120362-5/2025",
+    "objeto": "Formação de Registro de Preços para o eventual fornecimento de licenças para solução de Business Intelligence (BI) baseada na plataforma Qlik Sense, em ambiente de nuvem (SaaS) e on-premise, pelo período de 60 (sessenta) meses, de acordo com as especificações, condições e quantidades estimadas, descritas neste instrumento e seus anexos.",
+    "valor_estimado": 1327555.0,
+    "status": "Finalizada",
+    "total_arquivos": 9,
+    "arquivos": [
+      {
+        "idarq": "1186637",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7565124 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1186637",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Edital_SEI_TJPI - 7565124 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1186638",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7565013 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1186638",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Termo de referência_SEI_TJPI - 7565013 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1186639",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7302614 - Documento de Oficialização da Demanda da STIC.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1186639",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Documento de abertura do processo_SEI_TJPI - 7302614 - Documento de Oficialização da Demanda da STIC.pdf"
+      },
+      {
+        "idarq": "1186641",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7561525 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1186641",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Ato de autorização da contratação_SEI_TJPI - 7561525 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1191087",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645405900532025_s1_grupo1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1191087",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Ata_termo de julgamento_relatorio_julg_hab_92645405900532025_s1_grupo1.pdf"
+      },
+      {
+        "idarq": "1191088",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645405900532025_grupo1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1191088",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Outro anexo_relatorio_termo_homologacao_92645405900532025_grupo1.pdf"
+      },
+      {
+        "idarq": "1191089",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_25.0.000120362_5.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1191089",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Análise habilitação e_ou propostas_SEI_25.0.000120362_5.pdf"
+      },
+      {
+        "idarq": "1191090",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7632795 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1191090",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Ata SRP_SEI_TJPI - 7632795 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1191091",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7632949 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123858/arquivos/1191091",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\53_2025_1123858\\Extrato Ata SRP_SEI_TJPI - 7632949 - Extrato de Ata.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1123758",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "50/2025",
+    "processo_administrativo": "25.0.000129450-7/2025",
+    "objeto": "Aquisição de serviço de créditos para serviços da nuvem pública GOOGLE CLOUD PLATAFORM - GCP, para acesso à API de modelo de linguagem de alta capacidade Gemini (google), para fins de análise de dados e atendimento virtual no âmbito do poder judiciário do estado do Piauí, de acordo com as especificações, condições e quantidades, previstas neste instrumento convocatório e seus anexos.",
+    "valor_estimado": 388512.0,
+    "status": "Finalizada",
+    "total_arquivos": 9,
+    "arquivos": [
+      {
+        "idarq": "1185944",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7549391 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1185944",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Edital_SEI_TJPI - 7549391 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1185946",
+        "tipo": "Termo de referência",
+        "nome": "SEI_25.0.000129450_7.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1185946",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Termo de referência_SEI_25.0.000129450_7.pdf"
+      },
+      {
+        "idarq": "1185949",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7380839 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1185949",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Documento de abertura do processo_SEI_TJPI - 7380839 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1185950",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7549395 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1185950",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7549395 - Informação.pdf"
+      },
+      {
+        "idarq": "1188997",
+        "tipo": "Outro anexo",
+        "nome": "PE 01 e Resposta.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1188997",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Outro anexo_PE 01 e Resposta.pdf"
+      },
+      {
+        "idarq": "1188998",
+        "tipo": "Outro anexo",
+        "nome": "PE 02 e Resposta.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1188998",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Outro anexo_PE 02 e Resposta.pdf"
+      },
+      {
+        "idarq": "1191300",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645405900502025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1191300",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Ata_termo de julgamento_relatorio_julg_hab_92645405900502025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1191301",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645405900502025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1191301",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Outro anexo_relatorio_termo_homologacao_92645405900502025_item_1.pdf"
+      },
+      {
+        "idarq": "1191303",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "ilovepdf_merged (36).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123758/arquivos/1191303",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\50_2025_1123758\\Análise habilitação e_ou propostas_ilovepdf_merged (36).pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1123756",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "52/2025",
+    "processo_administrativo": "25.0.000143946-7/2025",
+    "objeto": "Formação de Registro de Preços para aquisição de veículos automotores tipo SUV (Utilitário esportivo), motorização HÍBRIDA, 04 Portas, para renovação de frota veicular, a serem fornecidos de forma parcelada, conforme solicitações, durante a validade da Ata de Registro de Preços, para atender todas as unidades integrantes do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações, condições e quantidades, previstas neste instrumento convocatório e seus anexos.",
+    "valor_estimado": 0.0,
+    "status": "Cancelada",
+    "total_arquivos": 8,
+    "arquivos": [
+      {
+        "idarq": "1185909",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7551327 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185909",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Edital_SEI_TJPI - 7551327 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1185910",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7551311 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185910",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Termo de referência_SEI_TJPI - 7551311 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1185911",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7551367 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185911",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7551367 - Informação.pdf"
+      },
+      {
+        "idarq": "1185913",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7550999 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185913",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Ato de autorização da contratação_SEI_TJPI - 7550999 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1185914",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 24-11.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185914",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Extrato de publicação_TJPI - 24-11.pdf"
+      },
+      {
+        "idarq": "1185916",
+        "tipo": "Extrato de publicação",
+        "nome": "pncp e compras.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185916",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Extrato de publicação_pncp e compras.pdf"
+      },
+      {
+        "idarq": "1185919",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185919",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1185921",
+        "tipo": "Extrato de publicação",
+        "nome": "dj251119_10183.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1123756/arquivos/1185921",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\52_2025_1123756\\Extrato de publicação_dj251119_10183.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1112902",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "47/2025",
+    "processo_administrativo": "25.0.000059661-5/2025",
+    "objeto": "Formação de registro de preços, por meio de pregão eletrônico para contratação de empresa especializada para prestação de serviço contínuo de locação de impressoras térmicas portáteis, com conexão sem fio, pelo período de 12 (doze) meses, fornecimento de bobinas de papel térmico e suporte técnico em português, a serem executados de acordo com as especificações, condições e quantidades estimadas, descritas no termo de referência e seus anexos.",
+    "valor_estimado": 431878.56,
+    "status": "Finalizada",
+    "total_arquivos": 9,
+    "arquivos": [
+      {
+        "idarq": "1180385",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7432681 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1180385",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Edital_SEI_TJPI - 7432681 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1180386",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7432460 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1180386",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Termo de referência_SEI_TJPI - 7432460 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1180390",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7290671 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1180390",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Ato de autorização da contratação_SEI_TJPI - 7290671 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1180393",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6817938 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1180393",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Documento de abertura do processo_SEI_TJPI - 6817938 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1191306",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO DE JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1191306",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Ata_termo de julgamento_TERMO DE JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1191307",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO DE HOMOLOGAÇÃO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1191307",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Ata_termo de julgamento_TERMO DE HOMOLOGAÇÃO.pdf"
+      },
+      {
+        "idarq": "1191310",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7640083 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1191310",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Ata SRP_SEI_TJPI - 7640083 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1191311",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7640206 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1191311",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Extrato Ata SRP_SEI_TJPI - 7640206 - Extrato de Ata.pdf"
+      },
+      {
+        "idarq": "1191313",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7566059 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1112902/arquivos/1191313",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\47_2025_1112902\\Análise habilitação e_ou propostas_SEI_TJPI - 7566059 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1102396",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "45/2025",
+    "processo_administrativo": "25.0.000097789-9/2025",
+    "objeto": "Formação de Registro de Preços para aquisição de aparelhos de ar-condicionado split, climatizadores de ambiente? e frigobares, para serem fornecidos de forma parcelada, conforme solicitações, durante a validade da Ata de Registro de Preços, visando atendimento das demandas de todas as unidades judiciárias e administrativas do Poder Judiciário do Estado do Piauí, de acordo com as especificações, condições e quantidades, previstas neste instrumento convocatório e seus anexos.",
+    "valor_estimado": 984916.18,
+    "status": "Finalizada",
+    "total_arquivos": 15,
+    "arquivos": [
+      {
+        "idarq": "1167808",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7416548 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1167808",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Edital_SEI_TJPI - 7416548 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1167809",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7389434 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1167809",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Termo de referência_SEI_TJPI - 7389434 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1167810",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7389442 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1167810",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7389442 - Informação.pdf"
+      },
+      {
+        "idarq": "1167811",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7121941 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1167811",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Documento de abertura do processo_SEI_TJPI - 7121941 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1168559",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000097789_9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1168559",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Outro anexo_SEI_25.0.000097789_9.pdf"
+      },
+      {
+        "idarq": "1180207",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimento e Resposta (2).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1180207",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Outro anexo_Pedido de Esclarecimento e Resposta (2).pdf"
+      },
+      {
+        "idarq": "1206369",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645405900452025_s1_item_1_merged__1_.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206369",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata_termo de julgamento_relatorio_julg_hab_92645405900452025_s1_item_1_merged__1_.pdf"
+      },
+      {
+        "idarq": "1206370",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671746 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206370",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671746 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206371",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671756 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206371",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671756 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206372",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671768 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206372",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671768 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206373",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671775 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206373",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671775 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206374",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671784 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206374",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671784 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206375",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7671793 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206375",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Ata SRP_SEI_TJPI - 7671793 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1206378",
+        "tipo": "Extrato Ata SRP",
+        "nome": "dj260119_10211.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206378",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Extrato Ata SRP_dj260119_10211.pdf"
+      },
+      {
+        "idarq": "1206382",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645405900452025_item_1_merged.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102396/arquivos/1206382",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\45_2025_1102396\\Outro anexo_relatorio_termo_homologacao_92645405900452025_item_1_merged.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1102019",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "38/2025",
+    "processo_administrativo": "25.0.000118239-3/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a construção do Novo Fórum, Juizado e Central de Inquérito da Comarca de São Raimundo Nonato - PI?, localizado na Rua Yolanda Paixão, Bairro Santa Luzia, São Raimundo Nonato - PI, CEP 64.770-000, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 19365577.79,
+    "status": "Finalizada",
+    "total_arquivos": 10,
+    "arquivos": [
+      {
+        "idarq": "1164876",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7366549 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164876",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Edital_SEI_TJPI - 7366549 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1164878",
+        "tipo": "Projeto básico",
+        "nome": "SEI_TJPI - 7366515 - Projeto Básico.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164878",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Projeto básico_SEI_TJPI - 7366515 - Projeto Básico.pdf"
+      },
+      {
+        "idarq": "1164885",
+        "tipo": "Projeto básico",
+        "nome": "SEI_25.0.000118239_3 (4).zip.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164885",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Projeto básico_SEI_25.0.000118239_3 (4).zip.pdf"
+      },
+      {
+        "idarq": "1164886",
+        "tipo": "Projeto básico",
+        "nome": "SEI_25.0.000118239_3 (5).zip.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164886",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Projeto básico_SEI_25.0.000118239_3 (5).zip.pdf"
+      },
+      {
+        "idarq": "1164887",
+        "tipo": "Extrato de publicação",
+        "nome": "_dj251001_10150.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164887",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Extrato de publicação__dj251001_10150.pdf"
+      },
+      {
+        "idarq": "1164888",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7364692 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1164888",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Ato de autorização da contratação_SEI_TJPI - 7364692 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1191905",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645403900382025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1191905",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Ata_termo de julgamento_relatorio_julg_hab_92645403900382025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1191906",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645403900382025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1191906",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Outro anexo_relatorio_termo_homologacao_92645403900382025_item_1.pdf"
+      },
+      {
+        "idarq": "1191915",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "PROPOSTA PERFORMANCE assinado.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1191915",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Análise habilitação e_ou propostas_PROPOSTA PERFORMANCE assinado.pdf"
+      },
+      {
+        "idarq": "1191916",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7578068 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102019/arquivos/1191916",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\38_2025_1102019\\Análise habilitação e_ou propostas_SEI_TJPI - 7578068 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1102006",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "37/2025",
+    "processo_administrativo": "25.0.000085148-8/2025",
+    "objeto": "Formação de Registro de Preços para contratação de empresa especializada no fornecimento e instalação de servidores de alto desempenho com 04 (quatro) GPUs H200 NVL, conforme as condições, quantitativos e especificações técnicas descritas no Termo de Referência e seus anexos.",
+    "valor_estimado": 5580000.0,
+    "status": "Finalizada",
+    "total_arquivos": 21,
+    "arquivos": [
+      {
+        "idarq": "1164779",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7356264 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164779",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Edital_SEI_TJPI - 7356264 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1164780",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7356060 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164780",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Termo de referência_SEI_TJPI - 7356060 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1164781",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7363654 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164781",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7363654 - Informação.pdf"
+      },
+      {
+        "idarq": "1164782",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7300347 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164782",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Ato de autorização da contratação_SEI_TJPI - 7300347 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1164783",
+        "tipo": "Extrato de publicação",
+        "nome": "dj251001_10150.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164783",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Extrato de publicação_dj251001_10150.pdf"
+      },
+      {
+        "idarq": "1164784",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164784",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1164785",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164785",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1164921",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 02-10.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1164921",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Extrato de publicação_TJPI - 02-10.pdf"
+      },
+      {
+        "idarq": "1166494",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimentos 01.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1166494",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_Pedido de Esclarecimentos 01.pdf"
+      },
+      {
+        "idarq": "1166495",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7397488 - Resposta ao Pedido de Esclarecimentos 01.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1166495",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_SEI_TJPI - 7397488 - Resposta ao Pedido de Esclarecimentos 01.pdf"
+      },
+      {
+        "idarq": "1166715",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimentos 02.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1166715",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_Pedido de Esclarecimentos 02.pdf"
+      },
+      {
+        "idarq": "1166716",
+        "tipo": "Outro anexo",
+        "nome": "Resposta ao Pedido de Esclarecimentos nº 02.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1166716",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_Resposta ao Pedido de Esclarecimentos nº 02.pdf"
+      },
+      {
+        "idarq": "1167307",
+        "tipo": "Outro anexo",
+        "nome": "Pedido_de_Esclarecimentos_03.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1167307",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_Pedido_de_Esclarecimentos_03.pdf"
+      },
+      {
+        "idarq": "1167308",
+        "tipo": "Outro anexo",
+        "nome": "Pedido_de_Esclarecimentos_04.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1167308",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_Pedido_de_Esclarecimentos_04.pdf"
+      },
+      {
+        "idarq": "1167309",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7408434 - Resposta ao Pedido de Esclarecimentos 03.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1167309",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_SEI_TJPI - 7408434 - Resposta ao Pedido de Esclarecimentos 03.pdf"
+      },
+      {
+        "idarq": "1167310",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7408899 - Resposta ao Pedido de Esclarecimentos 04.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1167310",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Outro anexo_SEI_TJPI - 7408899 - Resposta ao Pedido de Esclarecimentos 04.pdf"
+      },
+      {
+        "idarq": "1188164",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645405900372025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1188164",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Ata_termo de julgamento_relatorio_julg_hab_92645405900372025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1188165",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_termo_homologacao_92645405900372025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1188165",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Ata_termo de julgamento_relatorio_termo_homologacao_92645405900372025_item_1.pdf"
+      },
+      {
+        "idarq": "1188166",
+        "tipo": "Ata SRP",
+        "nome": "SEI_25.0.000085148_8.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1188166",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Ata SRP_SEI_25.0.000085148_8.pdf"
+      },
+      {
+        "idarq": "1188167",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7578683 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1188167",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Extrato Ata SRP_SEI_TJPI - 7578683 - Extrato de Ata.pdf"
+      },
+      {
+        "idarq": "1188169",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7491232 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1102006/arquivos/1188169",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\37_2025_1102006\\Análise habilitação e_ou propostas_SEI_TJPI - 7491232 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1101975",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "35/2025",
+    "processo_administrativo": "25.0.000059661-5/2025",
+    "objeto": "Formação de registro de preços, por meio de pregão eletrônico para contratação de empresa especializada para prestação de serviço contínuo de locação de impressoras térmicas portáteis, com conexão sem fio, fornecimento de bobinas de papel térmico e suporte técnico em português, a serem executados de acordo com as especificações, condições e quantidades estimadas, descritas no termo de referência e seus anexos.",
+    "valor_estimado": 0.0,
+    "status": "Suspensa",
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "idarq": "1164470",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7298751 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101975/arquivos/1164470",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\35_2025_1101975\\Termo de referência_SEI_TJPI - 7298751 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1164471",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7298812 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101975/arquivos/1164471",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\35_2025_1101975\\Edital_SEI_TJPI - 7298812 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1164473",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7290671 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101975/arquivos/1164473",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\35_2025_1101975\\Ato de autorização da contratação_SEI_TJPI - 7290671 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1164474",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7298814 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101975/arquivos/1164474",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\35_2025_1101975\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7298814 - Informação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1101970",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "36/2025",
+    "processo_administrativo": "25.0.000096531-9/2025",
+    "objeto": "Aquisição de 01 (um) transformador trifásico a seco, potência nominal de 500 kVA, tensão primária de 13,8 kV e secundária de 380/220V, para atender o Fórum Cível e Criminal da Comarca de Teresina, de acordo com as especificações e condições descritas no Termo de Referência e seus anexos",
+    "valor_estimado": 80446.91,
+    "status": "Finalizada",
+    "total_arquivos": 13,
+    "arquivos": [
+      {
+        "idarq": "1164392",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7349327 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164392",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Edital_SEI_TJPI - 7349327 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1164393",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7348694 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164393",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Termo de referência_SEI_TJPI - 7348694 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1164395",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7264082 - Decisão.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164395",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Ato de autorização da contratação_SEI_TJPI - 7264082 - Decisão.pdf"
+      },
+      {
+        "idarq": "1164396",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164396",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1164397",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164397",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1164399",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250930_10149.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164399",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Extrato de publicação_dj250930_10149.pdf"
+      },
+      {
+        "idarq": "1164400",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 01-10.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1164400",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Extrato de publicação_TJPI - 01-10.pdf"
+      },
+      {
+        "idarq": "1165568",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimentos 01.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1165568",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Outro anexo_Pedido de Esclarecimentos 01.pdf"
+      },
+      {
+        "idarq": "1165569",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7381884 - Resposta ao Pedido de Esclarecimentos 01.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1165569",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Outro anexo_SEI_TJPI - 7381884 - Resposta ao Pedido de Esclarecimentos 01.pdf"
+      },
+      {
+        "idarq": "1181056",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-julg-hab-92645405900362025-s1-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1181056",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Ata_termo de julgamento_relatorio-julg-hab-92645405900362025-s1-item-1.pdf"
+      },
+      {
+        "idarq": "1181057",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-termo-homologacao-92645405900362025-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1181057",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Ata_termo de julgamento_relatorio-termo-homologacao-92645405900362025-item-1.pdf"
+      },
+      {
+        "idarq": "1181058",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7453842 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1181058",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Análise habilitação e_ou propostas_SEI_TJPI - 7453842 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1181059",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7439716 - Análise.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1101970/arquivos/1181059",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\36_2025_1101970\\Análise habilitação e_ou propostas_SEI_TJPI - 7439716 - Análise.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1081452",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "33/2025",
+    "processo_administrativo": "25.0.000067613-9/2025",
+    "objeto": "Formação de Registro de Preços para eventual aquisição de Notebooks, Desktops e Monitores, para atender às necessidades de renovação do parque tecnológico do Poder Judiciário Piauiense, de acordo com as especificações, condições e quantidades estimadas, descritas no Termo de Referência e seus anexos.",
+    "valor_estimado": 21522021.12,
+    "status": "Finalizada",
+    "total_arquivos": 28,
+    "arquivos": [
+      {
+        "idarq": "1140216",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7264313 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140216",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Edital_SEI_TJPI - 7264313 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1140217",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7264205 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140217",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Termo de referência_SEI_TJPI - 7264205 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1140218",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7275004 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140218",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7275004 - Informação.pdf"
+      },
+      {
+        "idarq": "1140219",
+        "tipo": "Outro anexo",
+        "nome": "Relatório de Especificações.rar.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140219",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_Relatório de Especificações.rar.pdf"
+      },
+      {
+        "idarq": "1140220",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 11-09.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140220",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato de publicação_TJPI - 11-09.pdf"
+      },
+      {
+        "idarq": "1140221",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140221",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1140222",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140222",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1140223",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250910_10135.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1140223",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato de publicação_dj250910_10135.pdf"
+      },
+      {
+        "idarq": "1153003",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153003",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9.pdf"
+      },
+      {
+        "idarq": "1153004",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9 (1).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153004",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9 (1).pdf"
+      },
+      {
+        "idarq": "1153005",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9 (2).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153005",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9 (2).pdf"
+      },
+      {
+        "idarq": "1153006",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9 (3).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153006",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9 (3).pdf"
+      },
+      {
+        "idarq": "1153007",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9 (4).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153007",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9 (4).pdf"
+      },
+      {
+        "idarq": "1153008",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000067613_9 (5).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1153008",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Outro anexo_SEI_25.0.000067613_9 (5).pdf"
+      },
+      {
+        "idarq": "1167968",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645405900332025_s1_item_5.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1167968",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_relatorio_julg_hab_92645405900332025_s1_item_5.pdf"
+      },
+      {
+        "idarq": "1167969",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_termo_homologacao_92645405900332025_item_5.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1167969",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_relatorio_termo_homologacao_92645405900332025_item_5.pdf"
+      },
+      {
+        "idarq": "1167970",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7422345 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1167970",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata SRP_SEI_TJPI - 7422345 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1167971",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7422394 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1167971",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato Ata SRP_SEI_TJPI - 7422394 - Extrato de Ata.pdf"
+      },
+      {
+        "idarq": "1167972",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7408461 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1167972",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Análise habilitação e_ou propostas_SEI_TJPI - 7408461 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1180387",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "Termo de Julgamento - Consolidado.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1180387",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_Termo de Julgamento - Consolidado.pdf"
+      },
+      {
+        "idarq": "1180389",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "Termo de Homologação - Consolidado.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1180389",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_Termo de Homologação - Consolidado.pdf"
+      },
+      {
+        "idarq": "1180394",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7456926 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1180394",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata SRP_SEI_TJPI - 7456926 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1180399",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7457048 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1180399",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato Ata SRP_SEI_TJPI - 7457048 - Extrato de Ata.pdf"
+      },
+      {
+        "idarq": "1183138",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7505885 - Ata de Registro de Preços - ITEM 1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1183138",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata SRP_SEI_TJPI - 7505885 - Ata de Registro de Preços - ITEM 1.pdf"
+      },
+      {
+        "idarq": "1183139",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7487574 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1183139",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Extrato Ata SRP_SEI_TJPI - 7487574 - Extrato de Ata.pdf"
+      },
+      {
+        "idarq": "1183140",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-julg-hab-92645405900332025-s1-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1183140",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_relatorio-julg-hab-92645405900332025-s1-item-1.pdf"
+      },
+      {
+        "idarq": "1183141",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-termo-homologacao-92645405900332025-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1183141",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Ata_termo de julgamento_relatorio-termo-homologacao-92645405900332025-item-1.pdf"
+      },
+      {
+        "idarq": "1183142",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7409427 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081452/arquivos/1183142",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\33_2025_1081452\\Análise habilitação e_ou propostas_SEI_TJPI - 7409427 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1081230",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "32/2025",
+    "processo_administrativo": "25.0.000090993-1/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a CONSTRUÇÃO DO EDIFÍCIO GARAGEM NO COMPLEXO JUDICIÁRIO DO TJPI?, localizado na Avenida Padre Humberto Pietrogrande, 3509 , bairro São Raimundo, Teresina/ Piauí, CEP 64.075-066, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 30706937.43,
+    "status": "Finalizada",
+    "total_arquivos": 15,
+    "arquivos": [
+      {
+        "idarq": "1138707",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7249709 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1138707",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Edital_SEI_TJPI - 7249709 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1138708",
+        "tipo": "Projeto básico",
+        "nome": "SEI_TJPI - 7248331 - Projeto Básico.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1138708",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Projeto básico_SEI_TJPI - 7248331 - Projeto Básico.pdf"
+      },
+      {
+        "idarq": "1138709",
+        "tipo": "Outro anexo",
+        "nome": "Anexos do Edital.rar.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1138709",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Outro anexo_Anexos do Edital.rar.pdf"
+      },
+      {
+        "idarq": "1138710",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7244901 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1138710",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Ato de autorização da contratação_SEI_TJPI - 7244901 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1138711",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1138711",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1139216",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI___05_09.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1139216",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Extrato de publicação_TJPI___05_09.pdf"
+      },
+      {
+        "idarq": "1139217",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250903_10130.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1139217",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Extrato de publicação_dj250903_10130.pdf"
+      },
+      {
+        "idarq": "1139218",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1139218",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1140195",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimentos 1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1140195",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Outro anexo_Pedido de Esclarecimentos 1.pdf"
+      },
+      {
+        "idarq": "1140196",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7282630 - Resposta ao Pedido de Esclarecimentos 1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1140196",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Outro anexo_SEI_TJPI - 7282630 - Resposta ao Pedido de Esclarecimentos 1.pdf"
+      },
+      {
+        "idarq": "1165882",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645403900322025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1165882",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Ata_termo de julgamento_relatorio_julg_hab_92645403900322025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1165883",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_termo_homologacao_92645403900322025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1165883",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Ata_termo de julgamento_relatorio_termo_homologacao_92645403900322025_item_1.pdf"
+      },
+      {
+        "idarq": "1165884",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7370717 - Análise Qualificação Técnica.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1165884",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Análise habilitação e_ou propostas_SEI_TJPI - 7370717 - Análise Qualificação Técnica.pdf"
+      },
+      {
+        "idarq": "1165885",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7374917 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1165885",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Análise habilitação e_ou propostas_SEI_TJPI - 7374917 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1165886",
+        "tipo": "Outro anexo",
+        "nome": "relatorios_diligencia_92645403900322025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081230/arquivos/1165886",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\32_2025_1081230\\Outro anexo_relatorios_diligencia_92645403900322025_item_1.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1081203",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "90029/2025",
+    "processo_administrativo": "25.0.000088356-8/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a Reforma do Sistema de Climatização do Fórum Cível e Criminal da Comarca de Teresina, localizado na Rua Governador Tibério Nunes, bairro Cabral, CEP 64.000-830, Teresina - PI, para servir ao Poder Judiciário do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 2589835.11,
+    "status": "Finalizada",
+    "total_arquivos": 28,
+    "arquivos": [
+      {
+        "idarq": "1138469",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7224788 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138469",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Edital_SEI_TJPI - 7224788 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1138470",
+        "tipo": "Projeto básico",
+        "nome": "SEI_TJPI - 7220750 - Projeto Básico.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138470",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_SEI_TJPI - 7220750 - Projeto Básico.pdf"
+      },
+      {
+        "idarq": "1138471",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7040812 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138471",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Documento de abertura do processo_SEI_TJPI - 7040812 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1138472",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7217333 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138472",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Ato de autorização da contratação_SEI_TJPI - 7217333 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1138474",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_01.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138474",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_01.pdf"
+      },
+      {
+        "idarq": "1138475",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_02.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138475",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_02.pdf"
+      },
+      {
+        "idarq": "1138476",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_03.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138476",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_03.pdf"
+      },
+      {
+        "idarq": "1138477",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_04.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138477",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_04.pdf"
+      },
+      {
+        "idarq": "1138478",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_05.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138478",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_05.pdf"
+      },
+      {
+        "idarq": "1138479",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_6___MEMORIAL_DESC.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138479",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_6___MEMORIAL_DESC.pdf"
+      },
+      {
+        "idarq": "1138480",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_7___MEMORIAL_JUSTIF.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138480",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_7___MEMORIAL_JUSTIF.pdf"
+      },
+      {
+        "idarq": "1138481",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_8___CADERNO_DE_ENCARGOS.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138481",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_8___CADERNO_DE_ENCARGOS.pdf"
+      },
+      {
+        "idarq": "1138482",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138482",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_9.pdf"
+      },
+      {
+        "idarq": "1138483",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_10.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138483",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_10.pdf"
+      },
+      {
+        "idarq": "1138484",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_11.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138484",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_11.pdf"
+      },
+      {
+        "idarq": "1138485",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_12.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138485",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_12.pdf"
+      },
+      {
+        "idarq": "1138486",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_13.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138486",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_13.pdf"
+      },
+      {
+        "idarq": "1138487",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_14.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138487",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_14.pdf"
+      },
+      {
+        "idarq": "1138489",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_15.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138489",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_15.pdf"
+      },
+      {
+        "idarq": "1138490",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_16.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138490",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_16.pdf"
+      },
+      {
+        "idarq": "1138491",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_17-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138491",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_17-1.pdf"
+      },
+      {
+        "idarq": "1138493",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_17-2.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138493",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_17-2.pdf"
+      },
+      {
+        "idarq": "1138494",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_18.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138494",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_18.pdf"
+      },
+      {
+        "idarq": "1138495",
+        "tipo": "Projeto básico",
+        "nome": "ANEXO_19.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1138495",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Projeto básico_ANEXO_19.pdf"
+      },
+      {
+        "idarq": "1209333",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO DE JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1209333",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Ata_termo de julgamento_TERMO DE JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1209334",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7652761 - Análise.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1209334",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Análise habilitação e_ou propostas_SEI_TJPI - 7652761 - Análise.pdf"
+      },
+      {
+        "idarq": "1209335",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO DE HOMOLOGAÇÃO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1209335",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Ata_termo de julgamento_TERMO DE HOMOLOGAÇÃO.pdf"
+      },
+      {
+        "idarq": "1209336",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7694180 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081203/arquivos/1209336",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90029_2025_1081203\\Análise habilitação e_ou propostas_SEI_TJPI - 7694180 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1081146",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "31/2025",
+    "processo_administrativo": "25.0.000088335-5/2025",
+    "objeto": "Aquisição de equipamentos e materiais permanentes destinados à instalação de Sala 360º na Escola Judiciária do Piauí (EJUD/TJPI), conforme especificações técnicas, condições e quantidades descritas neste instrumento e seus anexos.",
+    "valor_estimado": 61517.2,
+    "status": "Finalizada",
+    "total_arquivos": 9,
+    "arquivos": [
+      {
+        "idarq": "1138038",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7040726 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1138038",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Documento de abertura do processo_SEI_TJPI - 7040726 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1138041",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7231691 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1138041",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Termo de referência_SEI_TJPI - 7231691 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1138043",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7236503 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1138043",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Edital_SEI_TJPI - 7236503 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1138047",
+        "tipo": "Minuta do contrato",
+        "nome": "Sala 360 _ SEI - Processo 25.0.000088335-5 - Minuta de Contrato.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1138047",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Minuta do contrato_Sala 360 _ SEI - Processo 25.0.000088335-5 - Minuta de Contrato.pdf"
+      },
+      {
+        "idarq": "1138050",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250901_10128.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1138050",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Extrato de publicação_dj250901_10128.pdf"
+      },
+      {
+        "idarq": "1165097",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "ilovepdf_merged__10_.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1165097",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Ata_termo de julgamento_ilovepdf_merged__10_.pdf"
+      },
+      {
+        "idarq": "1165098",
+        "tipo": "Outro anexo",
+        "nome": "ilovepdf_merged__11_.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1165098",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Outro anexo_ilovepdf_merged__11_.pdf"
+      },
+      {
+        "idarq": "1165099",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7317888 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1165099",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Análise habilitação e_ou propostas_SEI_TJPI - 7317888 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1165101",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7318021 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081146/arquivos/1165101",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\31_2025_1081146\\Análise habilitação e_ou propostas_SEI_TJPI - 7318021 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1081137",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "90030/2025",
+    "processo_administrativo": "25.0.000064419-9/2025",
+    "objeto": "Formação de Registro de Preços para o eventual fornecimento de solução de processamento e armazenamento baseado em infraestrutura Hiperconvergente - HCI (solução de processamento e armazenamento distribuídos, virtualização de servidores e proteção de dados), com garantia de 60 meses, para modernização da infraestrutura computacional do TJPI, de acordo com as especificações, condições e quantidades estimadas, descritas neste instrumento e seus anexos.",
+    "valor_estimado": 16980626.42,
+    "status": "Finalizada",
+    "total_arquivos": 9,
+    "arquivos": [
+      {
+        "idarq": "1137990",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7236497 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1137990",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Edital_SEI_TJPI - 7236497 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1137991",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7229407 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1137991",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Termo de referência_SEI_TJPI - 7229407 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1137992",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6874736 - Documento de Oficialização da Demanda da STIC.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1137992",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Documento de abertura do processo_SEI_TJPI - 6874736 - Documento de Oficialização da Demanda da STIC.pdf"
+      },
+      {
+        "idarq": "1137993",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_TJPI - 7236498 - Informação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1137993",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Justif. p_orçamento estimado sigiloso_SEI_TJPI - 7236498 - Informação.pdf"
+      },
+      {
+        "idarq": "1163605",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "Relatório de Julgamento.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1163605",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Ata_termo de julgamento_Relatório de Julgamento.pdf"
+      },
+      {
+        "idarq": "1163606",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "Termo Homologação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1163606",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Ata_termo de julgamento_Termo Homologação.pdf"
+      },
+      {
+        "idarq": "1163607",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7334318 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1163607",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Ata SRP_SEI_TJPI - 7334318 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1163608",
+        "tipo": "Extrato Ata SRP",
+        "nome": "dj250925_10146.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1163608",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Extrato Ata SRP_dj250925_10146.pdf"
+      },
+      {
+        "idarq": "1163609",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7316980 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1081137/arquivos/1163609",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90030_2025_1081137\\Análise habilitação e_ou propostas_SEI_TJPI - 7316980 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1080937",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "28/2025",
+    "processo_administrativo": "25.0.000084444-9/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a CONSTRUÇÃO DO NOVO FÓRUM DA COMARCA DE CASTELO DO PIAUÍ? - PI?, localizado na Rua Floriano Peixoto, s/n, Centro, Castelo do Piauí - PI, CEP 64.340-000, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 7537249.27,
+    "status": "Finalizada",
+    "total_arquivos": 10,
+    "arquivos": [
+      {
+        "idarq": "1136382",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 7007705 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136382",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Documento de abertura do processo_SEI_TJPI - 7007705 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1136385",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7206760 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136385",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Edital_SEI_TJPI - 7206760 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1136392",
+        "tipo": "Projeto básico",
+        "nome": "Projeto Básico do Edital N° 28_2025 e Anexos.zip.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136392",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Projeto básico_Projeto Básico do Edital N° 28_2025 e Anexos.zip.pdf"
+      },
+      {
+        "idarq": "1136396",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250825_10123.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136396",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Extrato de publicação_dj250825_10123.pdf"
+      },
+      {
+        "idarq": "1136397",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7196823 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136397",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Ato de autorização da contratação_SEI_TJPI - 7196823 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1136797",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000084444_9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1136797",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Outro anexo_SEI_25.0.000084444_9.pdf"
+      },
+      {
+        "idarq": "1182136",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645403900282025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1182136",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Ata_termo de julgamento_relatorio_julg_hab_92645403900282025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1182137",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645403900282025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1182137",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Outro anexo_relatorio_termo_homologacao_92645403900282025_item_1.pdf"
+      },
+      {
+        "idarq": "1182141",
+        "tipo": "Outro anexo",
+        "nome": "ilovepdf_merged (28).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1182141",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Outro anexo_ilovepdf_merged (28).pdf"
+      },
+      {
+        "idarq": "1182145",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_25.0.000084444_9 (1).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080937/arquivos/1182145",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\28_2025_1080937\\Análise habilitação e_ou propostas_SEI_25.0.000084444_9 (1).pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1080880",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "90027/2025",
+    "processo_administrativo": "25.0.000083697-7/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a CONSTRUÇÃO DO NOVO FÓRUM DA COMARCA DE BURITI DOS LOPES? - PI?, localizado na Rodovia BR-343 s/n, Buriti dos Lopes - PI, CEP  64.230-000, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 7333520.58,
+    "status": "Finalizada",
+    "total_arquivos": 11,
+    "arquivos": [
+      {
+        "idarq": "1136043",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7201983 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1136043",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Edital_SEI_TJPI - 7201983 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1136044",
+        "tipo": "Projeto básico",
+        "nome": "SEI_TJPI - 7200699 - Projeto Básico.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1136044",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Projeto básico_SEI_TJPI - 7200699 - Projeto Básico.pdf"
+      },
+      {
+        "idarq": "1136046",
+        "tipo": "Outro anexo",
+        "nome": "Anexos.rar.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1136046",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_Anexos.rar.pdf"
+      },
+      {
+        "idarq": "1136048",
+        "tipo": "Outro anexo",
+        "nome": "Anexos.rar.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1136048",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_Anexos.rar.pdf"
+      },
+      {
+        "idarq": "1136548",
+        "tipo": "Outro anexo",
+        "nome": "SEI_25.0.000083697_7.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1136548",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_SEI_25.0.000083697_7.pdf"
+      },
+      {
+        "idarq": "1139389",
+        "tipo": "Outro anexo",
+        "nome": "Pedido de Esclarecimentos nº 02.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1139389",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_Pedido de Esclarecimentos nº 02.pdf"
+      },
+      {
+        "idarq": "1139390",
+        "tipo": "Outro anexo",
+        "nome": "Anexo ao Pedido de Esclarecimentos nº 02.xlsx.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1139390",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_Anexo ao Pedido de Esclarecimentos nº 02.xlsx.pdf"
+      },
+      {
+        "idarq": "1139391",
+        "tipo": "Outro anexo",
+        "nome": "SEI_TJPI - 7253573 - Resposta ao Pedido de Esclarecimentos 02.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1139391",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Outro anexo_SEI_TJPI - 7253573 - Resposta ao Pedido de Esclarecimentos 02.pdf"
+      },
+      {
+        "idarq": "1165333",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-julg-hab-92645403900272025-s1-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1165333",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Ata_termo de julgamento_relatorio-julg-hab-92645403900272025-s1-item-1.pdf"
+      },
+      {
+        "idarq": "1165334",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-termo-homologacao-92645403900272025-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1165334",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Ata_termo de julgamento_relatorio-termo-homologacao-92645403900272025-item-1.pdf"
+      },
+      {
+        "idarq": "1165335",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7342581 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080880/arquivos/1165335",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90027_2025_1080880\\Análise habilitação e_ou propostas_SEI_TJPI - 7342581 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1080821",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "90026/2025",
+    "processo_administrativo": "25.0.000081591-0/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar a CONSTRUÇÃO DO NOVO FÓRUM DA COMARCA DE LUZILÂNDIA, localizado na Rua Senador Helvídio Nunes, esquina com Rua Nonato Albuquerque, Centro, Luzilândia - PI, CEP  64.160-000, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 7452497.84,
+    "status": "Finalizada",
+    "total_arquivos": 7,
+    "arquivos": [
+      {
+        "idarq": "1135783",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7190860 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1135783",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Edital_SEI_TJPI - 7190860 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1135784",
+        "tipo": "Projeto básico",
+        "nome": "SEI_TJPI - 7191175 - Projeto Básico.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1135784",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Projeto básico_SEI_TJPI - 7191175 - Projeto Básico.pdf"
+      },
+      {
+        "idarq": "1135785",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6984655 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1135785",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Documento de abertura do processo_SEI_TJPI - 6984655 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1135786",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7190537 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1135786",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Ato de autorização da contratação_SEI_TJPI - 7190537 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1166402",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645403900262025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1166402",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Ata_termo de julgamento_relatorio_julg_hab_92645403900262025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1166403",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_termo_homologacao_92645403900262025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1166403",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Ata_termo de julgamento_relatorio_termo_homologacao_92645403900262025_item_1.pdf"
+      },
+      {
+        "idarq": "1166413",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "ilovepdf_merged (19).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080821/arquivos/1166413",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\90026_2025_1080821\\Análise habilitação e_ou propostas_ilovepdf_merged (19).pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1080762",
+    "ano": 2025,
+    "modalidade": "Concorrência",
+    "numero_procedimento": "25/2025",
+    "processo_administrativo": "25.0.000034659-7/2025",
+    "objeto": "Contratação de empresa da área de construção civil para executar os serviços de Impermeabilização do Prédio Anexo do Antigo Palácio da Justiça, localizado na Praça Desembargador Edgar Nogueira, S/N, Cabral, Teresina, Piauí, para servir ao Poder Judiciário do Estado do Piauí, de acordo com as especificações e condições descritas no Projeto Básico e seus Anexos.",
+    "valor_estimado": 507445.41,
+    "status": "Finalizada",
+    "total_arquivos": 8,
+    "arquivos": [
+      {
+        "idarq": "1135532",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6964736 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1135532",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Documento de abertura do processo_SEI_TJPI - 6964736 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1135553",
+        "tipo": "Projeto básico",
+        "nome": "Projeto Básico e Anexos - Concorrência Eletrônica N° 25_2025.zip.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1135553",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Projeto básico_Projeto Básico e Anexos - Concorrência Eletrônica N° 25_2025.zip.pdf"
+      },
+      {
+        "idarq": "1135554",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7190738 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1135554",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Edital_SEI_TJPI - 7190738 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1135556",
+        "tipo": "Extrato de publicação",
+        "nome": "_dj250820_10120.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1135556",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Extrato de publicação__dj250820_10120.pdf"
+      },
+      {
+        "idarq": "1181822",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_julg_hab_92645403900252025_s1_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1181822",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Ata_termo de julgamento_relatorio_julg_hab_92645403900252025_s1_item_1.pdf"
+      },
+      {
+        "idarq": "1181823",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645403900252025_item_1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1181823",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Outro anexo_relatorio_termo_homologacao_92645403900252025_item_1.pdf"
+      },
+      {
+        "idarq": "1181826",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_25.0.000034659_7.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1181826",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Análise habilitação e_ou propostas_SEI_25.0.000034659_7.pdf"
+      },
+      {
+        "idarq": "1181833",
+        "tipo": "Outro anexo",
+        "nome": "ilovepdf_merged (27).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1080762/arquivos/1181833",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\25_2025_1080762\\Outro anexo_ilovepdf_merged (27).pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1069759",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "18/2025",
+    "processo_administrativo": "25.0.000076395-3/2025",
+    "objeto": "Contratação de uma empresa especializada para prestação de serviços contínuos de limpeza, tratamento e conservação, com fornecimento de todos os insumos e produtos, visando a manutenção do espelho d`água localizado no Tribunal de Justiça do Estado do Piauí, de acordo com as especificações, condições e quantidades, previstas no instrumento convocatório e seus anexos.",
+    "valor_estimado": 32539.92,
+    "status": "Cancelada",
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "idarq": "1118087",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7090666 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118087",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Edital_SEI_TJPI - 7090666 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1118089",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7090539 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118089",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Termo de referência_SEI_TJPI - 7090539 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1118090",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118090",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1118091",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 23-07.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118091",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Extrato de publicação_TJPI - 23-07.pdf"
+      },
+      {
+        "idarq": "1118093",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250722_10100.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118093",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Extrato de publicação_dj250722_10100.pdf"
+      },
+      {
+        "idarq": "1118094",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069759/arquivos/1118094",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\18_2025_1069759\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1069757",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "17/2025",
+    "processo_administrativo": "25.0.000050339-0/2025",
+    "objeto": "Formação de Registro de Preços para contratação de empresa especializada na execução de sistemas de energia solar fotovoltaica conectados à rede (on-grid), compreendendo a elaboração do projeto, trâmites junto à concessionária de energia, fornecimento e instalação de todos os materiais e equipamentos, comissionamento, testes e entrada em operação do sistema, visando atender às necessidades do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações, condições e quantidades estimadas, descritas no Termo de Referência e seus Anexos.",
+    "valor_estimado": 5216014.08,
+    "status": "Finalizada",
+    "total_arquivos": 11,
+    "arquivos": [
+      {
+        "idarq": "1118063",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7080529 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118063",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Edital_SEI_TJPI - 7080529 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1118065",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7080527 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118065",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Termo de referência_SEI_TJPI - 7080527 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1118066",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118066",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1118069",
+        "tipo": "Extrato de publicação",
+        "nome": "dj250722_10100.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118069",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Extrato de publicação_dj250722_10100.pdf"
+      },
+      {
+        "idarq": "1118071",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 23-07.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118071",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Extrato de publicação_TJPI - 23-07.pdf"
+      },
+      {
+        "idarq": "1118072",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1118072",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1166360",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-julg-hab-92645405900172025-s1-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1166360",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Ata_termo de julgamento_relatorio-julg-hab-92645405900172025-s1-item-1.pdf"
+      },
+      {
+        "idarq": "1166361",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-termo-homologacao-92645405900172025-item-1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1166361",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Ata_termo de julgamento_relatorio-termo-homologacao-92645405900172025-item-1.pdf"
+      },
+      {
+        "idarq": "1166362",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7242120 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1166362",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Análise habilitação e_ou propostas_SEI_TJPI - 7242120 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1166363",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7374614 - Ata de Registro de Preços.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1166363",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Ata SRP_SEI_TJPI - 7374614 - Ata de Registro de Preços.pdf"
+      },
+      {
+        "idarq": "1166364",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_TJPI - 7374719 - Extrato de Ata.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1069757/arquivos/1166364",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\17_2025_1069757\\Extrato Ata SRP_SEI_TJPI - 7374719 - Extrato de Ata.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1058853",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "11/2025",
+    "processo_administrativo": "25.0.000053171-8/2025",
+    "objeto": "Contratação de empresa especializada na subscrição de licenças de uso de softwares tipo suíte de escritório Microsoft 365 Business (incluindo o acesso às ferramentas de produtividade em nuvem, segurança e colaboração - Microsoft Teams) e aplicação de e-mail corporativo (Exchange Online), a serem usados sob demanda, com direito a atualizações e suporte, a ser fornecido no âmbito do Tribunal de Justiça do Estado do Piauí, de acordo com as especificações, condições e quantidades estimadas, descritas no Termo de Referência.",
+    "valor_estimado": 2484336.0,
+    "status": "Finalizada",
+    "total_arquivos": 8,
+    "arquivos": [
+      {
+        "idarq": "1102062",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6953649 - Documento de Oficialização da Demanda.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1102062",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Documento de abertura do processo_SEI_TJPI - 6953649 - Documento de Oficialização da Demanda.pdf"
+      },
+      {
+        "idarq": "1102063",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 6943064 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1102063",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Termo de referência_SEI_TJPI - 6943064 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1102064",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 6963720 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1102064",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Edital_SEI_TJPI - 6963720 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1102066",
+        "tipo": "Minuta do contrato",
+        "nome": "Minuta de Contrato.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1102066",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Minuta do contrato_Minuta de Contrato.pdf"
+      },
+      {
+        "idarq": "1119590",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "Termo de Julgamento.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1119590",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Ata_termo de julgamento_Termo de Julgamento.pdf"
+      },
+      {
+        "idarq": "1119591",
+        "tipo": "Outro anexo",
+        "nome": "relatorio_termo_homologacao_92645405900112025_grupo1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1119591",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Outro anexo_relatorio_termo_homologacao_92645405900112025_grupo1.pdf"
+      },
+      {
+        "idarq": "1119592",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "Proposta.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1119592",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Análise habilitação e_ou propostas_Proposta.pdf"
+      },
+      {
+        "idarq": "1119593",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7066175 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058853/arquivos/1119593",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\11_2025_1058853\\Análise habilitação e_ou propostas_SEI_TJPI - 7066175 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1058806",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "12/2025",
+    "processo_administrativo": "25.0.000027654-8/2025",
+    "objeto": "Contratação de Serviços Extensão da Garantia para equipamento Switches CISCO Systems, por 12 meses, com atualizações de software e segurança, Monitoramento e Diagnóstico reativos, manutenção corretiva com troca de peças originais Cisco necessárias no regime 8x5xNBD e suporte 24/7, em uso na atual rede de computadores do Poder Judiciário.",
+    "valor_estimado": 127243.35,
+    "status": "Finalizada",
+    "total_arquivos": 7,
+    "arquivos": [
+      {
+        "idarq": "1101783",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 6968363 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1101783",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Termo de referência_SEI_TJPI - 6968363 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1101784",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 6969280 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1101784",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Edital_SEI_TJPI - 6969280 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1101786",
+        "tipo": "Documento de abertura do processo",
+        "nome": "SEI_TJPI - 6554078 - Documento de Oficialização da Demanda da STIC.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1101786",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Documento de abertura do processo_SEI_TJPI - 6554078 - Documento de Oficialização da Demanda da STIC.pdf"
+      },
+      {
+        "idarq": "1101789",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 6963355 - Decisão (Presidência).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1101789",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Ato de autorização da contratação_SEI_TJPI - 6963355 - Decisão (Presidência).pdf"
+      },
+      {
+        "idarq": "1131652",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-julg-hab-92645405900122025-s1-grupo1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1131652",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Ata_termo de julgamento_relatorio-julg-hab-92645405900122025-s1-grupo1.pdf"
+      },
+      {
+        "idarq": "1131653",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio-termo-homologacao-92645405900122025-grupo1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1131653",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Ata_termo de julgamento_relatorio-termo-homologacao-92645405900122025-grupo1.pdf"
+      },
+      {
+        "idarq": "1131654",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7050715 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1058806/arquivos/1131654",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\12_2025_1058806\\Análise habilitação e_ou propostas_SEI_TJPI - 7050715 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "FERMOJUPI",
+    "idug": 1251,
+    "idlic": "1046982",
+    "ano": 2025,
+    "modalidade": "Pregão",
+    "numero_procedimento": "7/2025",
+    "processo_administrativo": "25.0.000026014-5/2025",
+    "objeto": "Aquisição de \"Palete para Estrutura Porta-palete\" com fins à proposição de soluções adequadas para o armazenamento de materiais e otimização do suporte à prestação jurisdicional do Poder Judiciário Piauiense, de acordo com as especificações, condições e quantidades, previstas neste instrumento convocatório e seus anexos.",
+    "valor_estimado": 42289.2,
+    "status": "Cancelada",
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "idarq": "1081425",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 6768579 - Edital de Licitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1046982/arquivos/1081425",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\7_2025_1046982\\Edital_SEI_TJPI - 6768579 - Edital de Licitação.pdf"
+      },
+      {
+        "idarq": "1081427",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 6764748 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1046982/arquivos/1081427",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\7_2025_1046982\\Termo de referência_SEI_TJPI - 6764748 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1081429",
+        "tipo": "Extrato de publicação",
+        "nome": "Publicação - Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1046982/arquivos/1081429",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\7_2025_1046982\\Extrato de publicação_Publicação - Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1081430",
+        "tipo": "Extrato de publicação",
+        "nome": "Publicação - Comprasnet.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1046982/arquivos/1081430",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\7_2025_1046982\\Extrato de publicação_Publicação - Comprasnet.pdf"
+      },
+      {
+        "idarq": "1081841",
+        "tipo": "Extrato de publicação",
+        "nome": "Publicação - Diário da Justiça - dj250430_10045.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1046982/arquivos/1081841",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\fermojupi_muralic_2025\\7_2025_1046982\\Extrato de publicação_Publicação - Diário da Justiça - dj250430_10045.pdf"
+      }
+    ]
+  }
+]

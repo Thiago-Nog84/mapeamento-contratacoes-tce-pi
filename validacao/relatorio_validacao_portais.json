@@ -1,0 +1,19 @@
+{
+  "tjpi": {
+    "transparencia_certames": 74,
+    "muralic_certames": 0,
+    "conciliados": 40,
+    "provimento_13_2025_status": "Indexado no RAG (90.239 caracteres)"
+  },
+  "mpdft": {
+    "transparencia_editais": 91,
+    "pncp_docs_local": 435,
+    "conciliados": 0
+  },
+  "mppe": {
+    "transparencia_certames": 647,
+    "pncp_docs_local": 267,
+    "conciliados": 0,
+    "total_orcado_homologado_disponivel": true
+  }
+}

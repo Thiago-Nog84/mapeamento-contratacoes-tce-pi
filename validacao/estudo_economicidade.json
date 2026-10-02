@@ -1,0 +1,241 @@
+{
+  "totais": {
+    "certames_analisados": 219,
+    "total_orcado": 341262169.5646,
+    "total_homologado": 272403233.7792,
+    "total_economia": 68858935.78539997,
+    "desagio_medio_global_pct": 20.18
+  },
+  "por_categoria": {
+    "Outros": {
+      "count": 127,
+      "orcado": 68062048.52260002,
+      "homologado": 53818216.559999995,
+      "economia": 14243831.962599995,
+      "desagio_pct": 20.92771562388447
+    },
+    "Mobiliário": {
+      "count": 12,
+      "orcado": 5040201.119,
+      "homologado": 3626629.4,
+      "economia": 1413571.719,
+      "desagio_pct": 28.045938755722894
+    },
+    "Tecnologia da Informação": {
+      "count": 19,
+      "orcado": 141954302.06280005,
+      "homologado": 106014744.59,
+      "economia": 35939557.472799994,
+      "desagio_pct": 25.317695167068955
+    },
+    "Obras e Manutenção Predial": {
+      "count": 12,
+      "orcado": 28123985.315000005,
+      "homologado": 25147473.6312,
+      "economia": 2976511.683800001,
+      "desagio_pct": 10.583534482975535
+    },
+    "Materiais de Consumo": {
+      "count": 30,
+      "orcado": 4117633.432799999,
+      "homologado": 3107770.6799999997,
+      "economia": 1009862.7527999997,
+      "desagio_pct": 24.525319440912227
+    },
+    "Transportes e Frota": {
+      "count": 5,
+      "orcado": 3591683.78,
+      "homologado": 3444201.7,
+      "economia": 147482.07999999996,
+      "desagio_pct": 4.106210040573226
+    },
+    "Mão de Obra Terceirizada": {
+      "count": 13,
+      "orcado": 80120295.35239999,
+      "homologado": 69594297.21800001,
+      "economia": 10525998.134399993,
+      "desagio_pct": 13.137742550876267
+    },
+    "Capacitação / Eventos": {
+      "count": 1,
+      "orcado": 10252019.98,
+      "homologado": 7649900.0,
+      "economia": 2602119.9800000004,
+      "desagio_pct": 25.381534420302604
+    }
+  },
+  "faixas_desagio": {
+    "Negativo (Acima do Orçado / Risco)": 0,
+    "Baixo Desconto (0% a 10% - Baixa Disputa)": 71,
+    "Desconto Saudável (10% a 30%)": 74,
+    "Desconto Alto (30% a 50%)": 54,
+    "Desconto Excessivo (> 50% - Alerta Sobrepreço na Estimativa)": 20
+  },
+  "amostra_certames": [
+    {
+      "edital": "PL 4014.2025",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Tecnologia da Informação",
+      "objeto": "Formação de Ata de Registro de Preços para contratação de empresa para futura e eventual execução de SERVIÇOS DE SOLUÇÃO DE INFOVIA, com fornecimento e instalação de Links MPLS e operação de SDWAN (com BGP Self Healing) para conexão entre Recife e demais localidades, conforme Anexo I, Termo de Referência do Edital.",
+      "orcado": 94829740.67,
+      "homologado": 76260881.9,
+      "economia_reais": 18568858.769999996,
+      "desagio_pct": 19.581260729814876
+    },
+    {
+      "edital": "PL Nº 0156.2023",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Mão de Obra Terceirizada",
+      "objeto": "Contratação de empresa especializada na prestação, de forma contínua, de serviços de Apoio Administrativo e Apoio de Serviços Gerais, para realização de limpeza, conservação e manutenção predial, recepção e comunicação institucional, a serem executados nas sedes da Procuradoria Geral de Justiça e das Promotorias de Justiça do Estado de Pernambuco, nos quantitativos do Termo de Referência, Anexo V deste Edital.",
+      "orcado": 39423360.16,
+      "homologado": 35239500.0,
+      "economia_reais": 4183860.1599999964,
+      "desagio_pct": 10.612642207614392
+    },
+    {
+      "edital": "PL Nº 0268.2022",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Mão de Obra Terceirizada",
+      "objeto": "Contratação de empresa especializada na prestação, de forma contínua, de serviços de Apoio Administrativo e Apoio de Serviços Gerais, para realização de limpeza, conservação e manutenção predial, recepção e comunicação institucional, a serem executados nas sedes da Procuradoria Geral de Justiça e das Promotorias de Justiça do Estado de Pernambuco.",
+      "orcado": 37832032.4616,
+      "homologado": 31997886.528,
+      "economia_reais": 5834145.933599997,
+      "desagio_pct": 15.421180290859951
+    },
+    {
+      "edital": "PL Nº 0180.2023",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Tecnologia da Informação",
+      "objeto": "Registro de Preços para aquisição de NOTEBOOKS, IMPRESSORAS MULTIFUNCIONAIS, DESKTOPS, MONITORES, ESTABILIZADORES E WEBCAMS, do tipo menor preço por item, para uso da Procuradoria Geral da Justiça.",
+      "orcado": 20392191.0,
+      "homologado": 14178020.0,
+      "economia_reais": 6214171.0,
+      "desagio_pct": 30.47328754423691
+    },
+    {
+      "edital": "PL Nº 0116.2023",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Capacitação / Eventos",
+      "objeto": "Registro de preços, por lote único, para futura aquisição de Firewall Core de rede, serviços de instalação, licenciamento de ferramenta de análise de logs e relatórios, treinamentos, solução de autenticação de usuários e dispositivos e serviços de suporte mensal de toda a solução implementada.",
+      "orcado": 10252019.98,
+      "homologado": 7649900.0,
+      "economia_reais": 2602119.9800000004,
+      "desagio_pct": 25.381534420302604
+    },
+    {
+      "edital": "PL Nº 0159.2022",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Obras e Manutenção Predial",
+      "objeto": "Registro de Preço, pelo prazo de 12 meses, para execução de serviços sob demanda de Manutenção Predial Preventiva e Corretiva, no que se refere à parte elétrica, hidrossanitária e serviços de reparos em obras civis nas SEDES DE PROMOTORIAS ou salas das promotorias dentro dos fóruns utilizadas por este MPPE, conforme Anexo I, Termo de Referência do Edital.",
+      "orcado": 9872395.8,
+      "homologado": 9730096.6212,
+      "economia_reais": 142299.17879999988,
+      "desagio_pct": 1.4413844590793237
+    },
+    {
+      "edital": "PL 4042.2025",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Tecnologia da Informação",
+      "objeto": "A presente licitação tem como objeto a contratação de empresa especializada para a formação de Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE NOTEBOOKS, IMPRESSORAS MULTIFUNCIONAIS, DESKTOPS, ESTABILIZADORES, WEBCAMS, WORKSTATIONS E HDS EXTERNOS, conforme o Anexo I, Termo de Referência deste Edital.",
+      "orcado": 9086463.1,
+      "homologado": 773700.0,
+      "economia_reais": 8312763.1,
+      "desagio_pct": 91.48513572899448
+    },
+    {
+      "edital": "PL Nº 1620.2024",
+      "modalidade": "Concorrência Eletrônica",
+      "situacao": "Concluido",
+      "categoria": "Obras e Manutenção Predial",
+      "objeto": "Contratação de empresa especializada para EXECUÇÃO DO REMANESCENTE DA REFORMA COM AMPLIAÇÃO DO CENTRO DE APOIO ADMINISTRATIVO DO MPPE no município de Recife/PE, mediante o regime de empreitada por preço unitário, conforme especificações, elementos técnicos e quantitativos previstos no Projeto Executivo e anexos que integram o presente Edital.",
+      "orcado": 8533494.88,
+      "homologado": 7800000.0,
+      "economia_reais": 733494.8800000008,
+      "desagio_pct": 8.595480401811653
+    },
+    {
+      "edital": "PL Nº 3403.2025",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Outros",
+      "objeto": "Contratação de empresa especializada na prestação, de forma contínua, de serviços de MANUTENÇÃO GERAL, a serem executados nas sedes da Procuradoria Geral de Justiça e das Promotorias de Justiça do Estado de Pernambuco, conforme especificações previstas no Termo de Referência (Anexo I).",
+      "orcado": 8251337.4,
+      "homologado": 7728864.24,
+      "economia_reais": 522473.16000000015,
+      "desagio_pct": 6.3319815282308065
+    },
+    {
+      "edital": "PL 0022.2026",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Outros",
+      "objeto": "A presente licitação tem como objeto a contratação de empresa especializada para a formação de Ata de Registro de Preços para futuro e eventual fornecimento, instalação, configuração e garantia de funcionamento de equipamentos e acessórios de CONTROLE DE ACESSO FÍSICO destinados às unidades do Ministério Público de Pernambuco, conforme o Anexo I, Termo de Referência deste Edital.",
+      "orcado": 7703108.0,
+      "homologado": 6022808.0,
+      "economia_reais": 1680300.0,
+      "desagio_pct": 21.813273291767427
+    },
+    {
+      "edital": "PL Nº 0075.2023",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Outros",
+      "objeto": "Contratação de empresa especializada na prestação, de forma contínua, de serviços de manutenção geral, a serem executados nas sedes da Procuradoria Geral de Justiça e das Promotorias de Justiça do Estado de Pernambuco, nos quantitativos e especificações do Termo de Referência, Anexo V do Edital.",
+      "orcado": 7239261.48,
+      "homologado": 6320061.24,
+      "economia_reais": 919200.2400000002,
+      "desagio_pct": 12.697431119727979
+    },
+    {
+      "edital": "PL Nº 3951.2025",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Tecnologia da Informação",
+      "objeto": "Contratação de Pessoa Jurídica para Prestação de Serviço de Locação de Veículos 0 (zero) Km, dos Tipos: Caminhonete sem motorista, Caminhonete com motorista, 7 Lugares sem motorista, SUV compacto sem motorista, SUV compacto eventual sem motorista, SUV executivo sem motorista em dias úteis e não úteis, a serem utilizados/disponibilizados dentro e fora do Estado de Pernambuco., visando o transporte de Membros e Servidores, como também de Materiais, Suprimentos e Equipamentos de pequeno porte entre as unidades da Procuradoria-Geral de Justiça – PGJ no Estado de Pernambuco, conforme especificações previstas no Termo de Referência (Anexo I).",
+      "orcado": 5879969.15,
+      "homologado": 5608383.35,
+      "economia_reais": 271585.80000000075,
+      "desagio_pct": 4.618830355598051
+    },
+    {
+      "edital": "PL Nº 1670.2024",
+      "modalidade": "Concorrência Eletrônica",
+      "situacao": "Concluido",
+      "categoria": "Obras e Manutenção Predial",
+      "objeto": "Contratação de empresa especializada para execução de obras e serviços de engenharia para CONSTRUÇÃO DA NOVA SEDE das Promotorias de Justiça de PALMARES/PE, mediante o regime de empreitada por preço unitário, conforme especificações, elementos técnicos e quantitativos previstos nos Projetos e anexos que integram o Edital.",
+      "orcado": 4936353.99,
+      "homologado": 3949083.19,
+      "economia_reais": 987270.8000000003,
+      "desagio_pct": 20.000000040515737
+    },
+    {
+      "edital": "PL 0040.2026",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Tecnologia da Informação",
+      "objeto": "A presente licitação tem como objeto a contratação de empresa especializada para prestação de SERVIÇOS DE COMPUTAÇÃO EM NUVEM PÚBLICA (PUBLIC CLOUD), conforme especificações previstas no Termo de Referência (Anexo I).",
+      "orcado": 4127800.0,
+      "homologado": 3490000.0,
+      "economia_reais": 637800.0,
+      "desagio_pct": 15.451330006298756
+    },
+    {
+      "edital": "PL Nº 0168.2023",
+      "modalidade": "Pregão Eletrônico",
+      "situacao": "Concluido",
+      "categoria": "Outros",
+      "objeto": "Registro de preços, por lote único, para futura aquisição de EQUIPAMENTOS ATIVOS DE REDE E ACESSÓRIOS CORRELATOS.",
+      "orcado": 3559106.78,
+      "homologado": 3449999.2,
+      "economia_reais": 109107.57999999961,
+      "desagio_pct": 3.0655888329374488
+    }
+  ]
+}

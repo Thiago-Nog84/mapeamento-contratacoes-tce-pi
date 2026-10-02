@@ -213,7 +213,7 @@ def gerar_dataset_md(registros, saida):
         f"## Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M')}",
         "",
         f"> **Fonte:** PNCP | **Orgao:** TCE-PI | **Total:** {total} documentos",
-        f"> **Anos cobertos:** {', '.join(sorted(anos.keys()))}",
+        f"> **Anos cobertos:** {', '.join(sorted([str(k) for k in anos.keys() if k is not None]))}",
         f"> **Finalidade:** Corpus de referencia para estudo e treinamento de IA em contratacoes publicas",
         f"> **Base legal:** Lei 14.133/2021 | IN TCE-PI 02/2026 | CNMP Portaria 151/2023",
         "",

@@ -1,8 +1,22 @@
-﻿# ─── Dados grandes (nao versionar — usar Git LFS ou ignorar) ───
+﻿# 📦 Dados grandes (não versionar no git)
 downloads/
-dados_tce.db
+*.db
+*.sqlite
+*.sqlite3
 
-# ─── Corpus IA — apenas o indice e dataset, nao os 842 .md ───
+# Jurisprudência PDFs
+jurisprudencia_tce/informativos_pdf/
+
+# Dashboard dependencies & builds
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+
+# Bundles temporários
+tce_bundle.js
+main-capture.js
+
+# 🧠 Corpus IA - apenas o índice, dataset e julgados JSON
 corpus_ia/etp/
 corpus_ia/tr/
 corpus_ia/dfd/
@@ -15,7 +29,7 @@ corpus_ia/ratificacao/
 corpus_ia/outros/
 corpus_ia/erros_extracao.json
 
-# ─── Arquivos temporarios de analise ───
+# 🛠 Arquivos temporários e de análise
 check_missing.py
 gen_dataset.py
 rebuild_index.py
@@ -23,8 +37,9 @@ debug_*.py
 test_*.py
 inspect_*.py
 scratch/
+scratch_*.py
 
-# ─── Python ───
+# 🐍 Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -33,13 +48,18 @@ venv/
 .venv/
 *.egg-info/
 
-# ─── Sistema ───
+# 💻 Sistema e Office Locks
 .DS_Store
 Thumbs.db
 desktop.ini
 *.log
+~$*.pptx
+~$*.docx
+~$*.xlsx
 
-# ─── IDEs ───
+# 🖥 IDEs
 .vscode/
 .idea/
 *.swp
+corpus_ia/docs_md/
+jurisprudencia_tce/*.pdf

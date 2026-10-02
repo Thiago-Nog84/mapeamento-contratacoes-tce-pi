@@ -1,0 +1,2774 @@
+[
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3403",
+    "ano": 2025,
+    "sequencial_pncp": 3,
+    "objeto": "Contratação de empresa especializada na prestação, de forma contínua, de serviços de MANUTENÇÃO GERAL, a serem executados nas sedes do MPPE",
+    "valor_estimado": 8251337.39,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202501211136580387336.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/3/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3403_3\\Edital_wbc202501211136580387336.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3431",
+    "ano": 2025,
+    "sequencial_pncp": 4,
+    "objeto": "Ata de Registro de Preços para futura e eventual contratação de SERVIÇOS DE BUFFET para atendimento das demandas da procuradoria Geral de Justiça na ZONA DA MATA e AGRESTE",
+    "valor_estimado": 321141.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202501221009247898014.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/4/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3431_4\\Edital_wbc202501221009247898014.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3426",
+    "ano": 2025,
+    "sequencial_pncp": 5,
+    "objeto": "Ata de Registro de Preços para futura e eventual contratação de SERVIÇOS DE BUFFET para atendimento das demandas da procuradoria Geral de Justiça na CAPITAL e REGIÃO METROPOLITANA",
+    "valor_estimado": 663462.77,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202501220947494167416.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/5/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3426_5\\Edital_wbc202501220947494167416.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3448",
+    "ano": 2025,
+    "sequencial_pncp": 7,
+    "objeto": "Contratação de empresa especializada na prestação de SERVIÇO DE MANUTENÇÃO CORRETIVA de 150 (cento e cinquenta) CONTROLADORAS DE ACESSO MODELO MD 5712F ou similar existentes, atualização do software MD Acesso, visita técnica, atendimento remoto e reembolso em caso de necessidade de substituição de peças e serviços de instalação e desinstalação, conforme especificações previstas no Termo de Referência (Anexo I)",
+    "valor_estimado": 315377.72,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202502191421318588439.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/7/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3448_7\\Edital_wbc202502191421318588439.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3495",
+    "ano": 2025,
+    "sequencial_pncp": 8,
+    "objeto": "SERIÇOS DE SUBSTITUIÇÃO E RECUPERAÇÃO DOS GRADIS DO EDIFÍCIO ROBERTO LIRA - MPPE",
+    "valor_estimado": 22127.62,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202502271316429372507.docx",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/8/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3495_8\\Edital_wbc202502271316429372507.docx.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3940",
+    "ano": 2025,
+    "sequencial_pncp": 9,
+    "objeto": "Contratação de empresa gráfica para a IMPRESSÃO DE MATERIAIS EDUCATIVOS e informativos para as áreas do MPPE 2025",
+    "valor_estimado": 33040.25,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202503130825125710675.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/9/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3940_9\\Edital_wbc202503130825125710675.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3449",
+    "ano": 2025,
+    "sequencial_pncp": 10,
+    "objeto": "Contratação de empresa especializada para a formação de Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE LICENÇAS E SERVIÇOS RED HAT, incluindo Red Hat Application Foundations 1 ano (MW02006), Red Hat Application Foundations 3 anos (MW02006F3), Red Hat Enterprise Linux Server 1 ano (RH00004), Red Hat Enterprise Linux Server 3 anos (RH00004F3), Red Hat Services (MW-GPS), Red Hat Runtimes 1 ano (MW00280), Red Hat Runtimes 3 anos (MW00280)",
+    "valor_estimado": 1365631.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202503180912202955018.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/10/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3449_10\\Edital_wbc202503180912202955018.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3941",
+    "ano": 2025,
+    "sequencial_pncp": 12,
+    "objeto": "Contratação de empresa para os serviços de SUBSTITUIÇÃO DOS FORROS DO EDIFÍCIO ROBERTO LIRA",
+    "valor_estimado": 291511.66,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202503240754138246389.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/12/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3941_12\\Edital_wbc202503240754138246389.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3942",
+    "ano": 2025,
+    "sequencial_pncp": 14,
+    "objeto": "Aquisição, por meio de PREGÃO ELETRÔNICO, em LOTE ÚNICO, com fornecimento parcelado, visando a aquisição de MATERIAIS DE CONSUMO EM GERAL - CAFÉ/AÇUCAR",
+    "valor_estimado": 339433.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202503251232192049736.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/14/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3942_14\\Edital_wbc202503251232192049736.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3947",
+    "ano": 2025,
+    "sequencial_pncp": 19,
+    "objeto": "Contratação de empresa especializada para a formação de Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE MONITORES PORTÁTEIS",
+    "valor_estimado": 205274.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202504221213563986879.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/19/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3947_19\\Edital_wbc202504221213563986879.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3949",
+    "ano": 2025,
+    "sequencial_pncp": 21,
+    "objeto": "Contratação de empresa especializada para a formação de Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE LICENÇAS E SERVIÇOS RED HAT, incluindo Red Hat Application Foundations 1 ano (MW02006), Red Hat Application Foundations 3 anos (MW02006F3), Red Hat Enterprise Linux Server 1 ano (RH00004), Red Hat Enterprise Linux Server 3 anos (RH00004F3), Red Hat Services (MW-GPS), Red Hat Runtimes 1 ano (MW00280), Red Hat Runtimes 3 anos (MW00280)",
+    "valor_estimado": 1365631.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202504281143393259776.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/21/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3949_21\\Edital_wbc202504281143393259776.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3951",
+    "ano": 2025,
+    "sequencial_pncp": 22,
+    "objeto": "Contratação de Pessoa Jurídica para Prestação de Serviço de Locação de Veículos 0 (zero) Km, dos Tipos: Caminhonete sem motorista, Caminhonete com motorista, 7 Lugares sem motorista, SUV compacto sem motorista, SUV compacto eventual sem motorista, SUV executivo sem motorista em dias úteis e não úteis, a serem utilizados/disponibilizados dentro e fora do Estado de Pernambuco.",
+    "valor_estimado": 5879949.05,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202505071423574387325.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/22/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3951_22\\Edital_wbc202505071423574387325.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3959",
+    "ano": 2025,
+    "sequencial_pncp": 30,
+    "objeto": "Contratação de empresa para os serviços de RECUPERAÇÃO DE PLATAFORMA METÁLICA E TROCA DE ESQUADRIAS  do Edf. IPSEP",
+    "valor_estimado": 75162.58,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202506131352286005338.docx",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/30/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3959_30\\Edital_wbc202506131352286005338.docx.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3965",
+    "ano": 2025,
+    "sequencial_pncp": 32,
+    "objeto": "Contratação de empresa para a  prestação de SERVIÇOS DE GRAVAÇÃO EM VÍDEO E TRANSMISSÃO AO VIVO PARA PLATAFORMAS NA WEB E REDES SOCIAIS, E AUDIÊNCIAS PÚBLICAS",
+    "valor_estimado": 35499.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507090921497030356.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/32/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3965_32\\Edital_wbc202507090921497030356.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3964",
+    "ano": 2025,
+    "sequencial_pncp": 33,
+    "objeto": "Contratação de empresa para FORNECIMENTO DE CAFÉ E AÇUCAR",
+    "valor_estimado": 628725.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507101220384005269.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/33/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3964_33\\Edital_wbc202507101220384005269.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3968",
+    "ano": 2025,
+    "sequencial_pncp": 35,
+    "objeto": "Registro de Preços - ARP para contratação de empresa especializada para o fornecimento, com instalação de PERSIANAS para uso nas unidades do MPPE",
+    "valor_estimado": 574637.14,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507181129188352579.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/35/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3968_35\\Edital_wbc202507181129188352579.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3967",
+    "ano": 2025,
+    "sequencial_pncp": 36,
+    "objeto": "Contratação de empresa para fornecimento de 30 kits de RÁDIOS COMUNICADORES PORTÁTEIS (Tipo HT) para Assistência Militar e Policial Civil (AMPC) do MPPE.",
+    "valor_estimado": 43209.82,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507211014302392429.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/36/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3967_36\\Edital_wbc202507211014302392429.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3977",
+    "ano": 2025,
+    "sequencial_pncp": 39,
+    "objeto": "Contratação de empresa para FORNECIMENTO DE CAFÉ E AÇUCAR",
+    "valor_estimado": 628725.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508010923308535832.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/39/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3977_39\\Edital_wbc202508010923308535832.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3970",
+    "ano": 2025,
+    "sequencial_pncp": 40,
+    "objeto": "Fornecimento de unidades condensadoras para o SISTEMA DE CLIMATIZAÇÃO VRF do Edifício Roberto Lira.",
+    "valor_estimado": 503861.61,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507170920088109030.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/40/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3970_40\\Edital_wbc202507170920088109030.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3976",
+    "ano": 2025,
+    "sequencial_pncp": 41,
+    "objeto": "Ata de Registro de Preços (ARP) para futura e eventual aquisição de MATERIAIS DE MARCENARIA, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I)",
+    "valor_estimado": 297744.86,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508051011123502303.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/41/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3976_41\\Edital_wbc202508051011123502303.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3958",
+    "ano": 2025,
+    "sequencial_pncp": 42,
+    "objeto": "Contratação de empresa para o fornecimento de PAPEL SULFITE A4",
+    "valor_estimado": 115600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508051216339152345.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/42/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3958_42\\Edital_wbc202508051216339152345.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3974",
+    "ano": 2025,
+    "sequencial_pncp": 45,
+    "objeto": "Ata de Registro de Preços (ARP) para futura e eventual aquisição de MATERIAIS DE PINTURA, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I)",
+    "valor_estimado": 791920.11,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508140817430367733.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/45/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3974_45\\Edital_wbc202508140817430367733.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3978",
+    "ano": 2025,
+    "sequencial_pncp": 46,
+    "objeto": "Prestação de serviços de GRAVAÇÃO EM VÍDEO e transmissão ao vivo para plataformas na web e redes sociais, e Audiências Públicas",
+    "valor_estimado": 57065.78,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508140818155118219.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/46/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3978_46\\Edital_wbc202508140818155118219.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3972",
+    "ano": 2025,
+    "sequencial_pncp": 47,
+    "objeto": "Ata de Registro de Preços (ARP) para futura e eventual aquisição de equipamentos de refrigeração, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I)",
+    "valor_estimado": 1938175.17,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202507221326109517674.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/47/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3972_47\\Edital_wbc202507221326109517674.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3982",
+    "ano": 2025,
+    "sequencial_pncp": 48,
+    "objeto": "Contratação de empresa gráfica para a IMPRESSÃO de materiais educativos e informativos para as áreas da cidadania do Ministério Público de Pernambuco.",
+    "valor_estimado": 114448.76,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508181214525161639.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/48/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3982_48\\Edital_wbc202508181214525161639.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3981",
+    "ano": 2025,
+    "sequencial_pncp": 49,
+    "objeto": "Contratação de empresa especializada para a PRESTAÇÃO DE SERVIÇO DE AGENCIAMENTO DE VIAGENS, compreendendo os serviços de emissão, remarcação e cancelamento de passagens aéreas nacionais e internacionais, bem como prestação de serviços de reserva de hospedagem nacional visando atender às necessidades da Procuradoria-Geral de Justiça.",
+    "valor_estimado": 956639.97,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508191402430552288.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/49/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3981_49\\Edital_wbc202508191402430552288.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3989",
+    "ano": 2025,
+    "sequencial_pncp": 52,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - COPA-COZINHA, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 284541.46,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508280714399163040.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/52/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3989_52\\Edital_wbc202508280714399163040.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3985",
+    "ano": 2025,
+    "sequencial_pncp": 54,
+    "objeto": "Fornecimento de LICENÇAS DE SOFTWARES e acessórios de tecnologia da informação.",
+    "valor_estimado": 126573.02,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202508291103043124923.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/54/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3985_54\\Edital_wbc202508291103043124923.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3991",
+    "ano": 2025,
+    "sequencial_pncp": 57,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - EXPEDIENTE, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 84547.66,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509010900065702892.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/57/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3991_57\\Edital_wbc202509010900065702892.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3995",
+    "ano": 2025,
+    "sequencial_pncp": 62,
+    "objeto": "Contratação de empresa para o fornecimento de EQUIPAMENTOS FOTOGRÁFICOS, DE VÍDEO E ACESSÓRIOS de suporte para as áreas de fotojornalismo e rádio, conforme especificações previstas no Termo de Referência (Anexo I) do Edital.",
+    "valor_estimado": 50569.25,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509030746245060847.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/62/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3995_62\\Edital_wbc202509030746245060847.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3999",
+    "ano": 2025,
+    "sequencial_pncp": 63,
+    "objeto": "Contratação de empresa especializada para os serviços de gestão de frota com vista ao fornecimento contínuo e ininterrupto de COMBUSTÍVEIS (gasolina, etanol, óleo diesel e ARLA), conforme especificações previstas no Termo de Referência (Anexo I)",
+    "valor_estimado": 1526286.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509031347462434180.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/63/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3999_63\\Edital_wbc202509031347462434180.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3998",
+    "ano": 2025,
+    "sequencial_pncp": 66,
+    "objeto": "Contratação dos serviços de GESTÃO DE FROTAS MANUTENÇÃO dos veículos, inclusive com fornecimento de peças.",
+    "valor_estimado": 122348.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509081302475483988.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/66/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3998_66\\Edital_wbc202509081302475483988.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4000",
+    "ano": 2025,
+    "sequencial_pncp": 71,
+    "objeto": "Registro de preços para aquisição de NOBREAKS, serviços de garantia on-site, serviços de instalação e manutenção mensal.",
+    "valor_estimado": 2141600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509120744186330347.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/71/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4000_71\\Edital_wbc202509120744186330347.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4008",
+    "ano": 2025,
+    "sequencial_pncp": 72,
+    "objeto": "Fornecimento continuado de materiais de consumo em geral de PAPÉIS PARA LIMPEZA.",
+    "valor_estimado": 358084.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509161200052588700.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/72/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4008_72\\Edital_wbc202509161200052588700.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4006",
+    "ano": 2025,
+    "sequencial_pncp": 74,
+    "objeto": "Aquisição de MOBILIÁRIO DE AÇO, destinados a equipar as novas instalações da BIBLIOTECA DA ESCOLA SUPERIOR do Ministério Público de Pernambuco – ESMP",
+    "valor_estimado": 254559.56,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509181233248015110.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/74/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4006_74\\Edital_wbc202509181233248015110.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4007",
+    "ano": 2025,
+    "sequencial_pncp": 75,
+    "objeto": "Contratação de empresa para o fornecimento de MATERIAIS DE CONSUMO EM GERAL - INFORMÁTICA - TONERS, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 80007.27,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509190803138565977.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/75/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4007_75\\Edital_wbc202509190803138565977.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4013",
+    "ano": 2025,
+    "sequencial_pncp": 79,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - DOMISSANITÁRIOS",
+    "valor_estimado": 396967.23,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509290835479215823.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/79/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4013_79\\Edital_wbc202509290835479215823.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4011",
+    "ano": 2025,
+    "sequencial_pncp": 81,
+    "objeto": "Contratação de empresa visando à prestação de serviços de organização, coordenação, execução e apoio logísticos necessários à realização do evento de CORRIDA E CAMINHADA no Agreste, em Caruaru/PE",
+    "valor_estimado": 36692.38,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202509291354531718613.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/81/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4011_81\\Edital_wbc202509291354531718613.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4020",
+    "ano": 2025,
+    "sequencial_pncp": 84,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - LIMPEZA, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 182348.06,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510010825524242317.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/84/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4020_84\\Edital_wbc202510010825524242317.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4015",
+    "ano": 2025,
+    "sequencial_pncp": 86,
+    "objeto": "Formação de Ata de Registro de Preços (ARP) para futura e eventual contratação de serviços de locação de TOLDOS, mesas e cadeiras para eventos da Procuradoria Geral de Justiça em Recife e RMR",
+    "valor_estimado": 39014.39,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510031105226946255.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/86/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4015_86\\Edital_wbc202510031105226946255.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4024",
+    "ano": 2025,
+    "sequencial_pncp": 89,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - ESTOCAGEM, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital",
+    "valor_estimado": 90847.66,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510080952591691271.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/89/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4024_89\\Edital_wbc202510080952591691271.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4025",
+    "ano": 2025,
+    "sequencial_pncp": 96,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - INFORMÁTICA, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 161496.47,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510240920401411161.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/96/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4025_96\\Edital_wbc202510240920401411161.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "3966",
+    "ano": 2025,
+    "sequencial_pncp": 97,
+    "objeto": "Registro de Preços para aquisição de ELETRODOMÉSTICOS para uso nas unidades administrativas da Procuradoria-Geral de Justiça do Estado de Pernambuco, conforme condições, quantidades e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 563306.45,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510240906160773899.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/97/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3966_97\\Edital_wbc202510240906160773899.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4026",
+    "ano": 2025,
+    "sequencial_pncp": 98,
+    "objeto": "Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE LICENÇAS E SERVIÇOS RED HAT, conforme o Anexo I, Termo de Referência deste Edital.",
+    "valor_estimado": 806150.85,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202510291011324149682.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/98/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4026_98\\Edital_wbc202510291011324149682.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4014",
+    "ano": 2025,
+    "sequencial_pncp": 100,
+    "objeto": "Ata de Registro de Preços para contratação de empresa para futura e eventual execução de SERVIÇOS DE SOLUÇÃO DE INFOVIA, com fornecimento e instalação de Links MPLS e operação de SDWAN (com BGP Self Healing) para conexão entre Recife e demais localidades, conforme Anexo I, Termo de Referência deste Edital.",
+    "valor_estimado": 94829741.15,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "wbc202511260745134213525.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/100/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4014_100\\Edital_wbc202511260745134213525.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4046",
+    "ano": 2025,
+    "sequencial_pncp": 102,
+    "objeto": "Contratação de empresa visando à prestação dos serviços de organização, coordenação, execução e apoio logístico necessários à realização do evento corrida e caminhada da Capital",
+    "valor_estimado": 61117.09,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511061243401611828.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/102/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4046_102\\Edital_wbc202511061243401611828.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4039",
+    "ano": 2025,
+    "sequencial_pncp": 104,
+    "objeto": "Contratação de empresa para o fornecimento de MATERIAIS DE CONSUMO EM GERAL - CONFECÇÃO GRÁFICA (IMPRESSOS, SÍMBOLOS CÍVICOS, CONFECÇÃO DE CAPAS e CONFECÇÃO DE TAPETES), conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 117675.47,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511101108568919014.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/104/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4039_104\\Edital_wbc202511101108568919014.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4037",
+    "ano": 2025,
+    "sequencial_pncp": 105,
+    "objeto": "Contratação de empresa especializada para fornecimento de FORNECIMENTO DE LICENÇAS DE SOFTWARE MICROSOFT E SERVIÇOS CORRELATOS, conforme especificações previstas no Termo de Referência (Anexo I).",
+    "valor_estimado": 1918520.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511101058006515121.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/105/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4037_105\\Edital_wbc202511101058006515121.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4041",
+    "ano": 2025,
+    "sequencial_pncp": 107,
+    "objeto": "Aquisição de 20 MOTOCICLETAS zero quilômetro para renovação da frota de veículos próprios da PGJ-PE",
+    "valor_estimado": 394016.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511120833487430972.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/107/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4041_107\\Edital_wbc202511120833487430972.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4045",
+    "ano": 2025,
+    "sequencial_pncp": 108,
+    "objeto": "Ata de Registro de Preços (ARP) para futura e eventual aquisição de MATERIAIS ELÉTRICOS, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I)",
+    "valor_estimado": 2063155.05,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511140813233807627.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/108/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4045_108\\Edital_wbc202511140813233807627.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4036",
+    "ano": 2025,
+    "sequencial_pncp": 110,
+    "objeto": "Formação de Ata de Registro de Preços (ARP) para futura e eventual aquisição de MATERIAIS HIDROSSANITÁRIOS, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I)",
+    "valor_estimado": 199112.38,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511041007000573684.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/110/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4036_110\\Edital_wbc202511041007000573684.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4049",
+    "ano": 2025,
+    "sequencial_pncp": 114,
+    "objeto": "Contratação de empresa para o fornecimento de EQUIPAMENTOS FOTOGRÁFICOS, DE VÍDEO E ACESSÓRIOS de suporte para as áreas de fotojornalismo e rádio, conforme especificações previstas no Termo de Referência (Anexo I) do Edital",
+    "valor_estimado": 89623.47,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511260829518973477.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/114/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4049_114\\Edital_wbc202511260829518973477.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4050",
+    "ano": 2025,
+    "sequencial_pncp": 116,
+    "objeto": "Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE DESMONTAGEM, TRANSPORTE E MONTAGEM DE 04 (QUATRO) SISTEMAS DE ARQUIVOS DESLIZANTES, conforme especificações previstas no Termo de Referência (Anexo I).",
+    "valor_estimado": 52806.77,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511271023372544444.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/116/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4050_116\\Edital_wbc202511271023372544444.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4053",
+    "ano": 2025,
+    "sequencial_pncp": 117,
+    "objeto": "Contratação de empresa para a REALIZAÇÃO DE TRANSFERÊNCIA ORDENADA DO ACERVO ARQUIVÍSTICO do Ministério Público de Pernambuco, compreendido por cerca de 13.000 caixas arquivo padrão box, para o novo endereço da Divisão Ministerial de Arquivo, situado na Região Metropolitana do Recife (RMR)",
+    "valor_estimado": 149970.6,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511281221128584879.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/117/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4053_117\\Edital_wbc202511281221128584879.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4047",
+    "ano": 2025,
+    "sequencial_pncp": 119,
+    "objeto": "Contratação de empresa especializada para o fornecimento de LICENÇAS SQL SERVER, conforme especificações previstas no Termo de Referência (Anexo I)",
+    "valor_estimado": 646812.24,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202512010925247624989.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/119/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4047_119\\Edital_wbc202512010925247624989.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4040",
+    "ano": 2025,
+    "sequencial_pncp": 120,
+    "objeto": "Contratação de empresa para FORNECIMENTO de MATERIAIS DE CONSUMO EM GERAL - MANUTENÇÃO, conforme especificações e quantitativos previstos no Termo de Referência (Anexo I) do edital.",
+    "valor_estimado": 122212.68,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202512010900184369248.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/120/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4040_120\\Edital_wbc202512010900184369248.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4042",
+    "ano": 2025,
+    "sequencial_pncp": 121,
+    "objeto": "Ata de Registro de Preços para futuro e eventual FORNECIMENTO DE NOTEBOOKS, IMPRESSORAS MULTIFUNCIONAIS, DESKTOPS, ESTABILIZADORES, WEBCAMS, WORKSTATIONS E HDS EXTERNOS, conforme o Anexo I, Termo de Referência deste Edital",
+    "valor_estimado": 9086463.1,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202512031108019685987.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/121/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4042_121\\Edital_wbc202512031108019685987.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "4054",
+    "ano": 2025,
+    "sequencial_pncp": 122,
+    "objeto": "Ata de Registro de Preços (ARP) para futura e eventual contratação de serviços de fornecimento de coffee break, café regional, kit lanche, gelo e água mineral para eventos realizados pela Procuradoria Geral de Justiça nas circunscrições de Petrolina, Salgueiro, Serra Talhada, Afogados da Ingazeira e Arcoverde",
+    "valor_estimado": 146818.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202512050913051272237.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/122/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4054_122\\Edital_wbc202512050913051272237.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3359",
+    "ano": 2025,
+    "sequencial_pncp": 1,
+    "objeto": "Contratação de empresa especializada para lavagem de togas",
+    "valor_estimado": 2390.7,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR LAVAGEM DAS TOGAS.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/1/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3359_1\\Termo de Referência_TR LAVAGEM DAS TOGAS.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3360",
+    "ano": 2025,
+    "sequencial_pncp": 2,
+    "objeto": "Contratação de empresa para aquisição de 01 (um) carrinho com suportes de garrafas térmicas",
+    "valor_estimado": 1900.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR carrinho de cafe atualizado  29112024 1410 1.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/2/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3360_2\\Termo de Referência_TR carrinho de cafe atualizado  29112024 1410 1.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3447",
+    "ano": 2025,
+    "sequencial_pncp": 6,
+    "objeto": "Aquisição, por meio de COMPRA DIRETA, com entrega imediata, visando a aquisição de MATERIAIS DE CONSUMO EM GERAL – SUPRIMENTOS PARA INFORMÁTICA",
+    "valor_estimado": 37095.87,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO DE REFERENCIA CD 042024   INFORMATICA 04.10.24  04102024 1102.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/6/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3447_6\\Termo de Referência_TERMO DE REFERENCIA CD 042024   INFORMATICA 04.10.24  04102024 1102.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3944",
+    "ano": 2025,
+    "sequencial_pncp": 15,
+    "objeto": "Contratação de empresa especializada em recarga e manutenção de extintores",
+    "valor_estimado": 26018.09,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "03 TR012025 recarga e manutencao de extintores V2  11022025 1432.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/15/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3944_15\\Termo de Referência_03 TR012025 recarga e manutencao de extintores V2  11022025 1432.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3945",
+    "ano": 2025,
+    "sequencial_pncp": 16,
+    "objeto": "Contratação do serviço de fornecimento e instalação de espelhos na PJ Paulista e corregedoria do Edf. roberto Lira",
+    "valor_estimado": 1974.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "03 TR032025 espelhos Paulista e Roberto Lira corregedoria  20022025 1339.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/16/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3945_16\\Termo de Referência_03 TR032025 espelhos Paulista e Roberto Lira corregedoria  20022025 1339.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3948",
+    "ano": 2025,
+    "sequencial_pncp": 18,
+    "objeto": "Contratação dos serviços de organização, coordenação, execução e apoio logístico necessários à realização do evento corrida e caminhada do Sertão, previsto para o dia 07 de junho de 2025, em Petrolina",
+    "valor_estimado": 37000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRATUALIZADOECORRIGIDO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/18/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3948_18\\Termo de Referência_TRATUALIZADOECORRIGIDO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3950",
+    "ano": 2025,
+    "sequencial_pncp": 20,
+    "objeto": "Contratação do serviço de produção de 2.064 (duas mil e sessenta e quatro) camisas para eventos de saúde do Programa Qualidade de Vida (PQV)",
+    "valor_estimado": 44404.28,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRProgramaQualidadedeVida2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/20/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3950_20\\Termo de Referência_TRProgramaQualidadedeVida2025.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3952",
+    "ano": 2025,
+    "sequencial_pncp": 23,
+    "objeto": "Contratação de serviço de controle de pragas urbanas (dedetização, desratização e descupinização) nas unidades do MPPE.",
+    "valor_estimado": 13289.28,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Barreira quimica cupins V1  01042025 1355.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/23/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3952_23\\Termo de Referência_TR  Barreira quimica cupins V1  01042025 1355.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/23/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3952_23\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3954",
+    "ano": 2025,
+    "sequencial_pncp": 25,
+    "objeto": "Contratação do serviço de produção de 2.064 (duas mil e sessenta e quatro) camisas para eventos de saúde do Programa Qualidade de Vida (PQV)",
+    "valor_estimado": 55673.72,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRProgramaQualidadedeVida2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/25/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3954_25\\Termo de Referência_TRProgramaQualidadedeVida2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/25/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3954_25\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3955",
+    "ano": 2025,
+    "sequencial_pncp": 26,
+    "objeto": "Contratação de serviço para produção de peças de artesanato personalizado com o mapa de PE, para utilização pela Procuradoria-Geral.",
+    "valor_estimado": 12430.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR ARTESANATO 2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/26/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3955_26\\Termo de Referência_TR ARTESANATO 2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/26/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3955_26\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3962",
+    "ano": 2025,
+    "sequencial_pncp": 29,
+    "objeto": "Fornecimento e instalação de transformador aéreo a óleo de 122,5 Kva para Promotoria de Garanhuns",
+    "valor_estimado": 50806.32,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Transformador Garanhuns  14042025 1420 1.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/29/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3962_29\\Termo de Referência_TR  Transformador Garanhuns  14042025 1420 1.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/29/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3962_29\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3975",
+    "ano": 2025,
+    "sequencial_pncp": 38,
+    "objeto": "Aquisição de 100 capas para diploma para a Procuradoria Geral de Justiça",
+    "valor_estimado": 11377.14,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR com ajustes.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/38/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3975_38\\Termo de Referência_TR com ajustes.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3980",
+    "ano": 2025,
+    "sequencial_pncp": 43,
+    "objeto": "Fornecimento de CAFÉ superior à vácuo 250g, intensidade forte",
+    "valor_estimado": 29252.5,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  COMPRA DIRETA  MATERIAL DE CONSUMO EM GERAL  ALIMENTO CAFE  2025  versao 3.0",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/43/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3980_43\\Termo de Referência_TR  COMPRA DIRETA  MATERIAL DE CONSUMO EM GERAL  ALIMENTO CAFE  2025  versao 3.0.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/43/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3980_43\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3987",
+    "ano": 2025,
+    "sequencial_pncp": 50,
+    "objeto": "Locação de sala para evento da Corregedoria-geral do MPPE no período de 8 a 10 de outubro de 2025",
+    "valor_estimado": 2360.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR HOTEL atualizada  07082025 1217.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/50/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3987_50\\Termo de Referência_TR HOTEL atualizada  07082025 1217.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/50/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3987_50\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3983",
+    "ano": 2025,
+    "sequencial_pncp": 51,
+    "objeto": "Fornecimento e instalação de motores para portões a serem utilizados na Promotoria de Justiça de Belo Jardim",
+    "valor_estimado": 9624.85,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  motor Belo Jardim rEV 02  25022025 1608.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/51/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3983_51\\Termo de Referência_TR  motor Belo Jardim rEV 02  25022025 1608.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/51/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3983_51\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3979",
+    "ano": 2025,
+    "sequencial_pncp": 53,
+    "objeto": "Contratação de empresa especializada em seleção pública de estudantes de nível superior no programa de estágio do PENUM 2026",
+    "valor_estimado": 315000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO DE REFERENCIA  TR.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/53/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3979_53\\Termo de Referência_TERMO DE REFERENCIA  TR.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/53/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3979_53\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3994",
+    "ano": 2025,
+    "sequencial_pncp": 56,
+    "objeto": "Aquisição de conjuntos condecorativos \"Medalha Roberto Lira\"",
+    "valor_estimado": 11858.3,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_MRL__Formulario_padronizado__versao_3.1__compartilhado__04082025_1236.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/56/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3994_56\\Termo de Referência_TR_MRL__Formulario_padronizado__versao_3.1__compartilhado__04082025_1236.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/56/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3994_56\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3990",
+    "ano": 2025,
+    "sequencial_pncp": 58,
+    "objeto": "Aquisição de medalhas/estojo por tempo de serviço",
+    "valor_estimado": 32189.91,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_MTS_COM_AJUSTE.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/58/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3990_58\\Termo de Referência_TR_MTS_COM_AJUSTE.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/58/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3990_58\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4001",
+    "ano": 2025,
+    "sequencial_pncp": 59,
+    "objeto": "Contratação de serviços de API para acesso a bases de dados",
+    "valor_estimado": 6898.37,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRAssinadoII.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/59/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4001_59\\Termo de Referência_TRAssinadoII.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3986",
+    "ano": 2025,
+    "sequencial_pncp": 60,
+    "objeto": "Serviço de acesso a bases da Receita Federal do Brasil",
+    "valor_estimado": 62265.9,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRAssinadoAtualizadoII.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/60/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3986_60\\Termo de Referência_TRAssinadoAtualizadoII.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4002",
+    "ano": 2025,
+    "sequencial_pncp": 67,
+    "objeto": "Contratação de empresa para confecção de Ecobags Personalizada para o Projeto a Casa é Sua.",
+    "valor_estimado": 20795.25,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_ECOBAGS_4.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/67/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4002_67\\Termo de Referência_TR_ECOBAGS_4.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/67/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4002_67\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4003",
+    "ano": 2025,
+    "sequencial_pncp": 68,
+    "objeto": "Contratação de Empresa para fornecimento de GÁS DE COZINHA (GLP), acondicionado em botijão de 13 kg",
+    "valor_estimado": 18732.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__Gas_de_cozinha_RMR_2025__30_07_2025_11_01.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/68/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4003_68\\Termo de Referência_TR__Gas_de_cozinha_RMR_2025__30_07_2025_11_01.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3997",
+    "ano": 2025,
+    "sequencial_pncp": 69,
+    "objeto": "Aquisição de materiais do tipo: 4 (quatro câmeras); 1 (um) gravador; 4 (quatro) cabos aviation e 2 (dois) cartões de memória",
+    "valor_estimado": 8224.53,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "CopiadeTRFormulariopadronizadoversao3.0compartilhado270520250907.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/69/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3997_69\\Termo de Referência_CopiadeTRFormulariopadronizadoversao3.0compartilhado270520250907.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/69/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3997_69\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4010",
+    "ano": 2025,
+    "sequencial_pncp": 70,
+    "objeto": "Contratação de serviço completo e integrado de locação de equipamentos audiovisuais, com operação e transmissão por equipe técnica especializada, para as 04 salas de aula e 01 auditório da ESMP",
+    "valor_estimado": 28248.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__locacao_de_equipamentos_Audiovisuais__28082025_1457.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/70/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4010_70\\Termo de Referência_TR__locacao_de_equipamentos_Audiovisuais__28082025_1457.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/70/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4010_70\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4005",
+    "ano": 2025,
+    "sequencial_pncp": 76,
+    "objeto": "Fornecimento de 10 licenças do Software Microsoft 365 Business Standard.",
+    "valor_estimado": 9816.4,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TRMicrosoft3651.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/76/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4005_76\\Termo de Referência_TRMicrosoft3651.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/76/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4005_76\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4009",
+    "ano": 2025,
+    "sequencial_pncp": 77,
+    "objeto": "Aquisição , por ITEM com ENTREGA IMEDIATA, com visando a aquisição de MATERIAIS DE CONSUMO EM GERAL: Copa-cozinha, Expediente, Confecção gráfica, Toners, Limpeza, Domissanitários.",
+    "valor_estimado": 15513.41,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__COMPRA_DIRETA__MATERIAL__DE_CONSUMO_EM_GERAL__2025__versao_3_1.0__compartilh",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/77/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4009_77\\Termo de Referência_TR__COMPRA_DIRETA__MATERIAL__DE_CONSUMO_EM_GERAL__2025__versao_3_1.0__compartilh.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/77/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4009_77\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4021",
+    "ano": 2025,
+    "sequencial_pncp": 82,
+    "objeto": "Aquisição de MATERIAIS DE CONSUMO EM GERAL PAPÉIS PARA LIMPEZA, com ENTREGA IMEDIATA, com emissão de Nota de empenho ORDINÁRIO",
+    "valor_estimado": 22468.95,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__COMPRA_DIRETA__MATERIAL__DE_CONSUMO_EM_GERAL__PAPEIS_PARA_LIMPEZA__2025__ver",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/82/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4021_82\\Termo de Referência_TR__COMPRA_DIRETA__MATERIAL__DE_CONSUMO_EM_GERAL__PAPEIS_PARA_LIMPEZA__2025__ver.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4016",
+    "ano": 2025,
+    "sequencial_pncp": 83,
+    "objeto": "Contratação de serviço de limpeza/desobstrução de fossa e caixa de gordura na PJ Olinda",
+    "valor_estimado": 2522.24,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR332025LimpezadefossaecaixadegorduraPJOlindaRev01200820251218.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/83/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4016_83\\Termo de Referência_TR332025LimpezadefossaecaixadegorduraPJOlindaRev01200820251218.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/83/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4016_83\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4023",
+    "ano": 2025,
+    "sequencial_pncp": 85,
+    "objeto": "Aquisição de MATERIAIS DE CONSUMO EM GERAL - EPI, com ENTREGA IMEDIATA, com emissão de Nota de empenho ORDINÁRIO",
+    "valor_estimado": 11394.62,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_MATERIAL_DE_CONSUMO_EM_GERAL__EPI_2025__versao_3.0__compartilhado__12_08_2025",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/85/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4023_85\\Termo de Referência_TR_MATERIAL_DE_CONSUMO_EM_GERAL__EPI_2025__versao_3.0__compartilhado__12_08_2025.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/85/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4023_85\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4022",
+    "ano": 2025,
+    "sequencial_pncp": 87,
+    "objeto": "Fornecimento e instalação de motores para portões a serem utilizados nas unidades do MPPE",
+    "valor_estimado": 18271.05,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "03_TR212025_Motores_e_portoes_PJ_Cabo_V1__09092025_1455.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/87/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4022_87\\Termo de Referência_03_TR212025_Motores_e_portoes_PJ_Cabo_V1__09092025_1455.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/87/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4022_87\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4018",
+    "ano": 2025,
+    "sequencial_pncp": 99,
+    "objeto": "Contratação de Empresa para fornecimento de GÁS DE COZINHA (GLP), acondicionado em botijão de 13 kg, para Recife-PE",
+    "valor_estimado": 14880.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Gas de cozinha RMR 2025  30 07 2025 11 01.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/99/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4018_99\\Termo de Referência_TR  Gas de cozinha RMR 2025  30 07 2025 11 01.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4035",
+    "ano": 2025,
+    "sequencial_pncp": 103,
+    "objeto": "Contratação de empresa especializada para a prestação de serviço de reparo e manutenção das 02 (duas) Fragmentadoras de Papel de alta performance, Marca Security / Modelo 8800I, da Divisão Ministerial",
+    "valor_estimado": 2610.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TermoReferencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/103/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4035_103\\Termo de Referência_TermoReferencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/103/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4035_103\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4038",
+    "ano": 2025,
+    "sequencial_pncp": 106,
+    "objeto": "Contratação de empresa especializada para execução de Painel com acabamento em Chapa de Fibra de Madeira de Média Densidade Naval - MDF Naval (Hidrófugo), além de mapa de pernambuco impresso em acríli",
+    "valor_estimado": 25234.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRFormulariopadronizadoversao3.2rev02assinadoass.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/106/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4038_106\\Termo de Referência_TRFormulariopadronizadoversao3.2rev02assinadoass.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4044",
+    "ano": 2025,
+    "sequencial_pncp": 109,
+    "objeto": "Contratação de Empresa para fornecimento de GÁS DE COZINHA (GLP), acondicionado em botijão de 13 kg, por meio de Aquisição na modalidade licitatória DISPENSA DE LICITAÇÃO - COMPRA DIRETA",
+    "valor_estimado": 15986.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Gas de cozinha RMR 2025  30 07 2025 11 01.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/109/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4044_109\\Termo de Referência_TR  Gas de cozinha RMR 2025  30 07 2025 11 01.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4048",
+    "ano": 2025,
+    "sequencial_pncp": 113,
+    "objeto": "Aquisição de um MacBook",
+    "valor_estimado": 23478.02,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TRMACBOOK041120251155.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/113/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4048_113\\Termo de Referência_TRMACBOOK041120251155.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/113/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4048_113\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4052",
+    "ano": 2025,
+    "sequencial_pncp": 118,
+    "objeto": "Contratação de empresa para fornecimento de crachás simples em PVC, com a devida impressão nas duas faces para servidores da Procuradoria Geral de Justiça",
+    "valor_estimado": 5960.9,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TRAQUISICAODECRACHAS291020251233.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/118/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4052_118\\Termo de Referência_TRAQUISICAODECRACHAS291020251233.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/118/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4052_118\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4055",
+    "ano": 2025,
+    "sequencial_pncp": 123,
+    "objeto": "Aquisição de uniformes",
+    "valor_estimado": 6229.2,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TRFormulariopadronizadoversao3.1compartilhadoDocumentosGoogleassinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/123/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4055_123\\Termo de Referência_TRFormulariopadronizadoversao3.1compartilhadoDocumentosGoogleassinado.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/123/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4055_123\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3362",
+    "ano": 2025,
+    "sequencial_pncp": 114,
+    "objeto": "Contratação de empresa para aquisição de 10 Licenças do software 90Compor com 10GB de hospedagem",
+    "valor_estimado": 9706.28,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "wbc202511260829518973477.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/114/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3362_114\\Edital_wbc202511260829518973477.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3939",
+    "ano": 2025,
+    "sequencial_pncp": 11,
+    "objeto": "Inscrição de 30 (trinta) integrantes da AMPC no Curso de Proteção de Autoridades (VIP) com carga horária de 44h/a, divididos em 06(seis) turmas, que devem ocorrer nos meses de abril, junho, julho, ago",
+    "valor_estimado": 60000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TermodeReferencia0012025CapacitacaoAMPCassinadoassinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/11/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3939_11\\Termo de Referência_TermodeReferencia0012025CapacitacaoAMPCassinadoassinado.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3943",
+    "ano": 2025,
+    "sequencial_pncp": 13,
+    "objeto": "Serviço de assinatura de jornais e periódicos - Assinatura impressa, diária, do Jornal Diário de Pernambuco de terça a sábado",
+    "valor_estimado": 581.9,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Diario de Pernambuco  TR Formulario  versao 2.1  21022025 1440.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/13/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3943_13\\Termo de Referência_Diario de Pernambuco  TR Formulario  versao 2.1  21022025 1440.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3946",
+    "ano": 2025,
+    "sequencial_pncp": 17,
+    "objeto": "Serviço de assinatura de jornais e periódicos - Assinatura impressa, diária, do Jornal Folha de Pernambuco",
+    "valor_estimado": 599.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Folha PE   TR Formulario  versao 2.1  compartilhado  21022025 1442.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/17/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3946_17\\Termo de Referência_Folha PE   TR Formulario  versao 2.1  compartilhado  21022025 1442.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3953",
+    "ano": 2025,
+    "sequencial_pncp": 24,
+    "objeto": "Serviço de assinatura e acesso restrito ao site www.bancodeprecos.com.br, por um período de 12 (doze) meses.",
+    "valor_estimado": 24600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "081189952TRTermodeReferenciaLei14.1332021.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/24/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3953_24\\Termo de Referência_081189952TRTermodeReferenciaLei14.1332021.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3956",
+    "ano": 2025,
+    "sequencial_pncp": 27,
+    "objeto": "Contratação do instrutor Vladimir da Matta Gonçalves Borges, CPF 711.933.911-72, para a realização de uma turma do Curso de Mapeamento de Conflitos, no formato presencial, com carga horária de 16 hora",
+    "valor_estimado": 21696.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "14.TRFormularioCursoMapeamentodeConflitos1605assinadoassinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/27/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3956_27\\Termo de Referência_14.TRFormularioCursoMapeamentodeConflitos1605assinadoassinado.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3961",
+    "ano": 2025,
+    "sequencial_pncp": 28,
+    "objeto": "Contratação da solução Inseyets Online PRO para extração avançada e análise de dados a partir de plataformas eletrônicas portáteis, com enriquecimento de dados de nuvem e gerenciamento central",
+    "valor_estimado": 1027534.78,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRInseyetsoriginal270520251139.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/28/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3961_28\\Termo de Referência_TRInseyetsoriginal270520251139.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3963",
+    "ano": 2025,
+    "sequencial_pncp": 31,
+    "objeto": "Capacitação técnica em BIM (Modelagem de Informação da Construção) para os arquitetos da DIMPPOO",
+    "valor_estimado": 8958.3,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRFormulariopadronizadoversao3.0compartilhadoCursoGROWARQassinadoABVAPrev01.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/31/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3963_31\\Termo de Referência_TRFormulariopadronizadoversao3.0compartilhadoCursoGROWARQassinadoABVAPrev01.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3969",
+    "ano": 2025,
+    "sequencial_pncp": 34,
+    "objeto": "Aquisição e Renovação do acervo digital de livros e periódicos da Plataforma Fórum Conhecimento Jurídico; Aquisição Col. Fórum Prof. Celso Antonio B. de Mello, renovação Assinatura Col. Digital Fórum",
+    "valor_estimado": 192950.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR Forum 2025 ajustado  18062025 1402.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/34/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3969_34\\Termo de Referência_TR Forum 2025 ajustado  18062025 1402.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3973",
+    "ano": 2025,
+    "sequencial_pncp": 44,
+    "objeto": "Contratação de pessoa jurídica para criação de expografia, iluminação cênica e supervisão técnica para a exposição de longa duração do Memorial do Ministério Público de Pernambuco",
+    "valor_estimado": 63000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Criacao de expografia   08  07 2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/44/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3973_44\\Termo de Referência_TR  Criacao de expografia   08  07 2025.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4004",
+    "ano": 2025,
+    "sequencial_pncp": 61,
+    "objeto": "Contratação de consultoria especializada voltada à realização de diagnóstico institucional.",
+    "valor_estimado": 1197648.78,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/61/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4004_61\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/61/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4004_61\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3996",
+    "ano": 2025,
+    "sequencial_pncp": 64,
+    "objeto": "Contratação da MS Educação e Consultoria para ministrar o curso \"Tecnologia e Provas Digitais: Proteção de Dados, Blockchain e NFTs na Atuação do Ministério Público\".",
+    "valor_estimado": 4500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Formulario do Curso Tecnologias e Provas digitais ASSINADO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/64/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3996_64\\Termo de Referência_TR  Formulario do Curso Tecnologias e Provas digitais ASSINADO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3992",
+    "ano": 2025,
+    "sequencial_pncp": 65,
+    "objeto": "Contratação de Paulo Valério Dal Pai Moraes, CPF 404.626.760-72, para ministrar uma turma do curso de Capacitação em Neurociências e técnicas autocompositivas de negociação e de mediação ética, cível",
+    "valor_estimado": 9600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  Formulario da Capacitacao Neurociencia e tecnicas autocompositivas ASSINADO.",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/65/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3992_65\\Termo de Referência_TR  Formulario da Capacitacao Neurociencia e tecnicas autocompositivas ASSINADO..pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4012",
+    "ano": 2025,
+    "sequencial_pncp": 73,
+    "objeto": "Aquisição da solução PC 3000",
+    "valor_estimado": 482000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TRPC3000v3270820251226.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/73/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4012_73\\Termo de Referência_TRPC3000v3270820251226.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/73/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4012_73\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3993",
+    "ano": 2025,
+    "sequencial_pncp": 78,
+    "objeto": "Contratação de serviços de localização, transformação e apresentação de dados de fontes públicas",
+    "valor_estimado": 552003.06,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__Assinado__Atualizado_IV__GAECO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/78/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3993_78\\Termo de Referência_TR__Assinado__Atualizado_IV__GAECO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/78/arquivos/4",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\3993_78\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4019",
+    "ano": 2025,
+    "sequencial_pncp": 80,
+    "objeto": "Contratação de facilitador (pessoa física) para ministrar o workshop \"Começando pela Escuta: Introdução à Justiça Restaurativa\", no formato híbrido (presencial e online simultaneamente), com carga hor",
+    "valor_estimado": 5600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "15. TR  Workshop Introducao a JR.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/80/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4019_80\\Termo de Referência_15. TR  Workshop Introducao a JR.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4017",
+    "ano": 2025,
+    "sequencial_pncp": 88,
+    "objeto": "Contratação das pessoas físicas Haroldo Sobrinho, Guilherme Carvalheira e Irving Holanda, p/ prestação de serviço de capacitação na realização do Curso “Inteligência Artificial Generativa: teoria e pr",
+    "valor_estimado": 33961.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR  final Contratacao instrutores IA Generativa  16092025 1131.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/88/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4017_88\\Termo de Referência_TR  final Contratacao instrutores IA Generativa  16092025 1131.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4027",
+    "ano": 2025,
+    "sequencial_pncp": 90,
+    "objeto": "Serviço de Assinatura Digital de Documentos Eletrônicos, com serviços de manutenção, suporte, garantia e atualização tecnológica por 36 meses",
+    "valor_estimado": 57500.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "DEMSTI__Bry__TR__24092025_1005.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/90/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4027_90\\Termo de Referência_DEMSTI__Bry__TR__24092025_1005.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/90/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4027_90\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4028",
+    "ano": 2025,
+    "sequencial_pncp": 91,
+    "objeto": "Locação do imóvel localizado na Av. Rui Barbosa (antiga Rua Projetada), 780 Cruz das Almas, Glória de Goitá/PE, destinado a sediar às Promotorias de Justiça de Glória de Goitá.",
+    "valor_estimado": 240000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/91/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4028_91\\Termo de Referência_TR.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/91/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4028_91\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4029",
+    "ano": 2025,
+    "sequencial_pncp": 92,
+    "objeto": "Capacitação em Gestão de Projetos (PMP - Project Management Professional) e exame oficial",
+    "valor_estimado": 6198.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "MPPE__PMP__TR__02_10_2025_12_24.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/92/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4029_92\\Termo de Referência_MPPE__PMP__TR__02_10_2025_12_24.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/92/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4029_92\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4031",
+    "ano": 2025,
+    "sequencial_pncp": 93,
+    "objeto": "Cursos de qualificação na área de cibersegurança",
+    "valor_estimado": 175610.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__Versao_IV__Assinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/93/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4031_93\\Termo de Referência_TR__Versao_IV__Assinado.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/93/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4031_93\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4033",
+    "ano": 2025,
+    "sequencial_pncp": 94,
+    "objeto": "Contratação de fornecimento e instalação de uma escultura na nova sede da ESMP, como condição legal indispensável à obtenção do \"Habite-se\" do imóvel, conforme a Lei Municipal nº 16.292/1997.",
+    "valor_estimado": 30000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "tr.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/94/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4033_94\\Termo de Referência_tr.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/94/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4033_94\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4032",
+    "ano": 2025,
+    "sequencial_pncp": 95,
+    "objeto": "Contratação do serviço Magnet Axiom ideal para análise forense de artefatos de Internet e sistemas em nuvem, visando a elucidação de crimes.",
+    "valor_estimado": 251719.88,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "TR__Formulario_padronizado__Axiom.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/95/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4032_95\\Termo de Referência_TR__Formulario_padronizado__Axiom.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/95/arquivos/4",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4032_95\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4043",
+    "ano": 2025,
+    "sequencial_pncp": 101,
+    "objeto": "Contratação de empresa especializada para serviço de implantação de software para gerenciamento da biblioteca do acervo físico e digital. Solução disponibilizada na plataforma web, na modalidade SaaS",
+    "valor_estimado": 15660.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRFormularioi10Biblioteca291020251532.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/101/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4043_101\\Termo de Referência_TRFormularioi10Biblioteca291020251532.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/101/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4043_101\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4051",
+    "ano": 2025,
+    "sequencial_pncp": 111,
+    "objeto": "Contratação de apresentação cultural em razão das comemorações alusivas à Semana do Ministério Público",
+    "valor_estimado": 5115.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Copia de Copia de TR  Formulario padronizado  versao 3.2  compartilhado  1311202",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/111/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4051_111\\Termo de Referência_Copia de Copia de TR  Formulario padronizado  versao 3.2  compartilhado  1311202.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "Ato de Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/111/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4051_111\\Outros Documentos_Ato de Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPPE",
+    "cnpj": "24417065000103",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4034",
+    "ano": 2025,
+    "sequencial_pncp": 112,
+    "objeto": "Curso capacitação e aprimoramento de pessoal, na modalidade de curso presencial, intitulado \"Gestão Patrimonial Pública efetiva. Procedimentos para o gerenciamento do Patrimônio, M",
+    "valor_estimado": 13470.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TRCURSODECAPACITACAOGESTAOPATRIMONIAL2025versao3.2compartilhado031120251310.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/24417065000103/compras/2025/112/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mppe_pncp_2025\\4034_112\\Termo de Referência_TRCURSODECAPACITACAOGESTAOPATRIMONIAL2025versao3.2compartilhado031120251310.pdf.pdf"
+      }
+    ]
+  }
+]

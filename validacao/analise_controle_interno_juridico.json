@@ -1,0 +1,261 @@
+{
+  "totais": {
+    "pareceres_juridicos": 662,
+    "pareceres_referenciais_ou_padronizados": 31,
+    "matrizes_de_risco": 146,
+    "instrumentos_demanda_dfd": 451
+  },
+  "pareceres_por_orgao": {
+    "TCE-PI": 78,
+    "MPPI": 24,
+    "TJPI": 8,
+    "MPDFT": 22,
+    "MPCE": 13,
+    "MPBA": 49,
+    "MPRN": 390,
+    "MPAL": 16,
+    "MPSE": 62
+  },
+  "riscos_por_orgao": {
+    "MPPI": 39,
+    "TCE-PI": 6,
+    "TJPI": 3,
+    "MPDFT": 16,
+    "MPCE": 2,
+    "MPMA": 2,
+    "MPBA": 1,
+    "MPRN": 3,
+    "MPAL": 60,
+    "MPSE": 14
+  },
+  "riscos_por_tipo": {
+    "Tecnologia da Informação": 143,
+    "Geral": 3
+  },
+  "amostra_ressalvas_juridicas": [
+    {
+      "orgao": "MPDFT",
+      "texto": "recomendado quanto à justificativa para dispensa da elaboração do Mapa de Riscos."
+    },
+    {
+      "orgao": "MPDFT",
+      "texto": "ressalvas, não vislumbrar óbice à contratação direta do MINHA BIBLIOTECA LTDA."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "cumprimento do disposto no inciso XXXIII do art."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "Observa-se que a unidade de execução orçamentária fez constar no expediente a manifestação do doc."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "desde que seus valores não ultrapassem os limites previstos no art."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "cumprimento de cada um dos aspectos supra relacionados."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "desde que seus valores não ultrapassem os limites previstos no art."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "cumprimento de cada um dos aspectos supra relacionados."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "cumprimento do disposto no inciso XXXIII do art."
+    },
+    {
+      "orgao": "MPBA",
+      "texto": "recomendações constantes do Parecer nº 732/2024."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "ressalva, nos termos da fundamentação supra."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "condicionadores de ar tipo split."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "ressalva acima citada, nos termos da fundamentação supra."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "RECOMENDAÇÕES DE AJUSTES FORMAIS."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "RESSALVAS PARA ADEQUAÇÕES FORMAIS."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "ressalvadas as adequações acima citadas."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "ressalvas, a minuta de contrato, nos termos da fundamentação supra."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "Ressalvado o disposto no inciso V do caput do art."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "apresentação do evento e proposta de preço (ID nº 9408522)."
+    },
+    {
+      "orgao": "MPRN",
+      "texto": "ressalva de exercício de atribuição delegada."
+    }
+  ],
+  "amostra_matrizes_risco": [
+    {
+      "id": "doc_1123",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e matriz de risco da contratação histórico de revisões data versão descrição autor coord"
+      ]
+    },
+    {
+      "id": "doc_1139",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1",
+        "e matriz de risco da contratação 1"
+      ]
+    },
+    {
+      "id": "doc_1151",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Geral",
+      "eventos_amostra": [
+        "planejamento deficiente probabilidade:(x)baixa ( )média ("
+      ]
+    },
+    {
+      "id": "doc_1161",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_1176",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_1181",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Geral",
+      "eventos_amostra": [
+        "da contratação empresa contratada falha com a execução, implicando risco: inexecução parcial ou total"
+      ]
+    },
+    {
+      "id": "doc_1196",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1",
+        "e matriz de risco da contratação 1"
+      ]
+    },
+    {
+      "id": "doc_1205",
+      "orgao": "MPPI",
+      "ano": "2024",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1",
+        "e matriz de risco da contratação 1"
+      ]
+    },
+    {
+      "id": "doc_0875",
+      "orgao": "TCE-PI",
+      "ano": "None",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "trata-se de demanda originada na chefia de gabinete do conselheiro substituto alisson felipe de araújo/gabinete conselheiro substituto alisson felipe de araújo,"
+      ]
+    },
+    {
+      "id": "doc_0223",
+      "orgao": "TCE-PI",
+      "ano": "2026",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_0224",
+      "orgao": "TCE-PI",
+      "ano": "2026",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_0274",
+      "orgao": "TCE-PI",
+      "ano": "2026",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Geral",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_0275",
+      "orgao": "TCE-PI",
+      "ano": "2026",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e requerimento de diárias autorizo a viagem, no período de 19/10 a 24/10/2026, para participar do curso de auditoria governamental, contr"
+      ]
+    },
+    {
+      "id": "doc_0277",
+      "orgao": "TCE-PI",
+      "ano": "2026",
+      "titulo": "Mapa de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": []
+    },
+    {
+      "id": "doc_2019",
+      "orgao": "MPPI",
+      "ano": "2025",
+      "titulo": "Mapa / Matriz de Riscos",
+      "tipo_risco": "Tecnologia da Informação",
+      "eventos_amostra": [
+        "e matriz de risco da contratação histórico de revisões data versão descrição autor 22/05/2024 1",
+        "e matriz de risco da contratação 1"
+      ]
+    }
+  ]
+}

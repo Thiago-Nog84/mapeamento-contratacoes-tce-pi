@@ -1,0 +1,19 @@
+{
+  "data_auditoria": "2026-10-01",
+  "tjpi": {
+    "transparencia_total": 74,
+    "conciliados": 34,
+    "taxa_conciliacao": 45.9,
+    "provimento_13_2025": "Indexado no RAG (90.239 caracteres)"
+  },
+  "mpdft": {
+    "transparencia_total": 91,
+    "conciliados": 63,
+    "taxa_conciliacao": 69.2
+  },
+  "mppe": {
+    "transparencia_total": 647,
+    "conciliados": 173,
+    "taxa_conciliacao": 26.7
+  }
+}

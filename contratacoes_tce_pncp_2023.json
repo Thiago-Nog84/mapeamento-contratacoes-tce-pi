@@ -1,0 +1,1549 @@
+[
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00013",
+    "ano": 2023,
+    "sequencial_pncp": 1,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação dos serviços de Software Assurance para produtos Microsoft existentes no TCE-PI. Tais serviços permitem suporte técnico, atualizações de versões, atualizações de produtos, dentre outros benefícios, por um período de 36 meses para os softwares Microsoft Windows Server e Microsoft SQL Server Enterprise, conforme detalhamento, especificações, quantitativos, valores estimados e exigências previstas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 336468.12,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000132023000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/1/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00014",
+    "ano": 2023,
+    "sequencial_pncp": 5,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para o fornecimento de solução de redundância de acesso dedicado à Internet, por meio infraestrutura de fibra óptica, com proteção em anel, incluindo um link de trânsito IPv4 e IPv6 com roteamento do protocolo BGP, com taxa de transmissão de 1Gbps.",
+    "valor_estimado": 43821.48,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000142023001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/5/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00022",
+    "ano": 2023,
+    "sequencial_pncp": 47,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para fornecimento de licenças para produtos VMware, incluindo atualizações de versões e suporte técnico do fabricante, na forma de renovação do licenciamento atualmente em uso pelo TCE-PI, pelo período de 36 meses.",
+    "valor_estimado": 452707.34,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000222023000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/47/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00023",
+    "ano": 2023,
+    "sequencial_pncp": 49,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de manutenção preventiva e corretiva em Grupos Motores Geradores emergenciais a diesel, incluindo o fornecimento de todos os insumos, materiais, peças, componentes e acessórios, com as mesmas especificações técnicas e padrões de qualidade daqueles produzidos pelos fabricantes de peças genuínas, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000232023000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/49/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00024",
+    "ano": 2023,
+    "sequencial_pncp": 57,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para futuras e eventuais aquisições de materiais elétricos, com intuito de preservar ou corrigir parte das instalações do TCE-PI, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 12764.21,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000242023000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/57/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00025",
+    "ano": 2023,
+    "sequencial_pncp": 59,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para futuras e eventuais aquisições de periféricos de entrada para computadores (teclados e mouses sem fio) para atender necessidades do Tribunal de Contas do Estado do Piauí, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 48204.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000252023001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/59/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00026",
+    "ano": 2023,
+    "sequencial_pncp": 71,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para futuras e eventuais aquisições de placas de forro de fibra mineral, com intuito de preservar as instalações do Tribunal de Contas do Estado do Piauí TCE-PI, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 26932.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605000262023000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/71/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00019",
+    "ano": 2023,
+    "sequencial_pncp": 2,
+    "numero_controle_pncp": null,
+    "objeto": "Solicitação de fornecimento e instalação de 02 (duas) divisórias de ambiente em vidro temperado incolor, conforme condições e exigências estabelecidas no Termo de Referência e Estudo Técnico Preliminar.",
+    "valor_estimado": 6987.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE LICITACAO",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/2/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00021",
+    "ano": 2023,
+    "sequencial_pncp": 3,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de Sanfoneiro para a Edição do dia 30/06/2023 do Sextas Sem Conta, conforme Justificativa Técnica de Dispensa de Licitação nº 21/23.",
+    "valor_estimado": 600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0077005 - Nota de Empenho",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/3/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00022",
+    "ano": 2023,
+    "sequencial_pncp": 6,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoço para 30 (trinta) pessoas por ocasião de visita ao TCE-PI dos representantes dos TCE´s dos estados do Pernambuco e Espírito Santo tratando de um Acordo de Cooperação Técnica na área de Tecnologia da Informação TI nos termos da Dispensa de Licitação nº 22/2023.",
+    "valor_estimado": 6084.3,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0079977 - Autorizacao - Dispensa Eletronica",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/6/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00020",
+    "ano": 2023,
+    "sequencial_pncp": 7,
+    "numero_controle_pncp": null,
+    "objeto": "Fornecimento e instalação de 02 (duas) grades metálicas para depósito de galões de água. ",
+    "valor_estimado": 6000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Autorizacao de Empenho",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/7/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00025",
+    "ano": 2023,
+    "sequencial_pncp": 9,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de produção audiovisual, para a execução de vídeos e imagens institucionais do Tribunal de Contas do Estado do Piauí por ocasião da I Conferência Diálogos com o Futuro, alusiva às comemorações do aniversário de 124 anos do TCE Piauí.",
+    "valor_estimado": 25075.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0087977 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/9/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00027",
+    "ano": 2023,
+    "sequencial_pncp": 10,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para a confecção de produtos de papelaria e identidade visual do evento: I Conferência Diálogos com o Futuro, a ser realizado de 21 a 25 de agosto de 2023.",
+    "valor_estimado": 27320.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0089628 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/10/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00030",
+    "ano": 2023,
+    "sequencial_pncp": 11,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviço de lavagem a seco das vestes talhares (togas) dos membros desta Corte  de Contas que as utilizam durante as Sessões Ordinárias, Extraordinárias e Solenidades, conforme Justificativa de Dispensa de Licitação nº30/23;",
+    "valor_estimado": 608.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0088755 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/11/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00029",
+    "ano": 2023,
+    "sequencial_pncp": 16,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para atender serviço de aluguel de grupo gerador para apoio a solenidade que comemora o 124º Aniversário do TCE/PI, conforme dispensa nº 29/2023.",
+    "valor_estimado": 14610.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0088871 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/16/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00031",
+    "ano": 2023,
+    "sequencial_pncp": 17,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoço e jantares, no período de 21 a 25/08/2023 para autoridades convidadas ,palestrantes, mediadores de paineis e representantes de TCEs de outros estados, por ocasião a comemoração aos 124 anos do TCE/PI, conforme Justificativa de Dispensa de Licitação nº 31/23 .",
+    "valor_estimado": 30421.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0089651 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/17/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00032",
+    "ano": 2023,
+    "sequencial_pncp": 23,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de peças e serviços para veículos desta Corte de Contas.",
+    "valor_estimado": 3020.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0092320_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/23/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00028",
+    "ano": 2023,
+    "sequencial_pncp": 24,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de intérpretes de libras durante a I Conferência \"Diálogos com o Futuro\" para os eventos técnicos e solenidades do 124º aniversário do TCE-PI, nos dias 21 a 25 de agosto de 2023",
+    "valor_estimado": 3360.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0089003_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/24/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00033",
+    "ano": 2023,
+    "sequencial_pncp": 35,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços gráficos e peças metálicas, para a confecção de produtos de identidade visual dos eventos “Jornada do Conhecimento do TCE” e “Sextas sem Contas”, com o objetivo de padronizar as ações da EGC junto ao Tribunal de Contas do Estado do Piauí",
+    "valor_estimado": 22450.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0100114_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/35/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00035",
+    "ano": 2023,
+    "sequencial_pncp": 38,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoço para 5 (cinco) pessoas por ocasião do 1º Seminário de Regimes Próprios de Previdência Social, para técnicos e conselheiros convidados, representantes de TCE’s de outros estados.",
+    "valor_estimado": 1120.9,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0101908_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/38/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "00034",
+    "ano": 2023,
+    "sequencial_pncp": 44,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada para execução de serviço comum de engenharia destinados à modernização de 1 elevador da marca Atlas Schindler.",
+    "valor_estimado": 28707.07,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0104567_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/44/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90005",
+    "ano": 2023,
+    "sequencial_pncp": 51,
+    "numero_controle_pncp": null,
+    "objeto": "Impermeabilizante líquido (manta líquida), à base em resina acrílica para impermeabilização elástica e flexível. Apropriado para aplicação em coberturas e lajes. Balde de pelo menos 18Kg. Rendimento de no mínimo 10m² (utilizando 3 demãos). Seca rápido. Tempo de secagem de no máximo 8 horas por demão. Cor branca. Produto ecologicamente correto. Marca referência: Vedacit, Similar ou superior. Incluso frete.",
+    "valor_estimado": 14840.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0112841_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/51/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90004",
+    "ano": 2023,
+    "sequencial_pncp": 60,
+    "numero_controle_pncp": null,
+    "objeto": "contratação de almoço para 7 (sete) pessoas por ocasião da Solenidade de Lançamento do Projeto \"Primeira Infância na Conta Certa\" com assinatura do memorando de entendimento entre o TCE-PI e o UNICEF e assinatura do Acordo de Cooperação entre esta Corte de Contas e a APDMCE com inauguração da sala do UNICEF neste TCE, acontecendo no plenário deste Tribunal",
+    "valor_estimado": 1419.67,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0111864_Memorando_sem_numeracao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/60/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90012",
+    "ano": 2023,
+    "sequencial_pncp": 61,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de seguro de vida para o grupo de estagiários do TCE-PI.",
+    "valor_estimado": 1070.76,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0099404_Memorando_com_numeracao_por_unidade_88.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/61/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90022",
+    "ano": 2023,
+    "sequencial_pncp": 70,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de assinatura para acesso ao sistema Banco de Preços.",
+    "valor_estimado": 11960.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0119415_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/70/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90023",
+    "ano": 2023,
+    "sequencial_pncp": 72,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 1 (um) scanner e 1 (uma) mesa digitalizadora.\n\n",
+    "valor_estimado": 2788.6,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0059434_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/72/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0121026_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/72/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90025",
+    "ano": 2023,
+    "sequencial_pncp": 74,
+    "numero_controle_pncp": null,
+    "objeto": "Trata-se de procedimento de dispensa de licitação, com fulcro no art. 75, II, da Lei nº 14.133/2021, visando a aquisição de 1 (um) scanner e 1 (uma) mesa digitalizadora para elaboração de produtos de atividades gráficas.",
+    "valor_estimado": 1070.76,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0109930_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/74/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90026",
+    "ano": 2023,
+    "sequencial_pncp": 75,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de materiais odontológicos.",
+    "valor_estimado": 17456.07,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0124158_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/75/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00026",
+    "ano": 2023,
+    "sequencial_pncp": 4,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro do TCE/PI, no Evento Telepresencial promovido pelo IIA Brasil - CIA Parte 1: Princípios da Auditoria Interna, no período 03 a 07/07/2023, com Carga Horária de 32H/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 26/2023. (Consº.Subst. Alisson Felipe de Araújo).",
+    "valor_estimado": 3500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Autorizacao de Empenho",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/4/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00029",
+    "ano": 2023,
+    "sequencial_pncp": 8,
+    "numero_controle_pncp": null,
+    "objeto": "Pagamento de 55 (cinquenta e cinco) inscrições para servidores atletas da delegação do TCE/PI para participação na Olimpíada dos Servidores dos Tribunais de Contas (OTC 2023), que ocorrerá no período de 08 a 15 de outubro do corrente ano, em Cuiabá/MT. (0080298).",
+    "valor_estimado": 137500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0085028 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/8/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00032",
+    "ano": 2023,
+    "sequencial_pncp": 12,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de profissional para a realização do Curso de Formação: O Tribunal de Contas do Estado do Piauí como Instrumento de Controle e Cidadania, com uma abordagem hibrida (presencial e sala de aula invertida), a ser ministrado pelo Dr. Raimundo Batista dos Santos Júnior,",
+    "valor_estimado": 12000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0088819 - Nota de Empenho",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/12/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00033",
+    "ano": 2023,
+    "sequencial_pncp": 13,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de apresentação cultural piauiense para interpretar os hinos nacional e do Piauí, por ocasião das comemorações aos 124 anos desta Corte de Contas.",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0089128 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/13/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00035",
+    "ano": 2023,
+    "sequencial_pncp": 14,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do 6º CONACON - Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de 24H/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 35/2023.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0090035 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/14/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00034",
+    "ano": 2023,
+    "sequencial_pncp": 15,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 6º CONACON - Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período 29 a 02/09/2023, com Carga Horária de 24H/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 34/2023",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0089990 - Autorizacao - CONACON",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/15/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00038",
+    "ano": 2023,
+    "sequencial_pncp": 18,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 6º CONACON – Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 38/2023.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0090959_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/18/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00040",
+    "ano": 2023,
+    "sequencial_pncp": 19,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 6º CONACON – Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 40/2023.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0090955_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/19/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00041",
+    "ano": 2023,
+    "sequencial_pncp": 20,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheiro do TCE/PI no Curso Auditando a Gestão de Riscos Corporativos, no período de 20 a 22/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 41/2023.",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0092236_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/20/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00037",
+    "ano": 2023,
+    "sequencial_pncp": 21,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 6º CONACON – Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 37/2023",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0090938_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/21/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "10035",
+    "ano": 2023,
+    "sequencial_pncp": 22,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do 6º CONACON - Congresso Nacional dos Auditores de Controle  Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de  24H/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 35/2023.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0090035 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/22/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00039",
+    "ano": 2023,
+    "sequencial_pncp": 25,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 6º CONACON – Congresso Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil, no período de 29/08 a 02/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 39/2023.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0090946_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/25/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00031",
+    "ano": 2023,
+    "sequencial_pncp": 26,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores, na “20ª edição do Simpósio Nacional de Auditoria de Obras Públicas – XX SINAOP”, que será promovido pelo Instituto Brasileiro de Obras Públicas, nos dias 11 a 15 de setembro do corrente ano, com carga horária de 28h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 31/2023.",
+    "valor_estimado": 7050.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0090500_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/26/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00044",
+    "ano": 2023,
+    "sequencial_pncp": 27,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de conselheiro do TCE/PI no 20º Simpósio Nacional de Auditoria de Obras Públicas, no período de 11 a 15/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 44/2023.",
+    "valor_estimado": 2100.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0094147_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/27/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00042",
+    "ano": 2023,
+    "sequencial_pncp": 28,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 20º Simpósio Nacional de Auditoria de Obras Públicas, no período de 11 a 15/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 42/2023.",
+    "valor_estimado": 1100.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0094146_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/28/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00043",
+    "ano": 2023,
+    "sequencial_pncp": 29,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor do TCE/PI no 20º Simpósio Nacional de Auditoria de Obras Públicas, no período de 11 a 15/09/2023, com carga horária de 24h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 43/2023.",
+    "valor_estimado": 2350.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0094138_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/29/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00048",
+    "ano": 2023,
+    "sequencial_pncp": 30,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidorES do TCE/PI Curso \"Suprimento de Fundos e Cartão de Pagamento do Governo Federal\" na modalidade online, no período de 02 a 05/10/2023, com carga horária de 16h/A, nos termos da Justificativa Técnica de Inexigibilidade de Licitação nº 48/2023.",
+    "valor_estimado": 5700.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0096542 - Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/30/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00052",
+    "ano": 2023,
+    "sequencial_pncp": 31,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheiro Substituto no curso online “AUDI 1 - EOP”, que será promovido pelo INSTITUTO DOS AUDITORES INTERNOS NO BRASIL, nos dias 2 a 4 de outubro do corrente ano.",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0099475_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/31/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00046",
+    "ano": 2023,
+    "sequencial_pncp": 32,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores deste Tribunal no Curso “Licitações e contratos conforme a Lei nº 14.133/2021”, cujo evento será promovido pela empresa A B Xavier Treinamentos EPP, no período de 25 a 29 de setembro de 2023, em Teresina (PI), com carga horária de 36 horas.",
+    "valor_estimado": 24000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0097699_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/32/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00049",
+    "ano": 2023,
+    "sequencial_pncp": 33,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheiro Substituto deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0098159_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/33/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00051",
+    "ano": 2023,
+    "sequencial_pncp": 34,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de licenças dos softwares QI Builder para atender às necessidades da Divisão de Infraestrutura Interna do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 33440.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0100070_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/34/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00054",
+    "ano": 2023,
+    "sequencial_pncp": 37,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheira deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0101290_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/37/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00053",
+    "ano": 2023,
+    "sequencial_pncp": 39,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada para a realização de capacitação assistida em gestão de processos com foco na validação dos processos de trabalho finalísticos, e gestão da informação corporativa com a priorização no gerenciamento de documentos arquivísticos, visando o atendimento de necessidades da Governança/CGP/TCE/PI.",
+    "valor_estimado": 77000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0099819_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/39/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00050",
+    "ano": 2023,
+    "sequencial_pncp": 40,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrições de 5 servidores, na 4ª Convenção de Contabilidade do Estado do Piauí, a ser promovido pela  Fundação Brasileira de Contabilidade, no período de 5 a 6 de outubro do corrente ano, na cidade de Teresina - PI.",
+    "valor_estimado": 2100.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0099027_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/40/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00047",
+    "ano": 2023,
+    "sequencial_pncp": 41,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 5 (cinco) painéis fotográficos com imagens do Piauí, que serão utilizados nos espaços da Seção de Saúde e Qualidade de Vida (SSQV), seguindo o padrão de ambientação do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 19475.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0104452_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/41/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00057",
+    "ano": 2023,
+    "sequencial_pncp": 42,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Procuradora deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0107155_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/42/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00056",
+    "ano": 2023,
+    "sequencial_pncp": 43,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Procurador deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0105117_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/43/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00058",
+    "ano": 2023,
+    "sequencial_pncp": 45,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidor deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0108442_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/45/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "00055",
+    "ano": 2023,
+    "sequencial_pncp": 46,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de Conselheiro  deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0107401_Autorizacao",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/46/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90002",
+    "ano": 2023,
+    "sequencial_pncp": 48,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores em curso de capacitação na Lei 14.133/2021.",
+    "valor_estimado": 13160.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0108440_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/48/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90003",
+    "ano": 2023,
+    "sequencial_pncp": 50,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de subprocurador  deste Tribunal no “III Congresso Internacional dos Tribunais de Contas”, cujo evento será promovido pela Associação dos Membros dos Tribunais de Contas do Brasil, no período de 28/11 a 1º de dezembro, em Fortaleza - CE.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0111235_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/50/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90006",
+    "ano": 2023,
+    "sequencial_pncp": 52,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0114507_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/52/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90007",
+    "ano": 2023,
+    "sequencial_pncp": 53,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas do Brasil.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0114508_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/53/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90008",
+    "ano": 2023,
+    "sequencial_pncp": 54,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas do Brasil",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0114497_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/54/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90009",
+    "ano": 2023,
+    "sequencial_pncp": 55,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas do Brasil",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0114524_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/55/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90010",
+    "ano": 2023,
+    "sequencial_pncp": 56,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0114499_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/56/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90011",
+    "ano": 2023,
+    "sequencial_pncp": 58,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0111231_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/58/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90014",
+    "ano": 2023,
+    "sequencial_pncp": 62,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 9000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0115761_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/62/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90015",
+    "ano": 2023,
+    "sequencial_pncp": 63,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0116900_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/63/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90016",
+    "ano": 2023,
+    "sequencial_pncp": 64,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0116891_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/64/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90017",
+    "ano": 2023,
+    "sequencial_pncp": 65,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0118012_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/65/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90018",
+    "ano": 2023,
+    "sequencial_pncp": 66,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no III Congresso Internacional dos Tribunais de Contas.",
+    "valor_estimado": 1500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0118026_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/66/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90019",
+    "ano": 2023,
+    "sequencial_pncp": 67,
+    "numero_controle_pncp": null,
+    "objeto": "Apresentação cultural natalina com o Quarteto de Cordas da Orquestra Sinfônica de Teresina.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0118587_Autorizacao (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/67/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90020",
+    "ano": 2023,
+    "sequencial_pncp": 68,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso COSO ICIF promovido pelo Instituo dos Auditores Internos do Brasil.",
+    "valor_estimado": 3200.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0120131_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/68/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90021",
+    "ano": 2023,
+    "sequencial_pncp": 69,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de profissional para ministrar curso de atualização em Redação Oficial para o corpo técnico do TCE PI.",
+    "valor_estimado": 10000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0120482_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/69/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90024",
+    "ano": 2023,
+    "sequencial_pncp": 73,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso “Prescrição nos Tribunais de Contas: Teoria e Prática (EaD – ao vivo)”",
+    "valor_estimado": 1900.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0122590_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/73/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90027",
+    "ano": 2023,
+    "sequencial_pncp": 76,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de suporte técnico – Sistema SIABI.",
+    "valor_estimado": 8331.72,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0124380_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/76/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90028",
+    "ano": 2023,
+    "sequencial_pncp": 77,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de assinaturas do Jornal Meio Norte.",
+    "valor_estimado": 25386.3,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0123732_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/77/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90029",
+    "ano": 2023,
+    "sequencial_pncp": 78,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de assinaturas do Jornal O Dia.",
+    "valor_estimado": 12600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0123732_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2023/78/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  }
+]

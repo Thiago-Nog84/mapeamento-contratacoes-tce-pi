@@ -1,0 +1,4402 @@
+[
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "00027",
+    "ano": 2024,
+    "sequencial_pncp": 79,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para futuras e eventuais aquisições de materiais diversos, incluindo materiais de expediente, de limpeza, entre outros, com intuito de manter o almoxarifado do TCE-PI abastecido, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 111815.55,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900162024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/79/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90001",
+    "ano": 2024,
+    "sequencial_pncp": 2,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para fornecimento de serviços de manutenção e recarga de extintores de incêndio, para atender às necessidades desta Corte de Contas de acordo com as especificações técnicas, quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 18865.2,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900012024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/2/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90002",
+    "ano": 2024,
+    "sequencial_pncp": 4,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para aquisição de mobiliário, incluindo mesas, cadeiras e móveis para arquivamento, para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 186942.18,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900022024001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/4/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90003",
+    "ano": 2024,
+    "sequencial_pncp": 7,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para compra de motobombas centrífugas horizontais, para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 17375.54,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900032024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/7/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90004",
+    "ano": 2024,
+    "sequencial_pncp": 19,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para contratação do serviço de confecção de medalhas, acompanhadas de (estojo, fita e roseta) para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 36918.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900042024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/19/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90005",
+    "ano": 2024,
+    "sequencial_pncp": 28,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para compra de aparelhos de ares-condicionados, para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e exigências estabelecidas no Termo de Referência anexo I do Edital.",
+    "valor_estimado": 441786.56,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900052024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/28/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90006",
+    "ano": 2024,
+    "sequencial_pncp": 31,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para fornecimento de serviço de cobertura fotográfica, produção de after movies, vídeos para stories em redes sociais e vídeos institucionais com foco nos eventos desta Corte de Contas de acordo com as especificações técnicas, quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 85033.4,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900062024001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/31/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90007",
+    "ano": 2024,
+    "sequencial_pncp": 40,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços contínuos sem dedicação de mão-de-obra exclusiva de manutenção preventiva e corretiva em Grupos Motores Geradores emergenciais a diesel, incluindo o fornecimento de todos os insumos, materiais, peças, componentes e acessórios, com as mesmas especificações técnicas e padrões de qualidade daqueles   produzidos pelos fabricantes de peças genuínas.  ",
+    "valor_estimado": 121410.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900072024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/40/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90008",
+    "ano": 2024,
+    "sequencial_pncp": 41,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para contratação de empresa especializada em fornecimento de bens de consumo de água mineral natural, potável e não gasosa, dentro dos padrões estabelecidos pelo Departamento Nacional de Produção Mineral - DNPM e Agencia Nacional de Vigilância Sanitária – ANVISA, para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 125474.4,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900082024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/41/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90009",
+    "ano": 2024,
+    "sequencial_pncp": 53,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuras e eventuais aquisições de equipamentos para atualização da rede de computadores do TCE-PI, incluindo switches e no-breaks, com instalação, configuração e testes, além da garantia e suporte técnico pelo período de 60 (sessenta) meses, para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 4205305.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900092024001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/53/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90011",
+    "ano": 2024,
+    "sequencial_pncp": 65,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para futuras aquisições de materiais e equipamentos audiovisuais para criação de um estúdio, nas quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 93610.12,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900112024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/65/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90010",
+    "ano": 2024,
+    "sequencial_pncp": 66,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuras e eventuais aquisições de dispositivos criptrográficos (tokens), para atender às necessidades desta Corte de Contas, de acordo com as especificações técnicas, quantidades e condições estabelecidas no edital e seus anexos.",
+    "valor_estimado": 21052.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900102024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/66/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90014",
+    "ano": 2024,
+    "sequencial_pncp": 68,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuros e eventuais fornecimento de fitas de backup LTO-8.",
+    "valor_estimado": 78096.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900142024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/68/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90012",
+    "ano": 2024,
+    "sequencial_pncp": 75,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para aquisição de 2 (dois) computadores tipo workstation para elaboração de produtos de atividades gráficas visando atender às necessidades do Tribunal de Contas do Estado do Piauí, de acordo com as especificações técnicas, quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 37339.28,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900122024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/75/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90013",
+    "ano": 2024,
+    "sequencial_pncp": 77,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para eventuais contratações de fornecimento de alimentação (gêneros alimentícios perecíveis, não perecíveis e perecíveis preparados – lanches avulsos) para atendimento de necessidades diárias da Presidência e Plenário deste Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900132024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/77/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90015",
+    "ano": 2024,
+    "sequencial_pncp": 78,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para eventuais contratações de fornecimento de alimentação (almoço/jantar, incluindo os serviços correlatos) para atender os eventos promovidos pelo Tribunal de Contas do Estado do Piauí, tais como: solenidades, seminários, encontros, reuniões, palestras, cursos, conferências, congressos, treinamentos, oficinas, “workshops” e outros eventos.",
+    "valor_estimado": 151295.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900152024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/78/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90016",
+    "ano": 2024,
+    "sequencial_pncp": 79,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuras e eventuais aquisições de equipamentos para a atualização da infraestrutura do datacenter do TCE-PI, baseada em arquitetura hiperconvergente e demais componentes da solução, para atender necessidades do TCE/PI.",
+    "valor_estimado": 11783298.6,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900162024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/79/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90017",
+    "ano": 2024,
+    "sequencial_pncp": 108,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada na solução de backup Veeam Backup and Replication para realização de diagnóstico completo do ambiente de backup atual, atualização de versão e implementação das melhores práticas para garantir a segurança e confiabilidade dos dados da instituição, incluindo Upgrade e Treinamento Hands On.",
+    "valor_estimado": 67424.14,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900172024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/108/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90018",
+    "ano": 2024,
+    "sequencial_pncp": 112,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuras e eventuais aquisições de certificados digitais, para atender às necessidades do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 77208.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900182024001",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/112/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90021",
+    "ano": 2024,
+    "sequencial_pncp": 114,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para eventuais contratações de fornecimento de alimentação (gêneros alimentícios perecíveis, não perecíveis e perecíveis preparados – lanches avulsos) para atendimento de necessidades diárias da Presidência e Plenário deste Tribunal de Contas do Estado do Piauí, de acordo com as especificações, quantidades e condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 35694.15,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900212024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/114/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90019",
+    "ano": 2024,
+    "sequencial_pncp": 116,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de materiais elétricos, hidráulicos e de construção, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas neste instrumento e seus anexos.",
+    "valor_estimado": 212540.96,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900192024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/116/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90020",
+    "ano": 2024,
+    "sequencial_pncp": 117,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futuras e eventuais aquisições de materiais e equipamentos odontológicos, para atender às necessidades do Tribunal de Contas do Estado do Piauí, de acordo com as especificações, quantidades e condições estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 160809.41,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900202024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/117/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90022",
+    "ano": 2024,
+    "sequencial_pncp": 118,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para prestação de serviços de administração e gerenciamento de abastecimento de frota de veículos, juntamente com o fornecimento de óleos lubrificantes, de forma continuada, junto à rede de postos de combustíveis e de centros automotivos credenciados, por meio de sistema informatizado e integrado, através de tecnologia que utilize o cartão de pagamento eletrônico ou com tarja magnética, de acordo com as especificações do Edital e seus anexos.",
+    "valor_estimado": 445700.05,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900222024002",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/118/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90023",
+    "ano": 2024,
+    "sequencial_pncp": 127,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de preços para futura e eventual aquisição de materiais permanentes de informática, incluindo notebooks e desktops, de acordo com as especificações técnicas, quantidades e condições estabelecidas neste Edital e seus anexos.  ",
+    "valor_estimado": 1372807.7,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900232024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/127/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90024",
+    "ano": 2024,
+    "sequencial_pncp": 128,
+    "numero_controle_pncp": null,
+    "objeto": "Registro de Preços para Contratação de Empresa Especializada no Fornecimento de Motocicleta com Baú Acoplado, para atender às necessidades desta Corte de Contas, de acordo com as condições estabelecidas neste instrumento.",
+    "valor_estimado": 39183.56,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Edital",
+        "titulo": "92546605900242024000",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/128/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "1",
+    "ano": 2024,
+    "sequencial_pncp": 1,
+    "numero_controle_pncp": null,
+    "objeto": "Bottons com a logomarca desta Corte, em formato de mapa do Piauí, confeccionados nos materiais prata e opala",
+    "valor_estimado": 6395.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Diario de 12_12_2023.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/1/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0119961_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/1/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0132200_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/1/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "5",
+    "ano": 2024,
+    "sequencial_pncp": 8,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de dispensa de licitação, visando à contratação de empresa para execução de serviços de sondagem mista, composta por sondagem à percussão (sondagem de simples reconhecimento) e sondagem rotativa para execução de 02 (dois) furos de quinze metros de profundidade cada furo, sendo cinco metros de sondagem rotativa no material impenetrável, na área de construção do Anexo III do Tribunal de Contas do Estado do Piauí, com fornecimento de material.",
+    "valor_estimado": 13000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0139439_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/8/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "6",
+    "ano": 2024,
+    "sequencial_pncp": 9,
+    "numero_controle_pncp": null,
+    "objeto": "Serviços de criação de identidade visual (criação de logo) e produção/execução de vídeo institucional para o Projeto Primeira Infância na Conta Certa.",
+    "valor_estimado": 7500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0139010_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/9/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "8",
+    "ano": 2024,
+    "sequencial_pncp": 11,
+    "numero_controle_pncp": null,
+    "objeto": "Sabonetes artesanais, formato de rosa, com tamanho aproximado de 7 cm, na cor lilás, cheiro lavanda.",
+    "valor_estimado": 1505.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0145277_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/11/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0147376_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/11/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "10",
+    "ano": 2024,
+    "sequencial_pncp": 13,
+    "numero_controle_pncp": null,
+    "objeto": "3 (três) licenças do pacote Adobe Creative Cloud (ACC), 1 (uma) licença Adobe Creative Cloud for teams all app (PRO) e 1 (uma) licença de CorelDraw",
+    "valor_estimado": 25050.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_09_2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/13/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0146384_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/13/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0146392_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/13/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0149891_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/13/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "11",
+    "ano": 2024,
+    "sequencial_pncp": 14,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de licenças dos programas de imagem e vídeo CANVA PRO e CapCut PRO",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0143302_Anexo.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/14/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_07_2024.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/14/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0149888_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/14/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "13",
+    "ano": 2024,
+    "sequencial_pncp": 16,
+    "numero_controle_pncp": null,
+    "objeto": "Execução de serviço comum de engenharia destinados à modernização de 1 elevador ",
+    "valor_estimado": 29682.2,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "aviso_de_diss.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/16/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0145432_Anexo.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/16/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0151435_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/16/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "16",
+    "ano": 2024,
+    "sequencial_pncp": 20,
+    "numero_controle_pncp": null,
+    "objeto": "Serviços de troca de compressor e condensador de ar-condicionado automotivo.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0147011_ Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/20/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_10_2024___manutencao_de_veiculos.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/20/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0152809_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/20/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "17",
+    "ano": 2024,
+    "sequencial_pncp": 21,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 12 (doze) unidades de Capa de Chuva.",
+    "valor_estimado": 2292.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "343723.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/21/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0145514_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/21/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0152843_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/21/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "18",
+    "ano": 2024,
+    "sequencial_pncp": 22,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de peças para manutenção veicular.",
+    "valor_estimado": 8000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_10_2024___manutencao_de_veiculos.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/22/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0147011_Anexo.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/22/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0152809_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/22/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "20",
+    "ano": 2024,
+    "sequencial_pncp": 24,
+    "numero_controle_pncp": null,
+    "objeto": "fornecimento de vestimentas e utensílios hospitalares..",
+    "valor_estimado": 6053.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0136775_Anexo.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/24/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "21",
+    "ano": 2024,
+    "sequencial_pncp": 25,
+    "numero_controle_pncp": null,
+    "objeto": "NE EMITIDA PARA ATENDER CONTRATAÇÃO DIRETA PARA EXECUÇÃO DE SERVIÇOS DE TROCA DE COMPRESSOR E CONDENSADOR DE AR CONDICIONADO AUTOMOTIVO.",
+    "valor_estimado": 1900.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0147011_Anexo (2).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/25/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0154546_Nota_de_Empenho.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/25/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "22",
+    "ano": 2024,
+    "sequencial_pncp": 26,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 10 (dez) pedestais em aço inox organizadores de filas",
+    "valor_estimado": 1958.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0148103_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/26/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0155060_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/26/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "353729.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/26/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "24",
+    "ano": 2024,
+    "sequencial_pncp": 29,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para fornecimento de vestimentas e utensílios hospitalares.",
+    "valor_estimado": 6053.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0136775_Anexo.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/29/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0133574_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/29/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0153873_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/29/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_08_2024.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/29/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "25",
+    "ano": 2024,
+    "sequencial_pncp": 30,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para execução dos serviços de engenharia elétrica.",
+    "valor_estimado": 15799.05,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO_DE_REFERENCIA_FINAL_COM_ANEXOS____Ass_Digital2.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/30/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_02_2024.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/30/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0154939_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/30/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "29",
+    "ano": 2024,
+    "sequencial_pncp": 35,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de materiais gráficos (sacola, agenda, caneta e crachá), visando suprir demandas para o VI Simpósio Nacional de Educação (SINED).",
+    "valor_estimado": 21340.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0151653_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/35/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160427_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/35/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "31",
+    "ano": 2024,
+    "sequencial_pncp": 37,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação é o desenvolvimento e implementação de uma plataforma interativa de gamificação para o VI Simpósio Nacional de Educação (SINED). ",
+    "valor_estimado": 16750.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0156267_Termo_de_Referencia (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/37/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0152980_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/37/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0152622_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/37/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0162193_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/37/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "32",
+    "ano": 2024,
+    "sequencial_pncp": 38,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para prestação de serviço técnico de assistência em plataforma de gamificação.",
+    "valor_estimado": 7250.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de dispensa  14-2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/38/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0156267_Termo_de_Referencia (1).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/38/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0152980_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/38/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0152622_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/38/arquivos/4",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0162193_Autorizacao.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/38/arquivos/5",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "37",
+    "ano": 2024,
+    "sequencial_pncp": 46,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de uma beca para atender às necessidades do Ministério Público de Contas do Piauí.",
+    "valor_estimado": 650.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "comprovante_de_pub.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/46/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0162708_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/46/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165714_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/46/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "46",
+    "ano": 2024,
+    "sequencial_pncp": 56,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de certificados digitais tipo wildcard",
+    "valor_estimado": 3726.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0171198_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/56/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0168365_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/56/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "49",
+    "ano": 2024,
+    "sequencial_pncp": 59,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoços ou jantares para palestrantes e autoridades presentes no evento VI Simpósio Nacional de Educação - SINED",
+    "valor_estimado": 8950.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0172218_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/59/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "50",
+    "ano": 2024,
+    "sequencial_pncp": 60,
+    "numero_controle_pncp": null,
+    "objeto": "Telhas onduladas de aço galvanizado.",
+    "valor_estimado": 5260.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0163944_Autorizacao (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/60/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0159012_Anexo (1).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/60/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de dispensa 15-2024.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/60/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "52",
+    "ano": 2024,
+    "sequencial_pncp": 62,
+    "numero_controle_pncp": null,
+    "objeto": "Elaboração de projeto do sistema elétrico de alimentação do quadro geral de baixa tensão (QGBT) do Anexo III.",
+    "valor_estimado": 8000.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa__17_2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/62/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "Termo_de_Referencia___Projeto_Alimentacao_QGBT_Anexo_III_e_Subestacao_R2_A1_e_A2.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/62/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "ETP___Projeto_Alimentacao_QGBT_Anexo_III_e_Subestacao_R1_A2.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/62/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165377_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/62/arquivos/4",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Documento_de_Formalizacao_de_Demanda_A1_e_A2.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/62/arquivos/5",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90032",
+    "ano": 2024,
+    "sequencial_pncp": 81,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa especializada para prestação de serviços de publicação de avisos de licitação e outras matérias afins, de interesse do TCE/PI, sob demanda, em 1(um) jornal de grande circulação na cidade de Teresina/PI, em preto e branco, dias úteis e excepcionalmente finais de semana e feriados, no total estimado de 40 (quarenta) publicações por ano.",
+    "valor_estimado": 8800.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0193401_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO_DE_REFERENCIA_101848_assinado.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "etp curso_assinado.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "35",
+    "ano": 2024,
+    "sequencial_pncp": 69,
+    "numero_controle_pncp": null,
+    "objeto": " contratação de restaurante para fornecimento de almoço para 05(cinco) pessoas por ocasião da visita do Conselheiro Sebastiao Elvécio do Instituto Rui Barbosa ao TCE/PI",
+    "valor_estimado": 895.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0176755_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/69/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "36",
+    "ano": 2024,
+    "sequencial_pncp": 71,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de software de nutrição clínica.",
+    "valor_estimado": 799.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "Termo_de_Referencia___Software_de_Nutricao___ALTERADO.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/71/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO_DISP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/71/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0178575_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/71/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "59",
+    "ano": 2024,
+    "sequencial_pncp": 74,
+    "numero_controle_pncp": null,
+    "objeto": "Contrato de prestação de serviços bancários para pagamento da folha de pessoal.",
+    "valor_estimado": 1450000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0154150_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/74/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Minuta do Contrato",
+        "titulo": "CONTRATO_RECURSOS_BB_ASSINADO.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/74/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0154312_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/74/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0158245_Termo_de_Referencia.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/74/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "60",
+    "ano": 2024,
+    "sequencial_pncp": 76,
+    "numero_controle_pncp": null,
+    "objeto": "Climatizador Evaporativo PORTÁTIL, Fluxo mínimo de vazão 20.000 m³/h, voltagem 220v, frequência 60hz, potência mínima 750W, saída frontal, Capacidade de Reservatório no mínimo 150Litros, 3 velocidades, sistema de oscilação de vento, com rodízio.",
+    "valor_estimado": 16718.1,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_19_2024___climatizadores.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/76/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0187844_Termo de referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/76/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0190474_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/76/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "63",
+    "ano": 2024,
+    "sequencial_pncp": 82,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços técnicos especializados de planejamento, organização e realização de concurso público.",
+    "valor_estimado": 536000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0167919 - Estudo Tecnico Preliminar - ETP (2).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/82/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0187066 - Decisao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/82/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "64",
+    "ano": 2024,
+    "sequencial_pncp": 83,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 100 (cem) canecas personalizadas com arte vislumbrando os 125 anos do TCE-PI.",
+    "valor_estimado": 4800.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de dispensa 28-2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/83/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0190764_Termo_de_Referencia (1).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/83/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0190757_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/83/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194264_Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/83/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "68",
+    "ano": 2024,
+    "sequencial_pncp": 87,
+    "numero_controle_pncp": null,
+    "objeto": "Serviço de hospedagem de colaborador palestrante.",
+    "valor_estimado": 2790.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0190042_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/87/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194809_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/87/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "70",
+    "ano": 2024,
+    "sequencial_pncp": 89,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 2 (duas) tribunas confeccionadas em material acrílico.",
+    "valor_estimado": 4760.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_29_2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/89/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194265_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/89/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "71",
+    "ano": 2024,
+    "sequencial_pncp": 90,
+    "numero_controle_pncp": null,
+    "objeto": "Serviço de aluguel de 2 (dois) Grupo Geradores de energia, com capacidade mínima de 180 KVA, com QTA (Quadro de Transferência Automática), trifásico, tensão 380/220 V, frequência 60 Hz, alimentado a óleo diesel, container silenciado leve – 85 dB(A) a 1,5m de distância. Incluindo mão de obra para operação e instalação. ",
+    "valor_estimado": 14610.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0199021_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/90/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0198895_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/90/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0199312_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/90/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "72",
+    "ano": 2024,
+    "sequencial_pncp": 91,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 100 (cem) unidades de caixas em papelão com arte e logo do TCE-PI, a fim de atender às comemorações dos 125 anos desta Corte de Contas, especialmente a II Conferência \"Diálogos com o Futuro\";",
+    "valor_estimado": 1465.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0193110 - Termo de Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/91/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "aviso_disp.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/91/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0193108 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/91/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0197608 - Autorizacao.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/91/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "76",
+    "ano": 2024,
+    "sequencial_pncp": 95,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de hospedagens para os palestrantes da \"II Conferencia Diálogos com o Futuro\" em alusão aos 125º anos desta Corte de Contas, conforme Dispensa de Licitação nº 34/2024.",
+    "valor_estimado": 12240.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199346 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/95/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199326 - Justificativa de Dispensa.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/95/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "77",
+    "ano": 2024,
+    "sequencial_pncp": 96,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de transmissão ao vivo no YouTube pelo canal do TCE-PI, bem como a locação de painel em LED, a fim de atender às solenidades alusivas ao 125º aniversário desta Corte de Contas;",
+    "valor_estimado": 19000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199355 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/96/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0193907 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/96/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0193910 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/96/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "79",
+    "ano": 2024,
+    "sequencial_pncp": 98,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoços e jantares para eventos do TCE-PI por ocasião das comemorações do 125º Aniversário do Tribunal de Contas do Estado do Piauí, conforme Justificativa de Dispensa de Licitação nº 32/24.",
+    "valor_estimado": 42600.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199468 - Autorizacao de empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/98/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0200021 - Justificativa de Dispensa.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/98/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "80",
+    "ano": 2024,
+    "sequencial_pncp": 99,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de almoços e jantares para eventos do TCE-PI, por ocasião do 125º aniversário desta Corte de Contas, conforme Justificativa de Dispensa de Licitação nº 32/24.",
+    "valor_estimado": 8092.8,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199468 - Autorizacao de empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/99/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0200021 - Justificativa de Dispensa.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/99/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "94",
+    "ano": 2024,
+    "sequencial_pncp": 120,
+    "numero_controle_pncp": null,
+    "objeto": "Aquisição de 200 (duzentas) agendas e 200 (duzentos) calendários personalizados.",
+    "valor_estimado": 9140.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de dispensa 37-2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/120/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0223706_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/120/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0216644_Termo_de_Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/120/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0211450_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/120/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "95",
+    "ano": 2024,
+    "sequencial_pncp": 121,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de profissional especializado em captação e edição mobile (via smartphone) com foco no aplicativo Cap Cut, o qual promoverá treinamento in loco (na própria sede) voltado para a equipe de Comunicação do Tribunal de Contas do Estado do Piauí (TCE-PI), com uma carga horaria total de 12h.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0209287 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/121/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0222270 - Autorizacao de Nota de Empenho.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/121/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "97",
+    "ano": 2024,
+    "sequencial_pncp": 123,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para prestação dos serviços de cobertura securitária (seguro) para assegurar vidas limitadas a 130 (cento e trinta) estagiários remunerados pelo Tribunal de Contas do Estado do Piauí, conforme Justificativa Técnica de Dispensa de Licitação nº 39/2024.",
+    "valor_estimado": 967.2,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_TCE-PI - 0216959 - Estudo Tecnico Preliminar - ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/123/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0222176 - Termo de Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/123/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_TCE-PI - 0222891 - Aviso de Publicacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/123/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "99",
+    "ano": 2024,
+    "sequencial_pncp": 125,
+    "numero_controle_pncp": null,
+    "objeto": " Aquisição de 08 (oito) Projetores de Imagem para atender demanda da EGC/PI, CONFORME PARECER DA CONTROLADORIA Nº 704/2024, PARECER ASSESSORIA JURÍDICA Nº 286/2024",
+    "valor_estimado": 12792.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0208530_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/125/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0208498_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/125/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_35_2024.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/125/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "100",
+    "ano": 2024,
+    "sequencial_pncp": 126,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de serviços de desmobilização, instalação e fornecimento de 17 (dezessete) luminárias de embutir completas com LED e driver, conforme  Justificativa de Dispensa de Licitação nº 38/2024.",
+    "valor_estimado": 23000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0218132_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/126/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_0223145_Aviso_de_Publicacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/126/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0226237_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/126/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "101",
+    "ano": 2024,
+    "sequencial_pncp": 129,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação direta de empresa especializada para ministrar treinamento em Segurança do Trabalho para os servidores e colaboradores da Seção de Manutenção/DPL desta Corte de Contas;",
+    "valor_estimado": 3200.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0228152 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/129/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "104",
+    "ano": 2024,
+    "sequencial_pncp": 132,
+    "numero_controle_pncp": null,
+    "objeto": "Serviço de aluguel de Grupo Gerador de Energia de pelo menos 180 KVA, incluindo os materiais, a infraestrutura elétrica do local do equipamento até o ponto a ser suprido, bem como a mão de obra de operação do circuito, caso haja falta de energia fornecida pela concessionária. Data: 19/12/2024. Horário de funcionamento: 7h às 14h. Suprir o quadro do Plenário – Prédio do Anexo II do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0232286_Termo_de_Referencia__DPL_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/132/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0232281_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/132/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0233939_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/132/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "105",
+    "ano": 2024,
+    "sequencial_pncp": 133,
+    "numero_controle_pncp": null,
+    "objeto": "contratação de empresa especializada para realização de serviço de retirada e recolocação de gradil",
+    "valor_estimado": 28706.8,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso_de_dispensa_43_2024.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/133/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0230594_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/133/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0230600_Termo_de_Referencia.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/133/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0230524_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/133/arquivos/4",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0234662_Autorizacao.pdf",
+        "sequencial_documento": 5,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/133/arquivos/5",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "2",
+    "ano": 2024,
+    "sequencial_pncp": 3,
+    "numero_controle_pncp": null,
+    "objeto": "O Convênio tem por objeto estabelecer a cooperação e a colaboração mútua entre o TRIBUNAL DE CONTAS e a Atricon para o desenvolvimento de atividades de natureza técnica e científica, visando o fortalecimento da integração, modernização e aprimoramento dos Tribunais de Contas do Brasil, bem como a defesa de competências, prerrogativas e interesses institucionais.",
+    "valor_estimado": 200000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Oficio_n_046_2024___TCE_PI___Adesao_ao_Convenio_de_Cooperacao_e_Colaboracao_Tecnica_n_01_2024 (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/3/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "TCE_PI___Convenio_de_Cooperacao_e_Colaboracao_Tecnica_n_01_2024 (2).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/3/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90013",
+    "ano": 2024,
+    "sequencial_pncp": 80,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de inexigibilidade de licitação visando à participação de membro no curso online “AUDI 2 - EOP”, que será promovido pelo INSTITUTO DOS AUDITORES INTERNOS NO BRASIL, nos dias 19 a 21 de fevereiro do corrente ano.",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0187606_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0192600_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3",
+    "ano": 2024,
+    "sequencial_pncp": 5,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de inexigibilidade de licitação visando à participação de servidora no “6º Congresso Brasileiro de Investimentos dos RPPS”, que será promovido pela Associação Brasileira de Instituições de Previdência Estaduais e Municipais”, no período de 06 a 08 de março, em Florianópolis - SC.",
+    "valor_estimado": 1200.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0139804_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/5/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4",
+    "ano": 2024,
+    "sequencial_pncp": 6,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso \"EFD-Reinf e DCTFWeb para a Administração Pública”",
+    "valor_estimado": 2990.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0138174_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/6/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "7",
+    "ano": 2024,
+    "sequencial_pncp": 10,
+    "numero_controle_pncp": null,
+    "objeto": "Serviços de sustentação e evolução do Sistema Integrado de Gestão de Pessoas (eGesp), contemplando as medidas corretivas, preventivas, atualização tecnológica, evolutivas, e suporte técnico.",
+    "valor_estimado": 2240255.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0141594_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0142158_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0145695_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "9",
+    "ano": 2024,
+    "sequencial_pncp": 12,
+    "numero_controle_pncp": null,
+    "objeto": "Curso de capacitação  \"Vivência de Integração e Desenvolvimento Organizacional",
+    "valor_estimado": 10400.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0136358_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0136338_ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0146654_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "12",
+    "ano": 2024,
+    "sequencial_pncp": 15,
+    "numero_controle_pncp": null,
+    "objeto": "Curso de capacitação “Retenções de Tributos na Administração Pública Federal, Estadual, Distrital e Municipal - Atualizando com as Inovações Citadas pelas INs RFB nº 1.234/2012, 2.110/2022 e 2.145/2023”.",
+    "valor_estimado": 2890.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0142901_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/15/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0146601_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/15/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "14",
+    "ano": 2024,
+    "sequencial_pncp": 17,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro deste TCE/PI, no AMBRA UNIVERSITY CONFERENCE 2024, que será realizado no período de 06 a 08 de maio de 2024, na cidade de Orlando – Flórida, nos Estados Unidos da América, na modalidade presencial.",
+    "valor_estimado": 3475.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0150454_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/17/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "15",
+    "ano": 2024,
+    "sequencial_pncp": 18,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro deste TCE/PI, no AMBRA UNIVERSITY CONFERENCE 2024",
+    "valor_estimado": 3677.49,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0151404_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/18/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "INSCRICAO_DELANO__1_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/18/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "19",
+    "ano": 2024,
+    "sequencial_pncp": 23,
+    "numero_controle_pncp": null,
+    "objeto": "NE emitida para atender complemento à NE 2024NE00044 ref. participação de membro no AMBRA UNIVERSITY CONFERENCE 2024, que será realizado no período de 06 a 08 de maio de 2024, na cidade de Orlando - Flórida, nos Estados Unidos da América.",
+    "valor_estimado": 197.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0154836_Extrato_NE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/23/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "23",
+    "ano": 2024,
+    "sequencial_pncp": 27,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso IA-CM-ONLINE, promovido pelo Instituto dos Auditores Internos do Brasil.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Comprovante_de_inscricao___IA_CM___ONLINE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/27/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0156557_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/27/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "26",
+    "ano": 2024,
+    "sequencial_pncp": 32,
+    "numero_controle_pncp": null,
+    "objeto": "Trata-se de procedimento de inexigibilidade de licitação, visando à contratação de empresa especializada para a realização no \"Treinamento MinIO\", com o objetivo de capacitar a equipe de servidores da Secretaria de Tecnologia da Informação (STI), conforme detalhamento e justificativas contidas no Memorando nº 04/2024 - STI (0153546), cujo curso será in company, realizado de forma online e ao vivo, com carga horária de 24h/a, por meio da empresa AMBIENTE LIVRE ASSESSORIA EM SISTEMAS DE INFORMATICA LTDA.",
+    "valor_estimado": 16392.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0153546_Memorando_com_numeracao_por_unidade_4.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/32/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160238_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/32/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "27",
+    "ano": 2024,
+    "sequencial_pncp": 33,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor do tce/pi para participação em Seminário Nacional de Gestão de Pessoas e Liderança no Setor Público.",
+    "valor_estimado": 4385.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160194_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/33/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "28",
+    "ano": 2024,
+    "sequencial_pncp": 34,
+    "numero_controle_pncp": null,
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA ASSINATURA DE SERVIÇO QUE PERMITE ACESSO AO CONTEÚDO DE TREINAMENTO ONLINE NA PLATAFORMA ALURA",
+    "valor_estimado": 7500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160136_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/34/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "30",
+    "ano": 2024,
+    "sequencial_pncp": 36,
+    "numero_controle_pncp": null,
+    "objeto": "Locação de auditório para realização do VI Simpósio Nacional de Educação (SINED).",
+    "valor_estimado": 40600.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0156348_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0151759_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160435_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "33",
+    "ano": 2024,
+    "sequencial_pncp": 39,
+    "numero_controle_pncp": null,
+    "objeto": "Licenciamento de sistema web para treinamento.",
+    "valor_estimado": 7188.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0152430_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0152369_Formulario___Solicitacao_de_Material_Servico.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0162269_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "34",
+    "ano": 2024,
+    "sequencial_pncp": 42,
+    "numero_controle_pncp": null,
+    "objeto": "EVENTO TELEPRESENCIAL PRÁTICA DE AUTDITORIA INTERNA (PARTE 2), PROMOVIDO PELO IIA BRASIL.",
+    "valor_estimado": 3700.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0159077_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/42/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0164192_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/42/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "38",
+    "ano": 2024,
+    "sequencial_pncp": 47,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores no Encontro Técnico nacional de Auditoria de Obras Públicas - ENAOP 2024.",
+    "valor_estimado": 26250.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0162066_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/47/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165440_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/47/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "39",
+    "ano": 2024,
+    "sequencial_pncp": 48,
+    "numero_controle_pncp": null,
+    "objeto": "curso Gestão da Segurança da Informação e Privacidade",
+    "valor_estimado": 10240.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165683_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/48/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "40",
+    "ano": 2024,
+    "sequencial_pncp": 49,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167447_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/49/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "41",
+    "ano": 2024,
+    "sequencial_pncp": 50,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167441_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/50/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "42",
+    "ano": 2024,
+    "sequencial_pncp": 51,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167803_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/51/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "43",
+    "ano": 2024,
+    "sequencial_pncp": 52,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE PI para participar da 33ª Semana Nacional de Licitações e Contratos, na cidade do Rio de Janeiro (RJ).",
+    "valor_estimado": 5490.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0168337_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/52/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "44",
+    "ano": 2024,
+    "sequencial_pncp": 54,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrições de membros no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 12250.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0170173_Nota_de_Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/54/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "45",
+    "ano": 2024,
+    "sequencial_pncp": 55,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de servidora  no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024,no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0169184_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/55/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "47",
+    "ano": 2024,
+    "sequencial_pncp": 57,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0170561_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/57/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "48",
+    "ano": 2024,
+    "sequencial_pncp": 58,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0169206_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/58/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "51",
+    "ano": 2024,
+    "sequencial_pncp": 61,
+    "numero_controle_pncp": null,
+    "objeto": "participação de servidores no Evento Hospitalar 2024, Feira do Setor de Saúde - Congressos Hospitalar 2024: FDHIC (Future of Digital Health International Congress); CISS (Congresso Internacional de Serviços de Saúde); CAD (Congresso de Atenção Domiciliar e Cuidados de Transição); H&F (Congresso de Hotelaria e Facilities), no período de 21 a 24 de maio de 2024, na cidade São Paulo-SP.",
+    "valor_estimado": 7636.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0164068_Autorizacao (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/61/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "53",
+    "ano": 2024,
+    "sequencial_pncp": 63,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCEPI para participação em evento telepresencial -AUDI TI - promovido pelo IIA Brasil",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0173509_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/63/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "54",
+    "ano": 2024,
+    "sequencial_pncp": 64,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores no curso Gestão Tributária de Contratos e Convênios, ofertado pela empresa Open Soluções Tributárias no período de 17 a 21 de junho (primeira turma) e 26 a 30 de agosto (segunda turma) deste ano, com carga horária de 24 horas, na modalidade EaD por meio da Plataforma Google Meet.",
+    "valor_estimado": 11600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0174344_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/64/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "56",
+    "ano": 2024,
+    "sequencial_pncp": 67,
+    "numero_controle_pncp": null,
+    "objeto": "Participação dos servidores listados no formulário 0172356, no \"I Congresso Piauiense de Tributação e Políticas Fiscais\", que será promovido pelo INSTITUTO PIAUIENSE DE DIREITO TRIBUTARIO, nos dias 14 a 15 de junho do corrente ano, em Teresina - PI.",
+    "valor_estimado": 2376.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0174746_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/67/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "55",
+    "ano": 2024,
+    "sequencial_pncp": 70,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCEPI para participação em evento telepresencial - promovido pelo IIA Brasil (Data Analytics)",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0180180_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/70/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "57",
+    "ano": 2024,
+    "sequencial_pncp": 72,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE/PI para participação no evento XIX Fórum Brasileiro de Contratação & Gestão Pública - Novas possibilidades e Impactos na Contratação Pública: Do Planejamento ao Controle",
+    "valor_estimado": 5980.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0178993_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/72/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "58",
+    "ano": 2024,
+    "sequencial_pncp": 73,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação da empresa New Roads Consultoria para ministrar o curso Auditoria e Perícia em Custos de Obras Públicas.",
+    "valor_estimado": 54000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0185223_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "ass_Termo_de_referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "ass_Estudo_tecnico_preliminar.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "61",
+    "ano": 2024,
+    "sequencial_pncp": 80,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de atração cultural “Coral dos Vaqueiros do município de União – PI.",
+    "valor_estimado": 5000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0187606_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0192600_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "62",
+    "ano": 2024,
+    "sequencial_pncp": 81,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para realização de curso para servidores.",
+    "valor_estimado": 5200.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0193401_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO_DE_REFERENCIA_101848_assinado.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "etp curso_assinado.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "65",
+    "ano": 2024,
+    "sequencial_pncp": 84,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para assinatura de 13 (treze) acessos da plataforma de cursos online Alura,",
+    "valor_estimado": 19500.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194253_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/84/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0190309_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/84/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "66",
+    "ano": 2024,
+    "sequencial_pncp": 85,
+    "numero_controle_pncp": null,
+    "objeto": "Prestação de Serviços de Revisão e Manutenção Preventiva durante o Período de Garantia de Fábrica, de 05 (cinco) Veículos Oficiais, Modelo FORD RANGER XLT, ano 2024, cor preta, para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 10890.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0183816 - Autorizacao NE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/85/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0175541 - Anexo TR ajustado.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/85/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "67",
+    "ano": 2024,
+    "sequencial_pncp": 86,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE/PI para participação no IX Encontro Nacional dos Tribunais de Contas",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194681_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/86/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "69",
+    "ano": 2024,
+    "sequencial_pncp": 88,
+    "numero_controle_pncp": null,
+    "objeto": "O objeto desta solução é a contratação de empresa especializada na prestação de serviço de manutenção de equipamentos topográficos, para atender as demandas do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 2129.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0195936_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/88/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "73",
+    "ano": 2024,
+    "sequencial_pncp": 92,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor deste Tribunal para participação no 7º CONGRESSO NACIONAL DOS AUDITORES DE CONTROLE EXTERNO - CONACON, nos termos da justificativa técnica de inexigibilidade de licitação nº 46/2024.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0197882 - Autorizacao Autoridade Competente.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/92/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "74",
+    "ano": 2024,
+    "sequencial_pncp": 93,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação da atração cultural \"Orquestra Sanfônica de Teresina\" para apresentação no dia 30 de agosto do corrente ano, quando do encerramento da II Conferência \"Diálogos com o Futuro\", parte integrante das comemorações alusivas ao 125º aniversário desta Corte de Contas.",
+    "valor_estimado": 11800.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0197520 - Termo de Referencia Osquestra Sanfonica.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/93/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0198884 - Autorizacao Presidencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/93/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "75",
+    "ano": 2024,
+    "sequencial_pncp": 94,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participação no IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS - ENTC, nos termos da justificativa técnica de inexigibilidade de licitação nº 47/2024.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0198099 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/94/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "78",
+    "ano": 2024,
+    "sequencial_pncp": 97,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor desta Corte de Contas no \"7º CONACON - Congresso Nacional dos Auditores de Controle Externo.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199616 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/97/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "81",
+    "ano": 2024,
+    "sequencial_pncp": 100,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação dos serviços de fornecimento de energia elétrica para o prédio Anexo III do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 140669.76,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0192537_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0199675_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0192512_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0192516_Termo__de_Referencia.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "82",
+    "ano": 2024,
+    "sequencial_pncp": 101,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro no 38º Congresso Brasileiro de Direito Administrativo promovido pelo Instituto Brasileiro de Direito Administrativo.",
+    "valor_estimado": 1700.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0200381_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/101/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "83",
+    "ano": 2024,
+    "sequencial_pncp": 102,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro deste TCE/PI no IX Encontro Nacional dos Tribunais de Contas- ENTC, entre os dias 10/11 a 15/11/2024 na cidade de Foz do Iguaçu - PR, nos termos da justificativa técnica de inexigibilidade de licitação nº 51/2024/TCE-PI.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0205937 - Autorizacao de Emepnho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/102/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0202547 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/102/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "84",
+    "ano": 2024,
+    "sequencial_pncp": 103,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de 2 (duas) servidores do TCE/PI no \"XXVIII CONCEP - CONGRESSO NACIONAL DE CERIMONIAL E PROTOCOLO\", que acontecerá no período de 03 a 05/11/2024 em Belo Horizonte/MG, nos termos da justificativa técnica de inexigibilidade de licitação nº 52/2024/TCE-PI.",
+    "valor_estimado": 3360.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0206056 - Justificativa de Inexigibilidade n 52.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/103/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0205937 - Autorizacao Empenho.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/103/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "85",
+    "ano": 2024,
+    "sequencial_pncp": 105,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participar do IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS, na cidade de Foz do Iguaçu (PR).",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0208161_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/105/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "86",
+    "ano": 2024,
+    "sequencial_pncp": 106,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participar do IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0208155_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/106/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "2",
+    "ano": 2024,
+    "sequencial_pncp": 3,
+    "numero_controle_pncp": null,
+    "objeto": "O Convênio tem por objeto estabelecer a cooperação e a colaboração mútua entre o TRIBUNAL DE CONTAS e a Atricon para o desenvolvimento de atividades de natureza técnica e científica, visando o fortalecimento da integração, modernização e aprimoramento dos Tribunais de Contas do Brasil, bem como a defesa de competências, prerrogativas e interesses institucionais.",
+    "valor_estimado": 200000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Oficio_n_046_2024___TCE_PI___Adesao_ao_Convenio_de_Cooperacao_e_Colaboracao_Tecnica_n_01_2024 (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/3/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "TCE_PI___Convenio_de_Cooperacao_e_Colaboracao_Tecnica_n_01_2024 (2).pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/3/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "90013",
+    "ano": 2024,
+    "sequencial_pncp": 80,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de inexigibilidade de licitação visando à participação de membro no curso online “AUDI 2 - EOP”, que será promovido pelo INSTITUTO DOS AUDITORES INTERNOS NO BRASIL, nos dias 19 a 21 de fevereiro do corrente ano.",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0187606_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0192600_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3",
+    "ano": 2024,
+    "sequencial_pncp": 5,
+    "numero_controle_pncp": null,
+    "objeto": "Procedimento de inexigibilidade de licitação visando à participação de servidora no “6º Congresso Brasileiro de Investimentos dos RPPS”, que será promovido pela Associação Brasileira de Instituições de Previdência Estaduais e Municipais”, no período de 06 a 08 de março, em Florianópolis - SC.",
+    "valor_estimado": 1200.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0139804_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/5/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4",
+    "ano": 2024,
+    "sequencial_pncp": 6,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso \"EFD-Reinf e DCTFWeb para a Administração Pública”",
+    "valor_estimado": 2990.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0138174_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/6/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "7",
+    "ano": 2024,
+    "sequencial_pncp": 10,
+    "numero_controle_pncp": null,
+    "objeto": "Serviços de sustentação e evolução do Sistema Integrado de Gestão de Pessoas (eGesp), contemplando as medidas corretivas, preventivas, atualização tecnológica, evolutivas, e suporte técnico.",
+    "valor_estimado": 2240255.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0141594_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0142158_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0145695_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/10/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "9",
+    "ano": 2024,
+    "sequencial_pncp": 12,
+    "numero_controle_pncp": null,
+    "objeto": "Curso de capacitação  \"Vivência de Integração e Desenvolvimento Organizacional",
+    "valor_estimado": 10400.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0136358_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0136338_ETP.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0146654_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/12/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "12",
+    "ano": 2024,
+    "sequencial_pncp": 15,
+    "numero_controle_pncp": null,
+    "objeto": "Curso de capacitação “Retenções de Tributos na Administração Pública Federal, Estadual, Distrital e Municipal - Atualizando com as Inovações Citadas pelas INs RFB nº 1.234/2012, 2.110/2022 e 2.145/2023”.",
+    "valor_estimado": 2890.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0142901_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/15/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0146601_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/15/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "14",
+    "ano": 2024,
+    "sequencial_pncp": 17,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro deste TCE/PI, no AMBRA UNIVERSITY CONFERENCE 2024, que será realizado no período de 06 a 08 de maio de 2024, na cidade de Orlando – Flórida, nos Estados Unidos da América, na modalidade presencial.",
+    "valor_estimado": 3475.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0150454_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/17/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "15",
+    "ano": 2024,
+    "sequencial_pncp": 18,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro deste TCE/PI, no AMBRA UNIVERSITY CONFERENCE 2024",
+    "valor_estimado": 3677.49,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0151404_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/18/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "INSCRICAO_DELANO__1_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/18/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "19",
+    "ano": 2024,
+    "sequencial_pncp": 23,
+    "numero_controle_pncp": null,
+    "objeto": "NE emitida para atender complemento à NE 2024NE00044 ref. participação de membro no AMBRA UNIVERSITY CONFERENCE 2024, que será realizado no período de 06 a 08 de maio de 2024, na cidade de Orlando - Flórida, nos Estados Unidos da América.",
+    "valor_estimado": 197.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0154836_Extrato_NE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/23/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "23",
+    "ano": 2024,
+    "sequencial_pncp": 27,
+    "numero_controle_pncp": null,
+    "objeto": "Participação no curso IA-CM-ONLINE, promovido pelo Instituto dos Auditores Internos do Brasil.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "Comprovante_de_inscricao___IA_CM___ONLINE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/27/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0156557_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/27/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "26",
+    "ano": 2024,
+    "sequencial_pncp": 32,
+    "numero_controle_pncp": null,
+    "objeto": "Trata-se de procedimento de inexigibilidade de licitação, visando à contratação de empresa especializada para a realização no \"Treinamento MinIO\", com o objetivo de capacitar a equipe de servidores da Secretaria de Tecnologia da Informação (STI), conforme detalhamento e justificativas contidas no Memorando nº 04/2024 - STI (0153546), cujo curso será in company, realizado de forma online e ao vivo, com carga horária de 24h/a, por meio da empresa AMBIENTE LIVRE ASSESSORIA EM SISTEMAS DE INFORMATICA LTDA.",
+    "valor_estimado": 16392.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0153546_Memorando_com_numeracao_por_unidade_4.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/32/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160238_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/32/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "27",
+    "ano": 2024,
+    "sequencial_pncp": 33,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor do tce/pi para participação em Seminário Nacional de Gestão de Pessoas e Liderança no Setor Público.",
+    "valor_estimado": 4385.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160194_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/33/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "28",
+    "ano": 2024,
+    "sequencial_pncp": 34,
+    "numero_controle_pncp": null,
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA ASSINATURA DE SERVIÇO QUE PERMITE ACESSO AO CONTEÚDO DE TREINAMENTO ONLINE NA PLATAFORMA ALURA",
+    "valor_estimado": 7500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160136_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/34/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "30",
+    "ano": 2024,
+    "sequencial_pncp": 36,
+    "numero_controle_pncp": null,
+    "objeto": "Locação de auditório para realização do VI Simpósio Nacional de Educação (SINED).",
+    "valor_estimado": 40600.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0156348_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0151759_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0160435_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/36/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "33",
+    "ano": 2024,
+    "sequencial_pncp": 39,
+    "numero_controle_pncp": null,
+    "objeto": "Licenciamento de sistema web para treinamento.",
+    "valor_estimado": 7188.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0152430_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0152369_Formulario___Solicitacao_de_Material_Servico.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0162269_Autorizacao.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/39/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "34",
+    "ano": 2024,
+    "sequencial_pncp": 42,
+    "numero_controle_pncp": null,
+    "objeto": "EVENTO TELEPRESENCIAL PRÁTICA DE AUTDITORIA INTERNA (PARTE 2), PROMOVIDO PELO IIA BRASIL.",
+    "valor_estimado": 3700.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0159077_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/42/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0164192_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/42/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "38",
+    "ano": 2024,
+    "sequencial_pncp": 47,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores no Encontro Técnico nacional de Auditoria de Obras Públicas - ENAOP 2024.",
+    "valor_estimado": 26250.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0162066_Formulario___Participacao_Evento_e_Diarias.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/47/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165440_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/47/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "39",
+    "ano": 2024,
+    "sequencial_pncp": 48,
+    "numero_controle_pncp": null,
+    "objeto": "curso Gestão da Segurança da Informação e Privacidade",
+    "valor_estimado": 10240.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0165683_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/48/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "40",
+    "ano": 2024,
+    "sequencial_pncp": 49,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167447_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/49/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "41",
+    "ano": 2024,
+    "sequencial_pncp": 50,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167441_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/50/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "42",
+    "ano": 2024,
+    "sequencial_pncp": 51,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0167803_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/51/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "43",
+    "ano": 2024,
+    "sequencial_pncp": 52,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE PI para participar da 33ª Semana Nacional de Licitações e Contratos, na cidade do Rio de Janeiro (RJ).",
+    "valor_estimado": 5490.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0168337_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/52/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "44",
+    "ano": 2024,
+    "sequencial_pncp": 54,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrições de membros no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024, no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024",
+    "valor_estimado": 12250.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0170173_Nota_de_Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/54/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "45",
+    "ano": 2024,
+    "sequencial_pncp": 55,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de servidora  no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024,no município de Luís Correia (PI), nos dias 12 a 15 de junho de 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0169184_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/55/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "47",
+    "ano": 2024,
+    "sequencial_pncp": 57,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0170561_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/57/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "48",
+    "ano": 2024,
+    "sequencial_pncp": 58,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor no Encontro Técnico Nacional de Auditoria de Obras Públicas - ENAOP 2024.",
+    "valor_estimado": 1750.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0169206_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/58/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "51",
+    "ano": 2024,
+    "sequencial_pncp": 61,
+    "numero_controle_pncp": null,
+    "objeto": "participação de servidores no Evento Hospitalar 2024, Feira do Setor de Saúde - Congressos Hospitalar 2024: FDHIC (Future of Digital Health International Congress); CISS (Congresso Internacional de Serviços de Saúde); CAD (Congresso de Atenção Domiciliar e Cuidados de Transição); H&F (Congresso de Hotelaria e Facilities), no período de 21 a 24 de maio de 2024, na cidade São Paulo-SP.",
+    "valor_estimado": 7636.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0164068_Autorizacao (1).pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/61/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "53",
+    "ano": 2024,
+    "sequencial_pncp": 63,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCEPI para participação em evento telepresencial -AUDI TI - promovido pelo IIA Brasil",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0173509_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/63/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "54",
+    "ano": 2024,
+    "sequencial_pncp": 64,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de servidores no curso Gestão Tributária de Contratos e Convênios, ofertado pela empresa Open Soluções Tributárias no período de 17 a 21 de junho (primeira turma) e 26 a 30 de agosto (segunda turma) deste ano, com carga horária de 24 horas, na modalidade EaD por meio da Plataforma Google Meet.",
+    "valor_estimado": 11600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0174344_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/64/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "56",
+    "ano": 2024,
+    "sequencial_pncp": 67,
+    "numero_controle_pncp": null,
+    "objeto": "Participação dos servidores listados no formulário 0172356, no \"I Congresso Piauiense de Tributação e Políticas Fiscais\", que será promovido pelo INSTITUTO PIAUIENSE DE DIREITO TRIBUTARIO, nos dias 14 a 15 de junho do corrente ano, em Teresina - PI.",
+    "valor_estimado": 2376.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0174746_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/67/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "55",
+    "ano": 2024,
+    "sequencial_pncp": 70,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCEPI para participação em evento telepresencial - promovido pelo IIA Brasil (Data Analytics)",
+    "valor_estimado": 2500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0180180_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/70/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "57",
+    "ano": 2024,
+    "sequencial_pncp": 72,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE/PI para participação no evento XIX Fórum Brasileiro de Contratação & Gestão Pública - Novas possibilidades e Impactos na Contratação Pública: Do Planejamento ao Controle",
+    "valor_estimado": 5980.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0178993_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/72/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "58",
+    "ano": 2024,
+    "sequencial_pncp": 73,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação da empresa New Roads Consultoria para ministrar o curso Auditoria e Perícia em Custos de Obras Públicas.",
+    "valor_estimado": 54000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0185223_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "ass_Termo_de_referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "ass_Estudo_tecnico_preliminar.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/73/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "61",
+    "ano": 2024,
+    "sequencial_pncp": 80,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de atração cultural “Coral dos Vaqueiros do município de União – PI.",
+    "valor_estimado": 5000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0187606_Termo_de_Referencia.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0192600_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/80/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "62",
+    "ano": 2024,
+    "sequencial_pncp": 81,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação de empresa para realização de curso para servidores.",
+    "valor_estimado": 5200.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0193401_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "TERMO_DE_REFERENCIA_101848_assinado.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "etp curso_assinado.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/81/arquivos/3",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "65",
+    "ano": 2024,
+    "sequencial_pncp": 84,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação para assinatura de 13 (treze) acessos da plataforma de cursos online Alura,",
+    "valor_estimado": 19500.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194253_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/84/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0190309_Termo_de_Referencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/84/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "66",
+    "ano": 2024,
+    "sequencial_pncp": 85,
+    "numero_controle_pncp": null,
+    "objeto": "Prestação de Serviços de Revisão e Manutenção Preventiva durante o Período de Garantia de Fábrica, de 05 (cinco) Veículos Oficiais, Modelo FORD RANGER XLT, ano 2024, cor preta, para atender às necessidades desta Corte de Contas.",
+    "valor_estimado": 10890.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0183816 - Autorizacao NE.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/85/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0175541 - Anexo TR ajustado.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/85/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "67",
+    "ano": 2024,
+    "sequencial_pncp": 86,
+    "numero_controle_pncp": null,
+    "objeto": " Inscrição de membro do TCE/PI para participação no IX Encontro Nacional dos Tribunais de Contas",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0194681_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/86/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "69",
+    "ano": 2024,
+    "sequencial_pncp": 88,
+    "numero_controle_pncp": null,
+    "objeto": "O objeto desta solução é a contratação de empresa especializada na prestação de serviço de manutenção de equipamentos topográficos, para atender as demandas do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 2129.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0195936_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/88/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "73",
+    "ano": 2024,
+    "sequencial_pncp": 92,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor deste Tribunal para participação no 7º CONGRESSO NACIONAL DOS AUDITORES DE CONTROLE EXTERNO - CONACON, nos termos da justificativa técnica de inexigibilidade de licitação nº 46/2024.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0197882 - Autorizacao Autoridade Competente.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/92/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "74",
+    "ano": 2024,
+    "sequencial_pncp": 93,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação da atração cultural \"Orquestra Sanfônica de Teresina\" para apresentação no dia 30 de agosto do corrente ano, quando do encerramento da II Conferência \"Diálogos com o Futuro\", parte integrante das comemorações alusivas ao 125º aniversário desta Corte de Contas.",
+    "valor_estimado": 11800.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_TCE-PI - 0197520 - Termo de Referencia Osquestra Sanfonica.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/93/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0198884 - Autorizacao Presidencia.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/93/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "75",
+    "ano": 2024,
+    "sequencial_pncp": 94,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participação no IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS - ENTC, nos termos da justificativa técnica de inexigibilidade de licitação nº 47/2024.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0198099 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/94/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "78",
+    "ano": 2024,
+    "sequencial_pncp": 97,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de servidor desta Corte de Contas no \"7º CONACON - Congresso Nacional dos Auditores de Controle Externo.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0199616 - Autorizacao de Empenho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/97/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "81",
+    "ano": 2024,
+    "sequencial_pncp": 100,
+    "numero_controle_pncp": null,
+    "objeto": "Contratação dos serviços de fornecimento de energia elétrica para o prédio Anexo III do Tribunal de Contas do Estado do Piauí.",
+    "valor_estimado": 140669.76,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0192537_Documento_de_Formalizacao_de_Demanda__DFD_.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0199675_Autorizacao.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/2",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_0192512_Estudo_Tecnico_Preliminar___ETP.pdf",
+        "sequencial_documento": 3,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/3",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0192516_Termo__de_Referencia.pdf",
+        "sequencial_documento": 4,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/100/arquivos/4",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "82",
+    "ano": 2024,
+    "sequencial_pncp": 101,
+    "numero_controle_pncp": null,
+    "objeto": "Participação de membro no 38º Congresso Brasileiro de Direito Administrativo promovido pelo Instituto Brasileiro de Direito Administrativo.",
+    "valor_estimado": 1700.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0200381_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/101/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "83",
+    "ano": 2024,
+    "sequencial_pncp": 102,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro deste TCE/PI no IX Encontro Nacional dos Tribunais de Contas- ENTC, entre os dias 10/11 a 15/11/2024 na cidade de Foz do Iguaçu - PR, nos termos da justificativa técnica de inexigibilidade de licitação nº 51/2024/TCE-PI.",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0205937 - Autorizacao de Emepnho.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/102/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0202547 - Justificativa de Inexigibilidade.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/102/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "84",
+    "ano": 2024,
+    "sequencial_pncp": 103,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de 2 (duas) servidores do TCE/PI no \"XXVIII CONCEP - CONGRESSO NACIONAL DE CERIMONIAL E PROTOCOLO\", que acontecerá no período de 03 a 05/11/2024 em Belo Horizonte/MG, nos termos da justificativa técnica de inexigibilidade de licitação nº 52/2024/TCE-PI.",
+    "valor_estimado": 3360.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0206056 - Justificativa de Inexigibilidade n 52.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/103/arquivos/1",
+        "caminho_local": null
+      },
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_TCE-PI - 0205937 - Autorizacao Empenho.pdf",
+        "sequencial_documento": 2,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/103/arquivos/2",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "85",
+    "ano": 2024,
+    "sequencial_pncp": 105,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participar do IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS, na cidade de Foz do Iguaçu (PR).",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0208161_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/105/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "86",
+    "ano": 2024,
+    "sequencial_pncp": 106,
+    "numero_controle_pncp": null,
+    "objeto": "Inscrição de membro do TCE/PI para participar do IX ENCONTRO NACIONAL DOS TRIBUNAIS DE CONTAS",
+    "valor_estimado": 2000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0208155_Autorizacao.pdf",
+        "sequencial_documento": 1,
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05818935000101/compras/2024/106/arquivos/1",
+        "caminho_local": null
+      }
+    ]
+  }
+]

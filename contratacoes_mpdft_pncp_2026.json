@@ -1,0 +1,1738 @@
+[
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90001",
+    "ano": 2026,
+    "sequencial_pncp": 76,
+    "objeto": "Registro de Preços para eventual contratação de serviços de lavanderia.",
+    "valor_estimado": 8137.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900012026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/76/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90001_76\\Edital_20000905900012026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90003",
+    "ano": 2026,
+    "sequencial_pncp": 129,
+    "objeto": "Registro de preços para eventual contratação de serviço de emissão de certificados digitais.",
+    "valor_estimado": 139730.2,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "20000905900032026001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/129/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90003_129\\Edital_20000905900032026001.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90004",
+    "ano": 2026,
+    "sequencial_pncp": 162,
+    "objeto": "Registro de Preços para eventual aquisição de carrinhos plataforma.",
+    "valor_estimado": 17110.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900042026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/162/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90004_162\\Edital_20000905900042026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90005",
+    "ano": 2026,
+    "sequencial_pncp": 186,
+    "objeto": "Contratação de empresa de engenharia para realização de serviços de manutenção preventiva e corretiva dos sistemas de automação predial, compreendendo dispositivos, software supervisórios, incluindo redes de automação e interligação entre os sistemas, bem como expansão de pontos de controle, nos edifícios do Ministério Público do Distrito Federal e Territórios - MPDFT, sem dedicação exclusiva de mão de obra.",
+    "valor_estimado": 2515885.16,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900052026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/186/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90005_186\\Edital_20000905900052026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90006",
+    "ano": 2026,
+    "sequencial_pncp": 239,
+    "objeto": "Registro de Preços para eventual aquisição de materiais de consumo, destinados a lanches e montagem de kits de lembrança.",
+    "valor_estimado": 10573.12,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900062026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/239/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90006_239\\Edital_20000905900062026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90007",
+    "ano": 2026,
+    "sequencial_pncp": 481,
+    "objeto": "Contratação de empresa especializada para avaliação dos bens imóveis da União, administrados pelo Ministério Público do Distrito Federal e Territórios, com a emissão de Relatório de Valor de Referência, com grau II de fundamentação.",
+    "valor_estimado": 65000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900072026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/481/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90007_481\\Edital_20000905900072026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90008",
+    "ano": 2026,
+    "sequencial_pncp": 508,
+    "objeto": "Contratação de empresa especializada para prestação de serviços de manutenção preventiva e corretiva nos equipamentos odontológicos utilizados no Ministério Público do Distrito Federal e Territórios.",
+    "valor_estimado": 125124.07,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900082026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/508/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90008_508\\Edital_20000905900082026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90009",
+    "ano": 2026,
+    "sequencial_pncp": 577,
+    "objeto": "Registro de Preços para eventual fornecimento e instalação de divisórias no padrão I e II do Ministério Público do Distrito Federal e Territórios.",
+    "valor_estimado": 6213058.56,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "20000905900092026001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/577/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90009_577\\Edital_20000905900092026001.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90010",
+    "ano": 2026,
+    "sequencial_pncp": 598,
+    "objeto": "Registro de Preços para eventual contratação de empresa especializada na prestação de serviços de estruturação de eventos, compreendendo os serviços de recepção e de mestre de cerimônias.",
+    "valor_estimado": 48600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900102026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/598/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90010_598\\Edital_20000905900102026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90011",
+    "ano": 2026,
+    "sequencial_pncp": 648,
+    "objeto": "Contratação de empresa especializada em consultoria em engenharia diagnóstica estrutural, destinada à realização de avaliação de conformidade estrutural nos 3º e 6º pavimentos do Bloco \"A\" do Edifício-Sede do Ministério Público do Distrito Federal e Territórios, com a emissão de parecer técnico conclusivo.",
+    "valor_estimado": 243790.41,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900112026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/648/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90011_648\\Edital_20000905900112026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90012",
+    "ano": 2026,
+    "sequencial_pncp": 673,
+    "objeto": "Registro de Preços para eventual aquisição de balança industrial digital tipo plataforma.",
+    "valor_estimado": 15300.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900122026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/673/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90012_673\\Edital_20000905900122026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90013",
+    "ano": 2026,
+    "sequencial_pncp": 715,
+    "objeto": "Registro de Preços para eventual aquisição de baterias, incluindo a logística reversa das baterias usadas.",
+    "valor_estimado": 615905.12,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900132026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/715/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90013_715\\Edital_20000905900132026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90014",
+    "ano": 2026,
+    "sequencial_pncp": 738,
+    "objeto": "Registro de Preços para eventual contratação de empresa especializada na prestação de serviços de estruturação de eventos, compreendendo serviço de locação com fornecimento de material e respectiva montagem.",
+    "valor_estimado": 34175.2,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900142026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/738/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90014_738\\Edital_20000905900142026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90015",
+    "ano": 2026,
+    "sequencial_pncp": 785,
+    "objeto": "Registro de Preços para eventual aquisição de equipamentos diversos.",
+    "valor_estimado": 210730.55,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900152026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/785/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90015_785\\Edital_20000905900152026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90002",
+    "ano": 2026,
+    "sequencial_pncp": 803,
+    "objeto": "Contratação de uma solução tecnológica para gestão de riscos e conformidade.",
+    "valor_estimado": 90209.4,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900022026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/803/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90002_803\\Edital_20000905900022026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90016",
+    "ano": 2026,
+    "sequencial_pncp": 821,
+    "objeto": "Registro de Preços para eventual aquisição de mobiliários.",
+    "valor_estimado": 427763.5,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900162026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/821/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90016_821\\Edital_20000905900162026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90017",
+    "ano": 2026,
+    "sequencial_pncp": 876,
+    "objeto": "Registro de Preços para eventual aquisição de acessórios para equipamentos de áudio, vídeo e fotografia.",
+    "valor_estimado": 36870.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900172026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/876/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90017_876\\Edital_20000905900172026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90018",
+    "ano": 2026,
+    "sequencial_pncp": 887,
+    "objeto": "Registro de Preços para eventual serviço de fornecimento e instalação de concertina ao longo de todo o perímetro dos lotes do MPDFT e do cercamento dos equipamentos do sistema de ar-condicionado central (chillers).",
+    "valor_estimado": 344064.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "20000905900182026000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/887/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\90018_887\\Edital_20000905900182026000.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "24",
+    "ano": 2026,
+    "sequencial_pncp": 981,
+    "objeto": "Registro de Preços para eventual aquisição de mobiliários",
+    "valor_estimado": 44184.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE 24-2026 - Edital e Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/981/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\24_981\\Edital_PE 24-2026 - Edital e Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "25",
+    "ano": 2026,
+    "sequencial_pncp": 987,
+    "objeto": "Registro de Preços para eventual aquisição de camisetas personalizadas",
+    "valor_estimado": 39900.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE 25-2026_EDITAL_(SEI-3876097).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/987/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\25_987\\Edital_PE 25-2026_EDITAL_(SEI-3876097).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "26",
+    "ano": 2026,
+    "sequencial_pncp": 1013,
+    "objeto": "Contratação de empresa de engenharia para execução de serviços de recuperação e impermeabilização da cobertura do edifício das Promotorias de Justiça de Brasília II",
+    "valor_estimado": 255529.52,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_26-2026_Edital_e_Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1013/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\26_1013\\Edital_PE_26-2026_Edital_e_Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "31",
+    "ano": 2026,
+    "sequencial_pncp": 1146,
+    "objeto": "Contratação de empresa de engenharia para revitalização da área externa do edifício e cercamento do lote do Ministério Público do Distrito Federal e Territórios em São Sebastião.",
+    "valor_estimado": 1483979.66,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_31-2026_Edital_e_Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1146/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\31_1146\\Edital_PE_31-2026_Edital_e_Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "32",
+    "ano": 2026,
+    "sequencial_pncp": 1161,
+    "objeto": "Contratação de empresa para prestação de serviços continuados de manutenção preventiva e corretiva dos sistemas ininterruptos de energia - UPS (no break) e dos sistemas de geração de energia elétrica de emergência (gerador) das edificações do Ministério Público do Distrito Federal e Territórios.",
+    "valor_estimado": 782646.81,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_32-2026_Edital_e_Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1161/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\32_1161\\Edital_PE_32-2026_Edital_e_Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "44",
+    "ano": 2026,
+    "sequencial_pncp": 1355,
+    "objeto": "Registro de Preços para eventual aquisição de notebooks, com garantia técnica on-site.",
+    "valor_estimado": 6695000.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_44-2026_Edital_e_Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1355/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\44_1355\\Edital_PE_44-2026_Edital_e_Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "47",
+    "ano": 2026,
+    "sequencial_pncp": 1451,
+    "objeto": "Contratação de empresa especializada para o fornecimento de solução integrada de logística, incluindo a disponibilização de plataforma tecnológica que viabilize a realização, o controle e a gestão de pedidos, além de mecanismos para o gerenciamento do consumo e da demanda (Almoxarifado Virtual). O serviço compreenderá, ainda, o registro de preços para fornecimento, sob demanda, de materiais de consumo administrativo, com entrega porta a porta, no âmbito do Distrito Federal, de forma continuada.",
+    "valor_estimado": 2236271.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_47-2026_-_Edital_e_Anexos.zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1451/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\47_1451\\Edital_PE_47-2026_-_Edital_e_Anexos.zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "48",
+    "ano": 2026,
+    "sequencial_pncp": 1510,
+    "objeto": "Registro de Preços para eventual aquisição de cadeira de rodas.",
+    "valor_estimado": 12132.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "PE_48-2026_Cadeira_Rodas_EDITAL.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1510/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\48_1510\\Edital_PE_48-2026_Cadeira_Rodas_EDITAL.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "2",
+    "ano": 2026,
+    "sequencial_pncp": 91,
+    "objeto": "Serviços de versão juramentada do idioma português para o idioma espanhol.",
+    "valor_estimado": 1000.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de Dispensa Eletronica.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/91/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\2_91\\Aviso de Contratação Direta_Aviso de Dispensa Eletronica.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Autorizacao da Autoridade Competente - Decisao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/91/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\2_91\\Ato que autoriza a Contratação Direta_Autorizacao da Autoridade Competente - Decisao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "3",
+    "ano": 2026,
+    "sequencial_pncp": 116,
+    "objeto": "Serviços de versão juramentada do idioma português para o idioma espanhol.",
+    "valor_estimado": 792.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho da Autoridade Competente.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/116/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\3_116\\Ato que autoriza a Contratação Direta_Despacho da Autoridade Competente.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa Eletronica 3-2026_AVISO_(SEI-3147972).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/116/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\3_116\\Aviso de Contratação Direta_Dispensa Eletronica 3-2026_AVISO_(SEI-3147972).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "6",
+    "ano": 2026,
+    "sequencial_pncp": 326,
+    "objeto": "Serviços de versão juramentada do idioma português para o idioma espanhol.",
+    "valor_estimado": 979.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica_6-2026_AVISO_(SEI-3308759).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/326/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\6_326\\Aviso de Contratação Direta_Dispensa_Eletronica_6-2026_AVISO_(SEI-3308759).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Decisao da autoridade Competente.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/326/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\6_326\\Ato que autoriza a Contratação Direta_Decisao da autoridade Competente.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "8",
+    "ano": 2026,
+    "sequencial_pncp": 388,
+    "objeto": "Aquisição de materiais de expediente.",
+    "valor_estimado": 34425.6,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Aviso de Dispensa 8-2026.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/388/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\8_388\\Aviso de Contratação Direta_Aviso de Dispensa 8-2026.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Ato que autoriza a contratacao direta.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/388/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\8_388\\Ato que autoriza a Contratação Direta_Ato que autoriza a contratacao direta.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "Anexo II - Especificacao Tecnica e Quantidades (SEI-3208543).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/388/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\8_388\\Outros Documentos_Anexo II - Especificacao Tecnica e Quantidades (SEI-3208543).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "9",
+    "ano": 2026,
+    "sequencial_pncp": 417,
+    "objeto": "Contratação de empresa seguradora para pagamento de indenização a estagiários, residentes e voluntários do Ministério Público do Distrito Federal e Territórios em caso de acidentes pessoais, invalidez permanente total ou parcial, ou morte acidental, por meio de apólice coletiva.",
+    "valor_estimado": 3456.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Autorizacao da autoridade competente.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/417/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\9_417\\Ato que autoriza a Contratação Direta_Autorizacao da autoridade competente.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica_9-2026_AVISO_(SEI-3370764).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/417/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\9_417\\Aviso de Contratação Direta_Dispensa_Eletronica_9-2026_AVISO_(SEI-3370764).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "37",
+    "ano": 2026,
+    "sequencial_pncp": 1232,
+    "objeto": "Aquisição de peças para reposição de aparelho de ultrassom modelo PROFI CLASS - marca DABI ATLANTE.",
+    "valor_estimado": 5774.8,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica_37-2026_AVISO_(SEI-4016345).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1232/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\37_1232\\Aviso de Contratação Direta_Dispensa_Eletronica_37-2026_AVISO_(SEI-4016345).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Ato que autoriza contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1232/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\37_1232\\Ato que autoriza a Contratação Direta_Ato que autoriza contratacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "38",
+    "ano": 2026,
+    "sequencial_pncp": 1246,
+    "objeto": "Aquisição de resmas de papel A4.",
+    "valor_estimado": 41406.0,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Ato que autoriza contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1246/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\38_1246\\Ato que autoriza a Contratação Direta_Ato que autoriza contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica_38-2026_AVISO_(SEI-4024428).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1246/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\38_1246\\Aviso de Contratação Direta_Dispensa_Eletronica_38-2026_AVISO_(SEI-4024428).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "42",
+    "ano": 2026,
+    "sequencial_pncp": 1338,
+    "objeto": "Serviços de versão juramentada do idioma português para o idioma espanhol.",
+    "valor_estimado": 1042.83,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Ato que autoriza contratacao direta - SG.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1338/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\42_1338\\Ato que autoriza a Contratação Direta_Ato que autoriza contratacao direta - SG.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica 42-2026_AVISO_(SEI-4068364).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1338/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\42_1338\\Aviso de Contratação Direta_Dispensa_Eletronica 42-2026_AVISO_(SEI-4068364).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "43",
+    "ano": 2026,
+    "sequencial_pncp": 1339,
+    "objeto": "Contratação é a prestação, pelo BANCO DO BRASIL S.A, de serviços bancários de processamento e pagamento das folhas de salários, subsídios, proventos ou pensões, por morte e alimentícia, abrangendo os membros e servidores, ativos ou inativos, aposentados e pensionistas, estagiários, residentes e demais pessoas físicas, doravante denominados CREDITADOS, que mantenham vínculo de remuneração com o MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS.",
+    "valor_estimado": 27371719.8,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo_de_Referencia_(SEI-4067735).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1339/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\43_1339\\Termo de Referência_Termo_de_Referencia_(SEI-4067735).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Autorizacao_SG_(SEI-4071682).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1339/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\43_1339\\Ato que autoriza a Contratação Direta_Autorizacao_SG_(SEI-4071682).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "45",
+    "ano": 2026,
+    "sequencial_pncp": 1378,
+    "objeto": "Aquisição de material hospitalar, necessário ao atendimento na Secretaria de Atendimento à Saúde do Ministério Público do Distrito Federal e Territórios.",
+    "valor_estimado": 7712.05,
+    "total_arquivos": 2,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "AUTORIZACAO SG.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1378/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\45_1378\\Ato que autoriza a Contratação Direta_AUTORIZACAO SG.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "Dispensa_Eletronica_45-2026_(Aviso_e_Anexo).zip",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1378/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\45_1378\\Aviso de Contratação Direta_Dispensa_Eletronica_45-2026_(Aviso_e_Anexo).zip.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "4",
+    "ano": 2026,
+    "sequencial_pncp": 293,
+    "objeto": "contratação da Associação Brasileira de Orçamento Público - ABOP, CNPJ 00.398.099/0001-21, para participação de 3 (três) servidores na capacitação \"9º Curso de Gestão, Fiscalização e Execução de Contratos Segundo a Nova IN 98/2022\", na modalidade presencial, no período de 23 a 27 de março de 2026, em Brasília/DF, com ônus de inscrição.",
+    "valor_estimado": 7500.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - SEI_3294311_Decisao_Administrativa - A",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/293/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\4_293\\Ato que autoriza a Contratação Direta_ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - SEI_3294311_Decisao_Administrativa - A.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/293/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\4_293\\Documento de Formalização da Demanda - DFD_ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - SEI_3285818_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/293/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\4_293\\Termo de Referência_ABOP 9 CURSO GESTAO FISC EXEC CONTRATOS - SEI_3285818_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "5",
+    "ano": 2026,
+    "sequencial_pncp": 294,
+    "objeto": "contratação da Associação Brasileira de Orçamento Público - ABOP, CNPJ 00.398.099/0001-21, para participação de 2 (dois) servidores na capacitação \"15º Curso sobre Gestão de Riscos e Continuidade de Negócios no Setor Público\", na modalidade presencial, no período de 6 a 10 de abril de 2026, em Brasília/DF, com ônus de inscrição.",
+    "valor_estimado": 5000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ABOP 15 CURSO GESTAO DE RISCOS - SEI_3294114_Decisao_Administrativa - ATO AUTORI",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/294/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\5_294\\Ato que autoriza a Contratação Direta_ABOP 15 CURSO GESTAO DE RISCOS - SEI_3294114_Decisao_Administrativa - ATO AUTORI.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ABOP 15 CURSO GESTAO DE RISCOS - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/294/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\5_294\\Documento de Formalização da Demanda - DFD_ABOP 15 CURSO GESTAO DE RISCOS - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ABOP 15 CURSO GESTAO DE RISCOS - SEI_3286534_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/294/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\5_294\\Termo de Referência_ABOP 15 CURSO GESTAO DE RISCOS - SEI_3286534_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "7",
+    "ano": 2026,
+    "sequencial_pncp": 354,
+    "objeto": "contratação da Associação dos Assistentes Sociais e Psicólogos da Área Sociojurídica do Brasil/AASPSI BRASIL, CNPJ 23.008.108/0001-26, para participação de 2 (dois) servidores na capacitação \"I Congresso Brasileiro de Assistentes Sociais e Psicólogos da Área Sociojurídica\", na modalidade presencial, no período de 7 a 9 de maio de 2026, em Foz do Iguaçu/PR , com ônus de inscrição, diárias e passagens.",
+    "valor_estimado": 1200.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "AASPSI BRASIL - SEI_3319922_Despacho_Administrativo - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/354/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\7_354\\Ato que autoriza a Contratação Direta_AASPSI BRASIL - SEI_3319922_Despacho_Administrativo - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "AASPSI BRASIL - SEI_2966171_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/354/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\7_354\\Documento de Formalização da Demanda - DFD_AASPSI BRASIL - SEI_2966171_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "AASPSI BRASIL - SEI_3265374_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/354/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\7_354\\Termo de Referência_AASPSI BRASIL - SEI_3265374_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "10",
+    "ano": 2026,
+    "sequencial_pncp": 434,
+    "objeto": "Contratação da empresa HOMERO REIS CONSULTORIA E GESTAO EMPRESARIAL LTDA para a realização da palestra Liderança Humanizada no evento Conexões Estratégicas, a ser realizado no dia 16/04/2026, no Auditório do Edifício-Sede do MPDFT.",
+    "valor_estimado": 11000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI - 19.04.5554.0034350_2026-24 Solicitacao de Acao Educacional.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/434/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\10_434\\Documento de Formalização da Demanda - DFD_SEI - 19.04.5554.0034350_2026-24 Solicitacao de Acao Educacional.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI - 19.04.5554.0034350_2026-24 Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/434/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\10_434\\Termo de Referência_SEI - 19.04.5554.0034350_2026-24 Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI - 19.04.5554.0034350_2026-24 Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/434/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\10_434\\Ato que autoriza a Contratação Direta_SEI - 19.04.5554.0034350_2026-24 Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "11",
+    "ano": 2026,
+    "sequencial_pncp": 435,
+    "objeto": "Contratação de vagas para participação de 5 servidores do Ministério Público do Distrito Federal e Territórios – MPDFT na capacitação \"Agile Trends GOV 2026\", a ser promovida pela Neurobox Tecnologia em Informática Ltda.",
+    "valor_estimado": 13925.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI - 19.04.3250.0028984_2026-16 - Solicitacao de Acao Educacional.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/435/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\11_435\\Documento de Formalização da Demanda - DFD_SEI - 19.04.3250.0028984_2026-16 - Solicitacao de Acao Educacional.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI - 19.04.3250.0028984_2026-16 - TERMO DE REFERENCIA.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/435/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\11_435\\Termo de Referência_SEI - 19.04.3250.0028984_2026-16 - TERMO DE REFERENCIA.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI - 19.04.3250.0028984_2026-16 DESPACHO ADMINISTRATIVO - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/435/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\11_435\\Ato que autoriza a Contratação Direta_SEI - 19.04.3250.0028984_2026-16 DESPACHO ADMINISTRATIVO - ATO AUTORIZACAO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "12",
+    "ano": 2026,
+    "sequencial_pncp": 488,
+    "objeto": "contratação da palestrante Flavia da Veiga, por meio da FV EDUCAÇÃO E CONSULTORIA LTDA, CNPJ 48.842.446/0001-90, para a realização da palestra \"Da Função à Missão: O Sentido da Liderança e o Impacto da Gestão no Serviço Público\", a ser realizado no dia 14/05/2026, no Auditório do Edifício-Sede do MPDFT.",
+    "valor_estimado": 12000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "FV EDUCACAO - SEI_3401453_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/488/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\12_488\\Ato que autoriza a Contratação Direta_FV EDUCACAO - SEI_3401453_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "FV EDUCACAO - SEI_3379279_Plano_de_Acao_Educacional - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/488/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\12_488\\Documento de Formalização da Demanda - DFD_FV EDUCACAO - SEI_3379279_Plano_de_Acao_Educacional - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "FV EDUCACAO - SEI_3391411_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/488/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\12_488\\Termo de Referência_FV EDUCACAO - SEI_3391411_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "13",
+    "ano": 2026,
+    "sequencial_pncp": 489,
+    "objeto": "participação de uma servidora na capacitação \"Formação Terapia EMDR (Dessensibilização e Reprocessamento por Movimentos Oculares)\", a ser promovida pela empresa Espaço da Mente Psicologia e Cursos LTDA, CNPJ 02.098.833/0001-62, na modalidade presencial, no período de 24 a 26 de abril de 2026, em Brasília/DF, com ônus de inscrição.",
+    "valor_estimado": 2750.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ESPACO DA MENTE - SEI_3413703_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/489/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\13_489\\Ato que autoriza a Contratação Direta_ESPACO DA MENTE - SEI_3413703_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ESPACO DA MENTE - SEI_3209738_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/489/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\13_489\\Documento de Formalização da Demanda - DFD_ESPACO DA MENTE - SEI_3209738_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ESPACO DA MENTE - SEI_3407024_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/489/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\13_489\\Termo de Referência_ESPACO DA MENTE - SEI_3407024_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "14",
+    "ano": 2026,
+    "sequencial_pncp": 530,
+    "objeto": "participação de uma servidora na capacitação \"3º Congresso Nacional de ESG – Sustentabilidade, Governança e Impacto Social\", a ser promovida pela Associação Brasileira de ESG, CNPJ 01.692.171/0001-91, na modalidade presencial, nos dias 15 e 16 de junho de 2026, em São Paulo/SP, com ônus de inscrição, diárias e passagens.",
+    "valor_estimado": 3900.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ASSOC BRAS DE ESG - SEI_3418213_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/530/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\14_530\\Ato que autoriza a Contratação Direta_ASSOC BRAS DE ESG - SEI_3418213_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ASSOC BRAS DE ESG - SEI_3169936_Solicitacao_de_Acao_Educacional_Externa - DFD.pd",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/530/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\14_530\\Documento de Formalização da Demanda - DFD_ASSOC BRAS DE ESG - SEI_3169936_Solicitacao_de_Acao_Educacional_Externa - DFD.pd.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ASSOC BRAS DE ESG - SEI_3400972_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/530/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\14_530\\Termo de Referência_ASSOC BRAS DE ESG - SEI_3400972_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "15",
+    "ano": 2026,
+    "sequencial_pncp": 561,
+    "objeto": "contratação da Associação dos Assistentes Sociais e Psicólogos da Área Sociojurídica do Brasil/AASPSI BRASIL, CNPJ 23.008.108/0001-26, para participação de 3 (três) servidores na capacitação \"I Congresso Brasileiro de Assistentes Sociais e Psicólogos da Área Sociojurídica\", na modalidade presencial, no período de 7 a 9 de maio de 2026, em Foz do Iguaçu/PR , com ônus de inscrição, diárias e passagens.",
+    "valor_estimado": 1800.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "AASPSI BRASIL - SEI_3434055_Despacho_Administrativo - ATO AUTORIZACAO ACRESCIMO",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/561/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\15_561\\Ato que autoriza a Contratação Direta_AASPSI BRASIL - SEI_3434055_Despacho_Administrativo - ATO AUTORIZACAO ACRESCIMO.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "AASPSI BRASIL - SEI_2966171_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/561/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\15_561\\Documento de Formalização da Demanda - DFD_AASPSI BRASIL - SEI_2966171_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "AASPSI BRASIL - SEI_3436875_Termo_de_Referencia - ATUALIZADO ACRESCIMO UMA SERVI",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/561/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\15_561\\Termo de Referência_AASPSI BRASIL - SEI_3436875_Termo_de_Referencia - ATUALIZADO ACRESCIMO UMA SERVI.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "16",
+    "ano": 2026,
+    "sequencial_pncp": 610,
+    "objeto": "participação de 3 (três) servidores na capacitação \"XXII Congresso Brasileiro de Mecânica dos Solos e Engenharia Geotécnica\", a ser promovida pela ASSOCIAÇÃO BRASILEIRA DE MECÂNICA DOS SOLOS E ENGENHARIA, CNPJ 58.402.579/0001-07, na modalidade presencial, no período de 24 a 28 de agosto de 2026, em Brasília/DF, com ônus de inscrição.",
+    "valor_estimado": 8100.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ABMS - SEI_3495694_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/610/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\16_610\\Ato que autoriza a Contratação Direta_ABMS - SEI_3495694_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ABMS - SEI_2882143_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/610/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\16_610\\Documento de Formalização da Demanda - DFD_ABMS - SEI_2882143_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ABMS - SEI_3456603_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/610/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\16_610\\Termo de Referência_ABMS - SEI_3456603_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "17",
+    "ano": 2026,
+    "sequencial_pncp": 611,
+    "objeto": "participação de 2 (dois) servidores na capacitação \"BIM e Digital Twins para Operações e Manutenção\", a ser promovida pela AXIOM PROJETOS E TREINAMENTOS LTDA, CNPJ 25.045.595/0001-22, na modalidade online assíncrona, por 12 meses de acesso a partir do início, com ônus de inscrição.",
+    "valor_estimado": 1780.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "AXIOM - SEI_3344986_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/611/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\17_611\\Documento de Formalização da Demanda - DFD_AXIOM - SEI_3344986_Solicitacao_de_Acao_Educacional_Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "AXIOM - SEI_3495429_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/611/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\17_611\\Ato que autoriza a Contratação Direta_AXIOM - SEI_3495429_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "AXIOM - SEI_3464601_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/611/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\17_611\\Termo de Referência_AXIOM - SEI_3464601_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "18",
+    "ano": 2026,
+    "sequencial_pncp": 661,
+    "objeto": "contratação da instrutora Alice Bianchini, que atende pelo CPF nº 613.920.659-68, para atuar no curso “Processo Administrativo Disciplinar”, especificamente no Módulo 4 “Perspectiva de Gênero no PAD”, a ser realizado nos dias 27 e 28 de maio de 2026, das 14h às 18h, na modalidade presencial.",
+    "valor_estimado": 12000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ALICE BIANCHINI  - SEI_3515319_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/661/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\18_661\\Ato que autoriza a Contratação Direta_ALICE BIANCHINI  - SEI_3515319_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ALICE BIANCHINI - DI_Processo_Administrativo_Disciplinar_2 - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/661/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\18_661\\Documento de Formalização da Demanda - DFD_ALICE BIANCHINI - DI_Processo_Administrativo_Disciplinar_2 - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ALICE BIANCHINI - SEI_3495434_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/661/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\18_661\\Termo de Referência_ALICE BIANCHINI - SEI_3495434_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "19",
+    "ano": 2026,
+    "sequencial_pncp": 670,
+    "objeto": "participação de uma servidora do na capacitação \"Workshop - Sanções 360°: Da Infração à decisão tudo que você precisa saber para manter a integridade das contratações públicas\", a ser promovida pela Escola de Negócios Elo - Cursos e Eventos LTDA. - EPP, CNPJ 30.965.048/0001-03, na modalidade online síncrona, prevista para os dias 29 e 30 de junho de 2026, com ônus de inscrição.",
+    "valor_estimado": 1295.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ESCOLA DE NEGOCIOS - SEI_3378490_Solicitacao_de_Acao_Educacional_Externa - DFD.p",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/670/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\19_670\\Documento de Formalização da Demanda - DFD_ESCOLA DE NEGOCIOS - SEI_3378490_Solicitacao_de_Acao_Educacional_Externa - DFD.p.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "ESCOLA DE NEGOCIOS - SEI_3494384_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/670/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\19_670\\Termo de Referência_ESCOLA DE NEGOCIOS - SEI_3494384_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ESCOLA DE NEGOCIOS - SEI_3515031_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/670/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\19_670\\Ato que autoriza a Contratação Direta_ESCOLA DE NEGOCIOS - SEI_3515031_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "20",
+    "ano": 2026,
+    "sequencial_pncp": 846,
+    "objeto": "contratação da ASSOCIAÇÃO PARANAENSE DE CULTURA – APC. CNPJ 76.659.820/0046-53, para acesso ao sistema de gestão de acervo bibliográfico, com garantia de funcionamento e atualização de versão do sistema Pergamum.",
+    "valor_estimado": 29030.68,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "APC PERGAMUM - SEI_3382327_Documento_de_Formalizacao_da_Demanda.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/846/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\20_846\\Documento de Formalização da Demanda - DFD_APC PERGAMUM - SEI_3382327_Documento_de_Formalizacao_da_Demanda.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "APC PERGAMUM - SEI_3492258_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/846/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\20_846\\Ato que autoriza a Contratação Direta_APC PERGAMUM - SEI_3492258_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "APC PERGAMUM - SEI_3478014_Estudo_Tecnico_Preliminar_Simplificado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/846/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\20_846\\Estudo Técnico Preliminar_APC PERGAMUM - SEI_3478014_Estudo_Tecnico_Preliminar_Simplificado.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "APC PERGAMUM - SEI_3478369_Mapa_de_Riscos_Especificos_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/846/arquivos/4",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\20_846\\Mapa de Riscos_APC PERGAMUM - SEI_3478369_Mapa_de_Riscos_Especificos_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Termo de Referência",
+        "titulo": "APC PERGAMUM - SEI_3764296_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/846/arquivos/5",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\20_846\\Termo de Referência_APC PERGAMUM - SEI_3764296_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "21",
+    "ano": 2026,
+    "sequencial_pncp": 848,
+    "objeto": "contratação da EDITORA REVISTA DOS TRIBUNAIS LTDA., CNPJ 60.501.293/0001-12, para prestação dos serviços de acesso à plataforma de livros digitais da Biblioteca Digital Proview, compreendendo o fornecimento de 50 (cinquenta) acessos simultâneos ao conteúdo digital de forma on-line, via WEB, por meio de autenticação segura por números de Internet Protocol (IP).",
+    "valor_estimado": 20199.48,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "EDITORA RT - SEI_3415944_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/848/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\21_848\\Ato que autoriza a Contratação Direta_EDITORA RT - SEI_3415944_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Mapa de Riscos",
+        "titulo": "EDITORA RT - SEI_3448027_Mapa_de_Riscos_Especificos_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/848/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\21_848\\Mapa de Riscos_EDITORA RT - SEI_3448027_Mapa_de_Riscos_Especificos_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "EDITORA RT - SEI_3291842_Documento_de_Formalizacao_da_Demanda.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/848/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\21_848\\Documento de Formalização da Demanda - DFD_EDITORA RT - SEI_3291842_Documento_de_Formalizacao_da_Demanda.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "EDITORA RT - SEI_3448026_Estudo_Tecnico_Preliminar_Completo.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/848/arquivos/4",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\21_848\\Estudo Técnico Preliminar_EDITORA RT - SEI_3448026_Estudo_Tecnico_Preliminar_Completo.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Termo de Referência",
+        "titulo": "EDITORA RT - SEI_3763303_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/848/arquivos/5",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\21_848\\Termo de Referência_EDITORA RT - SEI_3763303_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "22",
+    "ano": 2026,
+    "sequencial_pncp": 869,
+    "objeto": "participação de 3 (três) servidores na capacitação \"Data Literacy Talks\", a ser promovida pela instituição Data School Soluções em Educação LTDA - EPP., CNPJ 58.832.918/0001-87, na modalidade presencial, no dia 23 de junho de 2026, em Brasília/DF, com ônus de inscrição.",
+    "valor_estimado": 2370.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "DATA SCHOOL - SEI_3769361_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/869/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\22_869\\Ato que autoriza a Contratação Direta_DATA SCHOOL - SEI_3769361_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DATA SCHOOL - Solicitacao de Acao Educacional Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/869/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\22_869\\Documento de Formalização da Demanda - DFD_DATA SCHOOL - Solicitacao de Acao Educacional Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "DATA SCHOOL - SEI_3802842_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/869/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\22_869\\Termo de Referência_DATA SCHOOL - SEI_3802842_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "23",
+    "ano": 2026,
+    "sequencial_pncp": 870,
+    "objeto": "contratação da empresa Rayana de Carvalho Coelho Mendonça Melo – ME., CNPJ 63.776.296/0001-57, para a realização da ação educacional \"Ativando a mente para o atendimento saudável: como cuidar do outro sem se ferir\", a ser realizado no dia 26/06/2026, no Edifício-Sede do MPDFT.",
+    "valor_estimado": 3000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "ATIVANDO A MENTE - SEI_3774245_Decisao_Administrativa - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/870/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\23_870\\Ato que autoriza a Contratação Direta_ATIVANDO A MENTE - SEI_3774245_Decisao_Administrativa - ATO AUTORIZACAO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "ATIVANDO A MENTE - SEI_3466479_Solicitacao_de_Acao_Educacional_Interna - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/870/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\23_870\\Documento de Formalização da Demanda - DFD_ATIVANDO A MENTE - SEI_3466479_Solicitacao_de_Acao_Educacional_Interna - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "ATIVANDO A MENTE - SEI_3752179_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/870/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\23_870\\Termo de Referência_ATIVANDO A MENTE - SEI_3752179_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "33",
+    "ano": 2026,
+    "sequencial_pncp": 1188,
+    "objeto": "Contratação das instrutoras ANDREIA NERI FERREIRA SATHLER, CPF 646.139.331-53, e LUDMILLA FIGUEIREDO DE LIMA ABRANTES, CPF 966.787.201-72, para a realização da palestra \"Vamos falar sobre Menopausa?\"",
+    "valor_estimado": 650.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1188/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\33_1188\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao de Acao Educacional.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1188/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\33_1188\\Documento de Formalização da Demanda - DFD_Solicitacao de Acao Educacional.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1188/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\33_1188\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "34",
+    "ano": 2026,
+    "sequencial_pncp": 1190,
+    "objeto": "contratação da instrutora LUDMILLA FIGUEIREDO DE LIMA ABRANTES, CPF 966.787.201-72, para a realização da palestra \"Vamos falar sobre Menopausa?\", integrante da programação do evento \"Semana da Saúde do MPDFT\".",
+    "valor_estimado": 650.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao de Acao Educacional.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1190/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\34_1190\\Documento de Formalização da Demanda - DFD_Solicitacao de Acao Educacional.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1190/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\34_1190\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1190/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\34_1190\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "35",
+    "ano": 2026,
+    "sequencial_pncp": 1196,
+    "objeto": "Contratação da empresa META 5 Consultoria para a prestação de serviços de palestras no evento “Mês das Contratações Públicas e Sustentabilidade”, a ser realizado em setembro de 2026, no Edifício-Sede do MPDFT.",
+    "valor_estimado": 23700.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao de Acao Edicacional.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1196/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\35_1196\\Documento de Formalização da Demanda - DFD_Solicitacao de Acao Edicacional.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1196/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\35_1196\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1196/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\35_1196\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "36",
+    "ano": 2026,
+    "sequencial_pncp": 1199,
+    "objeto": "Contratação da assinatura impressa - Revista IBDFAM de Família e Sucessões, com o direito do acesso ao conteúdo digital de todas as edições publicadas do periódico.",
+    "valor_estimado": 1400.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1199/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\36_1199\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1199/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\36_1199\\Documento de Formalização da Demanda - DFD_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1199/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\36_1199\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "39",
+    "ano": 2026,
+    "sequencial_pncp": 1254,
+    "objeto": "Contratação de vagas para participação de 3 (três) servidores do Ministério Público do Distrito Federal e Territórios – MPDFT no \"4º Seminário de Manutenção Predial – Licitação, Gestão Contratual, Uso do BIM e da Inteligência Artificial\", a ser promovido pela Inove Eventos e Treinamentos LTDA, CNPJ 50.088.618/0001-23, na modalidade presencial, no período de 24 a 26 de agosto de 2026, em Brasília - DF.",
+    "valor_estimado": 15000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1254/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\39_1254\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFT.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1254/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\39_1254\\Documento de Formalização da Demanda - DFD_DFT.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1254/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\39_1254\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "40",
+    "ano": 2026,
+    "sequencial_pncp": 1305,
+    "objeto": "Contratação da palestrante Laís Soares Filgueira, por meio da empresa Poupinvista Treinamento e Desenvolvimento Profissional LTDA, CNPJ 40.364.990/0001-61, para a realização da palestra \"Compreensão sobre a relação dinheiro, comportamento e qualidade de vida\", a ser realizada no dia 02/09/2026, no Edifício-Sede do Ministério Público do Distrito Federal e dos Territórios - MPDFT, Brasília/DF.",
+    "valor_estimado": 1647.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao de Acao Educacional - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1305/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\40_1305\\Documento de Formalização da Demanda - DFD_Solicitacao de Acao Educacional - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1305/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\40_1305\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1305/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\40_1305\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "41",
+    "ano": 2026,
+    "sequencial_pncp": 1307,
+    "objeto": "contratação da empresa Boselli Licitações Ltda. para a prestação de serviço de palestra no evento “Mês das Contratações Públicas e Sustentabilidade”, a ser realizado em setembro de 2026, no Edifício-Sede do MPDFT.",
+    "valor_estimado": 10000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao da Acao Educacional - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1307/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\41_1307\\Documento de Formalização da Demanda - DFD_Solicitacao da Acao Educacional - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1307/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\41_1307\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - Ato Autorizacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1307/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\41_1307\\Ato que autoriza a Contratação Direta_Despacho Administrativo - Ato Autorizacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "MPDFT",
+    "cnpj": "26989715000102",
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "49",
+    "ano": 2026,
+    "sequencial_pncp": 1507,
+    "objeto": "Contratação da empresa Reserva Ambiental Paraíso na Terra, razão social Instituto Teosófico de Brasília (ITB), CNPJ 00.751.260/0001-07, para a realização de Treinamento Experiencial ao Ar Livre - Teal, no dia 25 de setembro de 2026.\n\n",
+    "valor_estimado": 17400.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1507/arquivos/1",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\49_1507\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "Solicitacao da Acao Educacional Externa - DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1507/arquivos/2",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\49_1507\\Documento de Formalização da Demanda - DFD_Solicitacao da Acao Educacional Externa - DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Despacho Administrativo - ATO AUTORIZACAO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/26989715000102/compras/2026/1507/arquivos/3",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\mpdft_pncp_2026\\49_1507\\Ato que autoriza a Contratação Direta_Despacho Administrativo - ATO AUTORIZACAO.pdf.pdf"
+      }
+    ]
+  }
+]

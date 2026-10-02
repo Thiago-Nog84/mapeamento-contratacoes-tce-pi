@@ -25,6 +25,7 @@ class PNCPClient:
         self.ctx.verify_mode = ssl.CERT_NONE
 
     def _get(self, url: str) -> Any:
+        import time
         req = urllib.request.Request(
             url,
             headers={
@@ -32,8 +33,20 @@ class PNCPClient:
                 "Accept": "application/json"
             }
         )
-        with urllib.request.urlopen(req, context=self.ctx, timeout=self.timeout) as resp:
-            return json.loads(resp.read().decode('utf-8'))
+        for t in range(5):
+            try:
+                with urllib.request.urlopen(req, context=self.ctx, timeout=self.timeout) as resp:
+                    return json.loads(resp.read().decode('utf-8'))
+            except urllib.error.HTTPError as e:
+                if e.code == 429 or e.code == 403:
+                    print(f"      [!] API PNCP bloqueou ({e.code}). Aguardando 10s...")
+                    time.sleep(10)
+                else:
+                    raise e
+            except Exception as e:
+                print(f"      [!] Erro PNCP: {e}. Aguardando 5s...")
+                time.sleep(5)
+        return {}
 
     def consultar_contratacoes(
         self,
@@ -46,8 +59,10 @@ class PNCPClient:
         """
         Consulta contratações publicadas no PNCP para o órgão e modalidade no ano informado.
         """
-        data_ini = f"{ano}0101"
-        data_fim = f"{ano}1231"
+        from datetime import datetime
+        data_ini = f'{ano}0101'
+        agora = datetime.now()
+        data_fim = agora.strftime('%Y%m%d') if ano >= agora.year else f'{ano}1231'
         params = (
             f"dataInicial={data_ini}&dataFinal={data_fim}"
             f"&codigoModalidadeContratacao={codigo_modalidade}"
@@ -67,15 +82,24 @@ class PNCPClient:
             return []
 
     def baixar_arquivo(self, cnpj: str, ano: int, sequencial: int, sequencial_documento: int, destino: str) -> str:
-        """
-        Baixa o arquivo físico do PNCP e salva no caminho de destino.
-        """
         url = f"{self.BASE_PNCP}/orgaos/{cnpj}/compras/{ano}/{sequencial}/arquivos/{sequencial_documento}"
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, context=self.ctx, timeout=self.timeout) as resp:
-            conteudo = resp.read()
-
-        os.makedirs(os.path.dirname(destino), exist_ok=True)
-        with open(destino, "wb") as f:
-            f.write(conteudo)
-        return destino
+        for t in range(5):
+            try:
+                import time
+                with urllib.request.urlopen(req, context=self.ctx, timeout=self.timeout) as resp:
+                    conteudo = resp.read()
+                    os.makedirs(os.path.dirname(destino), exist_ok=True)
+                    with open(destino, "wb") as f:
+                        f.write(conteudo)
+                    return destino
+            except urllib.error.HTTPError as e:
+                if e.code == 429 or e.code == 403:
+                    print(f"      [!] API PNCP bloqueou o download ({e.code}). Aguardando 10s...")
+                    time.sleep(10)
+                else:
+                    raise e
+            except Exception as e:
+                print(f"      [!] Erro no download PNCP: {e}. Aguardando 5s...")
+                time.sleep(5)
+        raise Exception(f"Falha ao baixar {url} apois 5 tentativas")

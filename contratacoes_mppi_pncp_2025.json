@@ -1,0 +1,1917 @@
+[
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90001",
+    "ano": 2025,
+    "sequencial_pncp": 1,
+    "numero_controle_pncp": "05805924000189-1-000001/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material de gênero alimentício e copa para o MP-PI, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 328623.4,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "92609205900012025001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/1/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90001_1\\Edital_92609205900012025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90002",
+    "ano": 2025,
+    "sequencial_pncp": 3,
+    "numero_controle_pncp": "05805924000189-1-000003/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de toners para impressoras de uso de todas as unidades pertencentes ao Ministério Público do Estado do Piauí, conforme condições e exigências estabelecidas neste Edital e seus anexos.",
+    "valor_estimado": 222759.2,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "92609205900022025001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/3/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90002_3\\Edital_92609205900022025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90004",
+    "ano": 2025,
+    "sequencial_pncp": 5,
+    "numero_controle_pncp": "05805924000189-1-000005/2025",
+    "objeto": "O objeto deste certame é o registro de preços para aquisição de soluções de segurança contendo, auditoria e prevenção de ameaças à base de dados não estruturados (DSPM), e controle de acesso de usuários privilegiados (PAM), abrangendo centro de dados e proteção, incluindo garantia, serviço de instalação e treinamento, conforme especificado na tabela abaixo e nos termos e condições constantes neste edital, bem assim no Termo de Referência",
+    "valor_estimado": 174871178.86,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "92609205900042025001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/5/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90004_5\\Edital_92609205900042025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90007",
+    "ano": 2025,
+    "sequencial_pncp": 8,
+    "numero_controle_pncp": "05805924000189-1-000008/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material permanente (mobiliário em geral com montagem inclusa), conforme condições e exigências estabelecidas neste Edital e seus anexos.",
+    "valor_estimado": 987403.83,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "92609205900072025001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/8/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90007_8\\Edital_92609205900072025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90003",
+    "ano": 2025,
+    "sequencial_pncp": 9,
+    "numero_controle_pncp": "05805924000189-1-000009/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material de manutenção predial e construção para o Ministério Público do Estado do Piauí, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 454188.38,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900032025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/9/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90003_9\\Edital_92609205900032025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90005",
+    "ano": 2025,
+    "sequencial_pncp": 10,
+    "numero_controle_pncp": "05805924000189-1-000010/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material permanente (aparelhos de ar-condicionado), sem instalação inclusa, conforme condições e exigências estabelecidas neste Edital e seus anexos.",
+    "valor_estimado": 581208.81,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900052025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/10/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90005_10\\Edital_92609205900052025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90009",
+    "ano": 2025,
+    "sequencial_pncp": 15,
+    "numero_controle_pncp": "05805924000189-1-000015/2025",
+    "objeto": "Renovação de licença do software Atlassian CROWD (Data Center) em sua versão mais atualizada, para 2.000 usuários, com licenciamento ativo e manutenção gratuita do software por 12 meses – incluindo todas as atualizações e suporte, a fim de atender as necessidades do Ministério Público do Estado do Piauí, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 139182.77,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900092025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/15/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90009_15\\Edital_92609205900092025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90006",
+    "ano": 2025,
+    "sequencial_pncp": 20,
+    "numero_controle_pncp": "05805924000189-1-000020/2025",
+    "objeto": "Registro de preço p/ contratação futura e eventual de pessoa jurídica especializada na prestação dos serviços de controle e combate de vetores e pragas urbanas, compreendendo os serviços de desinsetização, desratização e descupinização em todas as áreas internas e externas dos Edifícios Sede e demais unidades vinculadas na Capital e Interior que compõem o quadro do MPPI, conforme condições e exigências estabelecidas no edital e anexos. ",
+    "valor_estimado": 279596.25,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900062025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/20/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90006_20\\Edital_92609205900062025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90010",
+    "ano": 2025,
+    "sequencial_pncp": 29,
+    "numero_controle_pncp": "05805924000189-1-000029/2025",
+    "objeto": "Contratação de empresa especializada para realização de demolição e construção de um novo muro no terreno de propriedade do Ministério Público do Estado do Piauí, situado na Avenida Barão de Castelo Branco, nº 863, Bairro Monte Castelo, Teresina-Piauí, CEP 64.016-850, conforme condições e exigências estabelecidas no Edital e seus anexos. ",
+    "valor_estimado": 108701.55,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90011",
+    "ano": 2025,
+    "sequencial_pncp": 30,
+    "numero_controle_pncp": "05805924000189-1-000030/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material permanente (eletroeletrônicos), conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 0.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900112025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/30/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90011_30\\Edital_92609205900112025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90013",
+    "ano": 2025,
+    "sequencial_pncp": 32,
+    "numero_controle_pncp": "05805924000189-1-000032/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de equipamentos de TIC, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 703138.6,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900132025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/32/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90013_32\\Edital_92609205900132025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90012",
+    "ano": 2025,
+    "sequencial_pncp": 33,
+    "numero_controle_pncp": "05805924000189-1-000033/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de toners para impressoras de uso de todas as unidades pertencentes ao MP-PI, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 232819.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900122025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/33/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90012_33\\Edital_92609205900122025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90014",
+    "ano": 2025,
+    "sequencial_pncp": 35,
+    "numero_controle_pncp": "05805924000189-1-000035/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 meses, para a eventual aquisição de Apple iMacs (equipamentos de TIC), conforme condições e exigências estabelecidas no Edital e seus anexos",
+    "valor_estimado": 533180.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900142025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/35/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90014_35\\Edital_92609205900142025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90020",
+    "ano": 2025,
+    "sequencial_pncp": 42,
+    "numero_controle_pncp": "05805924000189-1-000042/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material permanente (eletroeletrônicos), conforme condições e exigências estabelecidas neste Edital e seus anexos.",
+    "valor_estimado": 314000.73,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900202025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/42/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90020_42\\Edital_92609205900202025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90018",
+    "ano": 2025,
+    "sequencial_pncp": 51,
+    "numero_controle_pncp": "05805924000189-1-000051/2025",
+    "objeto": "Licenciamento anual de subscrição da solução corporativa de proteção de dispositivos, com a expansão para a Plataforma de Detecção e Resposta Estendida (XDR) a incidentes de segurança cibernética, monitoramento, prevenção, proteção de identidades e dados, contemplando os serviços de suporte, instalação, configuração e capacitação, com abordagem de inteligência cibernética adaptativa.",
+    "valor_estimado": 15277037.64,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 2,
+        "tipo": "Edital",
+        "titulo": "92609205900182025001",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/51/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90018_51\\Edital_92609205900182025001.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90023",
+    "ano": 2025,
+    "sequencial_pncp": 56,
+    "numero_controle_pncp": "05805924000189-1-000056/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de material de higiene e limpeza para o MP-PI, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 888646.69,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900232025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/56/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90023_56\\Edital_92609205900232025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90022",
+    "ano": 2025,
+    "sequencial_pncp": 57,
+    "numero_controle_pncp": "05805924000189-1-000057/2025",
+    "objeto": "Aquisição de equipamentos e itens de TIC para atender as necessidades do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) do MP/PI, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 452041.07,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900222025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/57/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90022_57\\Edital_92609205900222025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90024",
+    "ano": 2025,
+    "sequencial_pncp": 58,
+    "numero_controle_pncp": "05805924000189-1-000058/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual aquisição de equipamentos de TIC, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 529198.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900242025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/58/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90024_58\\Edital_92609205900242025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90021",
+    "ano": 2025,
+    "sequencial_pncp": 60,
+    "numero_controle_pncp": "05805924000189-1-000060/2025",
+    "objeto": "Contratação de serviço de uso de solução integrada de segurança da informação para o Ministério Público do Estado do Piauí (MPPI), contemplando fornecimento de clusters de alta disponibilidade de appliances de segurança de perímetro de próxima geração (firewall), solução de segurança de perímetro em ambiente de nuvem (cloud), solução de proteção para e-mail e softwares de colaboração, suporte técnico especializado e treinamento especializado.",
+    "valor_estimado": 14844877.1,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 3,
+        "tipo": "Edital",
+        "titulo": "92609205900212025002",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/60/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90021_60\\Edital_92609205900212025002.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90017",
+    "ano": 2025,
+    "sequencial_pncp": 61,
+    "numero_controle_pncp": "05805924000189-1-000061/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual contratação de empresa especializada na prestação de serviços técnicos especializados em desenvolvimento, sustentação, manutenção e evolução de sistemas, estruturados sob o modelo de Unidade de Serviço Técnico (UST), no formato de Fábrica de Software, conforme as especificações funcionais e técnicas, condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 4799880.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900172025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/61/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90017_61\\Edital_92609205900172025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90019",
+    "ano": 2025,
+    "sequencial_pncp": 62,
+    "numero_controle_pncp": "05805924000189-1-000062/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a contratação futura e eventual de empresa especializada na prestação de serviços de confecção de placas de sinalização modular, letreiros e totens com sistema complementar de sinalização acessível e incluindo a instalação (em parte dos lotes) para atender a demanda dos edifícios sedes do Ministério Público do Estado-MP-PI, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+    "valor_estimado": 608429.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900192025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/62/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90019_62\\Edital_92609205900192025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90016",
+    "ano": 2025,
+    "sequencial_pncp": 63,
+    "numero_controle_pncp": "05805924000189-1-000063/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para a eventual contratação de empresa especializada para a prestação de serviço de solução de armazenamento de dados baseada em tecnologia all-flash full NVMe, incluindo o fornecimento de equipamentos, instalação, migração de dados, treinamento e suporte técnico por 60 meses, conforme condições e exigências estabelecidas neste Edital e seus anexos.",
+    "valor_estimado": 3165704.37,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900162025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/63/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90016_63\\Edital_92609205900162025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90008",
+    "ano": 2025,
+    "sequencial_pncp": 67,
+    "numero_controle_pncp": "05805924000189-1-000067/2025",
+    "objeto": "Aquisição de equipamentos para filmagem, organização de eventos e aparelhamento de salas de áudio, nos termos da tabela abaixo, mediante pregão eletrônico com disputa por lote, conforme condições e exigências estabelecidas no Edital.   Obs.: Em caso de divergência entre as especificações dos objetos apresentadas no sistema e as constantes do Termo de Referência, prevalecerão as deste último.",
+    "valor_estimado": 132366.24,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Edital",
+        "titulo": "92609205900082025000",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/67/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90008_67\\Edital_92609205900082025000.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Pregão Eletrônico",
+    "codigo_modalidade": 6,
+    "numero_compra": "90025",
+    "ano": 2025,
+    "sequencial_pncp": 71,
+    "numero_controle_pncp": "05805924000189-1-000071/2025",
+    "objeto": "Registro de preços, pelo prazo de 12 (doze) meses, para eventual contratação de empresa especializada na prestação contínua de serviços de mão de obra residente, em regime de dedicação exclusiva, nas categorias de Assistente Social, Pedagogo e Psicólogo, conforme condições, especificações e demais exigências do Edital e de seus anexos.",
+    "valor_estimado": 2049844.08,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 3,
+        "tipo": "Edital",
+        "titulo": "92609205900252025002",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/71/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90025_71\\Edital_92609205900252025002.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90001",
+    "ano": 2025,
+    "sequencial_pncp": 2,
+    "numero_controle_pncp": "05805924000189-1-000002/2025",
+    "objeto": "Contratação de empresa especializada na prestação de serviços securitários para um veículo pertencente à frota própria do Fundo Estadual de Proteção e Defesa do Consumidor – FEPDC/PI, com cobertura contra danos materiais e corporais resultantes de sinistros de roubo, furto, colisão, incêndio e danos causados por fenômenos naturais, com assistência 24 horas em todo território nacional.",
+    "valor_estimado": 8801.97,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/2/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90001_2\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "2",
+    "ano": 2025,
+    "sequencial_pncp": 4,
+    "numero_controle_pncp": "05805924000189-1-000004/2025",
+    "objeto": "Contratação de serviços de fornecimento de flores para ornamentação de espaços, no processo de organização e coordenação de eventos institucionais",
+    "valor_estimado": 39450.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_MPPI - 0921330 - Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/4/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\2_4\\Termo de Referência_SEI_MPPI - 0921330 - Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_MPPI - 0927923 - Minuta Contratual.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/4/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\2_4\\Minuta do Contrato_SEI_MPPI - 0927923 - Minuta Contratual.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_MPPI - 0906688 - Documento de Oficializacao da Demanda (DOD).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/4/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\2_4\\Documento de Formalização da Demanda - DFD_SEI_MPPI - 0906688 - Documento de Oficializacao da Demanda (DOD).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_MPPI - 0936687 - Aprovacao de Artefatos - 14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/4/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\2_4\\Outros Documentos_SEI_MPPI - 0936687 - Aprovacao de Artefatos - 14.133.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "4",
+    "ano": 2025,
+    "sequencial_pncp": 7,
+    "numero_controle_pncp": "05805924000189-1-000007/2025",
+    "objeto": "contratação de serviços de streaming para transmissão contínua de rádio on-line e de manutenção preventiva de equipamentos de rádio",
+    "valor_estimado": 11507.88,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/7/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\4_7\\Documento de Formalização da Demanda - DFD_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/7/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\4_7\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Minuta do Contrato",
+        "titulo": "Minuta de Aviso de Contratacao Direta.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/7/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\4_7\\Minuta do Contrato_Minuta de Aviso de Contratacao Direta.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "Mapa Comparativo de Precos.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/7/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\4_7\\Outros Documentos_Mapa Comparativo de Precos.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90002",
+    "ano": 2025,
+    "sequencial_pncp": 11,
+    "numero_controle_pncp": "05805924000189-1-000011/2025",
+    "objeto": "Aquisição, mediante dispensa de licitação, com fulcro no art. 75, II, da Lei nº. 14.133/2021, para contratação de peças para manutenção de cadeiras giratórias, para cadeiras giratórias da marca \"Tok Plast Metal\", e também contadoras de cédulas, de acordo com as condições, especificações e quantidades descritas no Termo de Referência.",
+    "valor_estimado": 45139.71,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_19.21.0427.0016112_2024_04",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/11/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90002_11\\Aviso de Contratação Direta_SEI_19.21.0427.0016112_2024_04.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90003",
+    "ano": 2025,
+    "sequencial_pncp": 12,
+    "numero_controle_pncp": "05805924000189-1-000012/2025",
+    "objeto": "Aquisição de recargas de botijões de gás liquefeito de petróleo 13 kg (GLP)",
+    "valor_estimado": 4712.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_19.21.0428.0002514_2025_84",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/12/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90003_12\\Aviso de Contratação Direta_SEI_19.21.0428.0002514_2025_84.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90004",
+    "ano": 2025,
+    "sequencial_pncp": 14,
+    "numero_controle_pncp": "05805924000189-1-000014/2025",
+    "objeto": "Contratação, por dispensa de licitação, de solução de tecnologia da informação e comunicação de licenças do Software Microsoft Power BI Premium Per User (CFQ7TTC0HL8W-0001) por 12 (doze) meses, nos termos condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.",
+    "valor_estimado": 16904.47,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA 90004-2025",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/14/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90004_14\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA 90004-2025.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "6",
+    "ano": 2025,
+    "sequencial_pncp": 16,
+    "numero_controle_pncp": "05805924000189-1-000016/2025",
+    "objeto": "Contratação direta de serviços de regência para a coordenação e execução de aulas de Canto no âmbito do Ministério Público do Estado do Piauí, na cidade de Teresina, conforme as condições e exigências estipuladas neste documento. As aulas serão prioritariamente no formato presencial e, de forma excepcional, poderão ocorrer no formato remoto.",
+    "valor_estimado": 48000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0821278_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/16/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\6_16\\Termo de Referência_SEI_0821278_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0821214_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/16/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\6_16\\Documento de Formalização da Demanda - DFD_SEI_0821214_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0854660_Contrato_CONTRATO_N__48_PGJ (1).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/16/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\6_16\\Outros Documentos_SEI_0854660_Contrato_CONTRATO_N__48_PGJ (1).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "7",
+    "ano": 2025,
+    "sequencial_pncp": 17,
+    "numero_controle_pncp": "05805924000189-1-000017/2025",
+    "objeto": "Aquisição de tapetes em capacho, nos termos do Termo de Referência",
+    "valor_estimado": 10172.5,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_0938602_Mapa_Comparativo_de_Precos.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/17/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\7_17\\Outros Documentos_SEI_0938602_Mapa_Comparativo_de_Precos.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_0888897_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/17/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\7_17\\Termo de Referência_SEI_0888897_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0789106_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/17/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\7_17\\Documento de Formalização da Demanda - DFD_SEI_0789106_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_0789938_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/17/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\7_17\\Mapa de Riscos_SEI_0789938_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90005",
+    "ano": 2025,
+    "sequencial_pncp": 18,
+    "numero_controle_pncp": "05805924000189-1-000018/2025",
+    "objeto": "Contratação de empresa especializada na prestação de serviços de controle de acesso de veículos automatizado ao estacionamento, incluindo a implantação, treinamento, suporte técnico e concessão de uso de software e equipamentos, bem como a manutenção preventiva e corretiva, com fornecimento e substituição de insumos, peças e equipamentos,conforme descrição pormenorizada, condições e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 58560.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_19.21.0010.0043533_2024_85 (Pncp)",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/18/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90005_18\\Aviso de Contratação Direta_SEI_19.21.0010.0043533_2024_85 (Pncp).pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90006",
+    "ano": 2025,
+    "sequencial_pncp": 19,
+    "numero_controle_pncp": "05805924000189-1-000019/2025",
+    "objeto": "Contratação, por dispensa de licitação, de serviços de empresa especializada para fornecimento de identidade funcional (crachás), sob demanda, para membros, servidores, estagiários e visitantes do Ministério Público do Estado do Piauí, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.",
+    "valor_estimado": 12500.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA-CRACHAS",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/19/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90006_19\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA-CRACHAS.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90007",
+    "ano": 2025,
+    "sequencial_pncp": 22,
+    "numero_controle_pncp": "05805924000189-1-000022/2025",
+    "objeto": "O objeto do presente procedimento é a escolha da proposta mais vantajosa para a contratação de solução de tecnologia da informação e comunicação para aquisição de um totem eletrônico interativo com tela de 32\" polegadas, nos termos da tabela abaixo, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.      ",
+    "valor_estimado": 12071.67,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA 90007-2025",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/22/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90007_22\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA 90007-2025.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "9",
+    "ano": 2025,
+    "sequencial_pncp": 23,
+    "numero_controle_pncp": "05805924000189-1-000023/2025",
+    "objeto": "contratação de empresa especializada para fabricação e instalação de 10 unidades de outdoor publicitário, no tamanho 9x3 metros, em material papel, para divulgação durante uma bi-semana, no período de 21/05 a 04/06/2025, em alusão ao Dia Estadual do Ministério Público que em 2025 completa 134 anos de existência, nas condições estabelecidas no Termo de Referência",
+    "valor_estimado": 6000.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "termo de referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/23/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\9_23\\Termo de Referência_termo de referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Minuta do Contrato",
+        "titulo": "Minuta Contratual.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/23/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\9_23\\Minuta do Contrato_Minuta Contratual.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Mapa de Riscos",
+        "titulo": "mapa de risco.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/23/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\9_23\\Mapa de Riscos_mapa de risco.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90008",
+    "ano": 2025,
+    "sequencial_pncp": 24,
+    "numero_controle_pncp": "05805924000189-1-000024/2025",
+    "objeto": "Escolha da proposta mais vantajosa para a contratação, por dispensa de licitação, de solução de tecnologia da informação e comunicação para aquisição de um totem eletrônico interativo com tela de 32\" polegadas, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.",
+    "valor_estimado": 12071.67,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO CONTRATACAO DITERA -DISPENSA ELETRONICA N 08-2025",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/24/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90008_24\\Aviso de Contratação Direta_AVISO CONTRATACAO DITERA -DISPENSA ELETRONICA N 08-2025.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "17",
+    "ano": 2025,
+    "sequencial_pncp": 37,
+    "numero_controle_pncp": "05805924000189-1-000037/2025",
+    "objeto": "Contratação da Empresa de Tecnologia da Informação do Estado do Piauí (ETIPI), via dispensa de licitação, com\nfundamento no art. 75, inciso IX da Lei n.º 14.133/2021, para o fornecimento de certificados digitais, por 36 (trinta e seis)\nmeses, nos termos da tabela abaixo, conforme condições e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 217220.0,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1049150_Documento_de_Formalizacao_da_Demanda___DFD (1).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Documento de Formalização da Demanda - DFD_SEI_1049150_Documento_de_Formalizacao_da_Demanda___DFD (1).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_13_2025_V2.0_ETIPI__1_.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Termo de Referência_TR_13_2025_V2.0_ETIPI__1_.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "ETP_12_2025_V2.0_ETIPI__1_.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Estudo Técnico Preliminar_ETP_12_2025_V2.0_ETIPI__1_.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "Mapa_de_Riscos__ETIPI__assinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Mapa de Riscos_Mapa_de_Riscos__ETIPI__assinado.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1061042_Minuta_Contratual_XX_2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Minuta do Contrato_SEI_1061042_Minuta_Contratual_XX_2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 6,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_19.21.0016.0016704_2025_76 (Outros).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/37/arquivos/6",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\17_37\\Outros Documentos_SEI_19.21.0016.0016704_2025_76 (Outros).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "18",
+    "ano": 2025,
+    "sequencial_pncp": 38,
+    "numero_controle_pncp": "05805924000189-1-000038/2025",
+    "objeto": "Contratação de empresa especializada na prestação de serviços de buffet, com vistas à organização e estruturação da posse festiva do Procurador-Geral de Justiça do Estado do Piauí para o biênio 2025-2027, a ser realizada em Teresina (PI), conforme condições e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 58800.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1066444_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/38/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\18_38\\Documento de Formalização da Demanda - DFD_SEI_1066444_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1066446_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/38/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\18_38\\Mapa de Riscos_SEI_1066446_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1075517_Minuta_Contratual_xxxxx.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/38/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\18_38\\Minuta do Contrato_SEI_1075517_Minuta_Contratual_xxxxx.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_19.21.0011.0022821_2025_86.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/38/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\18_38\\Outros Documentos_SEI_19.21.0011.0022821_2025_86.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1066449_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/38/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\18_38\\Termo de Referência_SEI_1066449_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90010",
+    "ano": 2025,
+    "sequencial_pncp": 40,
+    "numero_controle_pncp": "05805924000189-1-000040/2025",
+    "objeto": "Contratação de solução de tecnologia da informação e comunicação para aquisição de NOBREAK 6KVA, nas condições estabelecidas no Termo de Referência. ",
+    "valor_estimado": 36600.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA 90010-2025",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/40/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90010_40\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA 90010-2025.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90009",
+    "ano": 2025,
+    "sequencial_pncp": 41,
+    "numero_controle_pncp": "05805924000189-1-000041/2025",
+    "objeto": "Contratação de empresa especializada na prestação de serviços de controle de acesso de veículos automatizado ao estacionamento, incluindo a implantação, treinamento, suporte técnico e concessão de uso de software e equipamentos, bem como a manutenção preventiva e corretiva, com fornecimento e substituição de insumos, peças e equipamentos,conforme descrição pormenorizada, condições e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 58560.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_19.21.0010.0043533_2024_85 (Aviso2)",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/41/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90009_41\\Aviso de Contratação Direta_SEI_19.21.0010.0043533_2024_85 (Aviso2).pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "21",
+    "ano": 2025,
+    "sequencial_pncp": 45,
+    "numero_controle_pncp": "05805924000189-1-000045/2025",
+    "objeto": "Contratação de empresa especializada no fornecimento para a aquisição de plantas ornamentais e vasos decorativos, destinados à ambientação e melhoria dos espaços institucionais do Ministério Público do Estado do Piauí (MPPI)",
+    "valor_estimado": 7880.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/45/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\21_45\\Documento de Formalização da Demanda - DFD_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Minuta do Contrato",
+        "titulo": "Minuta.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/45/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\21_45\\Minuta do Contrato_Minuta.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia plantas.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/45/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\21_45\\Termo de Referência_Termo de Referencia plantas.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "23",
+    "ano": 2025,
+    "sequencial_pncp": 47,
+    "numero_controle_pncp": "05805924000189-1-000047/2025",
+    "objeto": "Contratação de empresa especializada na prestação de serviços de chaveiro em geral, visando atender às necessidades do Ministério Público do Estado do Piauí",
+    "valor_estimado": 23680.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/47/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\23_47\\Termo de Referência_TR.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Minuta do Contrato",
+        "titulo": "Minuta.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/47/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\23_47\\Minuta do Contrato_Minuta.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Mapa de Riscos",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/47/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\23_47\\Mapa de Riscos_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "mapa.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/47/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\23_47\\Mapa de Riscos_mapa.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90011",
+    "ano": 2025,
+    "sequencial_pncp": 48,
+    "numero_controle_pncp": "05805924000189-1-000048/2025",
+    "objeto": "Contratação por meio de DISPENSA ELETRÔNICA para aquisição de impressora e seus componentes, mobiliário plástico, quadros e balizadores de fila, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento. ",
+    "valor_estimado": 24687.0,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "AVISO DE CONTRATACAO DIRETA",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/48/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90011_48\\Aviso de Contratação Direta_AVISO DE CONTRATACAO DIRETA.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "24",
+    "ano": 2025,
+    "sequencial_pncp": 49,
+    "numero_controle_pncp": "05805924000189-1-000049/2025",
+    "objeto": "Contratação de empresa especializada na confecção de medalhas e comendas criadas para conferir reconhecimento a personalidades que colaboram com o Ministério Público do Piauí",
+    "valor_estimado": 46799.0,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1028937_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/49/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\24_49\\Mapa de Riscos_SEI_1028937_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1112355_Minuta_Contratual_1000.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/49/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\24_49\\Minuta do Contrato_SEI_1112355_Minuta_Contratual_1000.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1065261_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/49/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\24_49\\Termo de Referência_SEI_1065261_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1026481_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/49/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\24_49\\Documento de Formalização da Demanda - DFD_SEI_1026481_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_19.21.0011.0016516_2025_86 (1).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/49/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\24_49\\Outros Documentos_SEI_19.21.0011.0016516_2025_86 (1).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "90012",
+    "ano": 2025,
+    "sequencial_pncp": 50,
+    "numero_controle_pncp": "05805924000189-1-000050/2025",
+    "objeto": "Contratação de serviços de publicação de avisos de licitação em jornal de grande circulação no Estado do Piauí, no formato de 2 colunas por 10 cm de altura, nas condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 48385.8,
+    "total_arquivos": 1,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "DISPENSA ELETRONICA 90012-2025-AVISO E ANEXOS",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/50/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\90012_50\\Aviso de Contratação Direta_DISPENSA ELETRONICA 90012-2025-AVISO E ANEXOS.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "1",
+    "ano": 2025,
+    "sequencial_pncp": 52,
+    "numero_controle_pncp": "05805924000189-1-000052/2025",
+    "objeto": "Contratação de empresa especializada na confecção de vestes talares, tipo: beca",
+    "valor_estimado": 3720.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1104184_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/52/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\1_52\\Termo de Referência_SEI_1104184_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1073526_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/52/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\1_52\\Mapa de Riscos_SEI_1073526_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1088136_Documento_de_Formalizacao_da_Demanda___DFD (1).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/52/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\1_52\\Documento de Formalização da Demanda - DFD_SEI_1088136_Documento_de_Formalizacao_da_Demanda___DFD (1).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_1122061_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/52/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\1_52\\Outros Documentos_SEI_1122061_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "25",
+    "ano": 2025,
+    "sequencial_pncp": 54,
+    "numero_controle_pncp": "05805924000189-1-000054/2025",
+    "objeto": "Contratação de empresa especializada na produção de brindes para divulgação de campanhas e distribuição em eventos institucionais.",
+    "valor_estimado": 59835.0,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "extrato_aviso_de_interesse (1).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Aviso de Contratação Direta_extrato_aviso_de_interesse (1).pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1099714_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Termo de Referência_SEI_1099714_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1079381_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Mapa de Riscos_SEI_1079381_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1056078_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Documento de Formalização da Demanda - DFD_SEI_1056078_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1107470_Minuta_Contratual_N__XX_2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Minuta do Contrato_SEI_1107470_Minuta_Contratual_N__XX_2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 6,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_1105138_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/54/arquivos/6",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\25_54\\Outros Documentos_SEI_1105138_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "30",
+    "ano": 2025,
+    "sequencial_pncp": 66,
+    "numero_controle_pncp": "05805924000189-1-000066/2025",
+    "objeto": "Aquisição de camisetas personalizadas, para utilização e distribuição em eventos e no bojo de campanhas e projetos promovidos pelo Ministério Público do Estado do Piauí, nos termos da tabela abaixo, conforme condições e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 61600.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1152680_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/66/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\30_66\\Termo de Referência_SEI_1152680_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_0938231_Documento_de_Oficializacao_da_Demanda__DOD_.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/66/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\30_66\\Documento de Formalização da Demanda - DFD_SEI_0938231_Documento_de_Oficializacao_da_Demanda__DOD_.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1164145_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/66/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\30_66\\Ato que autoriza a Contratação Direta_SEI_1164145_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "demppi251008_1884.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/66/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\30_66\\Aviso de Contratação Direta_demppi251008_1884.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "35",
+    "ano": 2025,
+    "sequencial_pncp": 72,
+    "numero_controle_pncp": "05805924000189-1-000072/2025",
+    "objeto": "prestação de serviços especializados de elaboração de projetos de prevenção e combate a incêndio e pânico, destinados a atender às necessidades do Ministério Público do Estado do Piauí.\n\n ",
+    "valor_estimado": 115710.0,
+    "total_arquivos": 7,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "Estudo Tecnico Preliminar.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Estudo Técnico Preliminar_Estudo Tecnico Preliminar.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Documento de Formalização da Demanda - DFD_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1174812_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Mapa de Riscos_SEI_1174812_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Aviso de Contratação Direta",
+        "titulo": "SEI_1205383_Aviso_Dispensa_Licitacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Aviso de Contratação Direta_SEI_1205383_Aviso_Dispensa_Licitacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 6,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1202970_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/6",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Ato que autoriza a Contratação Direta_SEI_1202970_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 7,
+        "tipo": "Outros Documentos",
+        "titulo": "Anexos Aviso de Dispensa Sistema de Combate Incendio.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/72/arquivos/7",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\35_72\\Outros Documentos_Anexos Aviso de Dispensa Sistema de Combate Incendio.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "36",
+    "ano": 2025,
+    "sequencial_pncp": 73,
+    "numero_controle_pncp": "05805924000189-1-000073/2025",
+    "objeto": "Contratação de serviços de sistema de monitoramento veicular via satélite para os veículos do Ministério Público do Estado do Piauí, incluindo o fornecimento de equipamentos (em comodato), componentes, licença de uso de software, e os respectivos serviços de instalação, configuração, capacitação, suporte técnico e garantia de funcionamento, nos termos da tabela abaixo, conforme condições e exigências estabelecidas no Termo de Referência. ",
+    "valor_estimado": 46524.24,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "37",
+    "ano": 2025,
+    "sequencial_pncp": 74,
+    "numero_controle_pncp": "05805924000189-1-000074/2025",
+    "objeto": "Contratação de serviços comuns e continuados de manutenção preventiva e corretiva de plataforma elevatória para acessibilidade, com fornecimento peças, componentes e acessórios novos, originais, genuínos, de qualidade ou desempenho iguais ou superiores às utilizadas na fabricação mediante declaração de responsabilidade da empresa, e/ou recomendados pelo fabricante, para atender as necessidades da Sede das Promotorias de Justiça de Oeiras e Floriano, conforme Termo de Referência.",
+    "valor_estimado": 34140.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Dispensa de Licitação",
+    "codigo_modalidade": 8,
+    "numero_compra": "38",
+    "ano": 2025,
+    "sequencial_pncp": 75,
+    "numero_controle_pncp": "05805924000189-1-000075/2025",
+    "objeto": "Manutenção predial - Sistemas de Combate a Incendio - Sede LesteA presente contratação tem por objeto a prestação de serviços especializados de manutenção de prevenção e combate a incêndio e pânico, destinados a atender às necessidades da Sede Leste do Ministério Público do Estado do Piauí, conforme as especificações, exigências técnicas e quantitativos descritos na tabela constante do item 1.5 neste Termo de Referência.",
+    "valor_estimado": 6000.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "3",
+    "ano": 2025,
+    "sequencial_pncp": 6,
+    "numero_controle_pncp": "05805924000189-1-000006/2025",
+    "objeto": "Contratação de solução de tecnologia da informação e comunicação de licenças da linha Alto QI - QI Builder, para atender as necessidades da Coordenadoria de Perícias e Pareceres Técnicos do Ministério Público do Estado do Piauí., nas condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 17820.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "5",
+    "ano": 2025,
+    "sequencial_pncp": 13,
+    "numero_controle_pncp": "05805924000189-1-000013/2025",
+    "objeto": "Contratação de solução de tecnologia da informação e comunicação de licença vitalícia do pacote TQS EPP+, nas condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 12800.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "8",
+    "ano": 2025,
+    "sequencial_pncp": 21,
+    "numero_controle_pncp": "05805924000189-1-000021/2025",
+    "objeto": "Aquisição de testes psicológicos",
+    "valor_estimado": 10659.29,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "10",
+    "ano": 2025,
+    "sequencial_pncp": 25,
+    "numero_controle_pncp": "05805924000189-1-000025/2025",
+    "objeto": "Contratação de serviços de avaliação do imóvel situado na Avenida Lindolfo Monteiro, n° 911, Bairro Fátima, pela Caixa Econômica Federal, conforme condições e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 14300.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "11",
+    "ano": 2025,
+    "sequencial_pncp": 26,
+    "numero_controle_pncp": "05805924000189-1-000026/2025",
+    "objeto": "Contratação de treinamento e aperfeiçoamento de pessoal, para 40 (quarenta) servidores do MP/PI na ação de desenvolvimento intitulada “O planejamento da contratação com base na Lei 14.133/2021 – construindo ETPs e TR com Uso do ChatGPT e Outras Tecnologias”, carga horária de 16 (dezesseis) horas, na modalidade presencial, dias 02 a 04 de junho de 2025, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 32000.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "12",
+    "ano": 2025,
+    "sequencial_pncp": 27,
+    "numero_controle_pncp": "05805924000189-1-000027/2025",
+    "objeto": "Locação de imóvel situado na Rua Desembargador Frederico Pires, 620, bairro Outro Lado da Passagem, também reconhecida como Avenida Wenceslau de Sampaio, 620, CEP 64.230-000 - Buriti dos Lopes/PI, para abrigar as instalações das Promotorias de Justiça na comarca de Buriti dos Lopes/PI, conforme condições e exigências estabelecidas no Termo de Referência",
+    "valor_estimado": 135000.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "13",
+    "ano": 2025,
+    "sequencial_pncp": 28,
+    "numero_controle_pncp": "05805924000189-1-000028/2025",
+    "objeto": " Contratação de serviços Bry framework de assinatura digital de documentos eletrônicos com carimbo do tempo, nos termos da tabela abaixo, conforme condições e exigências\nestabelecidas neste instrumento",
+    "valor_estimado": 120000.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "14",
+    "ano": 2025,
+    "sequencial_pncp": 31,
+    "numero_controle_pncp": "05805924000189-1-000031/2025",
+    "objeto": "Contratação direta, por inexigibilidade de licitação, da empresa Supreme Treinamentos Ltda., inscrita no CNPJ sob o nº 53.940.195/0001-16, nos termos do art. 74, inciso III, alínea “f”, da Lei nº 14.133/2021, com a finalidade de promover treinamento e aperfeiçoamento de pessoal, por meio da participação de 02 (dois) servidores do Ministério Público do Estado do Piauí na ação de desenvolvimento intitulada “EFD-REINF e DCTFWeb para órgãos públicos, Conselhos de classe, Estatais e Sistema S (teoria e prática)”, com carga horária de 16 (dezesseis) horas, a ser realizada na modalidade online, nos dias 24 a 27 de junho de 2025,conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 4580.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "15",
+    "ano": 2025,
+    "sequencial_pncp": 34,
+    "numero_controle_pncp": "05805924000189-1-000034/2025",
+    "objeto": "Contratação de solução de tecnologia da informação e comunicação de sistema de orçamento de obras OrçaFascio nas condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 9591.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "16",
+    "ano": 2025,
+    "sequencial_pncp": 36,
+    "numero_controle_pncp": "05805924000189-1-000036/2025",
+    "objeto": "O objeto do presente instrumento é a assinatura de ferramenta de pesquisa de preço, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento",
+    "valor_estimado": 23370.0,
+    "total_arquivos": 0,
+    "arquivos": []
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "19",
+    "ano": 2025,
+    "sequencial_pncp": 39,
+    "numero_controle_pncp": "05805924000189-1-000039/2025",
+    "objeto": "Contratação de Licença do Sistema Web de Gestão Tributária – GT FÁCIL, nos termos da tabela abaixo, conforme condições e exigências\nestabelecidas neste instrumento",
+    "valor_estimado": 11988.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1072162_Minuta_Contratual_XX_2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/39/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\19_39\\Minuta do Contrato_SEI_1072162_Minuta_Contratual_XX_2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1059059_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/39/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\19_39\\Termo de Referência_SEI_1059059_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1042573_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/39/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\19_39\\Documento de Formalização da Demanda - DFD_SEI_1042573_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "20",
+    "ano": 2025,
+    "sequencial_pncp": 43,
+    "numero_controle_pncp": "05805924000189-1-000043/2025",
+    "objeto": "Contratação direta, por inexigibilidade de licitação, da empresa Grupo Educacional Superior CEV LTDA, inscrita no CNPJ sob o nº 12.175.436/0001-09, nos termos do art. 74, inciso III, alínea “f”, da Lei nº 14.133/2021, com a finalidade de promover treinamento e aperfeiçoamento de pessoal, por meio da participação de 3 (três) servidores do Ministério Público do Estado do Piauí na “Pós-Graduação em Inteligência Artificial”, com carga horária de 378 (trezentas e setenta e oito) horas, a ser realizada na modalidade presencial, com início em abril de 2025, na sede do ICEV – Instituto de Ensino Superior, localizado na cidade de Teresina/PI.",
+    "valor_estimado": 8383.17,
+    "total_arquivos": 5,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1066355_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/43/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\20_43\\Documento de Formalização da Demanda - DFD_SEI_1066355_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_1066362_Estudo_Tecnico_Preliminar.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/43/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\20_43\\Estudo Técnico Preliminar_SEI_1066362_Estudo_Tecnico_Preliminar.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1066367_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/43/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\20_43\\Termo de Referência_SEI_1066367_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1066364_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/43/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\20_43\\Mapa de Riscos_SEI_1066364_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_19.21.0016.0022884_2025_56.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/43/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\20_43\\Outros Documentos_SEI_19.21.0016.0022884_2025_56.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "22",
+    "ano": 2025,
+    "sequencial_pncp": 46,
+    "numero_controle_pncp": "05805924000189-1-000046/2025",
+    "objeto": "Contratação direta, com a finalidade de promover treinamento e aperfeiçoamento de pessoal, por meio da participação de 02 (dois) servidores do Ministério Público do Estado do Piauí na ação de desenvolvimento intitulada “Retenções de Tributos na Administração Pública Federal, Estadual, Distrital e Municipal)”, ",
+    "valor_estimado": 4780.0,
+    "total_arquivos": 3,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Mapa de Riscos",
+        "titulo": "ANALISE DE RISCO TREINAMENTO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/46/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\22_46\\Mapa de Riscos_ANALISE DE RISCO TREINAMENTO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD TREINAMENTO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/46/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\22_46\\Documento de Formalização da Demanda - DFD_DFD TREINAMENTO.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "TR TREINAMENTO.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/46/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\22_46\\Termo de Referência_TR TREINAMENTO.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "26",
+    "ano": 2025,
+    "sequencial_pncp": 53,
+    "numero_controle_pncp": "05805924000189-1-000053/2025",
+    "objeto": "Contratação da empresa ZENITE INFORMAÇÃO E CONSULTORIA S/A, visando ao treinamento e aperfeiçoamento de pessoal, mediante a participação de 13 (treze) servidores do Ministério Público do Estado do Piauí nos cursos “Curso Completo de Fiscalização e Gestão dos Contratos”, “Assessoria/Procuradoria Jurídica e a Atuação na Lei nº 14.133/2021” e “Habilitação nas Contratações Públicas”, na modalidade online, conforme condições, cronograma, quantidades e exigências definidas no Termo de Referência.",
+    "valor_estimado": 29223.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1110358_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/53/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\26_53\\Termo de Referência_SEI_1110358_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_1126438_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/53/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\26_53\\Outros Documentos_SEI_1126438_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1106555_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/53/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\26_53\\Documento de Formalização da Demanda - DFD_SEI_1106555_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1107130_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/53/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\26_53\\Mapa de Riscos_SEI_1107130_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "27",
+    "ano": 2025,
+    "sequencial_pncp": 55,
+    "numero_controle_pncp": "05805924000189-1-000055/2025",
+    "objeto": "Contratação prestação de serviços oferecidos em regime de monopólio de fornecimento de energia elétrica pela empresa Equatorial Energia S.A. para todas as unidades do Ministério Público do Piauí, conforme Termo de Referência",
+    "valor_estimado": 7800000.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1096674_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/55/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\27_55\\Termo de Referência_SEI_1096674_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_1068488_Estudo_Tecnico_Preliminar.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/55/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\27_55\\Estudo Técnico Preliminar_SEI_1068488_Estudo_Tecnico_Preliminar.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1068493_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/55/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\27_55\\Mapa de Riscos_SEI_1068493_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1061051_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/55/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\27_55\\Documento de Formalização da Demanda - DFD_SEI_1061051_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "28",
+    "ano": 2025,
+    "sequencial_pncp": 59,
+    "numero_controle_pncp": "05805924000189-1-000059/2025",
+    "objeto": "Contratação direta, mediante inexigibilidade de licitação, de capacitação referente a participação de membros deste Ministério Público em congresso, na modalidade presencial, no 26º Congresso Nacional do Ministério Público, conforme condições e exigências estabelecidas no Termo de Referência.",
+    "valor_estimado": 7140.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Outros Documentos",
+        "titulo": "SEI_19.21.0009.0033803_2025_34.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/59/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\28_59\\Outros Documentos_SEI_19.21.0009.0033803_2025_34.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1137289_Documento_de_Oficializacao_da_Demanda__DOD_.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/59/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\28_59\\Documento de Formalização da Demanda - DFD_SEI_1137289_Documento_de_Oficializacao_da_Demanda__DOD_.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1137384_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/59/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\28_59\\Termo de Referência_SEI_1137384_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1145925_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/59/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\28_59\\Ato que autoriza a Contratação Direta_SEI_1145925_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "29",
+    "ano": 2025,
+    "sequencial_pncp": 64,
+    "numero_controle_pncp": "05805924000189-1-000064/2025",
+    "objeto": "Contratação de serviços de fornecimento de água tratada e coleta de esgoto sanitário para os imóveis sedes do Ministério Público do Estado do Piauí localizadas no interior do Estado, excluídas àquelas promotorias, que tenham outras empresas que detenham o regime de subconcessão de abastecimento de água e de esgotamento sanitário.",
+    "valor_estimado": 450259.2,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1164060_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Ato que autoriza a Contratação Direta_SEI_1164060_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1125674_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Documento de Formalização da Demanda - DFD_SEI_1125674_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "SEI_1125702_Estudo_Tecnico_Preliminar.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Estudo Técnico Preliminar_SEI_1125702_Estudo_Tecnico_Preliminar.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1159811_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Termo de Referência_SEI_1159811_Termo_de_Referencia.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1098034_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Mapa de Riscos_SEI_1098034_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 6,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1141012_Minuta_Contratual_XX_2025_PGJ.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/64/arquivos/6",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\29_64\\Minuta do Contrato_SEI_1141012_Minuta_Contratual_XX_2025_PGJ.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "32",
+    "ano": 2025,
+    "sequencial_pncp": 65,
+    "numero_controle_pncp": "05805924000189-1-000065/2025",
+    "objeto": " treinamento e aperfeiçoamento de pessoal, por meio da participação de 03 (três) servidores do Ministério Público do Estado do Piauí na ação de desenvolvimento intitulada “Desfazimento de Bens Móveis e a Gestão Do Patrimônio Público – Atualizado pela MCASP e pela Legislação em Vigor (Dec 9373/18)”, com carga horária de 16 (dezesseis) horas ",
+    "valor_estimado": 5760.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/65/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\32_65\\Documento de Formalização da Demanda - DFD_DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Mapa de Riscos",
+        "titulo": "Analise de Risco.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/65/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\32_65\\Mapa de Riscos_Analise de Risco.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "Aprovacao de Artefatos.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/65/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\32_65\\Ato que autoriza a Contratação Direta_Aprovacao de Artefatos.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Termo de Referência",
+        "titulo": "Termo de Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/65/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\32_65\\Termo de Referência_Termo de Referencia.pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "33",
+    "ano": 2025,
+    "sequencial_pncp": 69,
+    "numero_controle_pncp": "05805924000189-1-000069/2025",
+    "objeto": "Contratação da empresa AOVS Sistemas de Informática S.A., inscrita no CNPJ 05.555.382/0001-33, via inexigibilidade, para o fornecimento de 15 (quinze) licenças, no Plano Corp, para acesso aos mais de 1200 cursos técnicos oferecidos na Plataforma Alura, de Ensino à Distância - EAD, acessível a qualquer hora do dia através da internet, a serem utilizadas por servidores indicados pela Coordenadoria de Tecnologia da Informação do MPPI, com fulcro no Art.74, inciso III, \"f\" c.c. § 3º da Lei 14.133/21",
+    "valor_estimado": 22500.0,
+    "total_arquivos": 6,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Termo de Referência",
+        "titulo": "TR_ALURA_23_2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Termo de Referência_TR_ALURA_23_2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1144245_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Documento de Formalização da Demanda - DFD_SEI_1144245_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Estudo Técnico Preliminar",
+        "titulo": "ETP_ALURA_24_2025.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Estudo Técnico Preliminar_ETP_ALURA_24_2025.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1185866_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Ato que autoriza a Contratação Direta_SEI_1185866_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 5,
+        "tipo": "Mapa de Riscos",
+        "titulo": "MGR_Alura_21_2025_assinado.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/5",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Mapa de Riscos_MGR_Alura_21_2025_assinado.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 6,
+        "tipo": "Minuta do Contrato",
+        "titulo": "SEI_1170788_Minuta_Contratual_XX_2025_FMMP_PI (2).pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/69/arquivos/6",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\33_69\\Minuta do Contrato_SEI_1170788_Minuta_Contratual_XX_2025_FMMP_PI (2).pdf.pdf"
+      }
+    ]
+  },
+  {
+    "modalidade": "Inexigibilidade de Licitação",
+    "codigo_modalidade": 9,
+    "numero_compra": "34",
+    "ano": 2025,
+    "sequencial_pncp": 70,
+    "numero_controle_pncp": "05805924000189-1-000070/2025",
+    "objeto": "Contratação de empresa, com a finalidade de promover treinamento e aperfeiçoamento de pessoal, por meio da participação de 05 (cinco) servidores do Ministério Público do Estado do Piauí, mais 01 cortesia, no curso “Manutenção Predial e Serviços de Engenharia (Licitação, Contratação, Projetos e Fiscalização com Facilidades da IA), com carga horária de 16 (dezesseis) horas, modalidade online, nos dias 08, 09 e 10 de dezembro de 2025, conforme condições estabelecidas no TR.",
+    "valor_estimado": 14450.0,
+    "total_arquivos": 4,
+    "arquivos": [
+      {
+        "sequencial_documento": 1,
+        "tipo": "Ato que autoriza a Contratação Direta",
+        "titulo": "SEI_1197376_Aprovacao_de_Artefatos___14.133.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/70/arquivos/1",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\34_70\\Ato que autoriza a Contratação Direta_SEI_1197376_Aprovacao_de_Artefatos___14.133.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 2,
+        "tipo": "Documento de Formalização da Demanda - DFD",
+        "titulo": "SEI_1181968_Documento_de_Formalizacao_da_Demanda___DFD.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/70/arquivos/2",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\34_70\\Documento de Formalização da Demanda - DFD_SEI_1181968_Documento_de_Formalizacao_da_Demanda___DFD.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 3,
+        "tipo": "Mapa de Riscos",
+        "titulo": "SEI_1182512_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/70/arquivos/3",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\34_70\\Mapa de Riscos_SEI_1182512_Mapa_de_Risco_e_Matriz_de_Risco_da_Contratacao.pdf.pdf"
+      },
+      {
+        "sequencial_documento": 4,
+        "tipo": "Termo de Referência",
+        "titulo": "SEI_1191809_Termo_de_Referencia.pdf",
+        "url_download": "https://pncp.gov.br/api/pncp/v1/orgaos/05805924000189/compras/2025/70/arquivos/4",
+        "arquivo_local": "downloads\\mppi_pncp_2025\\34_70\\Termo de Referência_SEI_1191809_Termo_de_Referencia.pdf.pdf"
+      }
+    ]
+  }
+]

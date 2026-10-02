@@ -1,5 +1,5 @@
 # Corpus de Artefatos de Contratacoes Publicas - TCE-PI
-## Gerado em: 28/09/2026 15:38
+## Gerado em: 29/09/2026 11:18
 
 > **Fonte:** PNCP | **Orgao:** TCE-PI | **Total:** 842 documentos
 > **Anos cobertos:** 2025 e 2026 | **Contratacoes mapeadas:** 195
@@ -12,24 +12,25 @@
 
 | Tipo de Artefato | Quantidade | % do Corpus |
 | :--- | :--- | :--- |
-| Ratificacao/Autorizacao | 320 | 38.0% |
-| Contrato/Minuta | 178 | 21.1% |
-| Termo de Referencia | 145 | 17.2% |
-| DFD | 88 | 10.5% |
-| ETP | 46 | 5.5% |
-| Outros | 36 | 4.3% |
-| Edital | 10 | 1.2% |
-| Parecer Juridico | 8 | 1.0% |
-| Pesquisa de Precos | 6 | 0.7% |
-| Mapa de Riscos | 5 | 0.6% |
+| Ratificacao/Autorizacao | 447 | 36.6% |
+| Termo de Referencia | 232 | 19.0% |
+| Contrato/Minuta | 217 | 17.8% |
+| DFD | 120 | 9.8% |
+| ETP | 81 | 6.6% |
+| Outros | 55 | 4.5% |
+| Pesquisa de Precos | 23 | 1.9% |
+| Parecer Juridico | 17 | 1.4% |
+| Edital | 14 | 1.1% |
+| Mapa de Riscos | 14 | 1.1% |
 
 ## Por Modalidade
 
 | Modalidade | Quantidade | % |
 | :--- | :--- | :--- |
-| Inexigibilidade de Licitação | 490 | 58.2% |
-| Dispensa de Licitação | 339 | 40.3% |
-| Pregão Eletrônico | 13 | 1.5% |
+| Inexigibilidade de Licitação | 490 | 40.2% |
+| None | 378 | 31.0% |
+| Dispensa de Licitação | 339 | 27.8% |
+| Pregão Eletrônico | 13 | 1.1% |
 
 ## Por Ano
 
@@ -45,16 +46,16 @@
 
 `
 corpus_ia/
-  ratificacao/  (320 docs)  <- Ratificacao/Autorizacao
-  contrato/  (178 docs)  <- Contrato/Minuta
-  tr/  (145 docs)  <- Termo de Referencia
-  dfd/  ( 88 docs)  <- DFD
-  etp/  ( 46 docs)  <- ETP
-  outros/  ( 36 docs)  <- Outros
-  edital/  ( 10 docs)  <- Edital
-  parecer/  (  8 docs)  <- Parecer Juridico
-  pesquisa_precos/  (  6 docs)  <- Pesquisa de Precos
-  mapa_riscos/  (  5 docs)  <- Mapa de Riscos
+  ratificacao/  (447 docs)  <- Ratificacao/Autorizacao
+  tr/  (232 docs)  <- Termo de Referencia
+  contrato/  (217 docs)  <- Contrato/Minuta
+  dfd/  (120 docs)  <- DFD
+  etp/  ( 81 docs)  <- ETP
+  outros/  ( 55 docs)  <- Outros
+  pesquisa_precos/  ( 23 docs)  <- Pesquisa de Precos
+  parecer/  ( 17 docs)  <- Parecer Juridico
+  edital/  ( 14 docs)  <- Edital
+  mapa_riscos/  ( 14 docs)  <- Mapa de Riscos
   indice.jsonl      <- Indice estruturado JSONL (842 registros)
   dataset.md        <- Este arquivo
 `

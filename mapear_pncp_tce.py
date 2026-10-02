@@ -30,68 +30,81 @@ def mapear_pncp(ano: int = 2026, baixar: bool = False):
 
     for mod_cod, mod_nome in modalidades:
         print(f"\n[+] Consultando {mod_nome} (código {mod_cod}) no PNCP...")
-        resultado = client.consultar_contratacoes(
-            cnpj=PNCPClient.CNPJ_TCE,
-            ano=ano,
-            codigo_modalidade=mod_cod,
-            pagina=1,
-            tamanho_pagina=50
-        )
-        total_reg = resultado.get('totalRegistros', 0)
-        items = resultado.get('data', [])
-        print(f"    -> {total_reg} contratações encontradas.")
+        import time
+        pagina = 1
+        total_reg = 1
+        itens_coletados = 0
+        
+        while itens_coletados < total_reg:
+            resultado = client.consultar_contratacoes(
+                cnpj=PNCPClient.CNPJ_TCE,
+                ano=ano,
+                codigo_modalidade=mod_cod,
+                pagina=pagina,
+                tamanho_pagina=50
+            )
+            if pagina == 1:
+                total_reg = resultado.get('totalRegistros', 0)
+                print(f"    -> {total_reg} contratações encontradas.")
+            
+            items = resultado.get('data', [])
+            if not items:
+                break
+                
+            for it in items:
+                itens_coletados += 1
+                seq = it.get('sequencialCompra')
+                num = it.get('numeroCompra')
+                obj = it.get('objetoCompra', '')
+                val = it.get('valorTotalEstimado', 0.0)
 
-        for it in items:
-            seq = it.get('sequencialCompra')
-            num = it.get('numeroCompra')
-            obj = it.get('objetoCompra', '')
-            val = it.get('valorTotalEstimado', 0.0)
+                # Buscar arquivos anexos da compra no PNCP
+                arquivos = client.listar_arquivos_contratacao(PNCPClient.CNPJ_TCE, ano, seq)
 
-            # Buscar arquivos anexos da compra no PNCP
-            arquivos = client.listar_arquivos_contratacao(PNCPClient.CNPJ_TCE, ano, seq)
+                registro = {
+                    "modalidade": mod_nome,
+                    "codigo_modalidade": mod_cod,
+                    "numero_compra": num,
+                    "ano": ano,
+                    "sequencial_pncp": seq,
+                    "numero_controle_pncp": it.get('numeroContratacaoPNCP'),
+                    "objeto": obj,
+                    "valor_estimado": val,
+                    "total_arquivos": len(arquivos),
+                    "arquivos": []
+                }
 
-            registro = {
-                "modalidade": mod_nome,
-                "codigo_modalidade": mod_cod,
-                "numero_compra": num,
-                "ano": ano,
-                "sequencial_pncp": seq,
-                "numero_controle_pncp": it.get('numeroContratacaoPNCP'),
-                "objeto": obj,
-                "valor_estimado": val,
-                "total_arquivos": len(arquivos),
-                "arquivos": []
-            }
+                print(f"    • {num}/{ano} (Seq: {seq}) | R$ {val:,.2f} | {len(arquivos)} arquivos")
+                print(f"      Objeto: {obj[:100]}...")
 
-            print(f"    • {num}/{ano} (Seq: {seq}) | R$ {val:,.2f} | {len(arquivos)} arquivos")
-            print(f"      Objeto: {obj[:100]}...")
+                for a in arquivos:
+                    tipo_doc = a.get('tipoDocumentoNome', 'Documento')
+                    titulo = a.get('titulo')
+                    seq_doc = a.get('sequencialDocumento')
+                    url_doc = f"{client.BASE_PNCP}/orgaos/{PNCPClient.CNPJ_TCE}/compras/{ano}/{seq}/arquivos/{seq_doc}"
 
-            for a in arquivos:
-                tipo_doc = a.get('tipoDocumentoNome', 'Documento')
-                titulo = a.get('titulo')
-                seq_doc = a.get('sequencialDocumento')
-                url_doc = f"{client.BASE_PNCP}/orgaos/{PNCPClient.CNPJ_TCE}/compras/{ano}/{seq}/arquivos/{seq_doc}"
+                    caminho_local = None
+                    if baixar:
+                        pasta = os.path.join(os.getcwd(), "downloads", "PNCP", f"{ano}_{mod_nome}", str(seq))
+                        nome_arq = f"{seq_doc}_{titulo}.pdf"
+                        destino = os.path.join(pasta, nome_arq)
+                        try:
+                            caminho_local = client.baixar_arquivo(PNCPClient.CNPJ_TCE, ano, seq, seq_doc, destino)
+                            print(f"        [Download OK] {titulo} -> {caminho_local}")
+                        except Exception as e:
+                            print(f"        [Erro Download] {titulo}: {e}")
 
-                caminho_local = None
-                if baixar:
-                    pasta = os.path.join(os.getcwd(), "downloads", "PNCP", f"{ano}_{mod_nome}", str(seq))
-                    nome_arq = f"{seq_doc}_{titulo}.pdf"
-                    destino = os.path.join(pasta, nome_arq)
-                    try:
-                        caminho_local = client.baixar_arquivo(PNCPClient.CNPJ_TCE, ano, seq, seq_doc, destino)
-                        print(f"        [Download OK] {titulo} -> {caminho_local}")
-                    except Exception as e:
-                        print(f"        [Erro Download] {titulo}: {e}")
+                    registro["arquivos"].append({
+                        "tipo": tipo_doc,
+                        "titulo": titulo,
+                        "sequencial_documento": seq_doc,
+                        "url_download": url_doc,
+                        "caminho_local": caminho_local
+                    })
 
-                registro["arquivos"].append({
-                    "tipo": tipo_doc,
-                    "titulo": titulo,
-                    "sequencial_documento": seq_doc,
-                    "url_download": url_doc,
-                    "caminho_local": caminho_local
-                })
-
-            total_coletado.append(registro)
+                total_coletado.append(registro)
+            
+        pagina += 1
 
     # Exportar JSON consolidado
     out_file = f"contratacoes_tce_pncp_{ano}.json"

@@ -1,0 +1,589 @@
+{
+  "metricas_gerais": {
+    "total_pareceres": 662,
+    "total_pareceres_referenciais": 3,
+    "total_matrizes_risco": 146,
+    "total_dfds_checklists": 451
+  },
+  "pareceres_referenciais_amostra": [
+    {
+      "id": "MPBA_2025_7_278",
+      "orgao": "MPBA",
+      "ano": "2025",
+      "titulo": "Parecer juridico e autorizacao.pdf",
+      "objeto": null
+    },
+    {
+      "id": "MPRN_2026_81_718",
+      "orgao": "MPRN",
+      "ano": "2026",
+      "titulo": "Parecer+Jur%c3%addico",
+      "objeto": null
+    },
+    {
+      "id": "MPRN_2026_90_742",
+      "orgao": "MPRN",
+      "ano": "2026",
+      "titulo": "Parecer+Jur%c3%addico",
+      "objeto": null
+    }
+  ],
+  "ressalvas_tematicas": {
+    "Pesquisa de Preços & Cotação": [
+      {
+        "orgao": "MPSE",
+        "ano": "2026",
+        "texto": "dos custos, à pesquisa de preços e à aferição dos quantitativos necessários à contratação, tais"
+      },
+      {
+        "orgao": "MPSE",
+        "ano": "2026",
+        "texto": "Dessa forma, recomenda-se o aperfeiçoamento da instrução da pesquisa de preços, mediante a"
+      }
+    ],
+    "Adequação Orçamentária & LRF": [
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "informações pertinentes ao pretenso prestador, nem em relação ao valor final do ajuste e da devida dotação orçamentária, o que deverá ser providenciado"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "elétrica ao otimizar o desempenho dos sistemas de arcondicionado"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "serviços necessários ao MPRN para o desempenho de suas"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "atendimento “aos requisitos necessários ao pleno desempenho das atividades da unidade”"
+      }
+    ],
+    "Qualificação Técnica & Habilitação": [
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "Reitera-se, por fim, que a área demandante deverá diligenciar a juntada aos autos da certidão de regularidade fiscal junto ao Município"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "Reitera-se, contudo, que a unidade demandante deverá diligenciar a juntada da certidão de regularidade fiscal atualizada junto ao Município"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "Administração deverá verificar a regularidade fiscal do contratado,"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "Miranda, ressalvando-se, contudo, a necessidade de verificação da regularidade fiscal,"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "que houver relevante interesse institucional, o que deverá ser atestado pelo CEAF,"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "ressalvando-se, contudo, a necessidade de verificação da regularidade fiscal,"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      }
+    ],
+    "Gestão Contratual, IMR & SLA": [
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "Como se pode observar no referido dispositivo, a Carta Magna de 1988 faz uma ressalva quanto aos casos especificados na legislação,"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "Como se pode observar no referido dispositivo, a Carta Magna de 1988 faz uma ressalva quanto aos casos especificados na legislação,"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública"
+      },
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "Como se pode observar no referido dispositivo, a Carta Magna de 1988 faz uma ressalva quanto aos casos especificados na legislação,"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "(2018), essa legislação representa novo paradigma hermenêutico ao exigir"
+      }
+    ],
+    "Matriz de Riscos & Alocação": [],
+    "Direta (Dispensa / Inexigibilidade)": [
+      {
+        "orgao": "MPBA",
+        "ano": "2025",
+        "texto": "especializados de natureza singular, com profissionais ou empresas de notória especialização, quando a natureza do objeto assim o exigir"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "Administração deverá demonstrar a inviabilidade de competição"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "Administração deverá demonstrar a inviabilidade de competição"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2026",
+        "texto": "Administração deverá demonstrar a inviabilidade de competição"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "Administração deverá demonstrar a inviabilidade de competição"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      },
+      {
+        "orgao": "MPRN",
+        "ano": "2024",
+        "texto": "deverá demonstrar a inviabilidade de competição mediante atestado de"
+      }
+    ],
+    "Pareceres Referenciais (Art. 53 §5º)": []
+  },
+  "matriz_riscos_fases": {
+    "Planejamento": [
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor coord"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "0026205/2024-85 fase de análise (x) planejamento da contratação risco: planejamento deficiente probabilidade:(x)baixa ( )média ("
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "análise de riscos processo administrativo nº 19"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "introdução o gerenciamento de riscos permite ações contínuas de planejamento, organização e controle dos recursos relacionados aos riscos que possam comprometer o sucesso da contratação, da execução do objeto e da gestão co"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "risco da contratação empresa contratada falha com a execução, implicando risco: inexecução parcial ou total"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor 04/07/2024 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor 22/05/2024 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "2 objeto: identificar os possíveis riscos e causas relacionados à contratação do objeto aquisição de tapetes em capacho personalizado, bem como ações preventivas e de contingência para mitigar os riscos"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> ministério da gestão e da inovacao em servicos públicos matriz de gerenciamento de riscos 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "informações básicas número da matriz de alocação de riscos responsável pela edição data de criação 11/2025 joao carlos barbosa dos santos 08/05/2025 13:02 objeto da matriz de riscos contratação de empresa para a emissão de certificados digitais 2"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor ccs - coordenadoria de comunicação 26/06/2025 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "social mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "2 objeto: identificar os possíveis riscos e causas relacionados à contratação do serviço de buffet completo destinado à organização de posse do procurador-geral de justiça d"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor 09/06/2025 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "comunicação social mapa de risco e matriz de risco da contratação 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "2 objeto: identificar os possíveis riscos e causas relacionados à contratação do objeto confecção de medalhas e comendas criadas para conferir reconhecimento a personalidades que colaboram"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor primeira versão do coordenadoria de comunicação 02/07/2025 1"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "2 objeto: identificar os possíveis riscos e causas relacionados à contratação do objetocontratação de empresa especializada na confecção de vestes talares, tipo: beca, para o trage solene dos membros da procuradoria geral"
+      },
+      {
+        "orgao": "MPPI",
+        "evento": "<!-- pagina 1 --> mapa de risco e matriz de risco da contratação histórico de revisões data versão descrição autor primeira versão do coordenadoria de comunicação 02/07/2025 1"
+      }
+    ],
+    "Seleção do Fornecedor": [
+      {
+        "orgao": "MPDFT",
+        "evento": "Risco: Ausência de recursos orçamentários ou financeiros"
+      },
+      {
+        "orgao": "MPDFT",
+        "evento": "Risco: Ausência de recursos orçamentários ou financeiros"
+      },
+      {
+        "orgao": "MPDFT",
+        "evento": "Risco: Ausência de recursos orçamentários ou financeiros"
+      },
+      {
+        "orgao": "MPDFT",
+        "evento": "Risco: Ausência de recursos orçamentários ou financeiros"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "implica prejuízo na contagem de prazo para apresentação de propostas por meio das"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Risco 01 - Dimensionamento de Licenças e Recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "implica prejuízo na contagem de prazo para apresentação de propostas por meio das"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 06 - Fiscal sem habilitação e/ou experiência técnica"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "Prejuízo/desperdício de recursos"
+      }
+    ],
+    "Execução e Gestão Contratual": [
+      {
+        "orgao": "MPDFT",
+        "evento": "Risco 3 Monitorar prazos de SLA e prever Equipe de"
+      },
+      {
+        "orgao": "MPRN",
+        "evento": "03 Gestão do Inércia ou falha na Execução de Médio Médio Alto Designação Notificação da Gestor e"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "RISCO 7 – Falha na fiscalização do recebimento"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "• R13 – Descumprimento de prazos e SLA:"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "R13 Descumprimento de prazos e SLA Média Alto Alto"
+      },
+      {
+        "orgao": "MPAL",
+        "evento": "critério da fiscalização, para corrigir falhas decorrentes de aplicações gerais e sustentativas, sem"
+      }
+    ]
+  }
+}

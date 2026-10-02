@@ -1,0 +1,645 @@
+[
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1162689",
+    "ano": 2026,
+    "modalidade": "Pregão",
+    "numero_procedimento": "5/2026",
+    "processo_administrativo": "26.0.000027373-1/2026",
+    "objeto": "Contratação de empresa especializada na prestação de Serviço Móvel Pessoal – SMP e Serviços de Dados, pós-pago, com fornecimento de 216 (duzentos e dezesseis) smartphones 5G/4G em regime de comodato, incluindo suporte técnico, manutenção e substituição dos aparelhos durante a vigência contratual, organizados em 3 (três) grupos por cobertura de operadora no Estado do Piauí, conforme especificações e condições estabelecidas no Termo de Referência, destinados ao atendimento das necessidades da Corregedoria Geral da Justiça do Estado do Piauí – CGJ-PI.",
+    "valor_estimado": 1157276.16,
+    "status": "Finalizada",
+    "total_arquivos": 24,
+    "arquivos": [
+      {
+        "idarq": "1278579",
+        "tipo": "Edital",
+        "nome": "SEI_8394237_Edital_de_Licitacao_da_CGJ_PI_8.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278579",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Edital_SEI_8394237_Edital_de_Licitacao_da_CGJ_PI_8.pdf"
+      },
+      {
+        "idarq": "1278580",
+        "tipo": "Termo de referência",
+        "nome": "SEI_8390045_Termo_de_Referencia_120.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278580",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Termo de referência_SEI_8390045_Termo_de_Referencia_120.pdf"
+      },
+      {
+        "idarq": "1278581",
+        "tipo": "Extrato de publicação",
+        "nome": "SEI_8395020_Aviso_de_Licitacao_48.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278581",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Extrato de publicação_SEI_8395020_Aviso_de_Licitacao_48.pdf"
+      },
+      {
+        "idarq": "1278582",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_8394563_Informacao_58063.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278582",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Justif. p_orçamento estimado sigiloso_SEI_8394563_Informacao_58063.pdf"
+      },
+      {
+        "idarq": "1278583",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_8391005_Decisao_10389.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278583",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Ato de autorização da contratação_SEI_8391005_Decisao_10389.pdf"
+      },
+      {
+        "idarq": "1278584",
+        "tipo": "Outro anexo",
+        "nome": "SEI_8255546_Estudos_Preliminares_117.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278584",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_SEI_8255546_Estudos_Preliminares_117.pdf"
+      },
+      {
+        "idarq": "1278585",
+        "tipo": "Extrato de publicação",
+        "nome": "PUBLICACAO PNCP.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278585",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Extrato de publicação_PUBLICACAO PNCP.pdf"
+      },
+      {
+        "idarq": "1278586",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278586",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1278946",
+        "tipo": "Extrato de publicação",
+        "nome": "CORREGEDORIA PI - 16-07.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1278946",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Extrato de publicação_CORREGEDORIA PI - 16-07.pdf"
+      },
+      {
+        "idarq": "1281252",
+        "tipo": "Edital",
+        "nome": "SEI_8432595_Edital_de_Licitacao_da_CGJ_PI_9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1281252",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Edital_SEI_8432595_Edital_de_Licitacao_da_CGJ_PI_9.pdf"
+      },
+      {
+        "idarq": "1281253",
+        "tipo": "Termo de referência",
+        "nome": "SEI_8432239_Termo_de_Referencia_129.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1281253",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Termo de referência_SEI_8432239_Termo_de_Referencia_129.pdf"
+      },
+      {
+        "idarq": "1281255",
+        "tipo": "Outro anexo",
+        "nome": "SEI_8432232_Estudos_Preliminares_155.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1281255",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_SEI_8432232_Estudos_Preliminares_155.pdf"
+      },
+      {
+        "idarq": "1281257",
+        "tipo": "Outro anexo",
+        "nome": "SEI_8432701_Aviso_de_Licitacao_51.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1281257",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_SEI_8432701_Aviso_de_Licitacao_51.pdf"
+      },
+      {
+        "idarq": "1281481",
+        "tipo": "Outro anexo",
+        "nome": "publicacao pncp.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1281481",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_publicacao pncp.pdf"
+      },
+      {
+        "idarq": "1322843",
+        "tipo": "Outro anexo",
+        "nome": "ata 8.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322843",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_ata 8.2026.pdf"
+      },
+      {
+        "idarq": "1322844",
+        "tipo": "Outro anexo",
+        "nome": "ATA Nº 9.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322844",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_ATA Nº 9.2026.pdf"
+      },
+      {
+        "idarq": "1322845",
+        "tipo": "Outro anexo",
+        "nome": "termo de homologacao.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322845",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_termo de homologacao.pdf"
+      },
+      {
+        "idarq": "1322846",
+        "tipo": "Outro anexo",
+        "nome": "TERMO_DE_JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322846",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_TERMO_DE_JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1322850",
+        "tipo": "Outro anexo",
+        "nome": "publicacao ARP 8.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322850",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_publicacao ARP 8.2026.pdf"
+      },
+      {
+        "idarq": "1322852",
+        "tipo": "Outro anexo",
+        "nome": "publicacao ARP 9.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322852",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_publicacao ARP 9.2026.pdf"
+      },
+      {
+        "idarq": "1322854",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO_DE_JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322854",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Ata_termo de julgamento_TERMO_DE_JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1322855",
+        "tipo": "Outro anexo",
+        "nome": "termo de homologacao.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322855",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Outro anexo_termo de homologacao.pdf"
+      },
+      {
+        "idarq": "1322856",
+        "tipo": "Ata SRP",
+        "nome": "ata 8.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322856",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Ata SRP_ata 8.2026.pdf"
+      },
+      {
+        "idarq": "1322857",
+        "tipo": "Ata SRP",
+        "nome": "ATA Nº 9.2026.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162689/arquivos/1322857",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\5_2026_1162689\\Ata SRP_ATA Nº 9.2026.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1162628",
+    "ano": 2026,
+    "modalidade": "Pregão",
+    "numero_procedimento": "04/2026",
+    "processo_administrativo": "26.0.000039623-0/2026",
+    "objeto": "Contratação de empresa especializada para Prestação de Serviços de locação de móveis e equipamentos de estruturas, destinados à realização de eventos institucionais no âmbito da Corregedoria Geral da Justiça do Piauí",
+    "valor_estimado": 405874.01,
+    "status": "Finalizada",
+    "total_arquivos": 14,
+    "arquivos": [
+      {
+        "idarq": "1278130",
+        "tipo": "Edital",
+        "nome": "EDITAL.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278130",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Edital_EDITAL.pdf"
+      },
+      {
+        "idarq": "1278131",
+        "tipo": "Termo de referência",
+        "nome": "TR.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278131",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Termo de referência_TR.pdf"
+      },
+      {
+        "idarq": "1278132",
+        "tipo": "Extrato de publicação",
+        "nome": "dj260713_10326.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278132",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Extrato de publicação_dj260713_10326.pdf"
+      },
+      {
+        "idarq": "1278133",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "INFORMAÇÃO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278133",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Justif. p_orçamento estimado sigiloso_INFORMAÇÃO.pdf"
+      },
+      {
+        "idarq": "1278135",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "DECISÃO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278135",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Ato de autorização da contratação_DECISÃO.pdf"
+      },
+      {
+        "idarq": "1278136",
+        "tipo": "Outro anexo",
+        "nome": "ETP.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278136",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Outro anexo_ETP.pdf"
+      },
+      {
+        "idarq": "1278568",
+        "tipo": "Extrato de publicação",
+        "nome": "CORREGEDORIA PI - 14-07.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1278568",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Extrato de publicação_CORREGEDORIA PI - 14-07.pdf"
+      },
+      {
+        "idarq": "1293822",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "ATA DE JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1293822",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Ata_termo de julgamento_ATA DE JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1293824",
+        "tipo": "Ata SRP",
+        "nome": "Ata de Registro de Preços 6.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1293824",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Ata SRP_Ata de Registro de Preços 6.pdf"
+      },
+      {
+        "idarq": "1293825",
+        "tipo": "Ata SRP",
+        "nome": "Ata de Registro de Preços 7.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1293825",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Ata SRP_Ata de Registro de Preços 7.pdf"
+      },
+      {
+        "idarq": "1293828",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "Análise de Habilitação Nº 86.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1293828",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Análise habilitação e_ou propostas_Análise de Habilitação Nº 86.pdf"
+      },
+      {
+        "idarq": "1293831",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "Análise de Habilitação Nº 87.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1293831",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Análise habilitação e_ou propostas_Análise de Habilitação Nº 87.pdf"
+      },
+      {
+        "idarq": "1294132",
+        "tipo": "Extrato Ata SRP",
+        "nome": "dj260806_10344.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1294132",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Extrato Ata SRP_dj260806_10344.pdf"
+      },
+      {
+        "idarq": "1294133",
+        "tipo": "Extrato Ata SRP",
+        "nome": "dj260806_103441.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1162628/arquivos/1294133",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\04_2026_1162628\\Extrato Ata SRP_dj260806_103441.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1159551",
+    "ano": 2026,
+    "modalidade": "Pregão",
+    "numero_procedimento": "03/2026",
+    "processo_administrativo": "2600000196265/2026",
+    "objeto": "Registro de Preços para contratação de empresa especializada para o fornecimento de portas giratórias com detector de metais, incluindo instalação, configuração e  suporte técnico por 12 meses, de acordo com as especificações e condições estimadas no Termo de Referência, para atender às necessidades da Corregedoria Geral da Justiça do Piauí.",
+    "valor_estimado": 420875.4,
+    "status": "Finalizada",
+    "total_arquivos": 12,
+    "arquivos": [
+      {
+        "idarq": "1255552",
+        "tipo": "Edital",
+        "nome": "SEI_8093526_Edital_de_Licitacao_da_CGJ_PI_6.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1255552",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Edital_SEI_8093526_Edital_de_Licitacao_da_CGJ_PI_6.pdf"
+      },
+      {
+        "idarq": "1255554",
+        "tipo": "Termo de referência",
+        "nome": "SEI_8077232_Termo_de_Referencia_57.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1255554",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Termo de referência_SEI_8077232_Termo_de_Referencia_57.pdf"
+      },
+      {
+        "idarq": "1255555",
+        "tipo": "Justif. p/orçamento estimado sigiloso",
+        "nome": "SEI_8100800_Informacao_34960.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1255555",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Justif. p_orçamento estimado sigiloso_SEI_8100800_Informacao_34960.pdf"
+      },
+      {
+        "idarq": "1255556",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_8081580_Decisao_5874.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1255556",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Ato de autorização da contratação_SEI_8081580_Decisao_5874.pdf"
+      },
+      {
+        "idarq": "1255557",
+        "tipo": "Outro anexo",
+        "nome": "SEI_7492904_Estudos_Preliminares_200.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1255557",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Outro anexo_SEI_7492904_Estudos_Preliminares_200.pdf"
+      },
+      {
+        "idarq": "1270429",
+        "tipo": "Ata SRP",
+        "nome": "ata assinada.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270429",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Ata SRP_ata assinada.pdf"
+      },
+      {
+        "idarq": "1270432",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "TERMO_DE_JULGAMENTO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270432",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Ata_termo de julgamento_TERMO_DE_JULGAMENTO.pdf"
+      },
+      {
+        "idarq": "1270433",
+        "tipo": "Extrato Ata SRP",
+        "nome": "SEI_8288410_Extrato_213.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270433",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Extrato Ata SRP_SEI_8288410_Extrato_213.pdf"
+      },
+      {
+        "idarq": "1270434",
+        "tipo": "Outro anexo",
+        "nome": "TERMO_DE_HOMOLOGACAO.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270434",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Outro anexo_TERMO_DE_HOMOLOGACAO.pdf"
+      },
+      {
+        "idarq": "1270435",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_8193929_Analise_de_Habilitacao_59.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270435",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Análise habilitação e_ou propostas_SEI_8193929_Analise_de_Habilitacao_59.pdf"
+      },
+      {
+        "idarq": "1270436",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "analise da proposta.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270436",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Análise habilitação e_ou propostas_analise da proposta.pdf"
+      },
+      {
+        "idarq": "1270439",
+        "tipo": "Outro anexo",
+        "nome": "publicacao diario.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1159551/arquivos/1270439",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\03_2026_1159551\\Outro anexo_publicacao diario.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1158656",
+    "ano": 2026,
+    "modalidade": "Pregão",
+    "numero_procedimento": "02/2026",
+    "processo_administrativo": "26.0.000010227-9/2026",
+    "objeto": "FORMAÇÃO DE REGISTRO DE PREÇOS PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE AGENCIAMENTO DE VIAGENS, DESTINADOS AO DESLOCAMENTO DOS AGENTES DA CORREGEDORIA GERAL DE JUSTIÇA DO PIAUÍ E CORREGEDORIA DO FORO EXTRAJUDICIAL DO PIAUÍ, ENTRE MAGISTRADOS E SERVIDORES, CONFORME ESPECIFICAÇÕES DEFINIDAS EM TERMO DE REFERÊNCIA.",
+    "valor_estimado": 880818.8,
+    "status": "Finalizada",
+    "total_arquivos": 11,
+    "arquivos": [
+      {
+        "idarq": "1249987",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 8035600 - Edital de Licitação da CGJ_PI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1249987",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Edital_SEI_TJPI - 8035600 - Edital de Licitação da CGJ_PI.pdf"
+      },
+      {
+        "idarq": "1249988",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 8027309 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1249988",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Termo de referência_SEI_TJPI - 8027309 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1249989",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI - 26.0.000010227-9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1249989",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Ato de autorização da contratação_SEI - 26.0.000010227-9.pdf"
+      },
+      {
+        "idarq": "1250031",
+        "tipo": "Extrato de publicação",
+        "nome": "TJPI - 11-04.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1250031",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Extrato de publicação_TJPI - 11-04.pdf"
+      },
+      {
+        "idarq": "1250033",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas1.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1250033",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Extrato de publicação_Portal Nacional de Contratações Públicas1.pdf"
+      },
+      {
+        "idarq": "1250036",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal da Transparência - TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1250036",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Extrato de publicação_Portal da Transparência - TJPI.pdf"
+      },
+      {
+        "idarq": "1270124",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "ilovepdf_merged.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1270124",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Ata_termo de julgamento_ilovepdf_merged.pdf"
+      },
+      {
+        "idarq": "1270131",
+        "tipo": "Ata SRP",
+        "nome": "Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1270131",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Ata SRP_Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf"
+      },
+      {
+        "idarq": "1270135",
+        "tipo": "Extrato Ata SRP",
+        "nome": "dj260616_10307.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1270135",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Extrato Ata SRP_dj260616_10307.pdf"
+      },
+      {
+        "idarq": "1270137",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1270137",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Análise habilitação e_ou propostas_Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf"
+      },
+      {
+        "idarq": "1270140",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1158656/arquivos/1270140",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\02_2026_1158656\\Análise habilitação e_ou propostas_Serviço de agenciamento de viagens _ SEI - Processo 26.0.000010227-9.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1136601",
+    "ano": 2026,
+    "modalidade": "Aviso de Dispensa",
+    "numero_procedimento": "01/2026",
+    "processo_administrativo": "26.0.000015559-3/2026",
+    "objeto": "Prestação de serviços de publicação de avisos de licitação e demais atos administrativos em jornal diário de grande circulação regional (Estado do Piauí)",
+    "valor_estimado": 21413.0,
+    "status": "Finalizada",
+    "total_arquivos": 8,
+    "arquivos": [
+      {
+        "idarq": "1215362",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7840797 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1215362",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Termo de referência_SEI_TJPI - 7840797 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1215363",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal Nacional de Contratações Públicas.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1215363",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Extrato de publicação_Portal Nacional de Contratações Públicas.pdf"
+      },
+      {
+        "idarq": "1215364",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7840809 - Aviso de Contratação Direta da CGJ_PI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1215364",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Edital_SEI_TJPI - 7840809 - Aviso de Contratação Direta da CGJ_PI.pdf"
+      },
+      {
+        "idarq": "1220838",
+        "tipo": "Extrato de publicação",
+        "nome": "Portal_da_Transparencia___TJPI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1220838",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Extrato de publicação_Portal_da_Transparencia___TJPI.pdf"
+      },
+      {
+        "idarq": "1220839",
+        "tipo": "Extrato de publicação",
+        "nome": "dj260220_10232.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1220839",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Extrato de publicação_dj260220_10232.pdf"
+      },
+      {
+        "idarq": "1220840",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7836038 - Decisão.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1220840",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Ato de autorização da contratação_SEI_TJPI - 7836038 - Decisão.pdf"
+      },
+      {
+        "idarq": "1220841",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "ilovepdf_merged (2).pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1220841",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Ata_termo de julgamento_ilovepdf_merged (2).pdf"
+      },
+      {
+        "idarq": "1220842",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7880976 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1136601/arquivos/1220842",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1136601\\Análise habilitação e_ou propostas_SEI_TJPI - 7880976 - Análise de Habilitação.pdf"
+      }
+    ]
+  },
+  {
+    "orgao": "CGJ-PI",
+    "idug": 2,
+    "idlic": "1135729",
+    "ano": 2026,
+    "modalidade": "Pregão",
+    "numero_procedimento": "01/2026",
+    "processo_administrativo": "25.0.000142864-3/2026",
+    "objeto": "Registro de Preços para contratação de empresa especializada na prestação de serviços de administração e gerenciamento de frota, por meio de sistema informatizado e integrado com rede credenciada de oficinas e postos de combustíveis, para controle de abastecimento, serviços de manutenção preventiva e corretiva com fornecimento de peças, acessórios, guincho, lavagem e higienização, para os veículos, e abastecimento dos geradores estacionários da Corregedoria Geral da Justiça do Estado do Piauí, nas condições estabelecidas no Termo de Referência.",
+    "valor_estimado": 1574410.0,
+    "status": "Finalizada",
+    "total_arquivos": 10,
+    "arquivos": [
+      {
+        "idarq": "1209811",
+        "tipo": "Edital",
+        "nome": "SEI_TJPI - 7774189 - Edital de Licitação da CGJ_PI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1209811",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Edital_SEI_TJPI - 7774189 - Edital de Licitação da CGJ_PI.pdf"
+      },
+      {
+        "idarq": "1209813",
+        "tipo": "Termo de referência",
+        "nome": "SEI_TJPI - 7774122 - Termo de Referência.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1209813",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Termo de referência_SEI_TJPI - 7774122 - Termo de Referência.pdf"
+      },
+      {
+        "idarq": "1209815",
+        "tipo": "Extrato de publicação",
+        "nome": "dj260202_10221.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1209815",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Extrato de publicação_dj260202_10221.pdf"
+      },
+      {
+        "idarq": "1209818",
+        "tipo": "Ato de autorização da contratação",
+        "nome": "SEI_TJPI - 7769804 - Decisão.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1209818",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Ato de autorização da contratação_SEI_TJPI - 7769804 - Decisão.pdf"
+      },
+      {
+        "idarq": "1220861",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "relatorio_de_habilitacao.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1220861",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Ata_termo de julgamento_relatorio_de_habilitacao.pdf"
+      },
+      {
+        "idarq": "1220862",
+        "tipo": "Ata/termo de julgamento",
+        "nome": "ilovepdf_merged__1_.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1220862",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Ata_termo de julgamento_ilovepdf_merged__1_.pdf"
+      },
+      {
+        "idarq": "1220863",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7854670 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1220863",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Análise habilitação e_ou propostas_SEI_TJPI - 7854670 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1220865",
+        "tipo": "Análise habilitação e/ou propostas",
+        "nome": "SEI_TJPI - 7855161 - Análise de Habilitação.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1220865",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Análise habilitação e_ou propostas_SEI_TJPI - 7855161 - Análise de Habilitação.pdf"
+      },
+      {
+        "idarq": "1221187",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7893815 - Ata de Registro de Preços da CGJ_PI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1221187",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Ata SRP_SEI_TJPI - 7893815 - Ata de Registro de Preços da CGJ_PI.pdf"
+      },
+      {
+        "idarq": "1221190",
+        "tipo": "Ata SRP",
+        "nome": "SEI_TJPI - 7893818 - Ata de Registro de Preços da CGJ_PI.pdf",
+        "url_download": "https://portal.tce.pi.gov.br/muralic/api/licitacoes/1135729/arquivos/1221190",
+        "arquivo_local": "E:\\Thiago\\Dev\\Mapeamento TCE\\downloads\\cgj_muralic_2026\\01_2026_1135729\\Ata SRP_SEI_TJPI - 7893818 - Ata de Registro de Preços da CGJ_PI.pdf"
+      }
+    ]
+  }
+]
